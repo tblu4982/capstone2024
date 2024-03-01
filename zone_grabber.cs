@@ -6,7 +6,7 @@ using System.IO;
 using System.Reflection.Metadata;
 
 // Create the API object and authenticate
-API api = new API("bp6v@Virginia.edu", "UVADriver01", null, "uva", "my134.geotab.com");
+API api = new API("REDACTED", "REDACTED", null, "REDACTED", "REDACTED");
 await api.AuthenticateAsync();
 //destination save file directory
 string src_path = @"C:\Users\VSU Computer Science\Documents\UVA\Geotab Data Puller\Geotab Data Puller\zone_coords";
