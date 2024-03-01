@@ -5,7 +5,7 @@ using Geotab.Checkmate.ObjectModel.Exceptions;
 using System.IO;
 
 // Create the API object and authenticate
-API api = new API("bp6v@Virginia.edu", "UVADriver01", null, "uva", "my134.geotab.com");
+API api = new API("REDACTED", "REDACTED", null, "REDACTED", "REDACTED");
 await api.AuthenticateAsync();
 
 //**NOTE: Check entity 'LogRecord' for log data on 'ExceptionEvent' records
