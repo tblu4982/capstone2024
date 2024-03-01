@@ -1,0 +1,53 @@
+Vehicle: V0712
+Time start: 12/18/2019 12:00:45 PM	Latitude: 38.036465195625	Longitude: -78.51434953355	Speed: 14.27475	Device ID: b7D
+Time end: 12/18/2019 12:00:46 PM		Latitude: 38.036436983125	Longitude: -78.51433965455	Speed: 10.01975	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 1/29/2020 2:27:57 PM	Latitude: 38.03481454798	Longitude: -78.50217885066	Speed: 13.2418	Device ID: b7D
+Time point 2: 1/29/2020 2:27:58 PM	Latitude: 38.0348167	Longitude: -78.5021973	Speed: 13	Device ID: b7D
+Time end: 1/29/2020 2:27:58 PM		Latitude: 38.0348167	Longitude: -78.5021973	Speed: 12.909	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 6/15/2020 1:47:50 PM	Latitude: 38.033463151220005	Longitude: -78.5084915	Speed: 8.3028	Device ID: b7D
+Time end: 6/15/2020 1:47:50 PM		Latitude: 38.0334646298	Longitude: -78.5084915	Speed: 8.052	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 12/10/2021 5:49:08 PM	Latitude: 38.0567570843	Longitude: -78.496024936325	Speed: 37.2775	Device ID: b7D
+Time end: 12/10/2021 5:49:08 PM		Latitude: 38.0567497997	Longitude: -78.496030154675	Speed: 36.4225	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 2/7/2022 7:25:26 PM	Latitude: 38.0330734	Longitude: -78.506224513	Speed: 9.73	Device ID: b7D
+Time end: 2/7/2022 7:25:26 PM		Latitude: 38.0330734	Longitude: -78.506214367	Speed: 7.07	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 3/1/2022 12:09:41 PM	Latitude: 38.0367355	Longitude: -78.51455281235	Speed: 2.4645	Device ID: b7D
+Time end: 3/1/2022 12:09:41 PM		Latitude: 38.0367355	Longitude: -78.51454972085	Speed: 2.0595	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 4/29/2022 3:29:32 PM	Latitude: 38.03612663	Longitude: -78.504789946	Speed: 4.65	Device ID: b7D
+Time end: 4/29/2022 3:29:32 PM		Latitude: 38.036122767500004	Longitude: -78.5047919485	Speed: 4.0875	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 8/25/2022 11:53:11 AM	Latitude: 38.0335884	Longitude: -78.50643208883334	Speed: 1.9293333	Device ID: b7D
+Time end: 8/25/2022 11:53:11 AM		Latitude: 38.0335884	Longitude: -78.50643378666668	Speed: 1.7066667	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 9/14/2022 12:54:11 PM	Latitude: 38.033690458825	Longitude: -78.50751576684999	Speed: 10.3525	Device ID: b7D
+Time end: 9/14/2022 12:54:11 PM		Latitude: 38.033690732500006	Longitude: -78.507508885	Speed: 10.25	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 4/12/2023 6:18:26 PM	Latitude: 38.03671717045	Longitude: -78.5149744599	Speed: 11.524	Device ID: b7D
+Time end: 4/12/2023 6:18:26 PM		Latitude: 38.03671124305	Longitude: -78.5150083371	Speed: 6.196	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 5/10/2023 1:28:46 PM	Latitude: 38.03309571230769	Longitude: -78.50579452653847	Speed: 0.7076923	Device ID: b7D
+Time end: 5/10/2023 1:28:46 PM		Latitude: 38.03309573901539	Longitude: -78.50579459637693	Speed: 0.70338464	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 10/19/2023 3:14:46 PM	Latitude: 38.033794157025	Longitude: -78.45966661645	Speed: 6.2415	Device ID: b7D
+Time end: 10/19/2023 3:14:46 PM		Latitude: 38.033790456474996	Longitude: -78.45966402655	Speed: 5.3685	Device ID: b7D
+-
+Vehicle: V0712
+Time start: 12/6/2023 4:17:38 PM	Latitude: 38.030767981740006	Longitude: -78.50298621238	Speed: 4.2076	Device ID: b7D
+Time end: 12/6/2023 4:17:38 PM		Latitude: 38.030768972340006	Longitude: -78.50298958457999	Speed: 4.0516	Device ID: b7D
+-

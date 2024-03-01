@@ -1,0 +1,69 @@
+Vehicle: V0862
+Time start: 11/4/2019 6:53:44 PM	Latitude: 38.033913433	Longitude: -78.514177461	Speed: 28.21	Device ID: bAC
+Time end: 11/4/2019 6:53:44 PM		Latitude: 38.03389332795	Longitude: -78.51418349515001	Speed: 20.0415	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 11/6/2019 1:24:02 PM	Latitude: 38.04639871975	Longitude: -78.524726234425	Speed: 46.965	Device ID: bAC
+Time end: 11/6/2019 1:24:02 PM		Latitude: 38.046398462249996	Longitude: -78.52472751217499	Speed: 46.915	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 1/8/2020 4:43:25 PM	Latitude: 38.0252653555	Longitude: -78.4881633751625	Speed: 28.944876	Device ID: bAC
+Time point 2: 1/8/2020 4:43:26 PM	Latitude: 38.0252686	Longitude: -78.4881668	Speed: 29	Device ID: bAC
+Time end: 1/8/2020 4:43:26 PM		Latitude: 38.025269969499995	Longitude: -78.48816891096666	Speed: 28.197666	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 9/9/2020 2:52:33 PM	Latitude: 38.0427582584	Longitude: -78.5112556288	Speed: 41	Device ID: bAC
+Time point 2: 9/9/2020 2:52:34 PM	Latitude: 38.0427513	Longitude: -78.511261	Speed: 41	Device ID: bAC
+Time end: 9/9/2020 2:52:34 PM		Latitude: 38.0427504607	Longitude: -78.5112618393	Speed: 40.549	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 12/2/2020 2:31:40 PM	Latitude: 38.0324111384	Longitude: -78.5088516486	Speed: 35.927	Device ID: bAC
+Time end: 12/2/2020 2:31:40 PM		Latitude: 38.032418512266666	Longitude: -78.5088595874	Speed: 30.426332	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 12/16/2020 2:30:39 PM	Latitude: 38.047862634366666	Longitude: -78.50383	Speed: 6.726	Device ID: bAC
+Time end: 12/16/2020 2:30:39 PM		Latitude: 38.04786568636667	Longitude: -78.50383	Speed: 6.486	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 1/5/2021 4:55:56 PM	Latitude: 38.035242368475004	Longitude: -78.5141932245	Speed: 4.49475	Device ID: bAC
+Time end: 1/5/2021 4:55:56 PM		Latitude: 38.035242702225005	Longitude: -78.5141906495	Speed: 4.33225	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 7/8/2021 11:14:36 AM	Latitude: 38.03599781535	Longitude: -78.5080882309	Speed: 36.768	Device ID: bAC
+Time end: 7/8/2021 11:14:37 AM		Latitude: 38.03595545	Longitude: -78.5081062	Speed: 26	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 9/22/2021 11:29:27 AM	Latitude: 38.03391550111111	Longitude: -78.51422286555555	Speed: 39	Device ID: bAC
+Time point 2: 9/22/2021 11:29:28 AM	Latitude: 38.033844	Longitude: -78.5142288	Speed: 39	Device ID: bAC
+Time end: 9/22/2021 11:29:28 AM		Latitude: 38.033834922000004	Longitude: -78.5142288	Speed: 36.11	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 10/6/2021 5:14:03 PM	Latitude: 38.04793559885	Longitude: -78.5039982953	Speed: 17.182	Device ID: bAC
+Time end: 10/6/2021 5:14:03 PM		Latitude: 38.0479355645	Longitude: -78.503998181	Speed: 17.14	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 10/14/2021 3:30:41 PM	Latitude: 38.0373113223	Longitude: -78.50481742513333	Speed: 42.537334	Device ID: bAC
+Time point 2: 10/14/2021 3:30:42 PM	Latitude: 38.0372734	Longitude: -78.5047836	Speed: 42	Device ID: bAC
+Time end: 10/14/2021 3:30:42 PM		Latitude: 38.0372696405	Longitude: -78.50478081505	Speed: 40.978	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 2/22/2022 12:47:50 PM	Latitude: 38.0519409	Longitude: -78.50942992719999	Speed: 14.465	Device ID: bAC
+Time end: 2/22/2022 12:47:50 PM		Latitude: 38.0519409	Longitude: -78.5094168328	Speed: 15.785	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 3/28/2022 4:55:03 PM	Latitude: 38.031432267750006	Longitude: -78.5103912181	Speed: 21.07225	Device ID: bAC
+Time end: 3/28/2022 4:55:04 PM		Latitude: 38.0314392975	Longitude: -78.510383929	Speed: 19.5025	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 5/5/2022 5:40:40 PM	Latitude: 38.04399131205	Longitude: -78.51353160894999	Speed: 45.088	Device ID: bAC
+Time end: 5/5/2022 5:40:40 PM		Latitude: 38.0440135535	Longitude: -78.51356941649999	Speed: 35.76	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 5/25/2022 2:30:03 PM	Latitude: 38.0354042	Longitude: -78.5010147	Speed: 16.432	Device ID: bAC
+Time end: 5/25/2022 2:30:03 PM		Latitude: 38.0354042	Longitude: -78.5010147	Speed: 4.368	Device ID: bAC
+-
+Vehicle: V0862
+Time start: 8/11/2022 4:40:26 PM	Latitude: 38.04229022866	Longitude: -78.51123251365999	Speed: 20	Device ID: bAC
+Time point 2: 8/11/2022 4:40:27 PM	Latitude: 38.0422897	Longitude: -78.5112305	Speed: 20	Device ID: bAC
+Time end: 8/11/2022 4:40:27 PM		Latitude: 38.0422897	Longitude: -78.5112231033	Speed: 15.155	Device ID: bAC
+-

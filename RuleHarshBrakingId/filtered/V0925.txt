@@ -1,0 +1,542 @@
+Vehicle: V0925
+Time start: 7/29/2020 2:22:35 PM	Latitude: 38.0312309	Longitude: -78.4996872	Speed: 1.9922373	Device ID: b104
+Time end: 7/29/2020 2:22:35 PM		Latitude: 38.0312309	Longitude: -78.4996872	Speed: 1.9922646	Device ID: b104
+-
+Vehicle: V0925
+Time start: 11/17/2020 5:34:49 PM	Latitude: 38.0366859	Longitude: -78.5145638845	Speed: 4.626	Device ID: b104
+Time end: 11/17/2020 5:34:49 PM		Latitude: 38.0366859	Longitude: -78.51456231883334	Speed: 4.934	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/2/2021 12:39:34 PM	Latitude: 38.031750290387805	Longitude: -78.49719297528537	Speed: 0.6932439	Device ID: b104
+Time end: 2/2/2021 12:39:34 PM		Latitude: 38.03175028387561	Longitude: -78.49719298087074	Speed: 0.6934878	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/12/2021 1:21:58 PM	Latitude: 38.03044701855	Longitude: -78.50259343615001	Speed: 9.6525	Device ID: b104
+Time end: 2/12/2021 1:21:58 PM		Latitude: 38.03044781955	Longitude: -78.50259274915	Speed: 9.2025	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/13/2021 1:48:11 AM	Latitude: 38.047525601299995	Longitude: -78.52121380259999	Speed: 5.056667	Device ID: b104
+Time end: 2/13/2021 1:48:11 AM		Latitude: 38.047525094	Longitude: -78.521212788	Speed: 4.866667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/13/2021 11:12:03 PM	Latitude: 38.03656416645281	Longitude: -78.51576571632528	Speed: 0.29836902	Device ID: b104
+Time end: 2/13/2021 11:12:04 PM		Latitude: 38.03656434807142	Longitude: -78.51576579421041	Speed: 0.30517122	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/18/2021 10:58:41 AM	Latitude: 38.0320889065	Longitude: -78.4966911635	Speed: 5.15	Device ID: b104
+Time end: 2/18/2021 10:58:41 AM		Latitude: 38.032089061075006	Longitude: -78.496691832425	Speed: 5.0825	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/19/2021 6:30:29 AM	Latitude: 38.0325394	Longitude: -78.4976172332	Speed: 7.216	Device ID: b104
+Time end: 2/19/2021 6:30:29 AM		Latitude: 38.0325394	Longitude: -78.497621968	Speed: 6.5066667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 3/18/2021 10:29:40 AM	Latitude: 38.0319966406	Longitude: -78.50402494699999	Speed: 22.724	Device ID: b104
+Time end: 3/18/2021 10:29:40 AM		Latitude: 38.03199849358	Longitude: -78.5040000671	Speed: 23.9732	Device ID: b104
+-
+Vehicle: V0925
+Time start: 3/18/2021 10:29:40 AM	Latitude: 38.03199883	Longitude: -78.50399555	Speed: 24.2	Device ID: b104
+Time end: 3/18/2021 10:29:41 AM		Latitude: 38.0320015	Longitude: -78.5039597	Speed: 26	Device ID: b104
+-
+Vehicle: V0925
+Time start: 4/14/2021 3:16:26 PM	Latitude: 38.02908631786667	Longitude: -78.50343306196666	Speed: 5.583667	Device ID: b104
+Time end: 4/14/2021 3:16:26 PM		Latitude: 38.02908708666667	Longitude: -78.50343069666667	Speed: 5.366667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 6/4/2021 11:13:21 AM	Latitude: 38.0307465	Longitude: -78.5022736	Speed: 5.759	Device ID: b104
+Time end: 6/4/2021 11:13:21 AM		Latitude: 38.0307465	Longitude: -78.5022736	Speed: 5.109	Device ID: b104
+-
+Vehicle: V0925
+Time start: 6/24/2021 6:46:43 PM	Latitude: 38.0306435	Longitude: -78.5021439	Speed: 14.6795	Device ID: b104
+Time end: 6/24/2021 6:46:43 PM		Latitude: 38.0306435	Longitude: -78.5021439	Speed: 13.6255	Device ID: b104
+-
+Vehicle: V0925
+Time start: 8/19/2021 11:48:15 AM	Latitude: 38.03214631695	Longitude: -78.512538913175	Speed: 24.2105	Device ID: b104
+Time end: 8/19/2021 11:48:15 AM		Latitude: 38.03214225855	Longitude: -78.512524997575	Speed: 22.2345	Device ID: b104
+-
+Vehicle: V0925
+Time start: 9/9/2021 5:28:16 PM	Latitude: 38.0325394	Longitude: -78.500351	Speed: 22.196	Device ID: b104
+Time end: 9/9/2021 5:28:16 PM		Latitude: 38.0325394	Longitude: -78.500351	Speed: 20.276	Device ID: b104
+-
+Vehicle: V0925
+Time start: 9/27/2021 7:17:25 PM	Latitude: 38.0322037	Longitude: -78.5093918	Speed: 3.9927273	Device ID: b104
+Time point 2: 9/27/2021 7:17:26 PM	Latitude: 38.0322037	Longitude: -78.5093918	Speed: 4	Device ID: b104
+Time end: 9/27/2021 7:17:26 PM		Latitude: 38.0322037	Longitude: -78.50939210533333	Speed: 3.9933333	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 1:09:58 PM	Latitude: 38.03058304378	Longitude: -78.50298685413999	Speed: 6.099	Device ID: b104
+Time end: 1/3/2022 1:09:58 PM		Latitude: 38.03058320398	Longitude: -78.50298758673999	Speed: 6.009	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 2:41:50 PM	Latitude: 38.030578236	Longitude: -78.50299173733333	Speed: 9.386666	Device ID: b104
+Time end: 1/3/2022 2:41:50 PM		Latitude: 38.0305806123	Longitude: -78.50299852803333	Speed: 7.9626665	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 2:42:18 PM	Latitude: 38.0305672	Longitude: -78.50299898979999	Speed: 18.018	Device ID: b104
+Time end: 1/3/2022 2:42:18 PM		Latitude: 38.0305672	Longitude: -78.50300408886666	Speed: 15.568666	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 2:48:54 PM	Latitude: 38.030406056000004	Longitude: -78.5030136	Speed: 9.52	Device ID: b104
+Time end: 1/3/2022 2:48:54 PM		Latitude: 38.03040374645	Longitude: -78.5030136	Speed: 8.309	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 3:12:44 PM	Latitude: 38.03004709555	Longitude: -78.50220493715	Speed: 9.331	Device ID: b104
+Time end: 1/3/2022 3:12:44 PM		Latitude: 38.030046121000005	Longitude: -78.502205773	Speed: 8.82	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 3:15:48 PM	Latitude: 38.03002600255	Longitude: -78.5021704791	Speed: 10.518	Device ID: b104
+Time end: 1/3/2022 3:15:48 PM		Latitude: 38.030023159	Longitude: -78.50217373800001	Speed: 9.24	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 3:16:29 PM	Latitude: 38.0300026	Longitude: -78.5021448918	Speed: 14.3475	Device ID: b104
+Time end: 1/3/2022 3:16:29 PM		Latitude: 38.0300026	Longitude: -78.5021467158	Speed: 13.1475	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 3:38:36 PM	Latitude: 38.0303046847	Longitude: -78.5027222306	Speed: 9.633	Device ID: b104
+Time end: 1/3/2022 3:38:36 PM		Latitude: 38.030303145	Longitude: -78.50272531	Speed: 8.883333	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 3:39:02 PM	Latitude: 38.0302944586	Longitude: -78.50269504139999	Speed: 9.506	Device ID: b104
+Time end: 1/3/2022 3:39:03 PM		Latitude: 38.0302903646	Longitude: -78.5026991354	Speed: 8.432667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 4:58:40 PM	Latitude: 38.032029275999996	Longitude: -78.497814332	Speed: 7.92	Device ID: b104
+Time end: 1/3/2022 4:58:40 PM		Latitude: 38.03202984144	Longitude: -78.49781581058	Speed: 7.7148	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 5:04:48 PM	Latitude: 38.03187413478	Longitude: -78.49799279926	Speed: 9.7552	Device ID: b104
+Time end: 1/3/2022 5:04:48 PM		Latitude: 38.03187260878	Longitude: -78.49799325726	Speed: 9.9152	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:06:32 PM	Latitude: 38.03142376662	Longitude: -78.49692672392001	Speed: 13.7782	Device ID: b104
+Time end: 1/3/2022 6:06:32 PM		Latitude: 38.03142179518	Longitude: -78.49692208488001	Speed: 13.5198	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:10:36 PM	Latitude: 38.0317955	Longitude: -78.4978943	Speed: 7.4478574	Device ID: b104
+Time end: 1/3/2022 6:10:36 PM		Latitude: 38.0317955	Longitude: -78.4978943	Speed: 7.5335712	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:26:25 PM	Latitude: 38.0314311773	Longitude: -78.49695310823334	Speed: 12.570666	Device ID: b104
+Time end: 1/3/2022 6:26:25 PM		Latitude: 38.031430287300005	Longitude: -78.49695387156667	Speed: 12.0373335	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:33:48 PM	Latitude: 38.03136245663333	Longitude: -78.49695135603334	Speed: 15.121667	Device ID: b104
+Time end: 1/3/2022 6:33:48 PM		Latitude: 38.03136103236667	Longitude: -78.49694893496667	Speed: 15.028334	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:44:01 PM	Latitude: 38.031619581275	Longitude: -78.497017318725	Speed: 9.692	Device ID: b104
+Time end: 1/3/2022 6:44:01 PM		Latitude: 38.031624350025	Longitude: -78.497012549975	Speed: 8.692	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:45:41 PM	Latitude: 38.031569827000006	Longitude: -78.4969399542	Speed: 14.427	Device ID: b104
+Time end: 1/3/2022 6:45:41 PM		Latitude: 38.03157532033334	Longitude: -78.49693589019999	Speed: 14.587	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:45:41 PM	Latitude: 38.03158665033334	Longitude: -78.49692750819999	Speed: 14.917	Device ID: b104
+Time point 2: 1/3/2022 6:45:42 PM	Latitude: 38.0315895	Longitude: -78.4969254	Speed: 15	Device ID: b104
+Time end: 1/3/2022 6:45:42 PM		Latitude: 38.0315895	Longitude: -78.4969254	Speed: 14.9775	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:46:01 PM	Latitude: 38.03158066775	Longitude: -78.496977642725	Speed: 14.971	Device ID: b104
+Time point 2: 1/3/2022 6:46:02 PM	Latitude: 38.0315895	Longitude: -78.4969711	Speed: 16	Device ID: b104
+Time end: 1/3/2022 6:46:02 PM		Latitude: 38.031589860450005	Longitude: -78.49697079085	Speed: 15.784	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:46:24 PM	Latitude: 38.03155766565	Longitude: -78.49690656775	Speed: 13.3145	Device ID: b104
+Time end: 1/3/2022 6:46:24 PM		Latitude: 38.0315601485	Longitude: -78.49690329750001	Speed: 13.505	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:46:45 PM	Latitude: 38.0315272722	Longitude: -78.49691070122	Speed: 13.4062	Device ID: b104
+Time end: 1/3/2022 6:46:45 PM		Latitude: 38.031530980199996	Longitude: -78.49690603202001	Speed: 13.8742	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:47:26 PM	Latitude: 38.0315494976	Longitude: -78.4969194789	Speed: 12.904	Device ID: b104
+Time end: 1/3/2022 6:47:26 PM		Latitude: 38.0315519776	Longitude: -78.49691794889999	Speed: 12.104	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:48:06 PM	Latitude: 38.03161453551667	Longitude: -78.49692667178333	Speed: 15.833167	Device ID: b104
+Time point 2: 1/3/2022 6:48:07 PM	Latitude: 38.0316162	Longitude: -78.4969254	Speed: 16	Device ID: b104
+Time end: 1/3/2022 6:48:07 PM		Latitude: 38.031619630950004	Longitude: -78.4969214679	Speed: 13.944	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:48:41 PM	Latitude: 38.0315825216	Longitude: -78.4968776586	Speed: 10.864	Device ID: b104
+Time end: 1/3/2022 6:48:42 PM		Latitude: 38.03158506773333	Longitude: -78.4968749174	Speed: 10.042666	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:49:01 PM	Latitude: 38.031588264	Longitude: -78.49684295639999	Speed: 14.916	Device ID: b104
+Time point 2: 1/3/2022 6:49:02 PM	Latitude: 38.0315895	Longitude: -78.4968414	Speed: 15	Device ID: b104
+Time end: 1/3/2022 6:49:02 PM		Latitude: 38.031590568000006	Longitude: -78.49684048399999	Speed: 14.4	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:54:45 PM	Latitude: 38.0316728933	Longitude: -78.49701841623333	Speed: 9.546333	Device ID: b104
+Time end: 1/3/2022 6:54:45 PM		Latitude: 38.031673543	Longitude: -78.497017859	Speed: 9.23	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:55:07 PM	Latitude: 38.0316492891	Longitude: -78.4969930905	Speed: 9.373	Device ID: b104
+Time end: 1/3/2022 6:55:08 PM		Latitude: 38.031650762333335	Longitude: -78.49699112833333	Speed: 8.536667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:55:30 PM	Latitude: 38.0316657346	Longitude: -78.4970016327	Speed: 13.994857	Device ID: b104
+Time point 2: 1/3/2022 6:55:31 PM	Latitude: 38.0316658	Longitude: -78.4970016	Speed: 14	Device ID: b104
+Time end: 1/3/2022 6:55:31 PM		Latitude: 38.031669271	Longitude: -78.4970016	Speed: 12.18	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:55:51 PM	Latitude: 38.031661466933336	Longitude: -78.49703882776666	Speed: 9.385	Device ID: b104
+Time end: 1/3/2022 6:55:51 PM		Latitude: 38.03166274	Longitude: -78.49703824	Speed: 9	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 6:56:16 PM	Latitude: 38.03168284795	Longitude: -78.497093489175	Speed: 9.5305	Device ID: b104
+Time end: 1/3/2022 6:56:16 PM		Latitude: 38.03168346205	Longitude: -78.497093225825	Speed: 9.3695	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:00:20 PM	Latitude: 38.03176620015	Longitude: -78.4972319384	Speed: 16.7825	Device ID: b104
+Time point 2: 1/3/2022 7:00:21 PM	Latitude: 38.0317688	Longitude: -78.4972305	Speed: 17	Device ID: b104
+Time end: 1/3/2022 7:00:21 PM		Latitude: 38.03176996145	Longitude: -78.49722917325	Speed: 16.2605	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:01:19 PM	Latitude: 38.031726757	Longitude: -78.497169543	Speed: 15.67	Device ID: b104
+Time end: 1/3/2022 7:01:19 PM		Latitude: 38.0317339247	Longitude: -78.4971623753	Speed: 15.357	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:01:38 PM	Latitude: 38.0317219251	Longitude: -78.4971972749	Speed: 15.858	Device ID: b104
+Time end: 1/3/2022 7:01:38 PM		Latitude: 38.031724367766664	Longitude: -78.49719483223333	Speed: 13.938	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:01:59 PM	Latitude: 38.03172465026	Longitude: -78.49721480248	Speed: 15.0596	Device ID: b104
+Time end: 1/3/2022 7:01:59 PM		Latitude: 38.03172968626	Longitude: -78.49721053048	Speed: 15.6196	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:02:17 PM	Latitude: 38.03173224204	Longitude: -78.49720492898001	Speed: 15.0956	Device ID: b104
+Time end: 1/3/2022 7:02:17 PM		Latitude: 38.03173620964	Longitude: -78.49720294518	Speed: 15.4596	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:03:04 PM	Latitude: 38.031711227799995	Longitude: -78.49711083878	Speed: 13.1486	Device ID: b104
+Time end: 1/3/2022 7:03:04 PM		Latitude: 38.0317134938	Longitude: -78.49710798538	Speed: 13.3906	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:03:40 PM	Latitude: 38.03170167145	Longitude: -78.4971237	Speed: 9.191	Device ID: b104
+Time end: 1/3/2022 7:03:40 PM		Latitude: 38.031703540449996	Longitude: -78.4971237	Speed: 8.211	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:04:34 PM	Latitude: 38.031690344524996	Longitude: -78.497125855475	Speed: 15.57625	Device ID: b104
+Time point 2: 1/3/2022 7:04:35 PM	Latitude: 38.0316925	Longitude: -78.4971237	Speed: 16	Device ID: b104
+Time end: 1/3/2022 7:04:35 PM		Latitude: 38.031697534399996	Longitude: -78.4971190513	Speed: 14.376	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:09:20 PM	Latitude: 38.0314062224	Longitude: -78.4969874945	Speed: 12.289	Device ID: b104
+Time end: 1/3/2022 7:09:20 PM		Latitude: 38.03140218	Longitude: -78.4969791	Speed: 11.8	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:09:46 PM	Latitude: 38.0313606	Longitude: -78.4969437882	Speed: 11.291	Device ID: b104
+Time end: 1/3/2022 7:09:46 PM		Latitude: 38.0313606	Longitude: -78.4969428078	Speed: 10.689	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:13:13 PM	Latitude: 38.03156084333333	Longitude: -78.49724874366667	Speed: 14.17	Device ID: b104
+Time end: 1/3/2022 7:13:13 PM		Latitude: 38.03154539333333	Longitude: -78.49725217866667	Speed: 15.52	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 7:49:57 PM	Latitude: 38.0323715729	Longitude: -78.4976502263	Speed: 6.487	Device ID: b104
+Time end: 1/3/2022 7:49:57 PM		Latitude: 38.0323735881	Longitude: -78.4976569407	Speed: 5.343	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 8:16:59 PM	Latitude: 38.03233611005	Longitude: -78.49646774445	Speed: 12.1165	Device ID: b104
+Time end: 1/3/2022 8:16:59 PM		Latitude: 38.03233576295	Longitude: -78.49646675255	Speed: 11.9735	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 8:27:12 PM	Latitude: 38.03208430245556	Longitude: -78.4965363	Speed: 6.659111	Device ID: b104
+Time end: 1/3/2022 8:27:12 PM		Latitude: 38.03208308165556	Longitude: -78.4965363	Speed: 6.723111	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 8:43:34 PM	Latitude: 38.0323403626	Longitude: -78.4965897	Speed: 0.28075	Device ID: b104
+Time end: 1/3/2022 8:43:34 PM		Latitude: 38.0323403254	Longitude: -78.4965897	Speed: 0.27925	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 8:49:13 PM	Latitude: 38.0324593	Longitude: -78.4974681754	Speed: 10.863667	Device ID: b104
+Time end: 1/3/2022 8:49:13 PM		Latitude: 38.0324593	Longitude: -78.4974737646	Speed: 9.503	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 9:04:15 PM	Latitude: 38.03245797943333	Longitude: -78.49750664119999	Speed: 10.115334	Device ID: b104
+Time end: 1/3/2022 9:04:15 PM		Latitude: 38.032458712233336	Longitude: -78.49751005879999	Speed: 10.051333	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:16:59 PM	Latitude: 38.030423570375	Longitude: -78.503077395625	Speed: 10.715	Device ID: b104
+Time end: 1/3/2022 10:16:59 PM		Latitude: 38.0304188963375	Longitude: -78.5030839110625	Speed: 10.8635	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:18:02 PM	Latitude: 38.03023819685	Longitude: -78.50206470315	Speed: 13.976	Device ID: b104
+Time end: 1/3/2022 10:18:02 PM		Latitude: 38.030240109	Longitude: -78.502062791	Speed: 12.64	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:22:42 PM	Latitude: 38.030219102000004	Longitude: -78.50253455166667	Speed: 9.753333	Device ID: b104
+Time end: 1/3/2022 10:22:43 PM		Latitude: 38.0302173754	Longitude: -78.50253553783334	Speed: 9.300667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:24:28 PM	Latitude: 38.030231523333335	Longitude: -78.50209245799999	Speed: 15.743333	Device ID: b104
+Time point 2: 1/3/2022 10:24:29 PM	Latitude: 38.0302353	Longitude: -78.5020905	Speed: 16	Device ID: b104
+Time end: 1/3/2022 10:24:29 PM		Latitude: 38.030240109	Longitude: -78.50208569099999	Speed: 12.64	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:24:47 PM	Latitude: 38.03024037235	Longitude: -78.5021091719	Speed: 13.2345	Device ID: b104
+Time end: 1/3/2022 10:24:47 PM		Latitude: 38.03024174635	Longitude: -78.50210596790001	Speed: 12.2145	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:25:26 PM	Latitude: 38.03024319633333	Longitude: -78.50212765696666	Speed: 13.708667	Device ID: b104
+Time end: 1/3/2022 10:25:26 PM		Latitude: 38.03024731633333	Longitude: -78.50212582896667	Speed: 13.788667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:29:11 PM	Latitude: 38.0303879	Longitude: -78.5023572959	Speed: 11.1995	Device ID: b104
+Time end: 1/3/2022 10:29:11 PM		Latitude: 38.0303879	Longitude: -78.50236049989999	Speed: 10.4195	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:29:30 PM	Latitude: 38.0303612	Longitude: -78.5024807058	Speed: 11.418	Device ID: b104
+Time end: 1/3/2022 10:29:30 PM		Latitude: 38.0303612	Longitude: -78.502482336	Speed: 10.56	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:45:31 PM	Latitude: 38.030143423675	Longitude: -78.5019134781	Speed: 9.2565	Device ID: b104
+Time end: 1/3/2022 10:45:32 PM		Latitude: 38.030143938925	Longitude: -78.50191588109999	Speed: 8.8515	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/3/2022 10:48:44 PM	Latitude: 38.0305672	Longitude: -78.50297456460001	Speed: 12.427	Device ID: b104
+Time end: 1/3/2022 10:48:44 PM		Latitude: 38.0305672	Longitude: -78.5029763446	Speed: 11.860333	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/4/2022 4:36:14 PM	Latitude: 38.041415878	Longitude: -78.507024688	Speed: 14.76	Device ID: b104
+Time end: 1/4/2022 4:36:14 PM		Latitude: 38.0414147101	Longitude: -78.5070219646	Speed: 13.842	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/4/2022 6:12:14 PM	Latitude: 38.041812331	Longitude: -78.507712162	Speed: 11.786667	Device ID: b104
+Time end: 1/4/2022 6:12:14 PM		Latitude: 38.041812954	Longitude: -78.507713408	Speed: 11.413333	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/4/2022 6:13:20 PM	Latitude: 38.0418150633	Longitude: -78.50770310036667	Speed: 8.880667	Device ID: b104
+Time end: 1/4/2022 6:13:20 PM		Latitude: 38.0418156507	Longitude: -78.50770477896667	Speed: 8.572667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/4/2022 6:41:32 PM	Latitude: 38.02893593275	Longitude: -78.5151978	Speed: 10.2465	Device ID: b104
+Time end: 1/4/2022 6:41:32 PM		Latitude: 38.02893145225	Longitude: -78.5151978	Speed: 9.4635	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/4/2022 7:02:42 PM	Latitude: 38.029117455	Longitude: -78.514872308	Speed: 23.7	Device ID: b104
+Time end: 1/4/2022 7:02:42 PM		Latitude: 38.02910936175	Longitude: -78.51488976979999	Speed: 18.795	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/5/2022 6:45:01 PM	Latitude: 38.042149916	Longitude: -78.508657824	Speed: 8.84	Device ID: b104
+Time end: 1/5/2022 6:45:01 PM		Latitude: 38.0421502097	Longitude: -78.5086586633	Speed: 8.653	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/5/2022 6:46:11 PM	Latitude: 38.0422197753	Longitude: -78.5085857767	Speed: 4.106	Device ID: b104
+Time end: 1/5/2022 6:46:11 PM		Latitude: 38.0422198347	Longitude: -78.5085858133	Speed: 4.094	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/5/2022 6:55:09 PM	Latitude: 38.042090618	Longitude: -78.508618383	Speed: 13.42	Device ID: b104
+Time end: 1/5/2022 6:55:09 PM		Latitude: 38.042094428	Longitude: -78.508624868	Speed: 12.32	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/5/2022 6:55:28 PM	Latitude: 38.0421187393	Longitude: -78.5086011572	Speed: 16.504	Device ID: b104
+Time end: 1/5/2022 6:55:29 PM		Latitude: 38.042119923	Longitude: -78.508605892	Speed: 15.44	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/7/2022 8:03:47 AM	Latitude: 38.03021394	Longitude: -78.5020447	Speed: 9.6	Device ID: b104
+Time end: 1/7/2022 8:03:47 AM		Latitude: 38.03021451405	Longitude: -78.5020447	Speed: 9.342	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/7/2022 8:37:01 AM	Latitude: 38.0303612	Longitude: -78.50246328	Speed: 2.6666667	Device ID: b104
+Time end: 1/7/2022 8:37:01 AM		Latitude: 38.0303612	Longitude: -78.5024633514	Speed: 2.655	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/7/2022 9:38:39 AM	Latitude: 38.0317114303	Longitude: -78.4974276245	Speed: 7.09	Device ID: b104
+Time end: 1/7/2022 9:38:39 AM		Latitude: 38.0317107717	Longitude: -78.49742687216667	Speed: 6.8433332	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 7:26:44 PM	Latitude: 38.03237776571429	Longitude: -78.49764818571428	Speed: 2.9714286	Device ID: b104
+Time end: 1/16/2022 7:26:44 PM		Latitude: 38.03237777552857	Longitude: -78.49764826092857	Speed: 2.965857	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 10:17:50 PM	Latitude: 38.0301937993	Longitude: -78.5020438014	Speed: 7.206333	Device ID: b104
+Time end: 1/16/2022 10:17:50 PM		Latitude: 38.030194716000004	Longitude: -78.502041968	Speed: 6.76	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 10:27:57 PM	Latitude: 38.030588156142855	Longitude: -78.50297819814286	Speed: 12.265715	Device ID: b104
+Time end: 1/16/2022 10:27:57 PM		Latitude: 38.03059210272857	Longitude: -78.50298678812857	Speed: 12.083143	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 10:30:06 PM	Latitude: 38.03051517505	Longitude: -78.5029930587	Speed: 12.3305	Device ID: b104
+Time end: 1/16/2022 10:30:06 PM		Latitude: 38.0305176715	Longitude: -78.502997341	Speed: 11.115	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 10:32:25 PM	Latitude: 38.0304478816	Longitude: -78.5030465345	Speed: 9.394	Device ID: b104
+Time end: 1/16/2022 10:32:26 PM		Latitude: 38.0304444096	Longitude: -78.5030486695	Speed: 8.414	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 10:32:40 PM	Latitude: 38.03044221066666	Longitude: -78.50305002166667	Speed: 6.68	Device ID: b104
+Time end: 1/16/2022 10:32:40 PM		Latitude: 38.0304419296	Longitude: -78.50305019449999	Speed: 6.612	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 10:33:07 PM	Latitude: 38.030411396	Longitude: -78.5030136	Speed: 11.44	Device ID: b104
+Time end: 1/16/2022 10:33:07 PM		Latitude: 38.030410061	Longitude: -78.5030136	Speed: 10.79	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/16/2022 10:36:54 PM	Latitude: 38.0298425863	Longitude: -78.5013355726	Speed: 10.112667	Device ID: b104
+Time end: 1/16/2022 10:36:54 PM		Latitude: 38.029841367	Longitude: -78.501333134	Speed: 9.473333	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/17/2022 12:24:03 AM	Latitude: 38.032288722	Longitude: -78.49645251933333	Speed: 6.733333	Device ID: b104
+Time end: 1/17/2022 12:24:03 AM		Latitude: 38.032288811	Longitude: -78.496452443	Speed: 6.7	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 1:21:44 PM	Latitude: 38.035207287000006	Longitude: -78.514122	Speed: 22.238	Device ID: b104
+Time end: 1/19/2022 1:21:45 PM		Latitude: 38.03518860966667	Longitude: -78.514122	Speed: 18.248667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 3:56:07 PM	Latitude: 38.04738168236	Longitude: -78.52180867468	Speed: 6.6464	Device ID: b104
+Time end: 1/19/2022 3:56:08 PM		Latitude: 38.047380464839996	Longitude: -78.52180971892	Speed: 6.2816	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 4:00:28 PM	Latitude: 38.047411801525	Longitude: -78.521850332025	Speed: 8.8715	Device ID: b104
+Time end: 1/19/2022 4:00:28 PM		Latitude: 38.0474068405	Longitude: -78.5218532505	Speed: 8.03	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 4:01:10 PM	Latitude: 38.047445448539996	Longitude: -78.52183441648	Speed: 9.412	Device ID: b104
+Time end: 1/19/2022 4:01:10 PM		Latitude: 38.0474446176	Longitude: -78.5218350712	Speed: 9.28	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 4:02:33 PM	Latitude: 38.04742560895	Longitude: -78.52187246767501	Speed: 15.033	Device ID: b104
+Time end: 1/19/2022 4:02:34 PM		Latitude: 38.04741660555	Longitude: -78.52187967157501	Speed: 14.797	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 4:30:42 PM	Latitude: 38.047587158666666	Longitude: -78.521323682	Speed: 10.14	Device ID: b104
+Time end: 1/19/2022 4:30:42 PM		Latitude: 38.047590796	Longitude: -78.521319766	Speed: 8.82	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 4:31:21 PM	Latitude: 38.047612916266665	Longitude: -78.5213246966	Speed: 10.482	Device ID: b104
+Time end: 1/19/2022 4:31:21 PM		Latitude: 38.047616785066666	Longitude: -78.52132053140001	Speed: 9.078	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 4:31:41 PM	Latitude: 38.04760536675	Longitude: -78.52131812025	Speed: 10.505	Device ID: b104
+Time end: 1/19/2022 4:31:41 PM		Latitude: 38.0476078465	Longitude: -78.5213148995	Speed: 9.79	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 4:40:21 PM	Latitude: 38.0471895094	Longitude: -78.52156401879999	Speed: 11.697333	Device ID: b104
+Time end: 1/19/2022 4:40:21 PM		Latitude: 38.047188619399996	Longitude: -78.5215622388	Speed: 11.630667	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 5:42:39 PM	Latitude: 38.047202361	Longitude: -78.521589722	Speed: 11.62	Device ID: b104
+Time end: 1/19/2022 5:42:39 PM		Latitude: 38.04720138645	Longitude: -78.5215877729	Speed: 11.109	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 5:45:22 PM	Latitude: 38.047545475	Longitude: -78.521223025	Speed: 12.25	Device ID: b104
+Time end: 1/19/2022 5:45:22 PM		Latitude: 38.047544674	Longitude: -78.521222338	Speed: 12.46	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/19/2022 6:01:36 PM	Latitude: 38.04762173495	Longitude: -78.52133373010001	Speed: 13.527	Device ID: b104
+Time end: 1/19/2022 6:01:36 PM		Latitude: 38.04762440495	Longitude: -78.52132839010001	Speed: 11.727	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/21/2022 3:03:06 PM	Latitude: 38.029060118000004	Longitude: -78.5149418825	Speed: 0.865	Device ID: b104
+Time end: 1/21/2022 3:03:06 PM		Latitude: 38.0290623022	Longitude: -78.51493939675	Speed: 0.7835	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/21/2022 3:03:20 PM	Latitude: 38.0290565	Longitude: -78.514946	Speed: 4.113	Device ID: b104
+Time end: 1/21/2022 3:03:20 PM		Latitude: 38.0290565	Longitude: -78.514946	Speed: 4.24	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/21/2022 3:03:24 PM	Latitude: 38.0290565	Longitude: -78.51492472116666	Speed: 4.186	Device ID: b104
+Time end: 1/21/2022 3:03:24 PM		Latitude: 38.0290565	Longitude: -78.51492302333334	Speed: 4.52	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/21/2022 3:03:49 PM	Latitude: 38.0291008218	Longitude: -78.5148803027	Speed: 12.4535	Device ID: b104
+Time point 2: 1/21/2022 3:03:50 PM	Latitude: 38.0291061	Longitude: -78.5148697	Speed: 15	Device ID: b104
+Time end: 1/21/2022 3:03:50 PM		Latitude: 38.0291061	Longitude: -78.51486893750001	Speed: 14.625	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/21/2022 3:03:59 PM	Latitude: 38.0291061	Longitude: -78.51480881170001	Speed: 6.308	Device ID: b104
+Time end: 1/21/2022 3:03:59 PM		Latitude: 38.0291061	Longitude: -78.5148027203	Speed: 7.372	Device ID: b104
+-
+Vehicle: V0925
+Time start: 1/21/2022 3:04:08 PM	Latitude: 38.0291061	Longitude: -78.5147934	Speed: 5.453	Device ID: b104
+Time end: 1/21/2022 3:04:08 PM		Latitude: 38.0291061	Longitude: -78.5147934	Speed: 6.083	Device ID: b104
+-
+Vehicle: V0925
+Time start: 4/6/2022 11:53:52 AM	Latitude: 38.02721501575	Longitude: -78.5118933527	Speed: 23.6485	Device ID: b104
+Time end: 4/6/2022 11:53:52 AM		Latitude: 38.027215832500005	Longitude: -78.511892597	Speed: 23.335	Device ID: b104
+-
+Vehicle: V0925
+Time start: 4/21/2022 11:58:04 AM	Latitude: 38.0314369	Longitude: -78.5017319	Speed: 2.8315	Device ID: b104
+Time end: 4/21/2022 11:58:04 AM		Latitude: 38.0314369	Longitude: -78.5017319	Speed: 2.805	Device ID: b104
+-
+Vehicle: V0925
+Time start: 6/6/2022 4:48:38 PM	Latitude: 38.030875619285716	Longitude: -78.50305921885715	Speed: 14.311429	Device ID: b104
+Time end: 6/6/2022 4:48:38 PM		Latitude: 38.03087526078571	Longitude: -78.50305932565715	Speed: 14.293428	Device ID: b104
+-
+Vehicle: V0925
+Time start: 6/15/2022 7:09:12 PM	Latitude: 38.03155730458571	Longitude: -78.50166621835714	Speed: 3.3037143	Device ID: b104
+Time end: 6/15/2022 7:09:12 PM		Latitude: 38.03155735798571	Longitude: -78.50166615735715	Speed: 3.3077142	Device ID: b104
+-
+Vehicle: V0925
+Time start: 8/1/2022 1:55:50 PM	Latitude: 38.0325874162375	Longitude: -78.500172504875	Speed: 17.732124	Device ID: b104
+Time end: 8/1/2022 1:55:50 PM		Latitude: 38.0325888464875	Longitude: -78.500168957375	Speed: 17.739626	Device ID: b104
+-
+Vehicle: V0925
+Time start: 9/19/2022 11:35:45 AM	Latitude: 38.0309124375	Longitude: -78.5030212375	Speed: 18.375	Device ID: b104
+Time end: 9/19/2022 11:35:45 AM		Latitude: 38.03091201919167	Longitude: -78.503021308725	Speed: 18.368584	Device ID: b104
+-
+Vehicle: V0925
+Time start: 10/3/2022 4:58:34 PM	Latitude: 38.031118135566665	Longitude: -78.5029907	Speed: 17	Device ID: b104
+Time end: 10/3/2022 4:58:34 PM		Latitude: 38.03111226023333	Longitude: -78.5029907	Speed: 17	Device ID: b104
+-
+Vehicle: V0925
+Time start: 10/7/2022 11:45:05 AM	Latitude: 38.0248242036	Longitude: -78.5335901095	Speed: 37.056	Device ID: b104
+Time end: 10/7/2022 11:45:06 AM		Latitude: 38.024829912	Longitude: -78.53358619	Speed: 36.52	Device ID: b104
+-
+Vehicle: V0925
+Time start: 10/7/2022 11:45:07 AM	Latitude: 38.024949322766666	Longitude: -78.53349069036666	Speed: 25.252	Device ID: b104
+Time end: 10/7/2022 11:45:07 AM		Latitude: 38.0249516729	Longitude: -78.5334882693	Speed: 25.028	Device ID: b104
+-
+Vehicle: V0925
+Time start: 11/22/2022 12:33:55 PM	Latitude: 38.03318528895	Longitude: -78.49815014675	Speed: 17.8835	Device ID: b104
+Time end: 11/22/2022 12:33:55 PM		Latitude: 38.03318048205	Longitude: -78.49815206825001	Speed: 17.9465	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/1/2023 12:08:50 PM	Latitude: 38.02986250895	Longitude: -78.50156520715	Speed: 9.4685	Device ID: b104
+Time end: 2/1/2023 12:08:50 PM		Latitude: 38.02986325655	Longitude: -78.50156755635	Speed: 9.4965	Device ID: b104
+-
+Vehicle: V0925
+Time start: 2/13/2023 12:54:05 PM	Latitude: 38.03090784186364	Longitude: -78.50305715983636	Speed: 13.842728	Device ID: b104
+Time end: 2/13/2023 12:54:05 PM		Latitude: 38.03090700277273	Longitude: -78.50305725692728	Speed: 13.824546	Device ID: b104
+-
+Vehicle: V0925
+Time start: 3/17/2023 2:52:39 PM	Latitude: 38.08591079	Longitude: -78.4751587	Speed: 9.1	Device ID: b104
+Time end: 3/17/2023 2:52:39 PM		Latitude: 38.085911495775	Longitude: -78.4751587	Speed: 8.97975	Device ID: b104
+-
+Vehicle: V0925
+Time start: 3/20/2023 1:20:25 PM	Latitude: 38.0857353	Longitude: -78.4749069	Speed: 6.41575	Device ID: b104
+Time end: 3/20/2023 1:20:25 PM		Latitude: 38.0857353	Longitude: -78.4749069	Speed: 6.38	Device ID: b104
+-
+Vehicle: V0925
+Time start: 4/10/2023 5:10:19 PM	Latitude: 38.0315071105125	Longitude: -78.5111898433375	Speed: 21.63425	Device ID: b104
+Time end: 4/10/2023 5:10:19 PM		Latitude: 38.0315045554875	Longitude: -78.5111842986625	Speed: 21.60575	Device ID: b104
+-
+Vehicle: V0925
+Time start: 6/26/2023 1:16:10 PM	Latitude: 38.038467254075	Longitude: -78.511898103875	Speed: 16.059	Device ID: b104
+Time end: 6/26/2023 1:16:10 PM		Latitude: 38.03846727125	Longitude: -78.51189828125	Speed: 16.05	Device ID: b104
+-
+Vehicle: V0925
+Time start: 10/10/2023 12:12:20 PM	Latitude: 38.0262509867	Longitude: -78.5313116236	Speed: 43.152	Device ID: b104
+Time end: 10/10/2023 12:12:20 PM		Latitude: 38.0262413687	Longitude: -78.53135647959999	Speed: 33.072	Device ID: b104
+-
+Vehicle: V0925
+Time start: 10/13/2023 6:05:03 PM	Latitude: 38.02968963610714	Longitude: -78.52523789977143	Speed: 8.623	Device ID: b104
+Time end: 10/13/2023 6:05:03 PM		Latitude: 38.029689118892854	Longitude: -78.52523826822858	Speed: 8.597	Device ID: b104
+-
+Vehicle: V0925
+Time start: 11/2/2023 7:13:30 PM	Latitude: 38.031412125307696	Longitude: -78.50212912741539	Speed: 2.2616923	Device ID: b104
+Time end: 11/2/2023 7:13:30 PM		Latitude: 38.031413028538466	Longitude: -78.50213294027692	Speed: 2.3844616	Device ID: b104
+-
+Vehicle: V0925
+Time start: 11/6/2023 5:59:13 PM	Latitude: 38.03156723738333	Longitude: -78.50219581370001	Speed: 0.055666666	Device ID: b104
+Time end: 11/6/2023 5:59:13 PM		Latitude: 38.031567145783335	Longitude: -78.5021960273	Speed: 0.047666665	Device ID: b104
+-
+Vehicle: V0925
+Time start: 12/15/2023 12:56:19 PM	Latitude: 38.026916608444445	Longitude: -78.51246129911111	Speed: 36.93778	Device ID: b104
+Time end: 12/15/2023 12:56:19 PM		Latitude: 38.02693163723333	Longitude: -78.51243617213333	Speed: 36.999332	Device ID: b104
+-

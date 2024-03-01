@@ -1,0 +1,28 @@
+Vehicle: V0861
+Time start: 9/23/2019 7:04:33 PM	Latitude: 38.036504019999995	Longitude: -78.51654587	Speed: 24.4	Device ID: bAD
+Time point 2: 9/23/2019 7:04:34 PM	Latitude: 38.0365067	Longitude: -78.5165329	Speed: 26	Device ID: bAD
+-
+Time end: 9/23/2019 7:04:34 PM		Latitude: 38.0365067	Longitude: -78.5165305148	Speed: 25.531	Device ID: bAD
+-
+Vehicle: V0861
+Time start: 1/17/2020 2:43:59 PM	Latitude: 38.04232265265	Longitude: -78.5110922658	Speed: 25.464	Device ID: bAD
+Time end: 1/17/2020 2:44:00 PM		Latitude: 38.04233568385	Longitude: -78.5111149122	Speed: 22.776	Device ID: bAD
+-
+Vehicle: V0861
+Time start: 9/4/2020 9:42:28 PM	Latitude: 38.0851212	Longitude: -78.4731674	Speed: 0.347	Device ID: bAD
+Time end: 9/4/2020 9:42:28 PM		Latitude: 38.0851212	Longitude: -78.4731674	Speed: 0.21	Device ID: bAD
+-
+Vehicle: V0861
+Time start: 2/3/2021 12:54:33 PM	Latitude: 38.05276456856541	Longitude: -78.5087509	Speed: 0	Device ID: bAD
+Time end: 2/3/2021 12:54:34 PM		Latitude: 38.05276457521532	Longitude: -78.5087509	Speed: 0	Device ID: bAD
+-
+Vehicle: V0861
+Time start: 12/20/2021 4:30:36 PM	Latitude: 38.0533545595	Longitude: -78.50184718199999	Speed: 33.24	Device ID: bAD
+Time end: 12/20/2021 4:30:37 PM		Latitude: 38.053330565	Longitude: -78.50186694	Speed: 28.8	Device ID: bAD
+-
+Vehicle: V0861
+Time start: 7/11/2022 6:02:43 PM	Latitude: 38.03353175497692	Longitude: -78.46116546016924	Speed: 41.709	Device ID: bAD
+Time point 2: 7/11/2022 6:02:44 PM	Latitude: 38.033535	Longitude: -78.4611588	Speed: 42	Device ID: bAD
+Time point 3: 7/11/2022 6:02:45 PM	Latitude: 38.0335884	Longitude: -78.4610596	Speed: 35	Device ID: bAD
+Time end: 7/11/2022 6:02:45 PM		Latitude: 38.033596644	Longitude: -78.46104862	Speed: 24.92	Device ID: bAD
+-

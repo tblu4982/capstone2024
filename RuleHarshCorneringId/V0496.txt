@@ -1,0 +1,558 @@
+Event 260:
+Time start: 11/19/2019 7:17:34 PM	Latitude: 38.0368881	Longitude: -78.5167847	Speed: 0	Device ID: b98
+Time end: 11/19/2019 7:17:34 PM		Latitude: 38.0368881	Longitude: -78.5167847	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 5/20/2020 5:10:12 PM	Latitude: 38.0321274	Longitude: -78.5109024	Speed: 0	Device ID: b98
+Time end: 5/20/2020 5:10:12 PM		Latitude: 38.0321274	Longitude: -78.5109024	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 6/3/2020 3:54:44 PM	Latitude: 38.03913259068	Longitude: -78.50576754064	Speed: 3.4366	Device ID: b98
+Time end: 6/3/2020 3:54:44 PM		Latitude: 38.03913320412	Longitude: -78.50576808976	Speed: 3.4894	Device ID: b98
+-
+Event 260:
+Time start: 6/8/2020 2:28:01 PM	Latitude: 38.034451917000005	Longitude: -78.5109740457	Speed: 4.427	Device ID: b98
+Time end: 6/8/2020 2:28:01 PM		Latitude: 38.03445275571429	Longitude: -78.510974667	Speed: 4.37	Device ID: b98
+-
+Event 260:
+Time start: 7/2/2020 2:04:40 PM	Latitude: 38.08664831625715	Longitude: -78.47557068147142	Speed: 28.333286	Device ID: b98
+Time end: 7/2/2020 2:04:41 PM		Latitude: 38.08659437257143	Longitude: -78.47551214971429	Speed: 28.182858	Device ID: b98
+-
+Event 260:
+Time start: 7/7/2020 7:19:00 PM	Latitude: 38.04689818625	Longitude: -78.50432635715	Speed: 23.47075	Device ID: b98
+Time end: 7/7/2020 7:19:00 PM		Latitude: 38.046877583333334	Longitude: -78.504335626	Speed: 22.863333	Device ID: b98
+-
+Event 260:
+Time start: 7/8/2020 7:46:24 PM	Latitude: 38.0535545	Longitude: -78.50751743781063	Speed: 0.09667021	Device ID: b98
+-
+Event 260:
+Time start: 7/9/2020 12:57:35 PM	Latitude: 38.0391856117	Longitude: -78.50575057795001	Speed: 3.2485	Device ID: b98
+Time end: 7/9/2020 12:57:35 PM		Latitude: 38.03918657687143	Longitude: -78.50574981062144	Speed: 3.2657857	Device ID: b98
+-
+Event 260:
+Time start: 7/15/2020 4:25:17 PM	Latitude: 38.026984536899995	Longitude: -78.52658651868333	Speed: 6.753	Device ID: b98
+Time end: 7/15/2020 4:25:17 PM		Latitude: 38.026984282899996	Longitude: -78.52658667101666	Speed: 6.773	Device ID: b98
+-
+Event 260:
+Time start: 7/20/2020 7:04:24 PM	Latitude: 38.0391693	Longitude: -78.5058052175125	Speed: 4.145625	Device ID: b98
+Time end: 7/20/2020 7:04:24 PM		Latitude: 38.0391693	Longitude: -78.505805168875	Speed: 4.14375	Device ID: b98
+-
+Event 260:
+Time start: 9/8/2020 11:05:17 AM	Latitude: 38.030746672628574	Longitude: -78.5024261	Speed: 2.9772856	Device ID: b98
+Time end: 9/8/2020 11:05:17 AM		Latitude: 38.030746640057146	Longitude: -78.5024261	Speed: 2.9815714	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2020 5:19:04 PM	Latitude: 38.130399241444444	Longitude: -78.45273078811111	Speed: 34.697777	Device ID: b98
+Time end: 9/21/2020 5:19:05 PM		Latitude: 38.13043326385555	Longitude: -78.45268481918889	Speed: 32.61022	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2020 5:32:27 PM	Latitude: 38.04692704896	Longitude: -78.50435544966	Speed: 31.971	Device ID: b98
+Time point 2: 9/21/2020 5:32:28 PM	Latitude: 38.0468483	Longitude: -78.5043945	Speed: 26	Device ID: b98
+Time end: 9/21/2020 5:32:28 PM		Latitude: 38.046849826	Longitude: -78.50439808600001	Speed: 26.18	Device ID: b98
+-
+Event 260:
+Time start: 10/15/2020 11:43:46 AM	Latitude: 38.04843902233333	Longitude: -78.5211393871	Speed: 15.777	Device ID: b98
+Time end: 10/15/2020 11:43:46 AM		Latitude: 38.04843894222222	Longitude: -78.52113919133333	Speed: 15.793333	Device ID: b98
+-
+Event 260:
+Time start: 10/28/2020 1:11:54 PM	Latitude: 38.034996	Longitude: -78.50175839889245	Speed: 0	Device ID: b98
+Time end: 10/28/2020 1:11:54 PM		Latitude: 38.034996	Longitude: -78.50175827127738	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 11/18/2020 12:37:21 PM	Latitude: 38.03650070246511	Longitude: -78.51239991479069	Speed: 2.0786047	Device ID: b98
+Time end: 11/18/2020 12:37:21 PM		Latitude: 38.03650061906744	Longitude: -78.51239941440465	Speed: 2.0796976	Device ID: b98
+-
+Event 260:
+Time start: 11/18/2020 1:12:02 PM	Latitude: 38.0365145831	Longitude: -78.51239304537499	Speed: 1.03725	Device ID: b98
+Time end: 11/18/2020 1:12:02 PM		Latitude: 38.036513654	Longitude: -78.5123918025	Speed: 0.915	Device ID: b98
+-
+Event 260:
+Time start: 1/23/2021 2:23:02 PM	Latitude: 38.050716684142856	Longitude: -78.54663961851429	Speed: 5.952286	Device ID: b98
+Time end: 1/23/2021 2:23:02 PM		Latitude: 38.050716051428566	Longitude: -78.54663900914287	Speed: 6.062857	Device ID: b98
+-
+Event 260:
+Time start: 3/11/2021 1:21:19 PM	Latitude: 38.035833100199994	Longitude: -78.5089035	Speed: 0	Device ID: b98
+Time end: 3/11/2021 1:21:19 PM		Latitude: 38.03583325415846	Longitude: -78.5089035	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 4/13/2021 1:52:36 PM	Latitude: 38.0353546	Longitude: -78.5084686	Speed: 0	Device ID: b98
+Time end: 4/13/2021 1:52:37 PM		Latitude: 38.0353546	Longitude: -78.5084686	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 6/12/2021 2:26:44 PM	Latitude: 38.0357628	Longitude: -78.5092087	Speed: 0	Device ID: b98
+Time end: 6/12/2021 2:26:45 PM		Latitude: 38.0357628	Longitude: -78.5092087	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 6/21/2021 3:30:43 PM	Latitude: 38.0358391	Longitude: -78.5100555	Speed: 0	Device ID: b98
+Time end: 6/21/2021 3:30:44 PM		Latitude: 38.0358391	Longitude: -78.5100555	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 7/7/2021 12:56:14 PM	Latitude: 38.0316429	Longitude: -78.51151547966408	Speed: 0	Device ID: b98
+Time end: 7/7/2021 12:56:15 PM		Latitude: 38.0316429	Longitude: -78.51151548730098	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 10/18/2021 12:00:24 PM	Latitude: 38.02686745366667	Longitude: -78.52668691833333	Speed: 10.433333	Device ID: b98
+Time end: 10/18/2021 12:00:24 PM		Latitude: 38.026867021300006	Longitude: -78.5266872215	Speed: 10.49	Device ID: b98
+-
+Event 260:
+Time start: 11/8/2021 6:12:33 PM	Latitude: 38.0381203	Longitude: -78.5187836	Speed: 0	Device ID: b98
+Time end: 11/8/2021 6:12:34 PM		Latitude: 38.0381203	Longitude: -78.5187836	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 11/9/2021 3:45:08 PM	Latitude: 38.0381203	Longitude: -78.5188599	Speed: 0	Device ID: b98
+Time end: 11/9/2021 3:45:09 PM		Latitude: 38.0381203	Longitude: -78.5188599	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 2/7/2022 8:48:57 PM	Latitude: 38.0322571	Longitude: -78.519043	Speed: 6.08	Device ID: b98
+Time end: 2/7/2022 8:48:57 PM		Latitude: 38.0322571	Longitude: -78.519043	Speed: 3.04	Device ID: b98
+-
+Event 260:
+Time start: 3/31/2022 3:16:30 PM	Latitude: 38.0467186	Longitude: -78.5226746	Speed: 0	Device ID: b98
+Time end: 3/31/2022 3:16:30 PM		Latitude: 38.0467186	Longitude: -78.5226746	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 4/1/2022 1:45:53 PM	Latitude: 38.0466957	Longitude: -78.5225754	Speed: 0	Device ID: b98
+Time end: 4/1/2022 1:45:53 PM		Latitude: 38.0466957	Longitude: -78.5225754	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 4/4/2022 7:18:41 PM	Latitude: 38.0463867	Longitude: -78.5228806	Speed: 0	Device ID: b98
+Time end: 4/4/2022 7:18:41 PM		Latitude: 38.0463867	Longitude: -78.5228806	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 4/11/2022 7:51:15 PM	Latitude: 38.0463867	Longitude: -78.5229034	Speed: 0	Device ID: b98
+Time end: 4/11/2022 7:51:15 PM		Latitude: 38.0463867	Longitude: -78.5229034	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 5/2/2022 10:23:19 AM	Latitude: 38.0368881	Longitude: -78.5166626	Speed: 0	Device ID: b98
+Time end: 5/2/2022 10:23:19 AM		Latitude: 38.0368881	Longitude: -78.5166626	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 5/3/2022 1:16:00 PM	Latitude: 38.0350723	Longitude: -78.5069046	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 5/3/2022 1:16:01 PM	Latitude: 38.0350723	Longitude: -78.5069046	Speed: 0	Device ID: b98
+Time end: 5/3/2022 1:16:01 PM		Latitude: 38.0350723	Longitude: -78.5069046	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 5/11/2022 1:38:22 PM	Latitude: 38.0350456	Longitude: -78.5069809	Speed: 0	Device ID: b98
+Time end: 5/11/2022 1:38:22 PM		Latitude: 38.0350456	Longitude: -78.5069809	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 5/11/2022 7:51:24 PM	Latitude: 38.0309486	Longitude: -78.514946	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 5/12/2022 5:56:04 PM	Latitude: 38.0368652	Longitude: -78.5166626	Speed: 0	Device ID: b98
+Time end: 5/12/2022 5:56:04 PM		Latitude: 38.0368652	Longitude: -78.5166626	Speed: 0	Device ID: b98
+-
+Event 260:
+Time start: 8/4/2022 6:33:10 PM	Latitude: 38.03425279488125	Longitude: -78.5064512282875	Speed: 13.83975	Device ID: b98
+Time end: 8/4/2022 6:33:10 PM		Latitude: 38.034251965624996	Longitude: -78.50645109375	Speed: 13.875	Device ID: b98
+-
+Event 260:
+Time start: 1/24/2023 4:54:14 PM	Latitude: 38.0370502942625	Longitude: -78.5036391708625	Speed: 1.4353125	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 10:45:23 AM	Latitude: 38.03466124736	Longitude: -78.50642321322	Speed: 8.3745	Device ID: b98
+Time end: 7/28/2023 10:45:23 AM		Latitude: 38.03465873856	Longitude: -78.50642246562	Speed: 8.1645	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 10:50:35 AM	Latitude: 38.032144736515384	Longitude: -78.5190276345923	Speed: 9.004616	Device ID: b98
+Time end: 7/28/2023 10:50:35 AM		Latitude: 38.03214489671539	Longitude: -78.51902824479231	Speed: 8.964616	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 10:50:35 AM	Latitude: 38.03214800213077	Longitude: -78.51904007328461	Speed: 8.189231	Device ID: b98
+Time end: 7/28/2023 10:50:35 AM		Latitude: 38.03214802061539	Longitude: -78.51904014369231	Speed: 8.184615	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 11:07:17 AM	Latitude: 38.03458051467778	Longitude: -78.50654204513333	Speed: 4.128667	Device ID: b98
+Time end: 7/28/2023 11:07:17 AM		Latitude: 38.0345808029	Longitude: -78.50654216379999	Speed: 4.142	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 2:45:24 PM	Latitude: 38.03451146865385	Longitude: -78.50648170840769	Speed: 6.2805386	Device ID: b98
+Time end: 7/28/2023 2:45:24 PM		Latitude: 38.03451060057692	Longitude: -78.50648157805385	Speed: 6.3317695	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 3:06:57 PM	Latitude: 38.02989782778572	Longitude: -78.51247818464286	Speed: 40.603573	Device ID: b98
+Time end: 7/28/2023 3:06:57 PM		Latitude: 38.02990100397857	Longitude: -78.51247303646429	Speed: 40.620358	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 3:06:57 PM	Latitude: 38.02992621078572	Longitude: -78.51243217964286	Speed: 40.75357	Device ID: b98
+Time end: 7/28/2023 3:06:57 PM		Latitude: 38.029927089307144	Longitude: -78.51243075567857	Speed: 40.758213	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 5:50:59 PM	Latitude: 38.03455263758182	Longitude: -78.50647146121818	Speed: 5.6923637	Device ID: b98
+Time end: 7/28/2023 5:50:59 PM		Latitude: 38.03455222587273	Longitude: -78.50647131132727	Speed: 5.7185454	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 5:54:30 PM	Latitude: 38.028688584579996	Longitude: -78.51463975076	Speed: 39.8638	Device ID: b98
+Time end: 7/28/2023 5:54:30 PM		Latitude: 38.02868849302	Longitude: -78.51464055644	Speed: 39.8722	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 6:07:36 PM	Latitude: 38.02431380477857	Longitude: -78.53263369952381	Speed: 9.627024	Device ID: b98
+Time end: 7/28/2023 6:07:36 PM		Latitude: 38.02431372793571	Longitude: -78.5326338052381	Speed: 9.627738	Device ID: b98
+-
+Event 260:
+Time start: 7/28/2023 6:07:36 PM	Latitude: 38.02430732436429	Longitude: -78.53264261476191	Speed: 9.687262	Device ID: b98
+-
+Event 260:
+Time start: 8/2/2023 2:48:57 PM	Latitude: 38.03463096500833	Longitude: -78.50649131378333	Speed: 4.2808332	Device ID: b98
+Time end: 8/2/2023 2:48:57 PM		Latitude: 38.03462921975834	Longitude: -78.50649097028334	Speed: 4.3558335	Device ID: b98
+-
+Event 260:
+Time start: 8/2/2023 2:59:17 PM	Latitude: 38.0241412067	Longitude: -78.53278917723333	Speed: 7.406	Device ID: b98
+Time end: 8/2/2023 2:59:17 PM		Latitude: 38.024141269000005	Longitude: -78.532789373	Speed: 7.42	Device ID: b98
+-
+Event 260:
+Time start: 8/2/2023 5:08:08 PM	Latitude: 38.034563468900004	Longitude: -78.50645731110001	Speed: 2.164	Device ID: b98
+Time end: 8/2/2023 5:08:08 PM		Latitude: 38.03456334225385	Longitude: -78.50645733928462	Speed: 2.159077	Device ID: b98
+-
+Event 260:
+Time start: 8/2/2023 6:23:51 PM	Latitude: 38.03455713821628	Longitude: -78.50647363845117	Speed: 8.361582	Device ID: b98
+Time end: 8/2/2023 6:23:51 PM		Latitude: 38.03455638130233	Longitude: -78.50647332809302	Speed: 8.366511	Device ID: b98
+-
+Event 260:
+Time start: 8/2/2023 6:26:35 PM	Latitude: 38.028680306	Longitude: -78.51464278371428	Speed: 39	Device ID: b98
+Time end: 8/2/2023 6:26:35 PM		Latitude: 38.0286777938	Longitude: -78.51464861825714	Speed: 39	Device ID: b98
+-
+Event 260:
+Time start: 8/3/2023 1:56:28 PM	Latitude: 38.0351982	Longitude: -78.514641564325	Speed: 11.21975	Device ID: b98
+Time end: 8/3/2023 1:56:28 PM		Latitude: 38.0351982	Longitude: -78.514637902325	Speed: 10.95975	Device ID: b98
+-
+Event 260:
+Time start: 8/8/2023 5:29:38 PM	Latitude: 38.024277201241176	Longitude: -78.53265171082353	Speed: 9.414235	Device ID: b98
+Time end: 8/8/2023 5:29:38 PM		Latitude: 38.02427747500588	Longitude: -78.53265122611765	Speed: 9.407176	Device ID: b98
+-
+Event 260:
+Time start: 8/8/2023 5:29:39 PM	Latitude: 38.0242899313	Longitude: -78.532629172	Speed: 9.086	Device ID: b98
+Time end: 8/8/2023 5:29:39 PM		Latitude: 38.02429012293529	Longitude: -78.53262883270588	Speed: 9.0810585	Device ID: b98
+-
+Event 260:
+Time start: 8/8/2023 5:29:39 PM	Latitude: 38.024294681117645	Longitude: -78.53262076235295	Speed: 8.96353	Device ID: b98
+Time end: 8/8/2023 5:29:39 PM		Latitude: 38.02429495488235	Longitude: -78.53262027764707	Speed: 8.9564705	Device ID: b98
+-
+Event 260:
+Time start: 8/8/2023 5:29:39 PM	Latitude: 38.02429559822941	Longitude: -78.53261913858825	Speed: 8.939882	Device ID: b98
+Time end: 8/8/2023 5:29:39 PM		Latitude: 38.02429632370588	Longitude: -78.53261785411765	Speed: 8.921177	Device ID: b98
+-
+Event 260:
+Time start: 8/8/2023 5:29:40 PM	Latitude: 38.02430033435882	Longitude: -78.53261075317647	Speed: 8.817764	Device ID: b98
+Time end: 8/8/2023 5:29:40 PM		Latitude: 38.02430056705882	Longitude: -78.53261034117648	Speed: 8.811765	Device ID: b98
+-
+Event 260:
+Time start: 8/8/2023 5:29:40 PM	Latitude: 38.024301018770586	Longitude: -78.53260954141177	Speed: 8.8001175	Device ID: b98
+Time end: 8/8/2023 5:29:40 PM		Latitude: 38.02430189481765	Longitude: -78.53260799035294	Speed: 8.77753	Device ID: b98
+-
+Event 260:
+Time start: 8/8/2023 6:10:41 PM	Latitude: 38.02436168258	Longitude: -78.53251686474	Speed: 19.029	Device ID: b98
+Time end: 8/8/2023 6:10:41 PM		Latitude: 38.02436194198	Longitude: -78.53251645294	Speed: 18.999	Device ID: b98
+-
+Event 260:
+Time start: 8/10/2023 12:23:33 AM	Latitude: 38.0388107	Longitude: -78.50580215108889	Speed: 7	Device ID: b98
+Time end: 8/10/2023 12:23:33 AM		Latitude: 38.0388107	Longitude: -78.50579972644445	Speed: 7	Device ID: b98
+-
+Event 260:
+Time start: 8/11/2023 2:29:12 PM	Latitude: 38.03863537675294	Longitude: -78.5056851290294	Speed: 2.839647	Device ID: b98
+Time end: 8/11/2023 2:29:12 PM		Latitude: 38.03863565976471	Longitude: -78.50568412764706	Speed: 2.8282354	Device ID: b98
+-
+Event 260:
+Time start: 8/11/2023 2:29:21 PM	Latitude: 38.03866261007059	Longitude: -78.50558876920589	Speed: 1.7415295	Device ID: b98
+Time end: 8/11/2023 2:29:21 PM		Latitude: 38.03866281430588	Longitude: -78.50558804655881	Speed: 1.7332941	Device ID: b98
+-
+Event 260:
+Time start: 8/11/2023 3:53:41 PM	Latitude: 38.03350867876	Longitude: -78.50893386722667	Speed: 28.538267	Device ID: b98
+Time end: 8/11/2023 3:53:41 PM		Latitude: 38.0335070292	Longitude: -78.5089343352	Speed: 28.572	Device ID: b98
+-
+Event 260:
+Time start: 8/11/2023 3:59:59 PM	Latitude: 38.03230523116667	Longitude: -78.51908932416666	Speed: 4.9416666	Device ID: b98
+Time end: 8/11/2023 3:59:59 PM		Latitude: 38.032305094775	Longitude: -78.519089382125	Speed: 4.93625	Device ID: b98
+-
+Event 260:
+Time start: 8/11/2023 4:00:01 PM	Latitude: 38.032284384225	Longitude: -78.519098182875	Speed: 4.11375	Device ID: b98
+Time end: 8/11/2023 4:00:01 PM		Latitude: 38.03228327210833	Longitude: -78.51909865545834	Speed: 4.0695834	Device ID: b98
+-
+Event 260:
+Time start: 8/12/2023 12:54:29 PM	Latitude: 38.024744986392854	Longitude: -78.53212852804286	Speed: 7.061857	Device ID: b98
+Time end: 8/12/2023 12:54:29 PM		Latitude: 38.02474558317857	Longitude: -78.53212792332857	Speed: 7.0575714	Device ID: b98
+-
+Event 260:
+Time start: 8/12/2023 4:17:22 PM	Latitude: 38.02874756385556	Longitude: -78.51469616435556	Speed: 39.758446	Device ID: b98
+Time end: 8/12/2023 4:17:22 PM		Latitude: 38.028746605033334	Longitude: -78.51469940453333	Speed: 39.752666	Device ID: b98
+-
+Event 260:
+Time start: 8/12/2023 4:23:55 PM	Latitude: 38.031698356199996	Longitude: -78.5189896	Speed: 1.829	Device ID: b98
+Time end: 8/12/2023 4:23:55 PM		Latitude: 38.03169789933333	Longitude: -78.5189896	Speed: 1.8033333	Device ID: b98
+-
+Event 260:
+Time start: 8/15/2023 12:09:51 PM	Latitude: 38.03224497054	Longitude: -78.51909017866001	Speed: 0.6364	Device ID: b98
+Time end: 8/15/2023 12:09:51 PM		Latitude: 38.03224436527333	Longitude: -78.51908982259333	Speed: 0.6270667	Device ID: b98
+-
+Event 260:
+Time start: 8/19/2023 10:33:24 AM	Latitude: 38.033016811275004	Longitude: -78.4983429172	Speed: 6.047	Device ID: b98
+Time end: 8/19/2023 10:33:24 AM		Latitude: 38.033016257250004	Longitude: -78.498341888	Speed: 6.13	Device ID: b98
+-
+Event 260:
+Time start: 8/19/2023 12:03:22 PM	Latitude: 38.032375501075	Longitude: -78.50094142550624	Speed: 37.886436	Device ID: b98
+Time end: 8/19/2023 12:03:22 PM		Latitude: 38.03237480475	Longitude: -78.5009440795625	Speed: 37.899376	Device ID: b98
+-
+Event 260:
+Time start: 8/19/2023 12:27:59 PM	Latitude: 38.0330461657	Longitude: -78.49837021396667	Speed: 13.376667	Device ID: b98
+Time end: 8/19/2023 12:27:59 PM		Latitude: 38.033045427000005	Longitude: -78.498368103	Speed: 13.1	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 11:12:50 AM	Latitude: 38.0317041957	Longitude: -78.51892299487857	Speed: 3.1167858	Device ID: b98
+Time end: 8/22/2023 11:12:50 AM		Latitude: 38.0317035853	Longitude: -78.51892308647857	Speed: 3.1367857	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 11:15:55 AM	Latitude: 38.0366241	Longitude: -78.51626738	Speed: 15.2	Device ID: b98
+Time end: 8/22/2023 11:15:55 AM		Latitude: 38.03662513	Longitude: -78.516268372	Speed: 15.18	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 12:12:37 PM	Latitude: 38.036844361995	Longitude: -78.51657459844499	Speed: 4.1428	Device ID: b98
+Time end: 8/22/2023 12:12:37 PM		Latitude: 38.0368441558	Longitude: -78.51657427379999	Speed: 4.152	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 1:39:52 PM	Latitude: 38.0444594801	Longitude: -78.50522173999	Speed: 6.5064	Device ID: b98
+Time end: 8/22/2023 1:39:52 PM		Latitude: 38.0444596861	Longitude: -78.50522199939	Speed: 6.4904	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 1:39:52 PM	Latitude: 38.0444599539	Longitude: -78.50522233661	Speed: 6.4696	Device ID: b98
+Time end: 8/22/2023 1:39:52 PM		Latitude: 38.0444607779	Longitude: -78.50522337421	Speed: 6.4056	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 1:39:55 PM	Latitude: 38.0444963541	Longitude: -78.50526817259001	Speed: 3.6424	Device ID: b98
+Time end: 8/22/2023 1:39:55 PM		Latitude: 38.044496693999996	Longitude: -78.5052686006	Speed: 3.616	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 3:42:54 PM	Latitude: 38.04462980373636	Longitude: -78.50552347416364	Speed: 3.0907273	Device ID: b98
+Time end: 8/22/2023 3:42:54 PM		Latitude: 38.04462982800909	Longitude: -78.50552361289091	Speed: 3.0961819	Device ID: b98
+-
+Event 260:
+Time start: 8/22/2023 3:42:58 PM	Latitude: 38.04463898853636	Longitude: -78.50557596856363	Speed: 5.1547275	Device ID: b98
+Time end: 8/22/2023 3:42:58 PM		Latitude: 38.044639100190906	Longitude: -78.5055766067091	Speed: 5.179818	Device ID: b98
+-
+Event 260:
+Time start: 8/23/2023 3:20:45 PM	Latitude: 38.04236764120909	Longitude: -78.51160026047273	Speed: 17.185728	Device ID: b98
+Time end: 8/23/2023 3:20:45 PM		Latitude: 38.04236802951818	Longitude: -78.51159983334546	Speed: 17.212454	Device ID: b98
+-
+Event 260:
+Time start: 8/28/2023 3:36:37 PM	Latitude: 38.00812990665	Longitude: -78.37946314185	Speed: 2	Device ID: b98
+Time end: 8/28/2023 3:36:37 PM		Latitude: 38.008129564	Longitude: -78.37946216266667	Speed: 2	Device ID: b98
+-
+Event 260:
+Time start: 8/28/2023 3:36:42 PM	Latitude: 38.00813922495	Longitude: -78.3794174	Speed: 10.5365	Device ID: b98
+Time end: 8/28/2023 3:36:42 PM		Latitude: 38.008139358449995	Longitude: -78.3794174	Speed: 10.5815	Device ID: b98
+-
+Event 260:
+Time start: 9/7/2023 1:18:41 PM	Latitude: 38.03354328748333	Longitude: -78.50892274545834	Speed: 17.5995	Device ID: b98
+Time end: 9/7/2023 1:18:41 PM		Latitude: 38.03354136098333	Longitude: -78.50892333670834	Speed: 17.5545	Device ID: b98
+-
+Event 260:
+Time start: 9/12/2023 4:22:40 PM	Latitude: 38.03335689233333	Longitude: -78.51676891133333	Speed: 13.59	Device ID: b98
+Time end: 9/12/2023 4:22:40 PM		Latitude: 38.03335674101667	Longitude: -78.51676908936666	Speed: 13.5935	Device ID: b98
+-
+Event 260:
+Time start: 9/12/2023 7:05:15 PM	Latitude: 38.03225790816	Longitude: -78.51910232924	Speed: 2.8908	Device ID: b98
+Time end: 9/12/2023 7:05:15 PM		Latitude: 38.03225765024	Longitude: -78.51910248836	Speed: 2.9012	Device ID: b98
+-
+Event 260:
+Time start: 9/19/2023 6:32:23 PM	Latitude: 38.03390548337037	Longitude: -78.51281502738703	Speed: 1.596926	Device ID: b98
+Time end: 9/19/2023 6:32:23 PM		Latitude: 38.033905277370366	Longitude: -78.51281448568703	Speed: 1.5949259	Device ID: b98
+-
+Event 260:
+Time start: 9/19/2023 6:48:58 PM	Latitude: 38.0341761356	Longitude: -78.51383995365	Speed: 3.981	Device ID: b98
+Time end: 9/19/2023 6:48:58 PM		Latitude: 38.034176325733334	Longitude: -78.51384015835	Speed: 3.9656668	Device ID: b98
+-
+Event 260:
+Time start: 9/19/2023 6:48:58 PM	Latitude: 38.034179111600004	Longitude: -78.51384315765	Speed: 3.741	Device ID: b98
+Time end: 9/19/2023 6:48:58 PM		Latitude: 38.03417933066667	Longitude: -78.51384339350001	Speed: 3.7233334	Device ID: b98
+-
+Event 260:
+Time start: 9/19/2023 6:48:59 PM	Latitude: 38.03418127333333	Longitude: -78.513845485	Speed: 3.5666666	Device ID: b98
+Time end: 9/19/2023 6:48:59 PM		Latitude: 38.034181645333334	Longitude: -78.5138458855	Speed: 3.5366666	Device ID: b98
+-
+Event 260:
+Time start: 9/19/2023 6:48:59 PM	Latitude: 38.03418386493333	Longitude: -78.51384827515001	Speed: 3.3576667	Device ID: b98
+Time end: 9/19/2023 6:48:59 PM		Latitude: 38.034183889733335	Longitude: -78.51384830185	Speed: 3.3556666	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 11:43:49 AM	Latitude: 38.0322166751	Longitude: -78.51887618005	Speed: 8.71625	Device ID: b98
+Time end: 9/21/2023 11:43:49 AM		Latitude: 38.0322163769	Longitude: -78.51887564595	Speed: 8.73375	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 12:20:47 PM	Latitude: 38.032389162049995	Longitude: -78.51078549702045	Speed: 3.697909	Device ID: b98
+Time end: 9/21/2023 12:20:47 PM		Latitude: 38.03238894845	Longitude: -78.51078561909318	Speed: 3.6993637	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 1:12:01 PM	Latitude: 38.0322304	Longitude: -78.5191422	Speed: 9.485714	Device ID: b98
+Time end: 9/21/2023 1:12:01 PM		Latitude: 38.0322304	Longitude: -78.5191422	Speed: 9.502429	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 3:01:33 PM	Latitude: 38.03090608916666	Longitude: -78.51578811	Speed: 6.0666666	Device ID: b98
+Time end: 9/21/2023 3:01:33 PM		Latitude: 38.03090617818333	Longitude: -78.51578823460001	Speed: 6.0573335	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 3:26:54 PM	Latitude: 38.031197450786486	Longitude: -78.51644484155135	Speed: 3	Device ID: b98
+Time end: 9/21/2023 3:26:54 PM		Latitude: 38.0311970693	Longitude: -78.5164454602	Speed: 3	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 3:26:56 PM	Latitude: 38.03118389275676	Longitude: -78.51646682832433	Speed: 3	Device ID: b98
+Time end: 9/21/2023 3:26:56 PM		Latitude: 38.031182847483784	Longitude: -78.51646852342162	Speed: 3	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 3:26:57 PM	Latitude: 38.03117041102433	Longitude: -78.51648869136757	Speed: 3	Device ID: b98
+Time end: 9/21/2023 3:26:57 PM		Latitude: 38.031170212651354	Longitude: -78.51648901306487	Speed: 3	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 3:44:24 PM	Latitude: 38.030920276125	Longitude: -78.51580782202501	Speed: 6.6195	Device ID: b98
+Time end: 9/21/2023 3:44:24 PM		Latitude: 38.030920623875	Longitude: -78.515808317975	Speed: 6.5805	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 3:46:05 PM	Latitude: 38.031131043925	Longitude: -78.516474409275	Speed: 13.80375	Device ID: b98
+Time end: 9/21/2023 3:46:05 PM		Latitude: 38.031131244175	Longitude: -78.516474085025	Speed: 13.79125	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 4:48:34 PM	Latitude: 38.03180625208889	Longitude: -78.5160715012	Speed: 7.8564444	Device ID: b98
+Time end: 9/21/2023 4:48:34 PM		Latitude: 38.03180561423556	Longitude: -78.51607174738	Speed: 7.861578	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 4:48:37 PM	Latitude: 38.0317521312	Longitude: -78.5160923892	Speed: 8.292	Device ID: b98
+Time end: 9/21/2023 4:48:37 PM		Latitude: 38.03175193791111	Longitude: -78.5160924638	Speed: 8.293555	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 4:49:39 PM	Latitude: 38.030774059857144	Longitude: -78.5167059157	Speed: 6.7324286	Device ID: b98
+Time end: 9/21/2023 4:49:39 PM		Latitude: 38.03077250014286	Longitude: -78.5167047603	Speed: 6.7475715	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 4:49:41 PM	Latitude: 38.0307435897	Longitude: -78.5166855	Speed: 6.237	Device ID: b98
+Time end: 9/21/2023 4:49:41 PM		Latitude: 38.0307434117	Longitude: -78.5166855	Speed: 6.1903334	Device ID: b98
+-
+Event 260:
+Time start: 9/21/2023 4:50:24 PM	Latitude: 38.030907958516664	Longitude: -78.51579785851668	Speed: 8.830833	Device ID: b98
+Time end: 9/21/2023 4:50:24 PM		Latitude: 38.03090668685	Longitude: -78.51579658685	Speed: 8.7475	Device ID: b98
+-
+Event 260:
+Time start: 9/22/2023 11:24:35 AM	Latitude: 38.024453270225	Longitude: -78.5324399245375	Speed: 26.169624	Device ID: b98
+Time end: 9/22/2023 11:24:35 AM		Latitude: 38.024457035525	Longitude: -78.5324353580875	Speed: 26.054125	Device ID: b98
+-
+Event 260:
+Time start: 9/22/2023 11:24:50 AM	Latitude: 38.024968320220005	Longitude: -78.53213285956	Speed: 4.7138	Device ID: b98
+Time end: 9/22/2023 11:24:50 AM		Latitude: 38.02496850178	Longitude: -78.53213249644	Speed: 4.6662	Device ID: b98
+-
+Event 260:
+Time start: 9/22/2023 11:24:51 AM	Latitude: 38.02497191938	Longitude: -78.53212566124	Speed: 3.7702	Device ID: b98
+Time end: 9/22/2023 11:24:51 AM		Latitude: 38.02497195142	Longitude: -78.53212559716	Speed: 3.7618	Device ID: b98
+-
+Event 260:
+Time start: 9/22/2023 11:25:22 AM	Latitude: 38.02493655434	Longitude: -78.53222861414667	Speed: 0.13686667	Device ID: b98
+Time end: 9/22/2023 11:25:22 AM		Latitude: 38.02493650806	Longitude: -78.53222887865334	Speed: 0.13513333	Device ID: b98
+-
+Event 260:
+Time start: 9/24/2023 10:19:17 AM	Latitude: 38.03648551702778	Longitude: -78.51647606031666	Speed: 7.137111	Device ID: b98
+Time end: 9/24/2023 10:19:17 AM		Latitude: 38.03648429630556	Longitude: -78.51647664368333	Speed: 7.1562223	Device ID: b98
+-
+Event 260:
+Time start: 9/25/2023 2:25:58 PM	Latitude: 38.030908112	Longitude: -78.4999161	Speed: 2.64	Device ID: b98
+Time end: 9/25/2023 2:25:58 PM		Latitude: 38.0309101756	Longitude: -78.4999161	Speed: 2.332	Device ID: b98
+-
+Event 260:
+Time start: 9/26/2023 2:49:40 PM	Latitude: 38.033942213168686	Longitude: -78.51275998957576	Speed: 4.6972322	Device ID: b98
+Time end: 9/26/2023 2:49:40 PM		Latitude: 38.03394214288182	Longitude: -78.51275978981818	Speed: 4.696909	Device ID: b98
+-
+Event 260:
+Time start: 9/26/2023 2:49:40 PM	Latitude: 38.03394189248485	Longitude: -78.51275907818182	Speed: 4.6957574	Device ID: b98
+Time end: 9/26/2023 2:49:40 PM		Latitude: 38.03394172994646	Longitude: -78.51275861624242	Speed: 4.69501	Device ID: b98
+-
+Event 260:
+Time start: 10/5/2023 5:47:09 PM	Latitude: 38.03657534835	Longitude: -78.516110488425	Speed: 15.343333	Device ID: b98
+Time end: 10/5/2023 5:47:09 PM		Latitude: 38.03657541065	Longitude: -78.516109536075	Speed: 15.39	Device ID: b98
+-
+Event 260:
+Time start: 10/11/2023 2:20:27 PM	Latitude: 38.032491244439996	Longitude: -78.5144803611	Speed: 23.5466	Device ID: b98
+Time end: 10/11/2023 2:20:27 PM		Latitude: 38.032490634039995	Longitude: -78.5144788351	Speed: 23.5906	Device ID: b98
+-
+Event 260:
+Time start: 10/11/2023 2:22:06 PM	Latitude: 38.03212644125	Longitude: -78.5109482	Speed: 1.9125	Device ID: b98
+Time end: 10/11/2023 2:22:06 PM		Latitude: 38.0321260311375	Longitude: -78.5109482	Speed: 1.896375	Device ID: b98
+-
+Event 260:
+Time start: 10/12/2023 5:25:19 PM	Latitude: 38.03209879166667	Longitude: -78.51092339166667	Speed: 3.6666667	Device ID: b98
+Time end: 10/12/2023 5:25:19 PM		Latitude: 38.0320984329	Longitude: -78.5109230329	Speed: 3.604	Device ID: b98
+-
+Event 260:
+Time start: 10/16/2023 7:09:25 PM	Latitude: 38.0321541	Longitude: -78.5192413	Speed: 0.667	Device ID: b98
+Time end: 10/16/2023 7:09:25 PM		Latitude: 38.0321541	Longitude: -78.5192413	Speed: 0.633	Device ID: b98
+-
+Event 260:
+Time start: 10/17/2023 12:48:03 PM	Latitude: 38.032179268087496	Longitude: -78.5109482	Speed: 4.904375	Device ID: b98
+Time end: 10/17/2023 12:48:03 PM		Latitude: 38.0321783269125	Longitude: -78.5109482	Speed: 4.845625	Device ID: b98
+-
+Event 260:
+Time start: 11/1/2023 2:42:55 PM	Latitude: 38.03241778388333	Longitude: -78.51075150805833	Speed: 4.164861	Device ID: b98
+-
+Event 260:
+Time start: 11/1/2023 2:50:07 PM	Latitude: 38.023515241	Longitude: -78.5337601	Speed: 13.74	Device ID: b98
+Time end: 11/1/2023 2:50:07 PM		Latitude: 38.02351413531667	Longitude: -78.5337601	Speed: 13.727667	Device ID: b98
+-
+Event 260:
+Time start: 12/5/2023 12:12:57 PM	Latitude: 38.032192511059996	Longitude: -78.5190887	Speed: 2.4886	Device ID: b98
+Time end: 12/5/2023 12:12:57 PM		Latitude: 38.032192524799996	Longitude: -78.5190887	Speed: 2.488	Device ID: b98
+-
+Event 260:
+Time start: 12/5/2023 3:04:18 PM	Latitude: 38.0322304	Longitude: -78.5190887	Speed: 6.526	Device ID: b98
+Time end: 12/5/2023 3:04:18 PM		Latitude: 38.0322304	Longitude: -78.5190887	Speed: 6.56	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 10:04:32 PM	Latitude: 38.03503294865	Longitude: -78.51264995618334	Speed: 7.8953333	Device ID: b98
+Time end: 12/14/2023 10:04:32 PM		Latitude: 38.035033064349996	Longitude: -78.51264939415	Speed: 7.878	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 10:04:32 PM	Latitude: 38.03503315335	Longitude: -78.51264896181667	Speed: 7.8646665	Device ID: b98
+Time end: 12/14/2023 10:04:32 PM		Latitude: 38.03503357165	Longitude: -78.51264692985	Speed: 7.802	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 10:29:22 PM	Latitude: 38.03501262702222	Longitude: -78.5126288685	Speed: 8.340889	Device ID: b98
+Time end: 12/14/2023 10:29:22 PM		Latitude: 38.035013431644444	Longitude: -78.5126260215	Speed: 8.405778	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 10:49:05 PM	Latitude: 38.0349630433	Longitude: -78.51268898981667	Speed: 3.7656667	Device ID: b98
+Time end: 12/14/2023 10:49:05 PM		Latitude: 38.034963248	Longitude: -78.51268869733333	Speed: 3.7733333	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 10:49:05 PM	Latitude: 38.034963604	Longitude: -78.51268818866667	Speed: 3.7866666	Device ID: b98
+Time end: 12/14/2023 10:49:05 PM		Latitude: 38.0349642893	Longitude: -78.51268720948333	Speed: 3.8123333	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 10:49:08 PM	Latitude: 38.0349874293	Longitude: -78.51265414615	Speed: 4.679	Device ID: b98
+Time end: 12/14/2023 10:49:08 PM		Latitude: 38.0349881057	Longitude: -78.51265317968334	Speed: 4.7043333	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 10:49:08 PM	Latitude: 38.0349924133	Longitude: -78.51264702481667	Speed: 4.865667	Device ID: b98
+Time end: 12/14/2023 10:49:08 PM		Latitude: 38.0349926803	Longitude: -78.51264664331667	Speed: 4.8756666	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 11:01:24 PM	Latitude: 38.03503450882	Longitude: -78.51257946472	Speed: 5.2462	Device ID: b98
+Time end: 12/14/2023 11:01:24 PM		Latitude: 38.035034386	Longitude: -78.512579956	Speed: 5.26	Device ID: b98
+-
+Event 260:
+Time start: 12/14/2023 11:01:25 PM	Latitude: 38.0350258954	Longitude: -78.5126139184	Speed: 6.214	Device ID: b98
+Time end: 12/14/2023 11:01:25 PM		Latitude: 38.03502582598	Longitude: -78.51261419608001	Speed: 6.2218	Device ID: b98
+-
+Event 260:
+Time start: 1/2/2024 4:40:48 PM	Latitude: 38.031630787833336	Longitude: -78.5186743325	Speed: 13.363334	Device ID: b98
+Time end: 1/2/2024 4:40:48 PM		Latitude: 38.0316303555	Longitude: -78.5186749175	Speed: 13.37	Device ID: b98
+-
+Event 260:
+Time start: 1/2/2024 4:40:48 PM	Latitude: 38.031629707	Longitude: -78.518675795	Speed: 13.38	Device ID: b98
+Time end: 1/2/2024 4:40:48 PM		Latitude: 38.031628193833335	Longitude: -78.5186778425	Speed: 13.403334	Device ID: b98
+-
+Event 260:
+Time start: 1/3/2024 1:50:44 PM	Latitude: 38.032198222742856	Longitude: -78.51894799377143	Speed: 12.454	Device ID: b98
+-
+Event 260:
+Time start: 1/24/2024 1:52:40 PM	Latitude: 38.053159583125	Longitude: -78.50575422125	Speed: 10.56875	Device ID: b98
+Time end: 1/24/2024 1:52:40 PM		Latitude: 38.0531596932625	Longitude: -78.50575315122501	Speed: 10.523375	Device ID: b98
+-
+Event 260:
+Time start: 1/29/2024 4:48:14 PM	Latitude: 38.03240547795714	Longitude: -78.5191146993	Speed: 9.325143	Device ID: b98
+Time end: 1/29/2024 4:48:14 PM		Latitude: 38.0324040391	Longitude: -78.5191155713	Speed: 9.188	Device ID: b98
+-

@@ -1,0 +1,523 @@
+Vehicle: V0639
+Time start: 10/9/2018 11:42:39 AM	Latitude: 38.052984681699996	Longitude: -78.51357671451429	Speed: 3.4564285	Device ID: b1C
+Time end: 10/9/2018 11:42:39 AM		Latitude: 38.0529839623	Longitude: -78.5135749872	Speed: 3.315	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/19/2018 3:51:57 PM	Latitude: 38.0505651294	Longitude: -78.51512960412	Speed: 40.9668	Device ID: b1C
+Time point 2: 10/19/2018 3:51:58 PM	Latitude: 38.05056	Longitude: -78.5151215	Speed: 41	Device ID: b1C
+Time end: 10/19/2018 3:51:58 PM		Latitude: 38.050555746274995	Longitude: -78.51511171587501	Speed: 39.216	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/26/2018 3:08:13 PM	Latitude: 38.0233994	Longitude: -78.5337601	Speed: 0.677	Device ID: b1C
+Time end: 10/26/2018 3:08:13 PM		Latitude: 38.0233994	Longitude: -78.5337601	Speed: 0.533	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/29/2018 6:11:17 PM	Latitude: 38.02614207321667	Longitude: -78.524536346225	Speed: 1.77125	Device ID: b1C
+Time end: 10/29/2018 6:11:17 PM		Latitude: 38.02616034566667	Longitude: -78.52452477050001	Speed: 1.325	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 11/19/2018 1:17:33 PM	Latitude: 38.0360718	Longitude: -78.5141884759	Speed: 0.571	Device ID: b1C
+Time end: 11/19/2018 1:17:33 PM		Latitude: 38.0360718	Longitude: -78.514187995	Speed: 0.55	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 12/10/2018 7:23:58 AM	Latitude: 38.02915390114286	Longitude: -78.51486017085715	Speed: 9.617143	Device ID: b1C
+Time end: 12/10/2018 7:23:58 AM		Latitude: 38.029153353657144	Longitude: -78.51486219736786	Speed: 9.612357	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 12/20/2018 12:22:01 PM	Latitude: 38.0366325	Longitude: -78.5164032	Speed: 0.77570283	Device ID: b1C
+Time end: 12/20/2018 12:22:01 PM		Latitude: 38.0366325	Longitude: -78.5164032	Speed: 0.0480197	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/13/2019 6:29:32 AM	Latitude: 38.04057618360714	Longitude: -78.51361363319643	Speed: 28	Device ID: b1C
+Time end: 1/13/2019 6:29:32 AM		Latitude: 38.040577195714285	Longitude: -78.51361270214285	Speed: 28	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/7/2019 12:30:33 PM	Latitude: 38.0365295	Longitude: -78.5158386	Speed: 4.5105	Device ID: b1C
+Time end: 2/7/2019 12:30:34 PM		Latitude: 38.0365295	Longitude: -78.5158386	Speed: 3.5095	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/26/2019 6:09:39 PM	Latitude: 38.045180772615	Longitude: -78.51662802396	Speed: 59	Device ID: b1C
+Time end: 2/26/2019 6:09:39 PM		Latitude: 38.045181057585	Longitude: -78.51662907683999	Speed: 59	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/28/2019 8:09:21 PM	Latitude: 38.0297737	Longitude: -78.525238	Speed: 0.4468	Device ID: b1C
+Time end: 2/28/2019 8:09:21 PM		Latitude: 38.0297737	Longitude: -78.525238	Speed: 0.416	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/27/2019 12:09:51 PM	Latitude: 38.023468124	Longitude: -78.53379154	Speed: 0.56	Device ID: b1C
+Time end: 3/27/2019 12:09:51 PM		Latitude: 38.0234695925	Longitude: -78.5337898625	Speed: 0.45	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/27/2019 12:09:58 PM	Latitude: 38.0235252	Longitude: -78.533783	Speed: 4.563	Device ID: b1C
+Time end: 3/27/2019 12:09:58 PM		Latitude: 38.0235252	Longitude: -78.533783	Speed: 2.997	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/27/2019 12:55:52 PM	Latitude: 38.023243	Longitude: -78.5338898	Speed: 1.41	Device ID: b1C
+Time end: 3/27/2019 12:55:52 PM		Latitude: 38.023243	Longitude: -78.5338898	Speed: 1.215	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/29/2019 12:54:24 PM	Latitude: 38.04803534476	Longitude: -78.50602034476	Speed: 0.3644	Device ID: b1C
+Time end: 3/29/2019 12:54:24 PM		Latitude: 38.048035351172	Longitude: -78.506020351172	Speed: 0.36468	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 4/1/2019 12:32:51 PM	Latitude: 38.02336239973334	Longitude: -78.53384115556666	Speed: 9.338667	Device ID: b1C
+Time end: 4/1/2019 12:32:51 PM		Latitude: 38.0233638216	Longitude: -78.5338404991	Speed: 9.568	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 4/2/2019 12:58:51 PM	Latitude: 38.0329475	Longitude: -78.5090027	Speed: 15.253333	Device ID: b1C
+Time end: 4/2/2019 12:58:52 PM		Latitude: 38.0329475	Longitude: -78.5090027	Speed: 14.446667	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 4/23/2019 10:04:17 AM	Latitude: 38.0361481	Longitude: -78.51784811415	Speed: 1.073	Device ID: b1C
+Time end: 4/23/2019 10:04:17 AM		Latitude: 38.0361481	Longitude: -78.51784834315	Speed: 1.053	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/29/2019 4:47:27 PM	Latitude: 38.02328180578	Longitude: -78.5339355	Speed: 3.1738	Device ID: b1C
+Time end: 7/29/2019 4:47:27 PM		Latitude: 38.02328093002	Longitude: -78.5339355	Speed: 2.9442	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/29/2019 4:47:37 PM	Latitude: 38.023295752525	Longitude: -78.5339355	Speed: 2.92725	Device ID: b1C
+Time point 2: 7/29/2019 4:47:38 PM	Latitude: 38.0232964	Longitude: -78.5339355	Speed: 3	Device ID: b1C
+Time end: 7/29/2019 4:47:38 PM		Latitude: 38.0232964	Longitude: -78.5339355	Speed: 2.949	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/30/2019 1:03:56 PM	Latitude: 38.0232201	Longitude: -78.5338898	Speed: 1.194	Device ID: b1C
+Time end: 7/30/2019 1:03:56 PM		Latitude: 38.0232201	Longitude: -78.5338898	Speed: 0.954	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/30/2019 1:04:19 PM	Latitude: 38.023293463	Longitude: -78.5338593	Speed: 4.45	Device ID: b1C
+Time end: 7/30/2019 1:04:19 PM		Latitude: 38.023296133	Longitude: -78.5338593	Speed: 4.95	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/2/2019 3:34:05 PM	Latitude: 38.05421083854818	Longitude: -78.51091205869838	Speed: 0.57822275	Device ID: b1C
+Time end: 8/2/2019 3:34:05 PM		Latitude: 38.054211363191484	Longitude: -78.5109116087234	Speed: 0.5978723	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/2/2019 3:34:09 PM	Latitude: 38.0542221	Longitude: -78.5108903525	Speed: 0.605	Device ID: b1C
+Time end: 8/2/2019 3:34:10 PM		Latitude: 38.0542221	Longitude: -78.51088673825001	Speed: 0.4865	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/2/2019 3:34:13 PM	Latitude: 38.0542221	Longitude: -78.5108719	Speed: 2.585	Device ID: b1C
+Time end: 8/2/2019 3:34:13 PM		Latitude: 38.0542221	Longitude: -78.5108719	Speed: 1.265	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/5/2019 2:17:53 PM	Latitude: 38.05084230846585	Longitude: -78.50928500967073	Speed: 0.9996829	Device ID: b1C
+Time end: 8/5/2019 2:17:53 PM		Latitude: 38.05084230195366	Longitude: -78.5092850022317	Speed: 0.9999268	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/5/2019 2:35:32 PM	Latitude: 38.02334317898182	Longitude: -78.53390342966364	Speed: 1.6192727	Device ID: b1C
+Time end: 8/5/2019 2:35:32 PM		Latitude: 38.023344247636366	Longitude: -78.53390293627272	Speed: 1.7054546	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/6/2019 5:17:47 PM	Latitude: 38.032839714699996	Longitude: -78.5144970642	Speed: 46.206	Device ID: b1C
+Time end: 8/6/2019 5:17:48 PM		Latitude: 38.03280998973	Longitude: -78.51450613678	Speed: 46.1554	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/19/2019 5:10:15 PM	Latitude: 38.0493813	Longitude: -78.51260346133333	Speed: 1.04	Device ID: b1C
+Time end: 8/19/2019 5:10:16 PM		Latitude: 38.0493813	Longitude: -78.51260394223334	Speed: 0.977	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/20/2019 2:26:40 PM	Latitude: 38.0404973575	Longitude: -78.5137666425	Speed: 48.825	Device ID: b1C
+Time end: 8/20/2019 2:26:40 PM		Latitude: 38.040491942525	Longitude: -78.51377205747501	Speed: 46.86275	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/30/2019 4:42:26 PM	Latitude: 38.0447998	Longitude: -78.5062637	Speed: 0.823	Device ID: b1C
+Time end: 8/30/2019 4:42:26 PM		Latitude: 38.0447998	Longitude: -78.5062637	Speed: 0.77	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 9/18/2019 6:05:33 PM	Latitude: 38.0232964	Longitude: -78.5338898	Speed: 3	Device ID: b1C
+Time end: 9/18/2019 6:05:33 PM		Latitude: 38.0232964	Longitude: -78.5338898	Speed: 2.9	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 9/25/2019 1:16:25 PM	Latitude: 38.0290031	Longitude: -78.5248489	Speed: 2.292	Device ID: b1C
+Time end: 9/25/2019 1:16:25 PM		Latitude: 38.0290031	Longitude: -78.5248489	Speed: 2.588	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/3/2019 6:54:15 PM	Latitude: 38.0232697	Longitude: -78.5339151548	Speed: 2.677	Device ID: b1C
+Time end: 10/3/2019 6:54:15 PM		Latitude: 38.0232697	Longitude: -78.533914904	Speed: 2.71	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/30/2019 4:47:26 PM	Latitude: 38.05157821235	Longitude: -78.50916074425	Speed: 6.286	Device ID: b1C
+Time end: 10/30/2019 4:47:26 PM		Latitude: 38.051579552	Longitude: -78.50915896000001	Speed: 6.52	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 11/4/2019 12:22:16 PM	Latitude: 38.0523372585	Longitude: -78.51375144699999	Speed: 10.565	Device ID: b1C
+Time end: 11/4/2019 12:22:17 PM		Latitude: 38.052331536000004	Longitude: -78.513755452	Speed: 10.04	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 11/16/2019 12:46:19 PM	Latitude: 38.0861969	Longitude: -78.4752884	Speed: 0.973463	Device ID: b1C
+Time end: 11/16/2019 12:46:19 PM		Latitude: 38.0861969	Longitude: -78.4752884	Speed: 0.90256256	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/7/2020 8:07:32 PM	Latitude: 38.04155768898	Longitude: -78.50537204912	Speed: 24.6734	Device ID: b1C
+Time end: 1/7/2020 8:07:32 PM		Latitude: 38.04155655978	Longitude: -78.50537000432	Speed: 24.6374	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/7/2020 8:10:14 PM	Latitude: 38.041429666650004	Longitude: -78.5051475298875	Speed: 16.8815	Device ID: b1C
+Time end: 1/7/2020 8:10:14 PM		Latitude: 38.04142927565	Longitude: -78.5051466906375	Speed: 16.8715	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/7/2020 8:24:32 PM	Latitude: 38.04603566945	Longitude: -78.50826909215	Speed: 6.4175	Device ID: b1C
+Time end: 1/7/2020 8:24:32 PM		Latitude: 38.0460354425	Longitude: -78.5082688975	Speed: 6.375	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/14/2020 3:38:11 PM	Latitude: 38.0486971702	Longitude: -78.51352295795999	Speed: 14.1546	Device ID: b1C
+Time end: 1/14/2020 3:38:11 PM		Latitude: 38.048697293800004	Longitude: -78.51352326924	Speed: 14.1174	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/25/2020 2:07:34 PM	Latitude: 38.0509186	Longitude: -78.550228854	Speed: 33.673332	Device ID: b1C
+Time end: 3/25/2020 2:07:35 PM		Latitude: 38.0509186	Longitude: -78.5502347823	Speed: 33.316334	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 6/26/2020 4:07:07 PM	Latitude: 38.029479380266665	Longitude: -78.5252838	Speed: 0.727	Device ID: b1C
+Time end: 6/26/2020 4:07:07 PM		Latitude: 38.02948214133333	Longitude: -78.5252838	Speed: 0.56	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 6/30/2020 10:32:42 AM	Latitude: 38.04224311275	Longitude: -78.5117158984	Speed: 37.85925	Device ID: b1C
+Time end: 6/30/2020 10:32:42 AM		Latitude: 38.04224352475	Longitude: -78.5117155016	Speed: 37.70325	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/17/2020 3:39:57 PM	Latitude: 38.0267792	Longitude: -78.5286179	Speed: 47.9325	Device ID: b1C
+Time point 2: 7/17/2020 3:39:58 PM	Latitude: 38.0267792	Longitude: -78.5286179	Speed: 48	Device ID: b1C
+Time end: 7/17/2020 3:39:58 PM		Latitude: 38.0267792	Longitude: -78.5286179	Speed: 46.152668	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/29/2020 3:40:39 PM	Latitude: 38.05324588083333	Longitude: -78.5131778245	Speed: 0.8883333	Device ID: b1C
+Time end: 7/29/2020 3:40:39 PM		Latitude: 38.05324637008333	Longitude: -78.51317757085	Speed: 0.76483333	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/3/2020 2:25:18 PM	Latitude: 38.0291328	Longitude: -78.5247726	Speed: 1.25	Device ID: b1C
+Time end: 8/3/2020 2:25:18 PM		Latitude: 38.0291328	Longitude: -78.5247726	Speed: 1.213	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 9/23/2020 4:49:25 PM	Latitude: 38.0455437	Longitude: -78.506958	Speed: 3.76	Device ID: b1C
+Time end: 9/23/2020 4:49:25 PM		Latitude: 38.0455437	Longitude: -78.506958	Speed: 2.424	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 12/17/2020 12:03:57 AM	Latitude: 38.0478706	Longitude: -78.508316	Speed: 1.3362	Device ID: b1C
+Time end: 12/17/2020 12:03:57 AM		Latitude: 38.0478706	Longitude: -78.508316	Speed: 1.122	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/8/2021 6:32:29 PM	Latitude: 38.02928509466667	Longitude: -78.52472750933333	Speed: 9.893333	Device ID: b1C
+Time end: 1/8/2021 6:32:30 PM		Latitude: 38.0292854	Longitude: -78.5247269	Speed: 10	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/7/2021 2:01:26 PM	Latitude: 38.04837600821875	Longitude: -78.509666937725	Speed: 11.798813	Device ID: b1C
+Time end: 2/7/2021 2:01:26 PM		Latitude: 38.048373767406254	Longitude: -78.509666443775	Speed: 11.784938	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/17/2021 3:24:33 PM	Latitude: 38.0384531609	Longitude: -78.5071547223	Speed: 42	Device ID: b1C
+Time end: 3/17/2021 3:24:33 PM		Latitude: 38.038435836428576	Longitude: -78.50716051214286	Speed: 42	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/19/2021 12:37:37 PM	Latitude: 38.0274690927	Longitude: -78.5164790649	Speed: 28.449	Device ID: b1C
+Time end: 3/19/2021 12:37:37 PM		Latitude: 38.027466689700006	Longitude: -78.51647700390001	Speed: 25.839	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 4/19/2021 11:47:02 AM	Latitude: 38.0352249	Longitude: -78.5140228	Speed: 23.883	Device ID: b1C
+Time end: 4/19/2021 11:47:02 AM		Latitude: 38.0352249	Longitude: -78.5140228	Speed: 23.553	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 4/22/2021 1:01:36 PM	Latitude: 38.042249190166665	Longitude: -78.51174597436666	Speed: 41.32139	Device ID: b1C
+Time end: 4/22/2021 1:01:37 PM		Latitude: 38.04226193333333	Longitude: -78.51173193333332	Speed: 41.27778	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 4/23/2021 2:36:10 PM	Latitude: 38.02344323775	Longitude: -78.53384994535	Speed: 12.16175	Device ID: b1C
+Time end: 4/23/2021 2:36:11 PM		Latitude: 38.02344879975	Longitude: -78.53384747215	Speed: 11.67575	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 6/7/2021 4:39:15 PM	Latitude: 38.0262413	Longitude: -78.5210342	Speed: 31.2171	Device ID: b1C
+Time point 2: 6/7/2021 4:39:16 PM	Latitude: 38.0262413	Longitude: -78.5210342	Speed: 31	Device ID: b1C
+Time end: 6/7/2021 4:39:16 PM		Latitude: 38.0262413	Longitude: -78.5210342	Speed: 30.44	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 6/9/2021 2:11:58 PM	Latitude: 38.02928997474	Longitude: -78.51337782366001	Speed: 38.1932	Device ID: b1C
+Time end: 6/9/2021 2:11:58 PM		Latitude: 38.02926678714	Longitude: -78.51340739526	Speed: 36.8252	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 6/15/2021 6:54:39 PM	Latitude: 38.048027	Longitude: -78.5041428	Speed: 2.289	Device ID: b1C
+Time end: 6/15/2021 6:54:39 PM		Latitude: 38.048027	Longitude: -78.5041428	Speed: 1.47	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 6/16/2021 6:43:27 PM	Latitude: 38.0290565	Longitude: -78.524768952	Speed: 0.48	Device ID: b1C
+Time end: 6/16/2021 6:43:27 PM		Latitude: 38.0290565	Longitude: -78.524764164	Speed: 1.11	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/9/2021 6:45:01 PM	Latitude: 38.0290972612	Longitude: -78.5247586388	Speed: 0.38766667	Device ID: b1C
+Time end: 7/9/2021 6:45:01 PM		Latitude: 38.0290973372	Longitude: -78.5247585628	Speed: 0.38433334	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/13/2021 2:43:50 PM	Latitude: 38.05350057662	Longitude: -78.50160030824	Speed: 39	Device ID: b1C
+Time end: 7/13/2021 2:43:50 PM		Latitude: 38.0534530306	Longitude: -78.5016502112	Speed: 39	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/28/2021 6:04:49 PM	Latitude: 38.0233994	Longitude: -78.53374178	Speed: 2.4	Device ID: b1C
+Time end: 7/28/2021 6:04:49 PM		Latitude: 38.0233994	Longitude: -78.53374208915	Speed: 2.3595	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/31/2021 2:17:04 PM	Latitude: 38.029436782307144	Longitude: -78.5253372	Speed: 0	Device ID: b1C
+Time end: 7/31/2021 2:17:05 PM		Latitude: 38.029436690764285	Longitude: -78.5253372	Speed: 0	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/7/2021 3:03:25 PM	Latitude: 38.052913996570965	Longitude: -78.5086746	Speed: 2.9666774	Device ID: b1C
+Time end: 8/7/2021 3:03:25 PM		Latitude: 38.05291399197742	Longitude: -78.5086746	Speed: 2.9671936	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/26/2021 1:40:47 PM	Latitude: 38.031493102666666	Longitude: -78.51514489866666	Speed: 44.693333	Device ID: b1C
+Time end: 8/26/2021 1:40:47 PM		Latitude: 38.03149279746667	Longitude: -78.51514505126667	Speed: 44.691334	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/30/2021 10:47:02 AM	Latitude: 38.04664845051428	Longitude: -78.50955084488572	Speed: 33.298428	Device ID: b1C
+Time end: 8/30/2021 10:47:02 AM		Latitude: 38.04663457508571	Longitude: -78.5095605783143	Speed: 32.94557	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 9/23/2021 11:23:32 AM	Latitude: 38.0367622	Longitude: -78.5146694319	Speed: 10.856	Device ID: b1C
+Time end: 9/23/2021 11:23:32 AM		Latitude: 38.0367622	Longitude: -78.514663905	Speed: 9.2	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/5/2021 5:40:32 PM	Latitude: 38.02914605655	Longitude: -78.5247498	Speed: 0.5035	Device ID: b1C
+Time end: 10/5/2021 5:40:33 PM		Latitude: 38.029149087	Longitude: -78.5247498	Speed: 0.39	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/5/2021 6:49:58 PM	Latitude: 38.0290031	Longitude: -78.5247726	Speed: 2.52525	Device ID: b1C
+Time end: 10/5/2021 6:49:58 PM		Latitude: 38.0290031	Longitude: -78.5247726	Speed: 2.62275	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/5/2021 6:50:01 PM	Latitude: 38.0290031	Longitude: -78.5247726	Speed: 0.775	Device ID: b1C
+Time end: 10/5/2021 6:50:01 PM		Latitude: 38.0290031	Longitude: -78.5247726	Speed: 0.7265	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/5/2021 6:50:04 PM	Latitude: 38.0290031	Longitude: -78.5247726	Speed: 3.308	Device ID: b1C
+Time end: 10/5/2021 6:50:04 PM		Latitude: 38.0290031	Longitude: -78.5247726	Speed: 2.612	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/18/2021 12:59:36 PM	Latitude: 38.0290565	Longitude: -78.5247498	Speed: 1.2261667	Device ID: b1C
+Time end: 10/18/2021 12:59:36 PM		Latitude: 38.0290565	Longitude: -78.5247498	Speed: 1.2305	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/22/2021 3:29:37 PM	Latitude: 38.029095156000004	Longitude: -78.5248032	Speed: 0.52	Device ID: b1C
+Time end: 10/22/2021 3:29:37 PM		Latitude: 38.029095680400005	Longitude: -78.5248032	Speed: 0.543	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/28/2021 3:17:47 PM	Latitude: 38.05092737474167	Longitude: -78.51561389124167	Speed: 31.111584	Device ID: b1C
+Time point 2: 10/28/2021 3:17:48 PM	Latitude: 38.0509186	Longitude: -78.5156097	Speed: 31	Device ID: b1C
+Time end: 10/28/2021 3:17:48 PM		Latitude: 38.05091038566667	Longitude: -78.51560486766667	Speed: 30.303333	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 11/5/2021 11:59:20 AM	Latitude: 38.0524571496	Longitude: -78.5077286	Speed: 5.635	Device ID: b1C
+Time end: 11/5/2021 11:59:20 AM		Latitude: 38.0524545704	Longitude: -78.5077286	Speed: 5.115	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 11/15/2021 7:17:59 PM	Latitude: 38.046109715774996	Longitude: -78.50986510450001	Speed: 28.83325	Device ID: b1C
+Time end: 11/15/2021 7:17:59 PM		Latitude: 38.046110844975	Longitude: -78.5098642805	Speed: 28.78925	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 12/10/2021 3:46:03 PM	Latitude: 38.0234489	Longitude: -78.5338135	Speed: 0.553	Device ID: b1C
+Time end: 12/10/2021 3:46:03 PM		Latitude: 38.0234489	Longitude: -78.5338135	Speed: 0.47	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/12/2022 1:12:42 PM	Latitude: 38.04313382005	Longitude: -78.51247656095	Speed: 30.47825	Device ID: b1C
+Time end: 1/12/2022 1:12:42 PM		Latitude: 38.0431194375	Longitude: -78.5124521125	Speed: 28.6875	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/14/2022 6:57:10 PM	Latitude: 38.0552177	Longitude: -78.5015259	Speed: 24.834	Device ID: b1C
+Time end: 1/14/2022 6:57:10 PM		Latitude: 38.0552177	Longitude: -78.5015259	Speed: 15.066	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/17/2022 1:10:08 AM	Latitude: 38.0447998	Longitude: -78.5097504	Speed: 10.122	Device ID: b1C
+Time end: 1/17/2022 1:10:08 AM		Latitude: 38.0447998	Longitude: -78.5097504	Speed: 9.978	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/17/2022 4:33:15 AM	Latitude: 38.05101024266666	Longitude: -78.5149918	Speed: 13.783334	Device ID: b1C
+Time end: 1/17/2022 4:33:15 AM		Latitude: 38.0510171764	Longitude: -78.5149918	Speed: 14.005	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/17/2022 6:06:23 AM	Latitude: 38.0526085	Longitude: -78.5106964	Speed: 3.92	Device ID: b1C
+Time end: 1/17/2022 6:06:23 AM		Latitude: 38.0526085	Longitude: -78.5106964	Speed: 2.779	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/17/2022 7:50:47 AM	Latitude: 38.0529427763	Longitude: -78.508357234	Speed: 9.178	Device ID: b1C
+Time end: 1/17/2022 7:50:47 AM		Latitude: 38.052942753414285	Longitude: -78.50835705742857	Speed: 9.176286	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/17/2022 8:16:47 AM	Latitude: 38.0527344	Longitude: -78.506910207	Speed: 7.735	Device ID: b1C
+Time end: 1/17/2022 8:16:47 AM		Latitude: 38.0527344	Longitude: -78.5069093259	Speed: 7.6195	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/17/2022 3:27:38 PM	Latitude: 38.0441856	Longitude: -78.5104141	Speed: 10.2	Device ID: b1C
+Time end: 1/17/2022 3:27:39 PM		Latitude: 38.0441856	Longitude: -78.5104141	Speed: 9.885	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/17/2022 6:34:06 PM	Latitude: 38.0538677728	Longitude: -78.5055401908	Speed: 11.93	Device ID: b1C
+Time end: 1/17/2022 6:34:06 PM		Latitude: 38.0538659416	Longitude: -78.5055429376	Speed: 11.96	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 1:12:08 PM	Latitude: 38.045230751666665	Longitude: -78.50836092216667	Speed: 9.616667	Device ID: b1C
+Time end: 1/18/2022 1:12:08 PM		Latitude: 38.0452301165	Longitude: -78.50836078095	Speed: 9.555	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 5:57:39 PM	Latitude: 38.04721442318	Longitude: -78.50740794636	Speed: 7.4437	Device ID: b1C
+Time end: 1/18/2022 5:57:39 PM		Latitude: 38.047214377399996	Longitude: -78.5074078548	Speed: 7.441	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:00:30 PM	Latitude: 38.04717083833334	Longitude: -78.5073995425	Speed: 9.841666	Device ID: b1C
+Time end: 1/18/2022 6:00:30 PM		Latitude: 38.04717071816667	Longitude: -78.50739933775	Speed: 9.835834	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:12:51 PM	Latitude: 38.0471802	Longitude: -78.5074692	Speed: 7.27	Device ID: b1C
+Time end: 1/18/2022 6:12:51 PM		Latitude: 38.0471802	Longitude: -78.5074692	Speed: 5.53	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:16:13 PM	Latitude: 38.0476151	Longitude: -78.5082629738	Speed: 0.007	Device ID: b1C
+Time point 2: 1/18/2022 6:16:14 PM	Latitude: 38.0476151	Longitude: -78.5082626	Speed: 0	Device ID: b1C
+Time end: 1/18/2022 6:16:14 PM		Latitude: 38.0476151	Longitude: -78.5082626	Speed: 0.03	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:29:45 PM	Latitude: 38.047528012	Longitude: -78.50852167100001	Speed: 6.9125	Device ID: b1C
+Time end: 1/18/2022 6:29:45 PM		Latitude: 38.0475304052	Longitude: -78.5085268241	Speed: 7.15375	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:30:05 PM	Latitude: 38.04749871876667	Longitude: -78.50854103753333	Speed: 6.4276667	Device ID: b1C
+Time end: 1/18/2022 6:30:05 PM		Latitude: 38.04749986376667	Longitude: -78.50854332753333	Speed: 5.8776665	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:30:20 PM	Latitude: 38.047484216	Longitude: -78.50853065733334	Speed: 7.8133335	Device ID: b1C
+Time end: 1/18/2022 6:30:20 PM		Latitude: 38.0474868593	Longitude: -78.50853821103334	Speed: 7.9123335	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:57:00 PM	Latitude: 38.047088058	Longitude: -78.5074158	Speed: 7.3733335	Device ID: b1C
+Time end: 1/18/2022 6:57:00 PM		Latitude: 38.0470845514	Longitude: -78.5074158	Speed: 7.898667	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 6:57:13 PM	Latitude: 38.047110842	Longitude: -78.507398854	Speed: 6.96	Device ID: b1C
+Time end: 1/18/2022 6:57:13 PM		Latitude: 38.0471107085	Longitude: -78.5073987395	Speed: 6.98	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 7:05:37 PM	Latitude: 38.04767351188	Longitude: -78.50842275076	Speed: 10.5656	Device ID: b1C
+Time end: 1/18/2022 7:05:37 PM		Latitude: 38.047675776279995	Longitude: -78.50842178956	Speed: 10.4936	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2022 7:13:12 PM	Latitude: 38.0470742144	Longitude: -78.5075684	Speed: 13.606	Device ID: b1C
+Time end: 1/18/2022 7:13:12 PM		Latitude: 38.0470696016	Longitude: -78.5075684	Speed: 13.234	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/19/2022 3:22:15 PM	Latitude: 38.04499764	Longitude: -78.510457888	Speed: 10.72	Device ID: b1C
+Time end: 1/19/2022 3:22:15 PM		Latitude: 38.044995065	Longitude: -78.510459223	Speed: 10.62	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/19/2022 3:31:35 PM	Latitude: 38.045658078699994	Longitude: -78.5098575785	Speed: 11.906	Device ID: b1C
+Time end: 1/19/2022 3:31:35 PM		Latitude: 38.045661791966666	Longitude: -78.50985497483333	Speed: 11.614	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/19/2022 6:03:28 PM	Latitude: 38.0541954	Longitude: -78.5051422	Speed: 0.0033333334	Device ID: b1C
+Time end: 1/19/2022 6:03:28 PM		Latitude: 38.0541954	Longitude: -78.5051422	Speed: 0.07616667	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/19/2022 6:04:54 PM	Latitude: 38.054245	Longitude: -78.505188	Speed: 0.18916667	Device ID: b1C
+Time end: 1/19/2022 6:04:54 PM		Latitude: 38.054245	Longitude: -78.505188	Speed: 0.19416666	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/20/2022 12:27:17 PM	Latitude: 38.05245723262	Longitude: -78.50737	Speed: 0.6326	Device ID: b1C
+Time end: 1/20/2022 12:27:17 PM		Latitude: 38.05245875862	Longitude: -78.50737	Speed: 0.6126	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/20/2022 12:27:26 PM	Latitude: 38.0525055	Longitude: -78.50737	Speed: 0.8735	Device ID: b1C
+Time point 2: 1/20/2022 12:27:27 PM	Latitude: 38.0525055	Longitude: -78.50737	Speed: 1	Device ID: b1C
+Time end: 1/20/2022 12:27:27 PM		Latitude: 38.0525048896	Longitude: -78.50737	Speed: 0.992	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/20/2022 12:48:38 PM	Latitude: 38.05422469915	Longitude: -78.50514479914999	Speed: 14.184	Device ID: b1C
+Time end: 1/20/2022 12:48:38 PM		Latitude: 38.054224813649995	Longitude: -78.50514491365	Speed: 14.104	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/20/2022 12:57:39 PM	Latitude: 38.0541954	Longitude: -78.50480841527273	Speed: 8.414545	Device ID: b1C
+Time end: 1/20/2022 12:57:39 PM		Latitude: 38.0541954	Longitude: -78.50480851936364	Speed: 8.382728	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/7/2022 2:04:33 PM	Latitude: 38.04229919655	Longitude: -78.5116252518	Speed: 21.323	Device ID: b1C
+Time end: 2/7/2022 2:04:33 PM		Latitude: 38.04231112895	Longitude: -78.5116154262	Speed: 21.507	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/8/2022 1:20:16 PM	Latitude: 38.0289536	Longitude: -78.5246201	Speed: 3.585	Device ID: b1C
+Time end: 2/8/2022 1:20:16 PM		Latitude: 38.0289536	Longitude: -78.5246201	Speed: 3.335	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/22/2022 3:54:40 PM	Latitude: 38.0349332594	Longitude: -78.5023152896875	Speed: 2.73375	Device ID: b1C
+Time end: 2/22/2022 3:54:40 PM		Latitude: 38.034932224	Longitude: -78.50231210624999	Speed: 2.525	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/16/2022 7:00:02 PM	Latitude: 38.0428035063	Longitude: -78.511183747175	Speed: 28.20425	Device ID: b1C
+Time end: 3/16/2022 7:00:02 PM		Latitude: 38.0427626103	Longitude: -78.511220371175	Speed: 28.04425	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/18/2022 5:02:40 PM	Latitude: 38.046554866099996	Longitude: -78.50963914976667	Speed: 12.805667	Device ID: b1C
+Time end: 3/18/2022 5:02:40 PM		Latitude: 38.046550781	Longitude: -78.50964031766667	Speed: 12.856667	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/21/2022 2:32:49 PM	Latitude: 38.02957507566667	Longitude: -78.52530692433334	Speed: 20.453333	Device ID: b1C
+Time end: 3/21/2022 2:32:49 PM		Latitude: 38.02958110336667	Longitude: -78.52530089663334	Speed: 19.189333	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/30/2022 4:54:58 PM	Latitude: 38.0513535	Longitude: -78.5091324	Speed: 0.915	Device ID: b1C
+Time end: 7/30/2022 4:54:58 PM		Latitude: 38.0513535	Longitude: -78.5091324	Speed: 0.9065	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/31/2022 1:02:21 PM	Latitude: 38.051403	Longitude: -78.5094681	Speed: 2.019	Device ID: b1C
+Time end: 7/31/2022 1:02:21 PM		Latitude: 38.051403	Longitude: -78.5094681	Speed: 1.791	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 8/20/2022 2:19:25 PM	Latitude: 38.051625266975	Longitude: -78.50377456605	Speed: 1.563	Device ID: b1C
+Time end: 8/20/2022 2:19:25 PM		Latitude: 38.051625554	Longitude: -78.503773992	Speed: 1.52	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 10/29/2022 12:34:22 PM	Latitude: 38.0530434	Longitude: -78.5151215	Speed: 0.4235	Device ID: b1C
+Time end: 10/29/2022 12:34:22 PM		Latitude: 38.0530434	Longitude: -78.5151215	Speed: 0.41	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 11/22/2022 3:20:11 PM	Latitude: 38.02330717345	Longitude: -78.5338593	Speed: 0.5965	Device ID: b1C
+Time end: 11/22/2022 3:20:11 PM		Latitude: 38.02330818805	Longitude: -78.5338593	Speed: 0.5585	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 11/22/2022 4:40:33 PM	Latitude: 38.023243	Longitude: -78.5339127	Speed: 0.377	Device ID: b1C
+Time end: 11/22/2022 4:40:33 PM		Latitude: 38.023243	Longitude: -78.5339127	Speed: 0.107	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/2/2023 6:59:57 PM	Latitude: 38.0494546459	Longitude: -78.5089798	Speed: 0.129	Device ID: b1C
+Time end: 2/2/2023 6:59:57 PM		Latitude: 38.04945637866666	Longitude: -78.5089798	Speed: 0.053333335	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/2/2023 7:18:13 PM	Latitude: 38.049408	Longitude: -78.5088272	Speed: 0.16233334	Device ID: b1C
+Time end: 2/2/2023 7:18:13 PM		Latitude: 38.049408	Longitude: -78.5088272	Speed: 0.16	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/21/2023 6:14:21 PM	Latitude: 38.0524292	Longitude: -78.5082092	Speed: 3.9366667	Device ID: b1C
+Time end: 2/21/2023 6:14:21 PM		Latitude: 38.0524292	Longitude: -78.5082092	Speed: 3.9543333	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 2/22/2023 4:09:34 PM	Latitude: 38.045037668	Longitude: -78.509737836	Speed: 11.565	Device ID: b1C
+Time end: 2/22/2023 4:09:34 PM		Latitude: 38.045037172	Longitude: -78.509736844	Speed: 11.385	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/1/2023 2:32:41 PM	Latitude: 38.036222824700005	Longitude: -78.515862908	Speed: 17.705	Device ID: b1C
+Time end: 3/1/2023 2:32:41 PM		Latitude: 38.036223305300005	Longitude: -78.515855492	Speed: 17.795	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 3/13/2023 2:37:43 PM	Latitude: 38.02625935665	Longitude: -78.52190898765001	Speed: 36.577	Device ID: b1C
+Time end: 3/13/2023 2:37:43 PM		Latitude: 38.02626256265	Longitude: -78.52194103365001	Speed: 36.857	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 4/10/2023 6:01:50 PM	Latitude: 38.02327326445	Longitude: -78.53383945715	Speed: 6.0655	Device ID: b1C
+Time end: 4/10/2023 6:01:50 PM		Latitude: 38.02327366495	Longitude: -78.53383980065	Speed: 5.9605	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 6/28/2023 12:34:51 PM	Latitude: 38.0488205	Longitude: -78.5028381	Speed: 13.003636	Device ID: b1C
+Time end: 6/28/2023 12:34:51 PM		Latitude: 38.0488205	Longitude: -78.5028381	Speed: 13.017	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 7/19/2023 2:07:06 PM	Latitude: 38.03899770417	Longitude: -78.50935929805	Speed: 46.0818	Device ID: b1C
+Time end: 7/19/2023 2:07:06 PM		Latitude: 38.038993578100005	Longitude: -78.5093691865	Speed: 46.074	Device ID: b1C
+-
+Vehicle: V0639
+Time start: 1/18/2024 7:03:18 PM	Latitude: 38.0367088	Longitude: -78.5162506	Speed: 3.65	Device ID: b1C
+Time end: 1/18/2024 7:03:18 PM		Latitude: 38.0367088	Longitude: -78.5162506	Speed: 3.635	Device ID: b1C
+-

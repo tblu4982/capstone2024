@@ -1,0 +1,38 @@
+Vehicle: V0967
+Time start: 1/3/2022 6:49:17 PM	Latitude: 38.044426782	Longitude: -78.50530056333332	Speed: 13.766666	Device ID: b209
+Time end: 1/3/2022 6:49:17 PM		Latitude: 38.04442428555	Longitude: -78.50529319241666	Speed: 13.610833	Device ID: b209
+-
+Vehicle: V0967
+Time start: 1/10/2022 4:22:02 PM	Latitude: 38.033308832299994	Longitude: -78.49832672975	Speed: 9.921	Device ID: b209
+Time end: 1/10/2022 4:22:02 PM		Latitude: 38.033307550699995	Longitude: -78.49832251775001	Speed: 9.489	Device ID: b209
+-
+Vehicle: V0967
+Time start: 1/16/2022 4:27:53 PM	Latitude: 38.0381463779	Longitude: -78.51515325895	Speed: 41.94225	Device ID: b209
+Time point 2: 1/16/2022 4:27:54 PM	Latitude: 38.0381432	Longitude: -78.515152	Speed: 42	Device ID: b209
+Time end: 1/16/2022 4:27:54 PM		Latitude: 38.03813702	Longitude: -78.51515017	Speed: 39.84	Device ID: b209
+-
+Vehicle: V0967
+Time start: 1/16/2022 4:27:54 PM	Latitude: 38.0381129695	Longitude: -78.51514304825	Speed: 31.434	Device ID: b209
+Time end: 1/16/2022 4:27:54 PM		Latitude: 38.038096335	Longitude: -78.5151381225	Speed: 25.62	Device ID: b209
+-
+Vehicle: V0967
+Time start: 5/27/2022 3:21:35 PM	Latitude: 38.03230430525	Longitude: -78.512711636525	Speed: 20.25575	Device ID: b209
+Time point 2: 5/27/2022 3:21:36 PM	Latitude: 38.0323067	Longitude: -78.5127182	Speed: 20	Device ID: b209
+Time end: 5/27/2022 3:21:36 PM		Latitude: 38.0323092899	Longitude: -78.5127182	Speed: 19.321	Device ID: b209
+-
+Vehicle: V0967
+Time start: 8/9/2022 4:42:42 PM	Latitude: 38.04005600545	Longitude: -78.5069689109	Speed: 27.1435	Device ID: b209
+Time end: 8/9/2022 4:42:43 PM		Latitude: 38.04002907155	Longitude: -78.5069150431	Speed: 23.9665	Device ID: b209
+-
+Vehicle: V0967
+Time start: 2/6/2023 7:29:02 PM	Latitude: 38.032078977	Longitude: -78.5179486028	Speed: 33.518	Device ID: b209
+Time end: 2/6/2023 7:29:02 PM		Latitude: 38.0320880561	Longitude: -78.51794362804	Speed: 34.1374	Device ID: b209
+-
+Vehicle: V0967
+Time start: 3/6/2023 6:14:25 PM	Latitude: 38.049180836000005	Longitude: -78.50583157049999	Speed: 39.67	Device ID: b209
+Time end: 3/6/2023 6:14:25 PM		Latitude: 38.049194054400004	Longitude: -78.50585190445	Speed: 29.543	Device ID: b209
+-
+Vehicle: V0967
+Time start: 11/28/2023 6:32:04 PM	Latitude: 38.04181565725789	Longitude: -78.50595817647894	Speed: 46.228317	Device ID: b209
+Time end: 11/28/2023 6:32:04 PM		Latitude: 38.04173055815263	Longitude: -78.50598098242631	Speed: 46.004105	Device ID: b209
+-

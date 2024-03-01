@@ -1,0 +1,59 @@
+Vehicle: V0708
+Time start: 11/11/2020 2:32:24 PM	Latitude: 38.0858612	Longitude: -78.47433984164076	Speed: 0	Device ID: bE7
+Time end: 11/11/2020 2:32:24 PM		Latitude: 38.0858612	Longitude: -78.47433984107002	Speed: 0	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 6/16/2021 5:10:54 PM	Latitude: 38.0364304	Longitude: -78.51657874471448	Speed: 0	Device ID: bE7
+Time end: 6/16/2021 5:10:54 PM		Latitude: 38.0364304	Longitude: -78.51657874464382	Speed: 0	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 8/3/2021 6:35:44 PM	Latitude: 38.0369441536	Longitude: -78.509502021	Speed: 51.1275	Device ID: bE7
+Time end: 8/3/2021 6:35:44 PM		Latitude: 38.036960844	Longitude: -78.50957134	Speed: 39.35	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 4/19/2022 2:00:57 PM	Latitude: 38.02372338046	Longitude: -78.48492396092	Speed: 2.1214	Device ID: bE7
+Time end: 4/19/2022 2:00:57 PM		Latitude: 38.0237234036	Longitude: -78.48492400720001	Speed: 2.124	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 4/28/2022 11:07:25 AM	Latitude: 38.036524862655554	Longitude: -78.5163132746889	Speed: 0.12155555	Device ID: bE7
+Time end: 4/28/2022 11:07:25 AM		Latitude: 38.03652455745556	Longitude: -78.51631388508889	Speed: 0.12955555	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 4/28/2022 11:07:25 AM	Latitude: 38.03652452354444	Longitude: -78.51631395291112	Speed: 0.13044444	Device ID: bE7
+Time end: 4/28/2022 11:07:25 AM		Latitude: 38.03652443876667	Longitude: -78.51631412246667	Speed: 0.13266666	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 4/28/2022 11:07:25 AM	Latitude: 38.036524269211114	Longitude: -78.51631446157778	Speed: 0.13711111	Device ID: bE7
+Time end: 4/28/2022 11:07:25 AM		Latitude: 38.03652359098889	Longitude: -78.51631581802222	Speed: 0.15488888	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 11/2/2022 12:52:54 PM	Latitude: 38.0349033062	Longitude: -78.50048947009999	Speed: 31.614	Device ID: bE7
+Time point 2: 11/2/2022 12:52:55 PM	Latitude: 38.0349197	Longitude: -78.5005035	Speed: 31	Device ID: bE7
+Time end: 11/2/2022 12:52:55 PM		Latitude: 38.0349208656	Longitude: -78.5005042191	Speed: 30.4595	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 4/4/2023 6:02:34 PM	Latitude: 38.0353556664	Longitude: -78.5139999	Speed: 23.5055	Device ID: bE7
+Time end: 4/4/2023 6:02:34 PM		Latitude: 38.035365264	Longitude: -78.5139999	Speed: 19.055	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 7/12/2023 12:12:49 PM	Latitude: 38.0402147955	Longitude: -78.5066024915	Speed: 11.245	Device ID: bE7
+Time end: 7/12/2023 12:12:49 PM		Latitude: 38.04021221895	Longitude: -78.50660470135	Speed: 9.9905	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 7/12/2023 4:21:25 PM	Latitude: 38.038280497875	Longitude: -78.490056899625	Speed: 10.5175	Device ID: bE7
+Time end: 7/12/2023 4:21:25 PM		Latitude: 38.038282042125	Longitude: -78.490059360375	Speed: 10.6825	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 7/12/2023 4:22:03 PM	Latitude: 38.0403629301	Longitude: -78.49196678439999	Speed: 37.3652	Device ID: bE7
+Time end: 7/12/2023 4:22:03 PM		Latitude: 38.040431232100005	Longitude: -78.4919972724	Speed: 37.0692	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 7/14/2023 10:46:01 AM	Latitude: 38.052578501599996	Longitude: -78.51101942605	Speed: 14.133	Device ID: bE7
+Time point 2: 7/14/2023 10:46:02 AM	Latitude: 38.0525818	Longitude: -78.5110245	Speed: 14	Device ID: bE7
+Time end: 7/14/2023 10:46:02 AM		Latitude: 38.0525818	Longitude: -78.51102704675	Speed: 12.831	Device ID: bE7
+-
+Vehicle: V0708
+Time start: 10/19/2023 11:48:53 AM	Latitude: 38.0281602602	Longitude: -78.4922373976	Speed: 38.988	Device ID: bE7
+Time point 2: 10/19/2023 11:48:54 AM	Latitude: 38.0281868	Longitude: -78.4922867	Speed: 37	Device ID: bE7
+Time end: 10/19/2023 11:48:54 AM		Latitude: 38.0281899496	Longitude: -78.4922900909	Speed: 34.9045	Device ID: bE7
+-

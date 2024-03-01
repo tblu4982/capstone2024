@@ -1,0 +1,87 @@
+Event 35:
+Time start: 4/12/2023 11:51:56 AM	Latitude: 38.033696362	Longitude: -78.51780788516666	Speed: 8.165	Device ID: b24B
+Time end: 4/12/2023 11:51:57 AM		Latitude: 38.03372533	Longitude: -78.51779318583333	Speed: 11.225	Device ID: b24B
+-
+Event 35:
+Time start: 4/14/2023 6:06:26 PM	Latitude: 38.035460605625	Longitude: -78.51613078	Speed: 0.65625	Device ID: b24B
+Time end: 4/14/2023 6:06:27 PM		Latitude: 38.0354603852125	Longitude: -78.5161317348	Speed: 0.608125	Device ID: b24B
+-
+Event 35:
+Time start: 4/21/2023 3:12:40 PM	Latitude: 38.04475594943334	Longitude: -78.51079211563332	Speed: 10.730667	Device ID: b24B
+Time end: 4/21/2023 3:12:40 PM		Latitude: 38.044758593333334	Longitude: -78.51079051333333	Speed: 11.066667	Device ID: b24B
+-
+Event 35:
+Time start: 4/25/2023 5:12:21 PM	Latitude: 38.048198233066664	Longitude: -78.51218226336667	Speed: 12.492	Device ID: b24B
+Time end: 4/25/2023 5:12:21 PM		Latitude: 38.0481974064	Longitude: -78.5121809917	Speed: 12.692	Device ID: b24B
+-
+Event 35:
+Time start: 5/12/2023 2:38:16 PM	Latitude: 38.048210570849996	Longitude: -78.5122155417	Speed: 7.627	Device ID: b24B
+Time point 2: 5/12/2023 2:38:17 PM	Latitude: 38.0482063	Longitude: -78.512207	Speed: 8	Device ID: b24B
+Time end: 5/12/2023 2:38:17 PM		Latitude: 38.048205013149996	Longitude: -78.51220629811667	Speed: 8.111167	Device ID: b24B
+-
+Event 35:
+Time start: 5/16/2023 5:21:41 PM	Latitude: 38.0482328223	Longitude: -78.51212034863333	Speed: 6.4923334	Device ID: b24B
+Time end: 5/16/2023 5:21:41 PM		Latitude: 38.048235225300004	Longitude: -78.51211348163334	Speed: 7.482333	Device ID: b24B
+-
+Event 35:
+Time start: 5/24/2023 11:47:11 AM	Latitude: 38.03141941602	Longitude: -78.51040743342	Speed: 4.3364	Device ID: b24B
+Time point 2: 5/24/2023 11:47:12 AM	Latitude: 38.0314102	Longitude: -78.5104141	Speed: 3	Device ID: b24B
+Time end: 5/24/2023 11:47:12 AM		Latitude: 38.03140676666667	Longitude: -78.51041740666668	Speed: 3.6333334	Device ID: b24B
+-
+Event 35:
+Time start: 5/24/2023 3:45:08 PM	Latitude: 38.04825147615339	Longitude: -78.50815195289087	Speed: 11.541268	Device ID: b24B
+Time end: 5/24/2023 3:45:09 PM		Latitude: 38.04824688637095	Longitude: -78.50816263739947	Speed: 11.916025	Device ID: b24B
+-
+Event 35:
+Time start: 5/31/2023 2:38:37 PM	Latitude: 38.0465211247	Longitude: -78.5098446329143	Speed: 12.645857	Device ID: b24B
+Time end: 5/31/2023 2:38:37 PM		Latitude: 38.0465203617	Longitude: -78.50984234491429	Speed: 12.775857	Device ID: b24B
+-
+Event 35:
+Time start: 6/27/2023 3:51:14 PM	Latitude: 38.047870065350004	Longitude: -78.50867502160001	Speed: 7.08075	Device ID: b24B
+Time end: 6/27/2023 3:51:14 PM		Latitude: 38.047870285500004	Longitude: -78.50867484800001	Speed: 7.0475	Device ID: b24B
+-
+Event 35:
+Time start: 6/27/2023 3:57:16 PM	Latitude: 38.02880172135	Longitude: -78.5165024	Speed: 1.0945	Device ID: b24B
+Time end: 6/27/2023 3:57:16 PM		Latitude: 38.028801080150004	Longitude: -78.5165024	Speed: 1.0105	Device ID: b24B
+-
+Event 35:
+Time start: 6/30/2023 5:47:12 PM	Latitude: 38.0482292	Longitude: -78.5122373654	Speed: 6.696	Device ID: b24B
+Time end: 6/30/2023 5:47:12 PM		Latitude: 38.0482292	Longitude: -78.5122192286	Speed: 9.864	Device ID: b24B
+-
+Event 35:
+Time start: 7/4/2023 11:45:21 PM	Latitude: 38.03287912184	Longitude: -78.50910502881999	Speed: 10.4064	Device ID: b24B
+Time end: 7/4/2023 11:45:21 PM		Latitude: 38.03287124936	Longitude: -78.50910267878	Speed: 11.1456	Device ID: b24B
+-
+Event 35:
+Time start: 7/27/2023 1:59:40 PM	Latitude: 38.048151587999996	Longitude: -78.508107063	Speed: 10.1	Device ID: b24B
+Time end: 7/27/2023 1:59:40 PM		Latitude: 38.0481482991	Longitude: -78.508107443475	Speed: 9.9575	Device ID: b24B
+-
+Event 35:
+Time start: 8/11/2023 8:03:16 PM	Latitude: 38.034882838025	Longitude: -78.516899260375	Speed: 10.25125	Device ID: b24B
+Time end: 8/11/2023 8:03:16 PM		Latitude: 38.034883791774995	Longitude: -78.51689706662499	Speed: 10.43875	Device ID: b24B
+-
+Event 35:
+Time start: 10/31/2023 8:04:54 PM	Latitude: 38.04619187262	Longitude: -78.50978551926	Speed: 1.4289	Device ID: b24B
+Time end: 10/31/2023 8:04:54 PM		Latitude: 38.0461926974	Longitude: -78.50978487020001	Speed: 1.353	Device ID: b24B
+-
+Event 35:
+Time start: 1/2/2024 3:30:44 PM	Latitude: 38.03486172785	Longitude: -78.51689733695	Speed: 5.816	Device ID: b24B
+Time point 2: 1/2/2024 3:30:45 PM	Latitude: 38.0348663	Longitude: -78.5168915	Speed: 5	Device ID: b24B
+Time end: 1/2/2024 3:30:45 PM		Latitude: 38.034866547975	Longitude: -78.5168908305	Speed: 5.06175	Device ID: b24B
+-
+Event 35:
+Time start: 1/2/2024 3:57:37 PM	Latitude: 38.034897326	Longitude: -78.51698012439999	Speed: 8.672	Device ID: b24B
+Time end: 1/2/2024 3:57:37 PM		Latitude: 38.034899118199995	Longitude: -78.51697574308	Speed: 8.9504	Device ID: b24B
+-
+Event 35:
+Time start: 1/16/2024 12:25:31 PM	Latitude: 38.0449524	Longitude: -78.51063192785	Speed: 2.901	Device ID: b24B
+Time end: 1/16/2024 12:25:31 PM		Latitude: 38.0449524	Longitude: -78.51063307285	Speed: 2.601	Device ID: b24B
+-
+Event 35:
+Time start: 1/18/2024 2:40:54 PM	Latitude: 38.04824984978	Longitude: -78.51247090044001	Speed: 2.6798	Device ID: b24B
+Time end: 1/18/2024 2:40:55 PM		Latitude: 38.04825081098	Longitude: -78.51246897804	Speed: 2.5718	Device ID: b24B
+-
+Event 35:
+Time start: 1/18/2024 2:46:54 PM	Latitude: 38.049895042639996	Longitude: -78.51277024506	Speed: 8.1554	Device ID: b24B
+Time end: 1/18/2024 2:46:54 PM		Latitude: 38.04989610616	Longitude: -78.51277149014	Speed: 8.0126	Device ID: b24B
+-

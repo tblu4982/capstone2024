@@ -1,0 +1,17 @@
+Vehicle: V0831
+Time start: 7/26/2019 5:42:15 PM	Latitude: 38.041221346721734	Longitude: -78.4791565	Speed: 4.2256064	Device ID: b4B
+Time end: 7/26/2019 5:42:15 PM		Latitude: 38.041221429478576	Longitude: -78.4791565	Speed: 4.2075377	Device ID: b4B
+-
+Vehicle: V0831
+Time start: 7/15/2021 6:12:17 PM	Latitude: 38.04820611842	Longitude: -78.52159890682	Speed: 17.979	Device ID: b4B
+Time point 2: 7/15/2021 6:12:18 PM	Latitude: 38.0482063	Longitude: -78.5215988	Speed: 18	Device ID: b4B
+Time end: 7/15/2021 6:12:18 PM		Latitude: 38.04820641573333	Longitude: -78.52159874656667	Speed: 17.958	Device ID: b4B
+-
+Vehicle: V0831
+Time start: 7/29/2021 12:10:05 PM	Latitude: 38.0356598	Longitude: -78.51652917470405	Speed: 0	Device ID: b4B
+Time end: 7/29/2021 12:10:06 PM		Latitude: 38.0356598	Longitude: -78.51652917097297	Speed: 0	Device ID: b4B
+-
+Vehicle: V0831
+Time start: 7/6/2023 4:47:31 PM	Latitude: 38.035972436921426	Longitude: -78.51784688754286	Speed: 0.27242857	Device ID: b4B
+Time end: 7/6/2023 4:47:31 PM		Latitude: 38.03597219471428	Longitude: -78.51784778742858	Speed: 0.25428572	Device ID: b4B
+-

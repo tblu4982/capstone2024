@@ -1,0 +1,32 @@
+Vehicle: V0500
+Time start: 11/13/2019 8:13:48 PM	Latitude: 38.079415266666665	Longitude: -78.49489409133334	Speed: 61.386665	Device ID: b68
+Time end: 11/13/2019 8:13:48 PM		Latitude: 38.07942353	Longitude: -78.49488548629999	Speed: 61.342	Device ID: b68
+-
+Vehicle: V0500
+Time start: 11/14/2019 1:05:04 PM	Latitude: 38.08597948891111	Longitude: -78.47489556673334	Speed: 36.083668	Device ID: b68
+Time end: 11/14/2019 1:05:04 PM		Latitude: 38.0859776238	Longitude: -78.4748899714	Speed: 35.607	Device ID: b68
+-
+Vehicle: V0500
+Time start: 11/14/2019 6:27:43 PM	Latitude: 38.089758949	Longitude: -78.473492438	Speed: 55.72	Device ID: b68
+Time end: 11/14/2019 6:27:43 PM		Latitude: 38.089726007925	Longitude: -78.47344700135	Speed: 52.544	Device ID: b68
+-
+Vehicle: V0500
+Time start: 11/20/2019 7:19:19 PM	Latitude: 38.0859375	Longitude: -78.4739609	Speed: 0.963	Device ID: b68
+Time end: 11/20/2019 7:19:19 PM		Latitude: 38.0859375	Longitude: -78.4739609	Speed: 0.943	Device ID: b68
+-
+Vehicle: V0500
+Time start: 11/21/2019 2:50:21 PM	Latitude: 38.0844939758	Longitude: -78.4766191447	Speed: 34.883335	Device ID: b68
+Time end: 11/21/2019 2:50:21 PM		Latitude: 38.0844973458	Longitude: -78.4766238497	Speed: 34.05	Device ID: b68
+-
+Vehicle: V0500
+Time start: 9/22/2021 5:40:21 PM	Latitude: 38.03673011995	Longitude: -78.51779024574999	Speed: 9.582	Device ID: b68
+Time end: 9/22/2021 5:40:21 PM		Latitude: 38.03672865145	Longitude: -78.51779192325	Speed: 8.922	Device ID: b68
+-
+Vehicle: V0500
+Time start: 1/18/2022 2:28:21 PM	Latitude: 38.053965513099996	Longitude: -78.4981279869	Speed: 44.3645	Device ID: b68
+Time end: 1/18/2022 2:28:21 PM		Latitude: 38.0539586461	Longitude: -78.4981348539	Speed: 43.5995	Device ID: b68
+-
+Vehicle: V0500
+Time start: 1/17/2023 6:53:52 PM	Latitude: 38.036452990085714	Longitude: -78.5169674095857	Speed: 2.1548572	Device ID: b68
+Time end: 1/17/2023 6:53:52 PM		Latitude: 38.036451965714285	Longitude: -78.51696846571429	Speed: 2.057143	Device ID: b68
+-

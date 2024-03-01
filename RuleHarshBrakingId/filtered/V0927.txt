@@ -1,0 +1,29 @@
+Vehicle: V0927
+Time start: 10/1/2021 2:59:42 PM	Latitude: 38.0320511	Longitude: -78.4965363	Speed: 13.542	Device ID: bEE
+Time end: 10/1/2021 2:59:42 PM		Latitude: 38.0320511	Longitude: -78.4965363	Speed: 13.338	Device ID: bEE
+-
+Vehicle: V0927
+Time start: 1/25/2022 9:00:16 PM	Latitude: 38.0849915	Longitude: -78.47357178726048	Speed: 0	Device ID: bEE
+Time end: 1/25/2022 9:00:16 PM		Latitude: 38.0849915	Longitude: -78.47357178725827	Speed: 0	Device ID: bEE
+-
+Vehicle: V0927
+Time start: 1/25/2022 9:00:16 PM	Latitude: 38.0849915	Longitude: -78.47357178725485	Speed: 0	Device ID: bEE
+Time end: 1/25/2022 9:00:16 PM		Latitude: 38.0849915	Longitude: -78.47357178723693	Speed: 0	Device ID: bEE
+-
+Vehicle: V0927
+Time start: 1/25/2022 9:00:17 PM	Latitude: 38.0849915	Longitude: -78.47357178717938	Speed: 0	Device ID: bEE
+Time end: 1/25/2022 9:00:21 PM		Latitude: 38.0849915	Longitude: -78.47357178660683	Speed: 0	Device ID: bEE
+-
+Vehicle: V0927
+Time start: 1/25/2022 9:00:23 PM	Latitude: 38.0849915	Longitude: -78.47357178638629	Speed: 0	Device ID: bEE
+Time end: 1/25/2022 9:00:23 PM		Latitude: 38.0849915	Longitude: -78.47357178630426	Speed: 0	Device ID: bEE
+-
+Vehicle: V0927
+Time start: 10/14/2022 7:14:03 PM	Latitude: 38.036421589	Longitude: -78.515678214	Speed: 6.7	Device ID: bEE
+Time end: 10/14/2022 7:14:04 PM		Latitude: 38.0364199603	Longitude: -78.5156810078	Speed: 6.09	Device ID: bEE
+-
+Vehicle: V0927
+Time start: 6/28/2023 11:27:38 AM	Latitude: 38.0362711673625	Longitude: -78.5155399154375	Speed: 12.8515	Device ID: bEE
+Time point 2: 6/28/2023 11:27:39 AM	Latitude: 38.036274	Longitude: -78.5155334	Speed: 13	Device ID: bEE
+Time end: 6/28/2023 11:27:39 AM		Latitude: 38.036279607	Longitude: -78.515528612	Speed: 10.27	Device ID: bEE
+-

@@ -1,0 +1,41 @@
+Event 60:
+Time start: 3/20/2023 6:35:15 PM	Latitude: 38.02647916595714	Longitude: -78.46737528621428	Speed: 5.1625714	Device ID: b22B
+Time end: 3/20/2023 6:35:15 PM		Latitude: 38.02647712714286	Longitude: -78.46737636428571	Speed: 5.3714285	Device ID: b22B
+-
+Event 60:
+Time start: 6/20/2023 5:12:21 PM	Latitude: 38.049368088	Longitude: -78.506200676	Speed: 8.8	Device ID: b22B
+Time end: 6/20/2023 5:12:21 PM		Latitude: 38.04936415897778	Longitude: -78.50619529184445	Speed: 8.475555	Device ID: b22B
+-
+Event 60:
+Time start: 6/28/2023 12:04:26 PM	Latitude: 38.02866843865	Longitude: -78.51636287584999	Speed: 5.1078334	Device ID: b22B
+Time end: 6/28/2023 12:04:26 PM		Latitude: 38.02866714815	Longitude: -78.51637910135	Speed: 6.5095	Device ID: b22B
+-
+Event 60:
+Time start: 7/12/2023 4:45:21 PM	Latitude: 38.042413229728574	Longitude: -78.5115194686143	Speed: 10.502714	Device ID: b22B
+Time end: 7/12/2023 4:45:21 PM		Latitude: 38.04241564944286	Longitude: -78.51151685347143	Speed: 10.305572	Device ID: b22B
+-
+Event 60:
+Time start: 7/14/2023 10:40:03 AM	Latitude: 38.032687506033334	Longitude: -78.50913610553333	Speed: 6.341	Device ID: b22B
+Time point 2: 7/14/2023 10:40:04 AM	Latitude: 38.032692	Longitude: -78.5091324	Speed: 6	Device ID: b22B
+Time end: 7/14/2023 10:40:04 AM		Latitude: 38.032699619999995	Longitude: -78.50912706	Speed: 7.4	Device ID: b22B
+-
+Event 60:
+Time start: 8/3/2023 4:25:38 PM	Latitude: 38.034924964700004	Longitude: -78.5169572706	Speed: 10.173	Device ID: b22B
+Time end: 8/3/2023 4:25:38 PM		Latitude: 38.03492936466667	Longitude: -78.51694847066666	Speed: 11.153334	Device ID: b22B
+-
+Event 60:
+Time start: 8/14/2023 1:05:04 PM	Latitude: 38.03490239214	Longitude: -78.51694674042	Speed: 9.5666	Device ID: b22B
+Time end: 8/14/2023 1:05:04 PM		Latitude: 38.03490778066	Longitude: -78.51693465798	Speed: 10.4654	Device ID: b22B
+-
+Event 60:
+Time start: 8/18/2023 10:38:32 AM	Latitude: 38.04239821355	Longitude: -78.51152616295	Speed: 10.4455	Device ID: b22B
+Time end: 8/18/2023 10:38:32 AM		Latitude: 38.0423989745	Longitude: -78.5115248605	Speed: 10.645	Device ID: b22B
+-
+Event 60:
+Time start: 12/12/2023 1:45:41 PM	Latitude: 38.0367044104	Longitude: -78.504428376275	Speed: 2.7965	Device ID: b22B
+Time end: 12/12/2023 1:45:41 PM		Latitude: 38.0367011864	Longitude: -78.504430856025	Speed: 3.3815	Device ID: b22B
+-
+Event 60:
+Time start: 1/18/2024 12:44:04 PM	Latitude: 38.05187265975	Longitude: -78.50924413565001	Speed: 5.565	Device ID: b22B
+Time end: 1/18/2024 12:44:04 PM		Latitude: 38.05187997275	Longitude: -78.50925550985001	Speed: 6.985	Device ID: b22B
+-

@@ -1,0 +1,15 @@
+Vehicle: V1064
+Time start: 8/9/2023 2:34:00 PM	Latitude: 38.04700857298	Longitude: -78.51098695820001	Speed: 42.1348	Device ID: b269
+Time point 2: 8/9/2023 2:34:01 PM	Latitude: 38.0470276	Longitude: -78.5110245	Speed: 42	Device ID: b269
+-
+Time end: 8/9/2023 2:34:01 PM		Latitude: 38.04703473405	Longitude: -78.51103662695	Speed: 39.008	Device ID: b269
+-
+Vehicle: V1064
+Time start: 9/27/2023 2:39:51 PM	Latitude: 38.042948474633334	Longitude: -78.51226829803333	Speed: 29.298666	Device ID: b269
+Time end: 9/27/2023 2:39:51 PM		Latitude: 38.04293992903333	Longitude: -78.51225377163334	Speed: 25.714666	Device ID: b269
+-
+Vehicle: V1064
+Time start: 1/26/2024 4:03:55 PM	Latitude: 38.03994291525556	Longitude: -79.02073204424444	Speed: 77.09045	Device ID: b269
+Time point 2: 1/26/2024 4:03:56 PM	Latitude: 38.0399857	Longitude: -79.0206451	Speed: 77	Device ID: b269
+Time end: 1/26/2024 4:03:56 PM		Latitude: 38.0399979774	Longitude: -79.02062114965	Speed: 74.5665	Device ID: b269
+-

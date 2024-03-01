@@ -1,0 +1,725 @@
+Trip: 0
+Start: 1/30/2023 7:07:48 PM	End: 1/30/2023 7:08:39 PM	Distance: 0.026780197
+-
+Trip: 1
+Start: 1/30/2023 7:10:12 PM	End: 1/30/2023 7:17:12 PM	Distance: 1.4060382
+-
+Trip: 2
+Start: 1/30/2023 7:19:42 PM	End: 1/30/2023 7:27:07 PM	Distance: 1.8718978
+-
+Trip: 3
+Start: 1/31/2023 5:40:23 PM	End: 1/31/2023 5:51:22 PM	Distance: 2.9057863
+-
+Trip: 4
+Start: 1/31/2023 6:40:25 PM	End: 1/31/2023 7:00:44 PM	Distance: 4.3900766
+-
+Trip: 5
+Start: 2/2/2023 1:36:57 PM	End: 2/2/2023 1:43:54 PM	Distance: 1.1802447
+-
+Trip: 6
+Start: 2/2/2023 2:51:46 PM	End: 2/2/2023 2:55:54 PM	Distance: 1.0310011
+-
+Trip: 7
+Start: 2/2/2023 3:26:36 PM	End: 2/2/2023 3:32:19 PM	Distance: 1.2552508
+-
+Trip: 8
+Start: 2/2/2023 8:10:36 PM	End: 2/2/2023 8:18:43 PM	Distance: 1.0563105
+-
+Trip: 9
+Start: 2/6/2023 5:33:19 PM	End: 2/6/2023 5:37:47 PM	Distance: 1.076855
+-
+Trip: 10
+Start: 2/6/2023 7:55:17 PM	End: 2/6/2023 7:58:34 PM	Distance: 1.1113371
+-
+Trip: 11
+Start: 2/13/2023 12:35:10 PM	End: 2/13/2023 12:41:35 PM	Distance: 1.2683213
+-
+Trip: 12
+Start: 2/13/2023 4:55:54 PM	End: 2/13/2023 5:02:13 PM	Distance: 1.2565862
+-
+Trip: 13
+Start: 2/13/2023 5:48:15 PM	End: 2/13/2023 5:53:15 PM	Distance: 1.1226587
+-
+Trip: 14
+Start: 2/13/2023 7:41:56 PM	End: 2/13/2023 7:45:25 PM	Distance: 1.1483042
+-
+Trip: 15
+Start: 2/14/2023 12:39:16 PM	End: 2/14/2023 12:50:32 PM	Distance: 2.160778
+-
+Trip: 16
+Start: 2/14/2023 8:05:07 PM	End: 2/14/2023 8:14:40 PM	Distance: 2.0362012
+-
+Trip: 17
+Start: 2/16/2023 12:21:00 PM	End: 2/16/2023 12:26:40 PM	Distance: 1.1612175
+-
+Trip: 18
+Start: 2/16/2023 2:19:15 PM	End: 2/16/2023 2:29:08 PM	Distance: 1.3005466
+-
+Trip: 19
+Start: 2/16/2023 2:32:36 PM	End: 2/16/2023 2:37:13 PM	Distance: 1.1995004
+-
+Trip: 20
+Start: 2/16/2023 4:00:18 PM	End: 2/16/2023 4:11:42 PM	Distance: 2.9080791
+-
+Trip: 21
+Start: 2/16/2023 6:46:59 PM	End: 2/16/2023 6:53:33 PM	Distance: 1.2155397
+-
+Trip: 22
+Start: 2/17/2023 12:36:48 PM	End: 2/17/2023 12:41:14 PM	Distance: 1.2564865
+-
+Trip: 23
+Start: 2/17/2023 7:58:47 PM	End: 2/17/2023 8:03:47 PM	Distance: 1.2489063
+-
+Trip: 24
+Start: 2/20/2023 5:44:50 PM	End: 2/20/2023 5:51:50 PM	Distance: 2.5433018
+-
+Trip: 25
+Start: 2/20/2023 8:03:19 PM	End: 2/20/2023 8:11:02 PM	Distance: 2.7742095
+-
+Trip: 26
+Start: 2/21/2023 12:57:38 PM	End: 2/21/2023 1:02:53 PM	Distance: 1.2503296
+-
+Trip: 27
+Start: 2/21/2023 7:54:16 PM	End: 2/21/2023 7:59:19 PM	Distance: 1.2704841
+-
+Trip: 28
+Start: 2/22/2023 12:25:00 PM	End: 2/22/2023 12:29:55 PM	Distance: 1.2719458
+-
+Trip: 29
+Start: 2/22/2023 8:14:32 PM	End: 2/22/2023 8:20:28 PM	Distance: 1.2640665
+-
+Trip: 30
+Start: 2/23/2023 12:27:47 PM	End: 2/23/2023 12:33:24 PM	Distance: 1.2679389
+-
+Trip: 31
+Start: 2/23/2023 1:13:23 PM	End: 2/23/2023 1:23:28 PM	Distance: 1.4833692
+-
+Trip: 32
+Start: 2/23/2023 5:33:31 PM	End: 2/23/2023 5:42:40 PM	Distance: 2.9031386
+-
+Trip: 33
+Start: 2/23/2023 8:17:12 PM	End: 2/23/2023 8:24:41 PM	Distance: 2.8454936
+-
+Trip: 34
+Start: 2/24/2023 5:03:30 PM	End: 2/24/2023 5:10:38 PM	Distance: 1.9498789
+-
+Trip: 35
+Start: 2/24/2023 7:43:53 PM	End: 2/24/2023 7:50:29 PM	Distance: 1.9195471
+-
+Trip: 36
+Start: 2/27/2023 12:28:33 PM	End: 2/27/2023 12:35:47 PM	Distance: 2.1049833
+-
+Trip: 37
+Start: 2/27/2023 3:52:22 PM	End: 2/27/2023 4:00:13 PM	Distance: 2.1419716
+-
+Trip: 38
+Start: 2/27/2023 5:06:29 PM	End: 2/27/2023 5:13:17 PM	Distance: 2.05197
+-
+Trip: 39
+Start: 2/27/2023 5:34:37 PM	End: 2/27/2023 5:42:28 PM	Distance: 1.9556634
+-
+Trip: 40
+Start: 2/27/2023 6:31:00 PM	End: 2/27/2023 6:35:19 PM	Distance: 0.9449587
+-
+Trip: 41
+Start: 2/28/2023 12:26:28 PM	End: 2/28/2023 12:32:13 PM	Distance: 1.2601945
+-
+Trip: 42
+Start: 2/28/2023 12:36:24 PM	End: 2/28/2023 12:36:51 PM	Distance: 0.037976425
+-
+Trip: 43
+Start: 2/28/2023 2:29:56 PM	End: 2/28/2023 2:44:04 PM	Distance: 2.6603694
+-
+Trip: 44
+Start: 2/28/2023 4:08:29 PM	End: 2/28/2023 4:16:13 PM	Distance: 2.0132482
+-
+Trip: 45
+Start: 2/28/2023 5:32:11 PM	End: 2/28/2023 5:36:34 PM	Distance: 1.1046458
+-
+Trip: 46
+Start: 2/28/2023 6:57:30 PM	End: 2/28/2023 7:02:03 PM	Distance: 1.1291595
+-
+Trip: 47
+Start: 2/28/2023 7:22:13 PM	End: 2/28/2023 7:27:46 PM	Distance: 1.2763346
+-
+Trip: 48
+Start: 2/28/2023 8:07:55 PM	End: 2/28/2023 8:12:21 PM	Distance: 1.3488352
+-
+Trip: 49
+Start: 3/1/2023 12:25:33 PM	End: 3/1/2023 12:30:10 PM	Distance: 1.257889
+-
+Trip: 50
+Start: 3/1/2023 2:44:07 PM	End: 3/1/2023 2:49:58 PM	Distance: 1.2364519
+-
+Trip: 51
+Start: 3/1/2023 5:14:10 PM	End: 3/1/2023 5:19:31 PM	Distance: 1.9760004
+-
+Trip: 52
+Start: 3/1/2023 5:46:51 PM	End: 3/1/2023 5:54:10 PM	Distance: 2.2939997
+-
+Trip: 53
+Start: 3/1/2023 6:59:48 PM	End: 3/1/2023 7:07:46 PM	Distance: 2.3480961
+-
+Trip: 54
+Start: 3/1/2023 8:02:44 PM	End: 3/1/2023 8:03:54 PM	Distance: 0.04248122
+-
+Trip: 55
+Start: 3/1/2023 8:04:33 PM	End: 3/1/2023 8:12:51 PM	Distance: 1.2895
+-
+Trip: 56
+Start: 3/1/2023 8:14:19 PM	End: 3/1/2023 8:22:11 PM	Distance: 1.5054182
+-
+Trip: 57
+Start: 3/2/2023 12:22:26 PM	End: 3/2/2023 1:04:00 PM	Distance: 11.353804
+-
+Trip: 58
+Start: 3/2/2023 1:38:49 PM	End: 3/2/2023 2:04:15 PM	Distance: 5.4620466
+-
+Trip: 59
+Start: 3/2/2023 3:09:21 PM	End: 3/2/2023 3:14:10 PM	Distance: 1.2464924
+-
+Trip: 60
+Start: 3/2/2023 4:18:35 PM	End: 3/2/2023 4:25:37 PM	Distance: 1.5469098
+-
+Trip: 61
+Start: 3/2/2023 4:52:47 PM	End: 3/2/2023 4:53:50 PM	Distance: 0.109271966
+-
+Trip: 62
+Start: 3/3/2023 12:43:13 PM	End: 3/3/2023 12:51:01 PM	Distance: 1.9785451
+-
+Trip: 63
+Start: 3/3/2023 2:41:55 PM	End: 3/3/2023 2:54:37 PM	Distance: 2.9076564
+-
+Trip: 64
+Start: 3/3/2023 4:04:55 PM	End: 3/3/2023 4:10:14 PM	Distance: 0.94981176
+-
+Trip: 65
+Start: 3/3/2023 4:58:23 PM	End: 3/3/2023 5:08:37 PM	Distance: 1.7383715
+-
+Trip: 66
+Start: 3/3/2023 5:46:08 PM	End: 3/3/2023 5:59:48 PM	Distance: 1.7593236
+-
+Trip: 67
+Start: 3/3/2023 7:47:13 PM	End: 3/3/2023 7:53:16 PM	Distance: 1.2274948
+-
+Trip: 68
+Start: 3/6/2023 12:33:58 PM	End: 3/6/2023 12:40:28 PM	Distance: 1.921352
+-
+Trip: 69
+Start: 3/6/2023 2:39:36 PM	End: 3/6/2023 2:47:28 PM	Distance: 1.6170175
+-
+Trip: 70
+Start: 3/6/2023 3:59:47 PM	End: 3/6/2023 4:04:58 PM	Distance: 1.0746771
+-
+Trip: 71
+Start: 3/6/2023 5:23:17 PM	End: 3/6/2023 5:45:01 PM	Distance: 8.447292
+-
+Trip: 72
+Start: 3/6/2023 5:45:17 PM	End: 3/6/2023 5:54:53 PM	Distance: 1.6107405
+-
+Trip: 73
+Start: 3/6/2023 6:40:51 PM	End: 3/6/2023 7:21:25 PM	Distance: 13.271663
+-
+Trip: 74
+Start: 3/7/2023 1:30:43 PM	End: 3/7/2023 1:46:17 PM	Distance: 4.7333703
+-
+Trip: 75
+Start: 3/7/2023 2:32:00 PM	End: 3/7/2023 2:33:28 PM	Distance: 0.25403112
+-
+Trip: 76
+Start: 3/7/2023 2:49:23 PM	End: 3/7/2023 2:54:52 PM	Distance: 0.86823064
+-
+Trip: 77
+Start: 3/7/2023 2:57:58 PM	End: 3/7/2023 3:00:17 PM	Distance: 0.36251727
+-
+Trip: 78
+Start: 3/7/2023 5:08:22 PM	End: 3/7/2023 5:11:55 PM	Distance: 0.9662373
+-
+Trip: 79
+Start: 3/7/2023 5:15:51 PM	End: 3/7/2023 5:17:32 PM	Distance: 0.26961806
+-
+Trip: 80
+Start: 3/7/2023 7:15:24 PM	End: 3/7/2023 7:17:34 PM	Distance: 0.30150262
+-
+Trip: 81
+Start: 3/7/2023 8:07:47 PM	End: 3/7/2023 8:11:24 PM	Distance: 1.0174598
+-
+Trip: 82
+Start: 3/8/2023 12:12:13 PM	End: 3/8/2023 12:26:46 PM	Distance: 3.443995
+-
+Trip: 83
+Start: 3/8/2023 1:45:28 PM	End: 3/8/2023 1:51:19 PM	Distance: 1.8436663
+-
+Trip: 84
+Start: 3/8/2023 3:00:08 PM	End: 3/8/2023 3:05:21 PM	Distance: 1.2388554
+-
+Trip: 85
+Start: 3/8/2023 3:12:47 PM	End: 3/8/2023 3:14:15 PM	Distance: 0.29468283
+-
+Trip: 86
+Start: 3/8/2023 5:00:45 PM	End: 3/8/2023 5:08:46 PM	Distance: 2.715211
+-
+Trip: 87
+Start: 3/8/2023 5:25:37 PM	End: 3/8/2023 5:32:54 PM	Distance: 2.3554108
+-
+Trip: 88
+Start: 3/8/2023 7:59:07 PM	End: 3/8/2023 8:06:05 PM	Distance: 2.1483192
+-
+Trip: 89
+Start: 3/8/2023 8:06:21 PM	End: 3/8/2023 8:06:25 PM	Distance: 0.00533896
+-
+Trip: 90
+Start: 3/9/2023 12:20:34 PM	End: 3/9/2023 12:27:51 PM	Distance: 1.3446044
+-
+Trip: 91
+Start: 3/9/2023 12:42:50 PM	End: 3/9/2023 12:49:27 PM	Distance: 1.829766
+-
+Trip: 92
+Start: 3/9/2023 12:51:48 PM	End: 3/9/2023 12:51:53 PM	Distance: 0.0052142907
+-
+Trip: 93
+Start: 3/9/2023 7:50:58 PM	End: 3/9/2023 7:57:28 PM	Distance: 1.1798214
+-
+Trip: 94
+Start: 3/9/2023 7:58:22 PM	End: 3/9/2023 7:59:41 PM	Distance: 0.24437504
+-
+Trip: 95
+Start: 3/14/2023 11:15:17 AM	End: 3/14/2023 11:20:29 AM	Distance: 2.0667355
+-
+Trip: 96
+Start: 3/14/2023 2:01:26 PM	End: 3/14/2023 2:23:22 PM	Distance: 6.416532
+-
+Trip: 97
+Start: 3/14/2023 4:16:05 PM	End: 3/14/2023 4:16:32 PM	Distance: 0.011904852
+-
+Trip: 98
+Start: 3/14/2023 4:42:14 PM	End: 3/14/2023 4:49:50 PM	Distance: 2.0946183
+-
+Trip: 99
+Start: 3/14/2023 7:24:31 PM	End: 3/14/2023 7:25:42 PM	Distance: 0.10490969
+-
+Trip: 100
+Start: 3/15/2023 11:15:53 AM	End: 3/15/2023 11:27:21 AM	Distance: 3.3184495
+-
+Trip: 101
+Start: 3/15/2023 11:36:52 AM	End: 3/15/2023 11:41:15 AM	Distance: 0.7797574
+-
+Trip: 102
+Start: 3/15/2023 1:36:50 PM	End: 3/15/2023 1:41:48 PM	Distance: 0.6190146
+-
+Trip: 103
+Start: 3/15/2023 2:38:42 PM	End: 3/15/2023 2:39:33 PM	Distance: 0.038302038
+-
+Trip: 104
+Start: 3/15/2023 2:43:29 PM	End: 3/15/2023 2:50:40 PM	Distance: 2.5765982
+-
+Trip: 105
+Start: 3/15/2023 3:54:03 PM	End: 3/15/2023 4:03:06 PM	Distance: 2.5904434
+-
+Trip: 106
+Start: 3/15/2023 5:00:19 PM	End: 3/15/2023 5:07:22 PM	Distance: 2.583591
+-
+Trip: 107
+Start: 3/15/2023 6:51:16 PM	End: 3/15/2023 6:52:04 PM	Distance: 0.09337004
+-
+Trip: 108
+Start: 3/16/2023 11:13:50 AM	End: 3/16/2023 11:23:34 AM	Distance: 2.6885056
+-
+Trip: 109
+Start: 3/16/2023 1:59:22 PM	End: 3/16/2023 2:08:02 PM	Distance: 2.551734
+-
+Trip: 110
+Start: 3/16/2023 2:34:09 PM	End: 3/16/2023 2:43:01 PM	Distance: 2.8427536
+-
+Trip: 111
+Start: 3/16/2023 2:52:22 PM	End: 3/16/2023 2:55:06 PM	Distance: 0.5977072
+-
+Trip: 112
+Start: 3/16/2023 4:44:23 PM	End: 3/16/2023 4:49:31 PM	Distance: 1.1130202
+-
+Trip: 113
+Start: 3/16/2023 4:50:49 PM	End: 3/16/2023 4:53:55 PM	Distance: 1.0963179
+-
+Trip: 114
+Start: 3/16/2023 5:35:34 PM	End: 3/16/2023 5:43:23 PM	Distance: 2.5301356
+-
+Trip: 115
+Start: 3/16/2023 5:45:44 PM	End: 3/16/2023 5:52:59 PM	Distance: 2.4780679
+-
+Trip: 116
+Start: 3/16/2023 6:20:29 PM	End: 3/16/2023 6:24:53 PM	Distance: 1.7168268
+-
+Trip: 117
+Start: 3/16/2023 7:21:49 PM	End: 3/16/2023 7:22:58 PM	Distance: 0.12143122
+-
+Trip: 118
+Start: 3/17/2023 12:24:01 PM	End: 3/17/2023 12:30:53 PM	Distance: 1.7202888
+-
+Trip: 119
+Start: 3/17/2023 12:48:17 PM	End: 3/17/2023 12:50:40 PM	Distance: 0.44114906
+-
+Trip: 120
+Start: 3/17/2023 12:53:26 PM	End: 3/17/2023 12:53:34 PM	Distance: 0.012704594
+-
+Trip: 121
+Start: 3/17/2023 3:00:50 PM	End: 3/17/2023 3:21:14 PM	Distance: 6.2799854
+-
+Trip: 122
+Start: 3/17/2023 4:06:50 PM	End: 3/17/2023 4:14:50 PM	Distance: 1.7047299
+-
+Trip: 123
+Start: 3/17/2023 4:45:32 PM	End: 3/17/2023 4:49:55 PM	Distance: 0.56050855
+-
+Trip: 124
+Start: 3/17/2023 6:04:23 PM	End: 3/17/2023 6:12:16 PM	Distance: 1.307101
+-
+Trip: 125
+Start: 3/20/2023 11:31:19 AM	End: 3/20/2023 11:41:24 AM	Distance: 2.426892
+-
+Trip: 126
+Start: 3/20/2023 1:06:00 PM	End: 3/20/2023 1:25:02 PM	Distance: 10.124777
+-
+Trip: 127
+Start: 3/20/2023 3:17:33 PM	End: 3/20/2023 3:36:28 PM	Distance: 11.054919
+-
+Trip: 128
+Start: 3/20/2023 4:16:25 PM	End: 3/20/2023 4:21:06 PM	Distance: 1.0023311
+-
+Trip: 129
+Start: 3/20/2023 4:53:46 PM	End: 3/20/2023 5:01:19 PM	Distance: 1.6555554
+-
+Trip: 130
+Start: 3/20/2023 5:45:27 PM	End: 3/20/2023 5:53:24 PM	Distance: 1.3389305
+-
+Trip: 131
+Start: 3/21/2023 11:46:44 AM	End: 3/21/2023 12:00:21 PM	Distance: 2.5882826
+-
+Trip: 132
+Start: 3/21/2023 2:48:15 PM	End: 3/21/2023 2:54:52 PM	Distance: 0.5684838
+-
+Trip: 133
+Start: 3/21/2023 3:59:14 PM	End: 3/21/2023 4:34:32 PM	Distance: 4.687521
+-
+Trip: 134
+Start: 3/21/2023 5:03:31 PM	End: 3/21/2023 5:04:31 PM	Distance: 0.11648896
+-
+Trip: 135
+Start: 3/21/2023 5:04:46 PM	End: 3/21/2023 5:04:47 PM	Distance: 0.00027777778
+-
+Trip: 136
+Start: 3/21/2023 6:02:20 PM	End: 3/21/2023 6:07:46 PM	Distance: 1.1032969
+-
+Trip: 137
+Start: 3/22/2023 11:26:46 AM	End: 3/22/2023 11:37:24 AM	Distance: 2.1125875
+-
+Trip: 138
+Start: 3/22/2023 4:53:50 PM	End: 3/22/2023 4:59:12 PM	Distance: 1.0862045
+-
+Trip: 139
+Start: 3/22/2023 5:02:43 PM	End: 3/22/2023 5:09:38 PM	Distance: 1.7189097
+-
+Trip: 140
+Start: 3/22/2023 5:55:01 PM	End: 3/22/2023 6:02:18 PM	Distance: 1.2816936
+-
+Trip: 141
+Start: 3/27/2023 11:29:05 AM	End: 3/27/2023 11:36:56 AM	Distance: 2.876011
+-
+Trip: 142
+Start: 3/27/2023 4:56:58 PM	End: 3/27/2023 5:09:30 PM	Distance: 3.326715
+-
+Trip: 143
+Start: 3/27/2023 5:10:09 PM	End: 3/27/2023 5:10:16 PM	Distance: 0.0055714296
+-
+Trip: 144
+Start: 3/27/2023 5:20:55 PM	End: 3/27/2023 5:28:30 PM	Distance: 3.0697255
+-
+Trip: 145
+Start: 3/27/2023 5:48:50 PM	End: 3/27/2023 6:06:19 PM	Distance: 3.839885
+-
+Trip: 146
+Start: 3/28/2023 11:28:47 AM	End: 3/28/2023 11:37:09 AM	Distance: 1.965971
+-
+Trip: 147
+Start: 3/28/2023 12:32:57 PM	End: 3/28/2023 12:33:02 PM	Distance: 0.0029670405
+-
+Trip: 148
+Start: 3/28/2023 12:39:06 PM	End: 3/28/2023 12:42:13 PM	Distance: 0.6318313
+-
+Trip: 149
+Start: 3/28/2023 12:51:46 PM	End: 3/28/2023 1:20:13 PM	Distance: 10.677006
+-
+Trip: 150
+Start: 3/28/2023 2:07:08 PM	End: 3/28/2023 2:13:48 PM	Distance: 2.1243622
+-
+Trip: 151
+Start: 3/28/2023 3:39:11 PM	End: 3/28/2023 3:46:03 PM	Distance: 2.5916665
+-
+Trip: 152
+Start: 3/28/2023 4:01:35 PM	End: 3/28/2023 4:12:47 PM	Distance: 3.247562
+-
+Trip: 153
+Start: 3/28/2023 4:16:00 PM	End: 3/28/2023 4:27:08 PM	Distance: 2.4956477
+-
+Trip: 154
+Start: 3/28/2023 6:24:21 PM	End: 3/28/2023 6:31:07 PM	Distance: 1.2040268
+-
+Trip: 155
+Start: 4/3/2023 11:37:33 AM	End: 4/3/2023 11:44:39 AM	Distance: 1.178453
+-
+Trip: 156
+Start: 4/3/2023 2:58:33 PM	End: 4/3/2023 3:14:52 PM	Distance: 4.7423024
+-
+Trip: 157
+Start: 4/3/2023 6:13:31 PM	End: 4/3/2023 6:21:27 PM	Distance: 1.3093518
+-
+Trip: 158
+Start: 4/4/2023 11:24:03 AM	End: 4/4/2023 11:31:21 AM	Distance: 1.1596569
+-
+Trip: 159
+Start: 4/4/2023 12:28:10 PM	End: 4/4/2023 12:38:16 PM	Distance: 2.254749
+-
+Trip: 160
+Start: 4/4/2023 4:56:39 PM	End: 4/4/2023 5:03:16 PM	Distance: 1.0906905
+-
+Trip: 161
+Start: 4/4/2023 5:43:05 PM	End: 4/4/2023 6:00:08 PM	Distance: 3.4529295
+-
+Trip: 162
+Start: 4/4/2023 6:38:09 PM	End: 4/4/2023 6:59:51 PM	Distance: 6.073651
+-
+Trip: 163
+Start: 4/5/2023 11:24:20 AM	End: 4/5/2023 11:34:01 AM	Distance: 2.459185
+-
+Trip: 164
+Start: 4/5/2023 4:48:32 PM	End: 4/5/2023 4:59:47 PM	Distance: 2.225192
+-
+Trip: 165
+Start: 4/5/2023 6:09:02 PM	End: 4/5/2023 6:16:58 PM	Distance: 1.8560777
+-
+Trip: 166
+Start: 4/5/2023 6:28:31 PM	End: 4/5/2023 6:35:32 PM	Distance: 2.1741276
+-
+Trip: 167
+Start: 4/6/2023 11:46:06 AM	End: 4/6/2023 11:54:44 AM	Distance: 2.1242216
+-
+Trip: 168
+Start: 4/6/2023 6:18:54 PM	End: 4/6/2023 6:25:17 PM	Distance: 1.267953
+-
+Trip: 169
+Start: 4/7/2023 11:30:32 AM	End: 4/7/2023 11:39:38 AM	Distance: 2.7877417
+-
+Trip: 170
+Start: 4/7/2023 5:04:42 PM	End: 4/7/2023 5:04:48 PM	Distance: 0.017545903
+-
+Trip: 171
+Start: 4/7/2023 6:18:57 PM	End: 4/7/2023 6:26:39 PM	Distance: 1.2791114
+-
+Trip: 172
+Start: 4/10/2023 11:30:16 AM	End: 4/10/2023 11:42:57 AM	Distance: 3.5261638
+-
+Trip: 173
+Start: 4/10/2023 6:34:12 PM	End: 4/10/2023 6:41:42 PM	Distance: 1.0091838
+-
+Trip: 174
+Start: 4/11/2023 11:15:08 AM	End: 4/11/2023 11:24:49 AM	Distance: 3.196591
+-
+Trip: 175
+Start: 4/11/2023 6:39:30 PM	End: 4/11/2023 6:55:13 PM	Distance: 3.4908159
+-
+Trip: 176
+Start: 4/12/2023 11:22:53 AM	End: 4/12/2023 11:31:34 AM	Distance: 2.0869412
+-
+Trip: 177
+Start: 4/12/2023 12:55:56 PM	End: 4/12/2023 1:03:17 PM	Distance: 1.6184793
+-
+Trip: 178
+Start: 4/12/2023 1:28:31 PM	End: 4/12/2023 1:35:02 PM	Distance: 0.9657506
+-
+Trip: 179
+Start: 4/12/2023 4:21:23 PM	End: 4/12/2023 4:26:15 PM	Distance: 1.1139264
+-
+Trip: 180
+Start: 4/12/2023 4:29:52 PM	End: 4/12/2023 4:33:54 PM	Distance: 0.54903996
+-
+Trip: 181
+Start: 4/12/2023 5:31:28 PM	End: 4/12/2023 5:44:14 PM	Distance: 2.403801
+-
+Trip: 182
+Start: 4/12/2023 6:34:02 PM	End: 4/12/2023 6:40:05 PM	Distance: 1.0099893
+-
+Trip: 183
+Start: 4/13/2023 11:20:38 AM	End: 4/13/2023 11:27:18 AM	Distance: 1.4997088
+-
+Trip: 184
+Start: 4/13/2023 5:38:08 PM	End: 4/13/2023 5:47:32 PM	Distance: 1.4755932
+-
+Trip: 185
+Start: 4/13/2023 6:31:23 PM	End: 4/13/2023 6:40:30 PM	Distance: 1.3306353
+-
+Trip: 186
+Start: 4/14/2023 11:35:21 AM	End: 4/14/2023 11:41:40 AM	Distance: 1.1552012
+-
+Trip: 187
+Start: 4/14/2023 6:24:55 PM	End: 4/14/2023 6:46:15 PM	Distance: 5.015874
+-
+Trip: 188
+Start: 4/17/2023 11:37:42 AM	End: 4/17/2023 11:53:27 AM	Distance: 3.8338952
+-
+Trip: 189
+Start: 4/17/2023 11:56:57 AM	End: 4/17/2023 12:02:39 PM	Distance: 0.75420487
+-
+Trip: 190
+Start: 4/17/2023 6:16:29 PM	End: 4/17/2023 6:24:56 PM	Distance: 1.380141
+-
+Trip: 191
+Start: 4/18/2023 11:20:27 AM	End: 4/18/2023 11:35:57 AM	Distance: 3.5515106
+-
+Trip: 192
+Start: 4/18/2023 2:07:38 PM	End: 4/18/2023 2:20:22 PM	Distance: 2.6294441
+-
+Trip: 193
+Start: 4/18/2023 2:25:26 PM	End: 4/18/2023 2:30:34 PM	Distance: 1.2727265
+-
+Trip: 194
+Start: 4/20/2023 11:25:03 AM	End: 4/20/2023 11:31:11 AM	Distance: 1.2685577
+-
+Trip: 195
+Start: 4/20/2023 6:40:50 PM	End: 4/20/2023 6:51:46 PM	Distance: 1.4075763
+-
+Trip: 196
+Start: 4/21/2023 11:31:30 AM	End: 4/21/2023 11:44:41 AM	Distance: 3.2357297
+-
+Trip: 197
+Start: 4/21/2023 1:26:33 PM	End: 4/21/2023 1:31:54 PM	Distance: 0.97767717
+-
+Trip: 198
+Start: 4/21/2023 2:54:48 PM	End: 4/21/2023 2:56:57 PM	Distance: 0.25572947
+-
+Trip: 199
+Start: 4/21/2023 3:38:43 PM	End: 4/21/2023 3:42:36 PM	Distance: 1.3016136
+-
+Trip: 200
+Start: 4/21/2023 3:48:34 PM	End: 4/21/2023 3:48:38 PM	Distance: 0.003580461
+-
+Trip: 201
+Start: 4/21/2023 3:54:06 PM	End: 4/21/2023 3:54:46 PM	Distance: 0.0108873565
+-
+Trip: 202
+Start: 4/21/2023 4:00:42 PM	End: 4/21/2023 4:00:46 PM	Distance: 0.0055356054
+-
+Trip: 203
+Start: 4/21/2023 4:03:43 PM	End: 4/21/2023 4:04:32 PM	Distance: 0.019417427
+-
+Trip: 204
+Start: 4/21/2023 4:21:23 PM	End: 4/21/2023 4:24:59 PM	Distance: 1.3861825
+-
+Trip: 205
+Start: 4/21/2023 4:40:58 PM	End: 4/21/2023 4:43:35 PM	Distance: 0.3883943
+-
+Trip: 206
+Start: 4/21/2023 5:33:28 PM	End: 4/21/2023 5:35:01 PM	Distance: 0.14516225
+-
+Trip: 207
+Start: 4/24/2023 11:51:51 AM	End: 4/24/2023 12:01:39 PM	Distance: 3.9989676
+-
+Trip: 208
+Start: 4/24/2023 12:03:18 PM	End: 4/24/2023 12:09:23 PM	Distance: 1.2303916
+-
+Trip: 209
+Start: 4/24/2023 1:38:15 PM	End: 4/24/2023 1:47:27 PM	Distance: 0.89230126
+-
+Trip: 210
+Start: 4/24/2023 1:48:12 PM	End: 4/24/2023 1:58:28 PM	Distance: 2.8233008
+-
+Trip: 211
+Start: 4/24/2023 2:33:01 PM	End: 4/24/2023 2:42:11 PM	Distance: 2.949544
+-
+Trip: 212
+Start: 4/24/2023 3:06:36 PM	End: 4/24/2023 3:14:26 PM	Distance: 1.8472248
+-
+Trip: 213
+Start: 4/24/2023 3:25:46 PM	End: 4/24/2023 3:35:02 PM	Distance: 1.4816835
+-
+Trip: 214
+Start: 4/24/2023 5:42:31 PM	End: 4/24/2023 6:26:28 PM	Distance: 13.60572
+-
+Trip: 215
+Start: 4/24/2023 6:51:47 PM	End: 4/24/2023 7:00:06 PM	Distance: 2.2874372
+-
+Trip: 216
+Start: 4/25/2023 11:22:46 AM	End: 4/25/2023 11:31:01 AM	Distance: 1.1683024
+-
+Trip: 217
+Start: 4/25/2023 3:19:40 PM	End: 4/25/2023 3:24:55 PM	Distance: 1.2471257
+-
+Trip: 218
+Start: 4/25/2023 4:26:43 PM	End: 4/25/2023 4:33:28 PM	Distance: 2.188901
+-
+Trip: 219
+Start: 4/25/2023 4:43:53 PM	End: 4/25/2023 4:58:06 PM	Distance: 3.545724
+-
+Trip: 220
+Start: 4/25/2023 6:27:13 PM	End: 4/25/2023 6:54:06 PM	Distance: 9.857728
+-
+Trip: 221
+Start: 4/26/2023 12:09:27 PM	End: 4/26/2023 12:25:25 PM	Distance: 4.1031594
+-
+Trip: 222
+Start: 4/26/2023 12:46:29 PM	End: 4/26/2023 1:00:10 PM	Distance: 3.3330708
+-
+Trip: 223
+Start: 4/26/2023 1:41:20 PM	End: 4/26/2023 1:54:03 PM	Distance: 4.4432254
+-
+Trip: 224
+Start: 4/26/2023 3:05:41 PM	End: 4/26/2023 3:11:33 PM	Distance: 1.139722
+-
+Trip: 225
+Start: 4/26/2023 4:13:40 PM	End: 4/26/2023 4:22:20 PM	Distance: 2.342063
+-
+Trip: 226
+Start: 4/26/2023 5:13:30 PM	End: 4/26/2023 5:23:26 PM	Distance: 2.8391922
+-
+Trip: 227
+Start: 4/26/2023 6:04:29 PM	End: 4/26/2023 6:45:51 PM	Distance: 11.730493
+-
+Trip: 228
+Start: 4/27/2023 11:17:19 AM	End: 4/27/2023 11:26:24 AM	Distance: 2.815617
+-
+Trip: 229
+Start: 4/27/2023 1:14:31 PM	End: 4/27/2023 1:28:32 PM	Distance: 3.3298619
+-
+Trip: 230
+Start: 4/27/2023 1:56:07 PM	End: 4/27/2023 2:07:32 PM	Distance: 3.2727706
+-
+Trip: 231
+Start: 4/27/2023 3:06:45 PM	End: 4/27/2023 3:18:55 PM	Distance: 3.427587
+-
+Trip: 232
+Start: 4/27/2023 3:57:24 PM	End: 4/27/2023 4:08:02 PM	Distance: 3.488374
+-
+Trip: 233
+Start: 4/27/2023 4:49:51 PM	End: 4/27/2023 5:00:33 PM	Distance: 3.232339
+-
+Trip: 234
+Start: 4/27/2023 5:34:46 PM	End: 4/27/2023 5:47:33 PM	Distance: 2.1654706
+-
+Trip: 235
+Start: 4/27/2023 6:30:52 PM	End: 4/27/2023 6:38:10 PM	Distance: 2.1340249
+-
+Trip: 236
+Start: 4/28/2023 11:49:40 AM	End: 4/28/2023 11:59:45 AM	Distance: 3.1792607
+-
+Trip: 237
+Start: 4/28/2023 1:20:15 PM	End: 4/28/2023 1:29:32 PM	Distance: 3.2037718
+-
+Trip: 238
+Start: 4/28/2023 1:57:48 PM	End: 4/28/2023 2:07:48 PM	Distance: 3.0925362
+-
+Trip: 239
+Start: 4/28/2023 6:23:22 PM	End: 4/28/2023 6:44:36 PM	Distance: 6.3567457
+-
+Trip: 240
+Start: 5/1/2023 11:46:24 AM	End: 5/1/2023 11:59:44 AM	Distance: 2.5211544
+-
+Total Trips: 241
+Total Distance: 524.9499366920209

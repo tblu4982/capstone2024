@@ -1,0 +1,559 @@
+Event 160:
+Time start: 4/30/2021 4:00:23 PM	Latitude: 38.034111605	Longitude: -78.508761795	Speed: 19.89	Device ID: b139
+Time end: 4/30/2021 4:00:23 PM		Latitude: 38.0341392605	Longitude: -78.50873413949999	Speed: 23.649	Device ID: b139
+-
+Event 160:
+Time start: 4/30/2021 4:33:23 PM	Latitude: 38.036897936	Longitude: -78.507253888	Speed: 23.28	Device ID: b139
+Time end: 4/30/2021 4:33:23 PM		Latitude: 38.036897774799996	Longitude: -78.50725306965	Speed: 23.254	Device ID: b139
+-
+Event 160:
+Time start: 5/20/2021 3:16:33 PM	Latitude: 38.0391632274	Longitude: -78.50577372975	Speed: 7.406375	Device ID: b139
+Time end: 5/20/2021 3:16:33 PM		Latitude: 38.0391635374	Longitude: -78.50577244225	Speed: 7.487625	Device ID: b139
+-
+Event 160:
+Time start: 6/25/2021 7:47:59 PM	Latitude: 38.0463963268	Longitude: -78.5098219456	Speed: 17.584	Device ID: b139
+Time end: 6/25/2021 7:47:59 PM		Latitude: 38.04641573398	Longitude: -78.50982639916	Speed: 19.7524	Device ID: b139
+-
+Event 160:
+Time start: 6/25/2021 7:49:16 PM	Latitude: 38.05370338943	Longitude: -78.51671804683001	Speed: 67.1286	Device ID: b139
+Time end: 6/25/2021 7:49:16 PM		Latitude: 38.0537765621	Longitude: -78.5167038401	Speed: 67.042	Device ID: b139
+-
+Event 160:
+Time start: 6/25/2021 7:58:48 PM	Latitude: 38.086878553333335	Longitude: -78.47630154133333	Speed: 30.48	Device ID: b139
+Time end: 6/25/2021 7:58:48 PM		Latitude: 38.086881197000004	Longitude: -78.47629566879999	Speed: 30.403	Device ID: b139
+-
+Event 160:
+Time start: 6/25/2021 7:58:58 PM	Latitude: 38.08670406	Longitude: -78.475586302	Speed: 28.406666	Device ID: b139
+Time end: 6/25/2021 7:58:59 PM		Latitude: 38.0866611605	Longitude: -78.47554710935	Speed: 28.267834	Device ID: b139
+-
+Event 160:
+Time start: 8/27/2021 3:13:54 PM	Latitude: 38.04788561935153	Longitude: -78.50841669751694	Speed: 19.530884	Device ID: b139
+Time end: 8/27/2021 3:13:54 PM		Latitude: 38.04788430410425	Longitude: -78.50842287900677	Speed: 19.703262	Device ID: b139
+-
+Event 160:
+Time start: 9/2/2021 5:29:07 PM	Latitude: 38.034057385666664	Longitude: -78.50878738733334	Speed: 15.17	Device ID: b139
+Time end: 9/2/2021 5:29:07 PM		Latitude: 38.0340600053	Longitude: -78.5087889598	Speed: 15.479	Device ID: b139
+-
+Event 160:
+Time start: 9/20/2021 11:23:50 AM	Latitude: 38.0467186	Longitude: -78.5069275	Speed: 22.01	Device ID: b139
+Time point 2: 9/20/2021 11:23:51 AM	Latitude: 38.0467186	Longitude: -78.5069275	Speed: 26	Device ID: b139
+Time end: 9/20/2021 11:23:51 AM		Latitude: 38.0467186	Longitude: -78.5069275	Speed: 26.771	Device ID: b139
+-
+Event 160:
+Time start: 9/22/2021 9:40:36 AM	Latitude: 38.03279891975	Longitude: -78.49612401294999	Speed: 14.28075	Device ID: b139
+Time end: 9/22/2021 9:40:36 AM		Latitude: 38.03279582975	Longitude: -78.49611943495	Speed: 13.95075	Device ID: b139
+-
+Event 160:
+Time start: 9/23/2021 2:59:19 PM	Latitude: 38.03978466269231	Longitude: -78.50676457092308	Speed: 19.114614	Device ID: b139
+Time end: 9/23/2021 2:59:19 PM		Latitude: 38.03977851192308	Longitude: -78.50676616723078	Speed: 19.256153	Device ID: b139
+-
+Event 160:
+Time start: 9/24/2021 11:07:38 AM	Latitude: 38.0466423	Longitude: -78.50634	Speed: 0	Device ID: b139
+Time end: 9/24/2021 11:07:38 AM		Latitude: 38.0466423	Longitude: -78.50634	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 9/27/2021 2:17:35 PM	Latitude: 38.0466957	Longitude: -78.50634	Speed: 0	Device ID: b139
+Time end: 9/27/2021 2:17:36 PM		Latitude: 38.0466957	Longitude: -78.50634	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 10/5/2021 12:06:07 PM	Latitude: 38.0363720648	Longitude: -78.5163138704	Speed: 13.5075	Device ID: b139
+Time end: 10/5/2021 12:06:07 PM		Latitude: 38.036369808	Longitude: -78.516318384	Speed: 12.825	Device ID: b139
+-
+Event 160:
+Time start: 10/5/2021 12:39:11 PM	Latitude: 38.046903426899995	Longitude: -78.5062408	Speed: 3.965	Device ID: b139
+Time point 2: 10/5/2021 12:39:12 PM	Latitude: 38.0468979	Longitude: -78.5062408	Speed: 5	Device ID: b139
+Time end: 10/5/2021 12:39:12 PM		Latitude: 38.04690227962	Longitude: -78.50625393886	Speed: 6.2054	Device ID: b139
+-
+Event 160:
+Time start: 10/5/2021 3:00:45 PM	Latitude: 38.0468979	Longitude: -78.5061874	Speed: 0	Device ID: b139
+Time end: 10/5/2021 3:00:46 PM		Latitude: 38.0468979	Longitude: -78.5061874	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 10/6/2021 11:47:02 AM	Latitude: 38.0469742	Longitude: -78.5062408	Speed: 0	Device ID: b139
+Time end: 10/6/2021 11:47:02 AM		Latitude: 38.0469742	Longitude: -78.5062408	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 10/8/2021 11:59:55 AM	Latitude: 38.0467453	Longitude: -78.50634	Speed: 0	Device ID: b139
+Time end: 10/8/2021 11:59:56 AM		Latitude: 38.0467453	Longitude: -78.50634	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 10/11/2021 10:52:57 AM	Latitude: 38.0465393	Longitude: -78.5059357	Speed: 0	Device ID: b139
+Time end: 10/11/2021 10:52:57 AM		Latitude: 38.0465393	Longitude: -78.5059357	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 10/20/2021 12:58:20 PM	Latitude: 38.0324593	Longitude: -78.50684066365078	Speed: 0	Device ID: b139
+Time end: 10/20/2021 12:58:21 PM		Latitude: 38.0324593	Longitude: -78.50684066079978	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 10/20/2021 1:12:25 PM	Latitude: 38.036796751216826	Longitude: -78.5070572	Speed: 0	Device ID: b139
+Time end: 10/20/2021 1:12:25 PM		Latitude: 38.03679675714563	Longitude: -78.5070572	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 10/21/2021 3:13:40 PM	Latitude: 38.0337481877	Longitude: -78.483803534	Speed: 34.622	Device ID: b139
+Time end: 10/21/2021 3:13:40 PM		Latitude: 38.0337539253	Longitude: -78.48381012600001	Speed: 34.558	Device ID: b139
+-
+Event 160:
+Time start: 3/17/2022 7:29:22 PM	Latitude: 38.0467186	Longitude: -78.5062943	Speed: 0	Device ID: b139
+Time end: 3/17/2022 7:29:22 PM		Latitude: 38.0467186	Longitude: -78.5062943	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 4/12/2022 6:14:09 PM	Latitude: 38.0468483	Longitude: -78.5061874	Speed: 0	Device ID: b139
+Time end: 4/12/2022 6:14:09 PM		Latitude: 38.0468483	Longitude: -78.5061874	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 4/13/2022 12:00:54 AM	Latitude: 38.0468483	Longitude: -78.5061874	Speed: 0	Device ID: b139
+Time end: 4/13/2022 12:00:54 AM		Latitude: 38.0468483	Longitude: -78.5061874	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 4/19/2022 12:44:36 PM	Latitude: 38.0467453	Longitude: -78.5062637	Speed: 0	Device ID: b139
+-
+Event 160:
+Time start: 5/11/2022 8:17:01 PM	Latitude: 38.03260386905714	Longitude: -78.4997424957	Speed: 14.494286	Device ID: b139
+Time end: 5/11/2022 8:17:01 PM		Latitude: 38.032603275999996	Longitude: -78.499742136	Speed: 14.4	Device ID: b139
+-
+Event 160:
+Time start: 6/2/2022 1:21:44 PM	Latitude: 38.0467186	Longitude: -78.5062637	Speed: 36.597557	Device ID: b139
+Time end: 6/2/2022 1:21:44 PM		Latitude: 38.0467186	Longitude: -78.5062637	Speed: 36.623745	Device ID: b139
+-
+Event 160:
+Time start: 6/16/2022 6:29:55 PM	Latitude: 38.045836656300004	Longitude: -78.50826675635	Speed: 22.548	Device ID: b139
+Time end: 6/16/2022 6:29:55 PM		Latitude: 38.0458426713	Longitude: -78.50826847385	Speed: 21.948	Device ID: b139
+-
+Event 160:
+Time start: 7/12/2022 11:43:53 AM	Latitude: 38.03059543975	Longitude: -78.48524119325	Speed: 18	Device ID: b139
+Time end: 7/12/2022 11:43:53 AM		Latitude: 38.030593781225	Longitude: -78.485241405075	Speed: 18	Device ID: b139
+-
+Event 160:
+Time start: 7/13/2022 12:03:47 PM	Latitude: 38.042601757	Longitude: -78.5112398025	Speed: 21.425	Device ID: b139
+Time end: 7/13/2022 12:03:47 PM		Latitude: 38.04260721245	Longitude: -78.51123871212499	Speed: 21.96125	Device ID: b139
+-
+Event 160:
+Time start: 8/2/2022 10:25:27 AM	Latitude: 38.032831286024994	Longitude: -78.4960615105	Speed: 14.59075	Device ID: b139
+Time end: 8/2/2022 10:25:27 AM		Latitude: 38.032830523025	Longitude: -78.4960594505	Speed: 14.50075	Device ID: b139
+-
+Event 160:
+Time start: 8/10/2022 11:25:09 AM	Latitude: 38.0332672293	Longitude: -78.498212287125	Speed: 18.5155	Device ID: b139
+Time end: 8/10/2022 11:25:09 AM		Latitude: 38.033255773	Longitude: -78.49821452125	Speed: 18.955	Device ID: b139
+-
+Event 160:
+Time start: 8/22/2022 7:00:27 PM	Latitude: 38.04577400655	Longitude: -78.50822974834999	Speed: 23.326	Device ID: b139
+Time end: 8/22/2022 7:00:27 PM		Latitude: 38.04578758795	Longitude: -78.50824738815	Speed: 22.614	Device ID: b139
+-
+Event 160:
+Time start: 8/24/2022 11:26:48 AM	Latitude: 38.04791661766	Longitude: -78.5082657313	Speed: 18.1376	Device ID: b139
+Time end: 8/24/2022 11:26:48 AM		Latitude: 38.047920722	Longitude: -78.50826001	Speed: 18.92	Device ID: b139
+-
+Event 160:
+Time start: 8/25/2022 12:00:43 PM	Latitude: 38.04579353301428	Longitude: -78.50827412332858	Speed: 20.429	Device ID: b139
+Time end: 8/25/2022 12:00:43 PM		Latitude: 38.04579837244285	Longitude: -78.50828367018572	Speed: 20.069	Device ID: b139
+-
+Event 160:
+Time start: 8/30/2022 6:04:22 PM	Latitude: 38.0363950975	Longitude: -78.5157212406	Speed: 8.047	Device ID: b139
+Time end: 8/30/2022 6:04:23 PM		Latitude: 38.0363902175	Longitude: -78.51572612380001	Speed: 7.631	Device ID: b139
+-
+Event 160:
+Time start: 8/30/2022 6:24:47 PM	Latitude: 38.04784231995	Longitude: -78.50853737445	Speed: 17.582	Device ID: b139
+Time end: 8/30/2022 6:24:47 PM		Latitude: 38.04784573755	Longitude: -78.50852760805	Speed: 19.118	Device ID: b139
+-
+Event 160:
+Time start: 9/8/2022 8:32:11 PM	Latitude: 38.0478080145	Longitude: -78.50802033206666	Speed: 21.376667	Device ID: b139
+Time end: 9/8/2022 8:32:11 PM		Latitude: 38.047806694500004	Longitude: -78.50802440140001	Speed: 21.11	Device ID: b139
+-
+Event 160:
+Time start: 9/14/2022 3:18:43 PM	Latitude: 38.0476685	Longitude: -78.5081329	Speed: 17.576714	Device ID: b139
+Time end: 9/14/2022 3:18:43 PM		Latitude: 38.0476685	Longitude: -78.5081329	Speed: 17.114714	Device ID: b139
+-
+Event 160:
+Time start: 9/14/2022 3:19:20 PM	Latitude: 38.0466326839	Longitude: -78.5082265596125	Speed: 25.612375	Device ID: b139
+Time end: 9/14/2022 3:19:21 PM		Latitude: 38.046583735	Longitude: -78.50823098562499	Speed: 25.16875	Device ID: b139
+-
+Event 160:
+Time start: 9/15/2022 2:15:08 PM	Latitude: 38.0361730912	Longitude: -78.51416440279999	Speed: 26.858	Device ID: b139
+Time end: 9/15/2022 2:15:08 PM		Latitude: 38.03617034491428	Longitude: -78.5141630948	Speed: 26.763714	Device ID: b139
+-
+Event 160:
+Time start: 9/15/2022 2:16:13 PM	Latitude: 38.03856022986667	Longitude: -78.5152241526	Speed: 25.165	Device ID: b139
+Time end: 9/15/2022 2:16:13 PM		Latitude: 38.038573424	Longitude: -78.515227232	Speed: 24.3	Device ID: b139
+-
+Event 160:
+Time start: 9/20/2022 11:16:24 AM	Latitude: 38.036003601333334	Longitude: -78.51465438433334	Speed: 16.733334	Device ID: b139
+Time end: 9/20/2022 11:16:25 AM		Latitude: 38.036003989866664	Longitude: -78.51465540031667	Speed: 16.576666	Device ID: b139
+-
+Event 160:
+Time start: 9/20/2022 6:06:04 PM	Latitude: 38.0467186	Longitude: -78.506218	Speed: 13.4184	Device ID: b139
+Time end: 9/20/2022 6:06:05 PM		Latitude: 38.0467186	Longitude: -78.506218	Speed: 13.6376	Device ID: b139
+-
+Event 160:
+Time start: 9/20/2022 6:06:06 PM	Latitude: 38.0467186	Longitude: -78.506218	Speed: 15.0504	Device ID: b139
+Time end: 9/20/2022 6:06:06 PM		Latitude: 38.0467186	Longitude: -78.506218	Speed: 15.0744	Device ID: b139
+-
+Event 160:
+Time start: 11/22/2022 1:26:21 PM	Latitude: 38.046707975225	Longitude: -78.506022624775	Speed: 19.02525	Device ID: b139
+Time end: 11/22/2022 1:26:21 PM		Latitude: 38.046700803025	Longitude: -78.506029796975	Speed: 18.36725	Device ID: b139
+-
+Event 160:
+Time start: 11/28/2022 6:13:55 PM	Latitude: 38.04650589144	Longitude: -78.50968363044	Speed: 23.4054	Device ID: b139
+Time end: 11/28/2022 6:13:55 PM		Latitude: 38.04650231304	Longitude: -78.50968726204	Speed: 23.1114	Device ID: b139
+-
+Event 160:
+Time start: 11/28/2022 6:56:53 PM	Latitude: 38.0469360768	Longitude: -78.5043148576	Speed: 31.192	Device ID: b139
+Time end: 11/28/2022 6:56:54 PM		Latitude: 38.04682501584	Longitude: -78.50436990688	Speed: 24.2146	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2022 12:38:04 PM	Latitude: 38.0458032299	Longitude: -78.51934150123334	Speed: 21.451334	Device ID: b139
+Time end: 11/29/2022 12:38:04 PM		Latitude: 38.04578289	Longitude: -78.51936109	Speed: 25.8	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2022 1:11:01 PM	Latitude: 38.05010426065	Longitude: -78.5269023929	Speed: 18.748	Device ID: b139
+Time end: 11/29/2022 1:11:01 PM		Latitude: 38.05010602285	Longitude: -78.52690121810001	Speed: 18.572	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2022 1:12:42 PM	Latitude: 38.04818673405	Longitude: -78.5169814248	Speed: 28.1585	Device ID: b139
+Time end: 11/29/2022 1:12:43 PM		Latitude: 38.04822538	Longitude: -78.51693118	Speed: 23.6	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2022 1:18:09 PM	Latitude: 38.035386530000004	Longitude: -78.51419307	Speed: 27.965	Device ID: b139
+Time end: 11/29/2022 1:18:09 PM		Latitude: 38.035379165500004	Longitude: -78.5142004345	Speed: 27.85775	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2022 6:27:28 PM	Latitude: 38.04453716166667	Longitude: -78.52324591816667	Speed: 27.863333	Device ID: b139
+Time point 2: 11/29/2022 6:27:29 PM	Latitude: 38.0445442	Longitude: -78.5232162	Speed: 28	Device ID: b139
+Time end: 11/29/2022 6:27:30 PM		Latitude: 38.04452150075	Longitude: -78.5231322455	Speed: 25.025	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2022 6:27:32 PM	Latitude: 38.044476731725	Longitude: -78.52296666465	Speed: 19.1575	Device ID: b139
+Time end: 11/29/2022 6:27:32 PM		Latitude: 38.04447610225	Longitude: -78.52296433650001	Speed: 19.075	Device ID: b139
+-
+Event 160:
+Time start: 12/2/2022 3:18:31 PM	Latitude: 38.039739908	Longitude: -78.5067838934	Speed: 17.968	Device ID: b139
+Time end: 12/2/2022 3:18:31 PM		Latitude: 38.039739496	Longitude: -78.5067837408	Speed: 18.016	Device ID: b139
+-
+Event 160:
+Time start: 12/6/2022 7:14:34 PM	Latitude: 38.046630436	Longitude: -78.50946296975	Speed: 25.33	Device ID: b139
+Time end: 12/6/2022 7:14:35 PM		Latitude: 38.046635148	Longitude: -78.50944122425	Speed: 24.19	Device ID: b139
+-
+Event 160:
+Time start: 1/3/2023 5:38:58 PM	Latitude: 38.0329065155	Longitude: -78.5124999485	Speed: 5.605	Device ID: b139
+Time end: 1/3/2023 5:38:58 PM		Latitude: 38.03290668905	Longitude: -78.51250009735	Speed: 5.5855	Device ID: b139
+-
+Event 160:
+Time start: 1/6/2023 3:19:05 PM	Latitude: 38.0463714785	Longitude: -78.50955699	Speed: 20.98	Device ID: b139
+Time point 2: 1/6/2023 3:19:06 PM	Latitude: 38.0463867	Longitude: -78.5095901	Speed: 20	Device ID: b139
+Time end: 1/6/2023 3:19:06 PM		Latitude: 38.04638915606	Longitude: -78.5095889715	Speed: 20.1406	Device ID: b139
+-
+Event 160:
+Time start: 1/10/2023 2:53:57 PM	Latitude: 38.04637207845	Longitude: -78.50954090795	Speed: 29.8595	Device ID: b139
+Time point 2: 1/10/2023 2:53:58 PM	Latitude: 38.0464134	Longitude: -78.5096207	Speed: 26	Device ID: b139
+Time end: 1/10/2023 2:53:58 PM		Latitude: 38.046463239539996	Longitude: -78.50959097276	Speed: 28.5212	Device ID: b139
+-
+Event 160:
+Time start: 1/10/2023 2:54:18 PM	Latitude: 38.047839067	Longitude: -78.50855070233334	Speed: 21.24	Device ID: b139
+Time end: 1/10/2023 2:54:18 PM		Latitude: 38.0478434903	Longitude: -78.50852036876667	Speed: 25.216	Device ID: b139
+-
+Event 160:
+Time start: 1/17/2023 11:26:22 AM	Latitude: 38.032872902233336	Longitude: -78.4959756694	Speed: 11.331	Device ID: b139
+Time point 2: 1/17/2023 11:26:23 AM	Latitude: 38.0328712	Longitude: -78.4959717	Speed: 12	Device ID: b139
+Time end: 1/17/2023 11:26:23 AM		Latitude: 38.03285524016667	Longitude: -78.49597840116667	Speed: 12.723333	Device ID: b139
+-
+Event 160:
+Time start: 1/17/2023 1:33:31 PM	Latitude: 38.0468871367	Longitude: -78.5043473775	Speed: 23.09	Device ID: b139
+Time end: 1/17/2023 1:33:31 PM		Latitude: 38.04688398296666	Longitude: -78.50435368083333	Speed: 22.676666	Device ID: b139
+-
+Event 160:
+Time start: 1/18/2023 3:40:05 PM	Latitude: 38.03865988832222	Longitude: -78.51537679602222	Speed: 18.148777	Device ID: b139
+Time end: 1/18/2023 3:40:05 PM		Latitude: 38.03865647022222	Longitude: -78.51537930622221	Speed: 18.057777	Device ID: b139
+-
+Event 160:
+Time start: 1/23/2023 7:30:34 PM	Latitude: 38.032517299	Longitude: -78.514510551	Speed: 22.108	Device ID: b139
+Time end: 1/23/2023 7:30:34 PM		Latitude: 38.032516941299995	Longitude: -78.51451059370001	Speed: 22.0996	Device ID: b139
+-
+Event 160:
+Time start: 1/23/2023 7:34:08 PM	Latitude: 38.0320600493	Longitude: -78.5019525402	Speed: 24.693	Device ID: b139
+Time end: 1/23/2023 7:34:08 PM		Latitude: 38.03205150266667	Longitude: -78.501944904	Speed: 25.026667	Device ID: b139
+-
+Event 160:
+Time start: 2/3/2023 4:12:55 PM	Latitude: 38.03869953757895	Longitude: -78.51539577487895	Speed: 23.172947	Device ID: b139
+Time end: 2/3/2023 4:12:56 PM		Latitude: 38.03867713894737	Longitude: -78.51541596694737	Speed: 22.787369	Device ID: b139
+-
+Event 160:
+Time start: 2/3/2023 5:44:04 PM	Latitude: 38.0390396	Longitude: -78.51669464833334	Speed: 13.583333	Device ID: b139
+Time end: 2/3/2023 5:44:04 PM		Latitude: 38.0390396	Longitude: -78.51669387001667	Speed: 13.569167	Device ID: b139
+-
+Event 160:
+Time start: 2/17/2023 7:25:53 PM	Latitude: 38.0463867	Longitude: -78.52155485333334	Speed: 11.693334	Device ID: b139
+Time end: 2/17/2023 7:25:53 PM		Latitude: 38.0463867	Longitude: -78.52154043333334	Speed: 13.233334	Device ID: b139
+-
+Event 160:
+Time start: 2/28/2023 5:04:39 PM	Latitude: 38.0310579193	Longitude: -78.495542760475	Speed: 28.43025	Device ID: b139
+Time end: 2/28/2023 5:04:40 PM		Latitude: 38.0311096783	Longitude: -78.495527309725	Speed: 24.98775	Device ID: b139
+-
+Event 160:
+Time start: 2/28/2023 6:32:45 PM	Latitude: 38.0458605902	Longitude: -78.51919037796667	Speed: 8.087334	Device ID: b139
+Time end: 2/28/2023 6:32:46 PM		Latitude: 38.0458454518	Longitude: -78.51921614503334	Speed: 13.252666	Device ID: b139
+-
+Event 160:
+Time start: 3/2/2023 6:28:11 PM	Latitude: 38.036948805	Longitude: -78.51457502125	Speed: 22.95	Device ID: b139
+Time point 2: 3/2/2023 6:28:12 PM	Latitude: 38.0368881	Longitude: -78.5145569	Speed: 22	Device ID: b139
+Time end: 3/2/2023 6:28:12 PM		Latitude: 38.03688696136923	Longitude: -78.51456273492308	Speed: 21.973885	Device ID: b139
+-
+Event 160:
+Time start: 3/2/2023 7:00:45 PM	Latitude: 38.04580671	Longitude: -78.5099698925	Speed: 25.4	Device ID: b139
+Time end: 3/2/2023 7:00:45 PM		Latitude: 38.045807736	Longitude: -78.50996543299999	Speed: 25.04	Device ID: b139
+-
+Event 160:
+Time start: 3/2/2023 7:01:50 PM	Latitude: 38.04586830856667	Longitude: -78.5098363634	Speed: 8.476666	Device ID: b139
+Time end: 3/2/2023 7:01:50 PM		Latitude: 38.0458721849	Longitude: -78.5098352614	Speed: 7.51	Device ID: b139
+-
+Event 160:
+Time start: 3/17/2023 4:11:52 PM	Latitude: 38.03277398985	Longitude: -78.49610724325	Speed: 12.501	Device ID: b139
+Time end: 3/17/2023 4:11:52 PM		Latitude: 38.03276700766667	Longitude: -78.49609451166667	Speed: 12.393333	Device ID: b139
+-
+Event 160:
+Time start: 3/17/2023 4:44:38 PM	Latitude: 38.046334389225	Longitude: -78.509446459525	Speed: 29.2515	Device ID: b139
+Time point 2: 3/17/2023 4:44:40 PM	Latitude: 38.0463867	Longitude: -78.5095444	Speed: 24	Device ID: b139
+Time end: 3/17/2023 4:44:40 PM		Latitude: 38.046411935	Longitude: -78.5095444	Speed: 24.98	Device ID: b139
+-
+Event 160:
+Time start: 4/11/2023 5:26:35 PM	Latitude: 38.0328422839	Longitude: -78.49611348354999	Speed: 15.834	Device ID: b139
+Time end: 4/11/2023 5:26:35 PM		Latitude: 38.0328411091	Longitude: -78.49611180495	Speed: 15.746	Device ID: b139
+-
+Event 160:
+Time start: 4/12/2023 12:14:34 PM	Latitude: 38.046445023272724	Longitude: -78.509615174	Speed: 18.120909	Device ID: b139
+Time end: 4/12/2023 12:14:35 PM		Latitude: 38.04642813043636	Longitude: -78.50963887420001	Speed: 19.244455	Device ID: b139
+-
+Event 160:
+Time start: 5/22/2023 2:41:27 PM	Latitude: 38.02364701333334	Longitude: -78.48548834	Speed: 20.266666	Device ID: b139
+Time end: 5/22/2023 2:41:27 PM		Latitude: 38.023654492700004	Longitude: -78.48548020035	Speed: 20.209	Device ID: b139
+-
+Event 160:
+Time start: 5/23/2023 5:29:50 PM	Latitude: 38.03980702066	Longitude: -78.50684855258	Speed: 27.291	Device ID: b139
+Time end: 5/23/2023 5:29:51 PM		Latitude: 38.03979786466	Longitude: -78.50683512458	Speed: 26.691	Device ID: b139
+-
+Event 160:
+Time start: 5/24/2023 2:08:26 PM	Latitude: 38.044359827	Longitude: -78.5051422	Speed: 10.265	Device ID: b139
+Time end: 5/24/2023 2:08:26 PM		Latitude: 38.0443628441	Longitude: -78.5051422	Speed: 10.9995	Device ID: b139
+-
+Event 160:
+Time start: 5/24/2023 2:23:56 PM	Latitude: 38.0478706	Longitude: -78.508386969	Speed: 27.43	Device ID: b139
+Time end: 5/24/2023 2:23:56 PM		Latitude: 38.0478706	Longitude: -78.5083414179	Speed: 30.813	Device ID: b139
+-
+Event 160:
+Time start: 6/6/2023 12:48:57 PM	Latitude: 38.0464143555	Longitude: -78.50957987014999	Speed: 18.01375	Device ID: b139
+Time end: 6/6/2023 12:48:57 PM		Latitude: 38.0464287755	Longitude: -78.50957453615	Speed: 19.06375	Device ID: b139
+-
+Event 160:
+Time start: 6/6/2023 1:23:39 PM	Latitude: 38.0398370279	Longitude: -78.5064694864	Speed: 29.669333	Device ID: b139
+Time point 2: 6/6/2023 1:23:40 PM	Latitude: 38.0398865	Longitude: -78.5065231	Speed: 29	Device ID: b139
+Time end: 6/6/2023 1:23:40 PM		Latitude: 38.039910516650004	Longitude: -78.50651525721666	Speed: 29.813833	Device ID: b139
+-
+Event 160:
+Time start: 6/7/2023 7:41:01 PM	Latitude: 38.0463486980625	Longitude: -78.509519989	Speed: 24.77025	Device ID: b139
+Time point 2: 6/7/2023 7:41:02 PM	Latitude: 38.04636	Longitude: -78.5095444	Speed: 24	Device ID: b139
+Time end: 6/7/2023 7:41:02 PM		Latitude: 38.046435469825	Longitude: -78.5094965893375	Speed: 26.949	Device ID: b139
+-
+Event 160:
+Time start: 6/9/2023 4:08:28 PM	Latitude: 38.044412691999995	Longitude: -78.50534229680001	Speed: 29.104	Device ID: b139
+Time point 2: 6/9/2023 4:08:30 PM	Latitude: 38.0443649	Longitude: -78.5052414	Speed: 24	Device ID: b139
+Time end: 6/9/2023 4:08:30 PM		Latitude: 38.044357692809996	Longitude: -78.50524313798	Speed: 24.2613	Device ID: b139
+-
+Event 160:
+Time start: 6/14/2023 6:17:37 PM	Latitude: 38.0425350745	Longitude: -78.5113410561	Speed: 21.283	Device ID: b139
+Time end: 6/14/2023 6:17:37 PM		Latitude: 38.04253389	Longitude: -78.511340442	Speed: 21.26	Device ID: b139
+-
+Event 160:
+Time start: 6/19/2023 5:51:13 PM	Latitude: 38.047845729375005	Longitude: -78.50390939245001	Speed: 14.24825	Device ID: b139
+Time end: 6/19/2023 5:51:14 PM		Latitude: 38.047862237500006	Longitude: -78.50391517300001	Speed: 16.305	Device ID: b139
+-
+Event 160:
+Time start: 6/21/2023 3:22:11 PM	Latitude: 38.0478103823	Longitude: -78.5085383905	Speed: 17.649	Device ID: b139
+Time end: 6/21/2023 3:22:12 PM		Latitude: 38.0478128387	Longitude: -78.5085222445	Speed: 19.581	Device ID: b139
+-
+Event 160:
+Time start: 6/27/2023 4:07:34 PM	Latitude: 38.0469114001	Longitude: -78.50433584603333	Speed: 31.513334	Device ID: b139
+Time point 2: 6/27/2023 4:07:35 PM	Latitude: 38.0468483	Longitude: -78.5043716	Speed: 26	Device ID: b139
+Time end: 6/27/2023 4:07:35 PM		Latitude: 38.046848337200004	Longitude: -78.504371851775	Speed: 26.00675	Device ID: b139
+-
+Event 160:
+Time start: 6/27/2023 6:34:28 PM	Latitude: 38.047919461	Longitude: -78.5203365755	Speed: 24.17	Device ID: b139
+Time point 2: 6/27/2023 6:34:29 PM	Latitude: 38.047924	Longitude: -78.5203476	Speed: 24	Device ID: b139
+Time end: 6/27/2023 6:34:29 PM		Latitude: 38.047907214	Longitude: -78.52039291999999	Speed: 25.1	Device ID: b139
+-
+Event 160:
+Time start: 6/27/2023 7:17:47 PM	Latitude: 38.047867657350004	Longitude: -78.5085111091	Speed: 26.8155	Device ID: b139
+Time point 2: 6/27/2023 7:17:48 PM	Latitude: 38.0478706	Longitude: -78.5084915	Speed: 29	Device ID: b139
+Time end: 6/27/2023 7:17:48 PM		Latitude: 38.047867394	Longitude: -78.50846693	Speed: 29.28	Device ID: b139
+-
+Event 160:
+Time start: 7/5/2023 4:50:53 PM	Latitude: 38.04256747075	Longitude: -78.51124621950001	Speed: 24.78925	Device ID: b139
+Time end: 7/5/2023 4:50:53 PM		Latitude: 38.042587015	Longitude: -78.51123319	Speed: 25.485	Device ID: b139
+-
+Event 160:
+Time start: 7/5/2023 4:51:48 PM	Latitude: 38.047807548375	Longitude: -78.5085132966	Speed: 20.07625	Device ID: b139
+Time end: 7/5/2023 4:51:48 PM		Latitude: 38.047802103375	Longitude: -78.5084788886	Speed: 21.72625	Device ID: b139
+-
+Event 160:
+Time start: 7/11/2023 11:57:18 AM	Latitude: 38.03337187948	Longitude: -78.498124242	Speed: 18.8229	Device ID: b139
+Time end: 7/11/2023 11:57:18 AM		Latitude: 38.0333674576	Longitude: -78.49811144	Speed: 18.598	Device ID: b139
+-
+Event 160:
+Time start: 7/18/2023 10:58:34 AM	Latitude: 38.04251804265	Longitude: -78.5113486389	Speed: 30.567	Device ID: b139
+Time end: 7/18/2023 10:58:34 AM		Latitude: 38.04249097415	Longitude: -78.5113371579	Speed: 30.137	Device ID: b139
+-
+Event 160:
+Time start: 7/18/2023 11:04:56 AM	Latitude: 38.03108240748333	Longitude: -78.4968500241	Speed: 15.354	Device ID: b139
+Time end: 7/18/2023 11:04:56 AM		Latitude: 38.031081898816666	Longitude: -78.4968489561	Speed: 15.434	Device ID: b139
+-
+Event 160:
+Time start: 7/18/2023 11:31:43 AM	Latitude: 38.046425415	Longitude: -78.509778165	Speed: 13.7	Device ID: b139
+Time end: 7/18/2023 11:31:43 AM		Latitude: 38.0464235727	Longitude: -78.5097692157	Speed: 14.666	Device ID: b139
+-
+Event 160:
+Time start: 7/19/2023 1:36:16 PM	Latitude: 38.046752242	Longitude: -78.504354741	Speed: 12.31	Device ID: b139
+Time end: 7/19/2023 1:36:16 PM		Latitude: 38.046748504	Longitude: -78.50435154200001	Speed: 13.22	Device ID: b139
+-
+Event 160:
+Time start: 8/2/2023 2:52:16 PM	Latitude: 38.0367889	Longitude: -78.5035611853	Speed: 8.458	Device ID: b139
+Time end: 8/2/2023 2:52:16 PM		Latitude: 38.0367889	Longitude: -78.5035599487	Speed: 8.782	Device ID: b139
+-
+Event 160:
+Time start: 8/7/2023 4:08:29 PM	Latitude: 38.044332626	Longitude: -78.50514906699999	Speed: 29.26	Device ID: b139
+Time end: 8/7/2023 4:08:29 PM		Latitude: 38.0443335225	Longitude: -78.50514887624999	Speed: 29.225	Device ID: b139
+-
+Event 160:
+Time start: 8/15/2023 12:19:14 PM	Latitude: 38.03179817	Longitude: -78.51003339	Speed: 15.5	Device ID: b139
+Time end: 8/15/2023 12:19:14 PM		Latitude: 38.031801641	Longitude: -78.51004429700001	Speed: 14.85	Device ID: b139
+-
+Event 160:
+Time start: 8/18/2023 12:04:48 PM	Latitude: 38.03224279525	Longitude: -78.51255629025	Speed: 22.2825	Device ID: b139
+Time end: 8/18/2023 12:04:48 PM		Latitude: 38.03225713925	Longitude: -78.51260695425	Speed: 21.4025	Device ID: b139
+-
+Event 160:
+Time start: 8/18/2023 1:36:21 PM	Latitude: 38.04253448083334	Longitude: -78.51127423533333	Speed: 20.696667	Device ID: b139
+Time end: 8/18/2023 1:36:21 PM		Latitude: 38.04254382758334	Longitude: -78.51126675793333	Speed: 21.235666	Device ID: b139
+-
+Event 160:
+Time start: 8/31/2023 2:45:33 PM	Latitude: 38.03037069655	Longitude: -78.4438954482	Speed: 35.615	Device ID: b139
+Time end: 8/31/2023 2:45:34 PM		Latitude: 38.03032270755	Longitude: -78.4438559322	Speed: 31.915	Device ID: b139
+-
+Event 160:
+Time start: 8/31/2023 3:08:35 PM	Latitude: 38.032171958977464	Longitude: -78.44659011117034	Speed: 30.220015	Device ID: b139
+Time end: 8/31/2023 3:08:36 PM		Latitude: 38.032249206130366	Longitude: -78.44668382355222	Speed: 24.57669	Device ID: b139
+-
+Event 160:
+Time start: 10/4/2023 3:44:33 PM	Latitude: 38.03678849806666	Longitude: -78.5146010974	Speed: 9.963667	Device ID: b139
+Time end: 10/4/2023 3:44:34 PM		Latitude: 38.036822222666665	Longitude: -78.514589296	Speed: 15.046667	Device ID: b139
+-
+Event 160:
+Time start: 10/5/2023 12:59:38 PM	Latitude: 38.0340739409	Longitude: -78.5088532506	Speed: 18.298	Device ID: b139
+Time end: 10/5/2023 12:59:38 PM		Latitude: 38.034074562185715	Longitude: -78.50885317431428	Speed: 18.266571	Device ID: b139
+-
+Event 160:
+Time start: 10/5/2023 1:18:31 PM	Latitude: 38.039144736	Longitude: -78.505740234	Speed: 5.76	Device ID: b139
+Time end: 10/5/2023 1:18:31 PM		Latitude: 38.039143668	Longitude: -78.505740692	Speed: 5.88	Device ID: b139
+-
+Event 160:
+Time start: 10/5/2023 2:57:34 PM	Latitude: 38.046639208500004	Longitude: -78.50943308100001	Speed: 23.3	Device ID: b139
+Time end: 10/5/2023 2:57:34 PM		Latitude: 38.04663905583333	Longitude: -78.50943135166668	Speed: 23.166666	Device ID: b139
+-
+Event 160:
+Time start: 10/11/2023 3:24:41 PM	Latitude: 38.0368212245	Longitude: -78.51458460925	Speed: 18.732	Device ID: b139
+Time end: 10/11/2023 3:24:41 PM		Latitude: 38.0368181345	Longitude: -78.51458552425	Speed: 18.492	Device ID: b139
+-
+Event 160:
+Time start: 10/18/2023 6:15:25 PM	Latitude: 38.0344828886	Longitude: -78.50994496346667	Speed: 13.8116665	Device ID: b139
+Time point 2: 10/18/2023 6:15:26 PM	Latitude: 38.0344849	Longitude: -78.5099487	Speed: 14	Device ID: b139
+Time end: 10/18/2023 6:15:26 PM		Latitude: 38.03448533788334	Longitude: -78.50994865038332	Speed: 14	Device ID: b139
+-
+Event 160:
+Time start: 10/18/2023 6:24:46 PM	Latitude: 38.04445980448333	Longitude: -78.52350947555	Speed: 20.975334	Device ID: b139
+Time point 2: 10/18/2023 6:24:48 PM	Latitude: 38.0444412	Longitude: -78.5234146	Speed: 20	Device ID: b139
+Time end: 10/18/2023 6:24:48 PM		Latitude: 38.0444218875	Longitude: -78.52341030625	Speed: 16.25	Device ID: b139
+-
+Event 160:
+Time start: 10/30/2023 12:43:31 PM	Latitude: 38.0877520245	Longitude: -78.470511849225	Speed: 19.5425	Device ID: b139
+Time point 2: 10/30/2023 12:43:32 PM	Latitude: 38.0877838	Longitude: -78.4705048	Speed: 18	Device ID: b139
+Time end: 10/30/2023 12:43:32 PM		Latitude: 38.087779260999994	Longitude: -78.47051344166667	Speed: 18.566668	Device ID: b139
+-
+Event 160:
+Time start: 10/31/2023 1:00:37 PM	Latitude: 38.04460091633333	Longitude: -78.50519312266667	Speed: 29	Device ID: b139
+Time end: 10/31/2023 1:00:38 PM		Latitude: 38.04459201466667	Longitude: -78.50521626933333	Speed: 29	Device ID: b139
+-
+Event 160:
+Time start: 11/15/2023 7:33:32 PM	Latitude: 38.0425351553	Longitude: -78.5112737553	Speed: 13.127	Device ID: b139
+Time end: 11/15/2023 7:33:32 PM		Latitude: 38.0425433993	Longitude: -78.5112819993	Speed: 17.087	Device ID: b139
+-
+Event 160:
+Time start: 11/27/2023 1:05:06 PM	Latitude: 38.01978699006	Longitude: -78.53849281316	Speed: 23.0482	Device ID: b139
+Time end: 11/27/2023 1:05:06 PM		Latitude: 38.01976508346	Longitude: -78.53851936556	Speed: 27.7462	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2023 7:01:56 PM	Latitude: 38.04785970436	Longitude: -78.50851003538	Speed: 23.2138	Device ID: b139
+Time end: 11/29/2023 7:01:56 PM		Latitude: 38.0478489308	Longitude: -78.5084755614	Speed: 24.414	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2023 7:36:10 PM	Latitude: 38.04789420826667	Longitude: -78.50845426926668	Speed: 20.935	Device ID: b139
+Time end: 11/29/2023 7:36:10 PM		Latitude: 38.047887495733335	Longitude: -78.50848937473334	Speed: 22.965	Device ID: b139
+-
+Event 160:
+Time start: 11/29/2023 7:38:29 PM	Latitude: 38.03680573226667	Longitude: -78.51458210066667	Speed: 19.345667	Device ID: b139
+Time end: 11/29/2023 7:38:29 PM		Latitude: 38.036796308266666	Longitude: -78.51462124066667	Speed: 21.435667	Device ID: b139
+-
+Event 160:
+Time start: 11/30/2023 2:42:35 PM	Latitude: 38.047924	Longitude: -78.50840703589999	Speed: 20.465	Device ID: b139
+Time end: 11/30/2023 2:42:36 PM		Latitude: 38.047924	Longitude: -78.5084302311	Speed: 21.985	Device ID: b139
+-
+Event 160:
+Time start: 11/30/2023 2:44:51 PM	Latitude: 38.03689612725	Longitude: -78.51460201145	Speed: 22.1065	Device ID: b139
+Time point 2: 11/30/2023 2:44:52 PM	Latitude: 38.0368652	Longitude: -78.5145874	Speed: 20	Device ID: b139
+Time end: 11/30/2023 2:44:52 PM		Latitude: 38.036857850567856	Longitude: -78.51462431354642	Speed: 19.912428	Device ID: b139
+-
+Event 160:
+Time start: 12/1/2023 2:32:02 PM	Latitude: 38.0458755	Longitude: -78.51929857500001	Speed: 19.25	Device ID: b139
+Time point 2: 12/1/2023 2:32:03 PM	Latitude: 38.0458755	Longitude: -78.5193253	Speed: 22	Device ID: b139
+Time end: 12/1/2023 2:32:03 PM		Latitude: 38.04586637176667	Longitude: -78.51932868263334	Speed: 22.576334	Device ID: b139
+-
+Event 160:
+Time start: 12/6/2023 6:40:59 PM	Latitude: 38.0467453	Longitude: -78.5063171	Speed: 22.8055	Device ID: b139
+Time end: 12/6/2023 6:41:00 PM		Latitude: 38.0467453	Longitude: -78.5063171	Speed: 26.217833	Device ID: b139
+-
+Event 160:
+Time start: 12/15/2023 4:40:39 PM	Latitude: 38.047240982025	Longitude: -78.50702321317499	Speed: 13.0325	Device ID: b139
+Time end: 12/15/2023 4:40:39 PM		Latitude: 38.047238883775	Longitude: -78.507019855425	Speed: 13.3075	Device ID: b139
+-
+Event 160:
+Time start: 12/20/2023 5:48:39 PM	Latitude: 38.046853336	Longitude: -78.504514424	Speed: 10.2	Device ID: b139
+Time end: 12/20/2023 5:48:39 PM		Latitude: 38.0468528324	Longitude: -78.5045131116	Speed: 10.08	Device ID: b139
+-
+Event 160:
+Time start: 1/3/2024 6:16:56 PM	Latitude: 38.05287541945	Longitude: -78.49910458915001	Speed: 33.719	Device ID: b139
+Time point 2: 1/3/2024 6:16:57 PM	Latitude: 38.0529137	Longitude: -78.4990997	Speed: 35	Device ID: b139
+Time end: 1/3/2024 6:16:57 PM		Latitude: 38.0529206020875	Longitude: -78.4991055751	Speed: 35.125126	Device ID: b139
+-
+Event 160:
+Time start: 1/3/2024 6:19:44 PM	Latitude: 38.051150323	Longitude: -78.50845334877143	Speed: 48.71257	Device ID: b139
+Time end: 1/3/2024 6:19:44 PM		Latitude: 38.051159787	Longitude: -78.50846321094286	Speed: 48.65314	Device ID: b139
+-
+Event 160:
+Time start: 1/3/2024 6:23:53 PM	Latitude: 38.047922159725	Longitude: -78.5212497045	Speed: 19.2425	Device ID: b139
+Time end: 1/3/2024 6:23:53 PM		Latitude: 38.047926814025	Longitude: -78.5212622705	Speed: 18.6325	Device ID: b139
+-
+Event 160:
+Time start: 1/3/2024 6:50:46 PM	Latitude: 38.04786202776667	Longitude: -78.5085342955	Speed: 21.139	Device ID: b139
+Time end: 1/3/2024 6:50:47 PM		Latitude: 38.04786298956667	Longitude: -78.5085269245	Speed: 22.021	Device ID: b139
+-
+Event 160:
+Time start: 1/4/2024 1:04:35 PM	Latitude: 38.046785739	Longitude: -78.504434939	Speed: 16.41	Device ID: b139
+Time end: 1/4/2024 1:04:36 PM		Latitude: 38.04678104655	Longitude: -78.50443024655	Speed: 16.5945	Device ID: b139
+-
+Event 160:
+Time start: 1/24/2024 6:40:51 PM	Latitude: 38.04797836595	Longitude: -78.5083839855	Speed: 17.785	Device ID: b139
+Time end: 1/24/2024 6:40:51 PM		Latitude: 38.04797916695	Longitude: -78.5083870755	Speed: 18.085	Device ID: b139
+-
+Event 160:
+Time start: 1/26/2024 5:41:42 PM	Latitude: 38.0468569871	Longitude: -78.506302718	Speed: 18.276	Device ID: b139
+Time end: 1/26/2024 5:41:42 PM		Latitude: 38.046851237666665	Longitude: -78.50629714666665	Speed: 18.093334	Device ID: b139
+-
+Event 160:
+Time start: 1/29/2024 2:02:39 PM	Latitude: 38.046915095500005	Longitude: -78.5043301688	Speed: 32.4305	Device ID: b139
+Time end: 1/29/2024 2:02:40 PM		Latitude: 38.0468728655	Longitude: -78.50437084080001	Speed: 27.1005	Device ID: b139
+-

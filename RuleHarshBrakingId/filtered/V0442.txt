@@ -1,0 +1,86 @@
+Vehicle: V0442
+Time start: 7/17/2020 8:16:00 PM	Latitude: 38.086932763625	Longitude: -78.475975643875	Speed: 20.23875	Device ID: bC3
+Time end: 7/17/2020 8:16:00 PM		Latitude: 38.08693387375	Longitude: -78.47598055125	Speed: 19.5125	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/21/2020 12:38:32 PM	Latitude: 38.055556896	Longitude: -78.49668184333333	Speed: 66.02333	Device ID: bC3
+Time point 2: 10/21/2020 12:38:33 PM	Latitude: 38.0555763	Longitude: -78.496666	Speed: 66	Device ID: bC3
+Time end: 10/21/2020 12:38:33 PM		Latitude: 38.0555793672	Longitude: -78.496663528	Speed: 65.208	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 1/13/2022 6:50:57 PM	Latitude: 38.0355072	Longitude: -78.51666604535785	Speed: 0	Device ID: bC3
+Time end: 1/13/2022 6:50:58 PM		Latitude: 38.0355072	Longitude: -78.51666605487016	Speed: 0	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 8/10/2022 1:12:18 PM	Latitude: 38.0259323	Longitude: -78.51607917333334	Speed: 37.3	Device ID: bC3
+Time end: 8/10/2022 1:12:18 PM		Latitude: 38.0259323	Longitude: -78.51608240066668	Speed: 36.83	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/9/2023 3:20:15 PM	Latitude: 38.03458040571429	Longitude: -78.50099791428572	Speed: 21.714285	Device ID: bC3
+Time point 2: 10/9/2023 3:20:16 PM	Latitude: 38.034584	Longitude: -78.5010147	Speed: 22	Device ID: bC3
+Time end: 10/9/2023 3:20:16 PM		Latitude: 38.034584267	Longitude: -78.501017828	Speed: 21.88	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/9/2023 3:38:15 PM	Latitude: 38.03408366897143	Longitude: -78.4997191379	Speed: 17.364714	Device ID: bC3
+Time end: 10/9/2023 3:38:15 PM		Latitude: 38.034082909314286	Longitude: -78.49971802610001	Speed: 17.418142	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/9/2023 3:38:33 PM	Latitude: 38.033597622040006	Longitude: -78.49886967213	Speed: 17.7801	Device ID: bC3
+Time end: 10/9/2023 3:38:35 PM		Latitude: 38.0335333164	Longitude: -78.49875233329999	Speed: 15.041	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/9/2023 3:38:35 PM	Latitude: 38.03353066116	Longitude: -78.49874748827	Speed: 14.9279	Device ID: bC3
+Time end: 10/9/2023 3:38:35 PM		Latitude: 38.033519796040004	Longitude: -78.49872766262999	Speed: 14.4651	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/9/2023 3:38:35 PM	Latitude: 38.03351674404001	Longitude: -78.49872209363	Speed: 14.3351	Device ID: bC3
+Time end: 10/9/2023 3:38:35 PM		Latitude: 38.033516133640006	Longitude: -78.49872097983	Speed: 14.3091	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 3:10:25 PM	Latitude: 38.0351829944	Longitude: -78.5165558	Speed: 11.672	Device ID: bC3
+Time end: 10/25/2023 3:10:25 PM		Latitude: 38.0351823074	Longitude: -78.5165558	Speed: 11.612	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 3:10:52 PM	Latitude: 38.0351423789	Longitude: -78.5152155546	Speed: 27.534	Device ID: bC3
+Time end: 10/25/2023 3:10:52 PM		Latitude: 38.0351449688	Longitude: -78.5152081632	Speed: 27.728	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 3:10:53 PM	Latitude: 38.0351486	Longitude: -78.5151864912	Speed: 28	Device ID: bC3
+Time end: 10/25/2023 3:10:53 PM		Latitude: 38.0351486	Longitude: -78.5151835152	Speed: 28	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 3:10:56 PM	Latitude: 38.0351559158	Longitude: -78.5149250938	Speed: 20.904	Device ID: bC3
+Time end: 10/25/2023 3:10:56 PM		Latitude: 38.035157945	Longitude: -78.514919295	Speed: 20.6	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 3:10:56 PM	Latitude: 38.0351607218	Longitude: -78.5149113598	Speed: 20.184	Device ID: bC3
+Time end: 10/25/2023 3:10:56 PM		Latitude: 38.035161149	Longitude: -78.514910139	Speed: 20.12	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 3:10:56 PM	Latitude: 38.035162217	Longitude: -78.514907087	Speed: 19.96	Device ID: bC3
+Time end: 10/25/2023 3:10:56 PM		Latitude: 38.035162857799996	Longitude: -78.5149052558	Speed: 19.864	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 3:10:56 PM	Latitude: 38.0351634719	Longitude: -78.5149035009	Speed: 19.772	Device ID: bC3
+Time end: 10/25/2023 3:10:56 PM		Latitude: 38.035166328799995	Longitude: -78.5148953368	Speed: 19.344	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 6:53:31 PM	Latitude: 38.02518254752857	Longitude: -78.52458844415713	Speed: 23.819714	Device ID: bC3
+Time end: 10/25/2023 6:53:31 PM		Latitude: 38.025182836242855	Longitude: -78.52458881458571	Speed: 23.782572	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 6:53:31 PM	Latitude: 38.025191584285714	Longitude: -78.52460003857142	Speed: 22.657143	Device ID: bC3
+Time end: 10/25/2023 6:53:31 PM		Latitude: 38.025192363814284	Longitude: -78.52460103872856	Speed: 22.556858	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 6:59:14 PM	Latitude: 38.036381623764704	Longitude: -78.51627194329411	Speed: 11.46353	Device ID: bC3
+Time end: 10/25/2023 6:59:14 PM		Latitude: 38.03638145572353	Longitude: -78.51627199357058	Speed: 11.460647	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 10/25/2023 6:59:14 PM	Latitude: 38.03637497413529	Longitude: -78.51627393280589	Speed: 11.34947	Device ID: bC3
+Time end: 10/25/2023 6:59:14 PM		Latitude: 38.03637314968824	Longitude: -78.51627447866471	Speed: 11.318176	Device ID: bC3
+-
+Vehicle: V0442
+Time start: 11/8/2023 8:26:03 PM	Latitude: 38.0344232497	Longitude: -78.50041600006666	Speed: 10	Device ID: bC3
+Time end: 11/8/2023 8:26:03 PM		Latitude: 38.0344231073	Longitude: -78.50041549837778	Speed: 10	Device ID: bC3
+-

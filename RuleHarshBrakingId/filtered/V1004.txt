@@ -1,0 +1,58 @@
+Vehicle: V1004
+Time start: 3/16/2022 7:04:23 PM	Latitude: 38.0352783	Longitude: -78.51642609998382	Speed: 0	Device ID: b21D
+Time end: 3/16/2022 7:04:23 PM		Latitude: 38.0352783	Longitude: -78.51642609998322	Speed: 0	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 3/16/2022 7:04:23 PM	Latitude: 38.0352783	Longitude: -78.51642609998162	Speed: 0	Device ID: b21D
+Time end: 3/16/2022 7:04:23 PM		Latitude: 38.0352783	Longitude: -78.5164260999805	Speed: 0	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 8/22/2022 9:19:25 PM	Latitude: 38.031120641499996	Longitude: -78.50313213000001	Speed: 3.69	Device ID: b21D
+Time end: 8/22/2022 9:19:26 PM		Latitude: 38.03111678835	Longitude: -78.503121727	Speed: 2.781	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 9/12/2022 5:53:54 PM	Latitude: 38.031928075	Longitude: -78.50981905	Speed: 15.5	Device ID: b21D
+Time end: 9/12/2022 5:53:54 PM		Latitude: 38.031923803000005	Longitude: -78.50982394600001	Speed: 13.26	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 9/28/2022 5:42:35 PM	Latitude: 38.03261504382	Longitude: -78.49441241298	Speed: 23.9656	Device ID: b21D
+Time point 2: 9/28/2022 5:42:36 PM	Latitude: 38.0326157	Longitude: -78.4944153	Speed: 24	Device ID: b21D
+Time end: 9/28/2022 5:42:36 PM		Latitude: 38.0326176836	Longitude: -78.4944219381	Speed: 23.826	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 10/31/2022 11:09:46 AM	Latitude: 38.02894225466667	Longitude: -78.48594519866667	Speed: 26.733334	Device ID: b21D
+Time end: 10/31/2022 11:09:47 AM		Latitude: 38.028933910633334	Longitude: -78.48595158053334	Speed: 24.481667	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 11/3/2022 1:34:58 PM	Latitude: 38.0314070656	Longitude: -78.51039282010001	Speed: 14.7595	Device ID: b21D
+Time end: 11/3/2022 1:34:58 PM		Latitude: 38.0313980384	Longitude: -78.51040253890001	Speed: 9.8455	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 3/30/2023 1:20:24 PM	Latitude: 38.03208837255	Longitude: -78.50162151335	Speed: 13.5345	Device ID: b21D
+Time end: 3/30/2023 1:20:25 PM		Latitude: 38.032090013	Longitude: -78.501621021	Speed: 13.47	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 5/25/2023 3:16:15 PM	Latitude: 38.033859612	Longitude: -78.50873029899999	Speed: 46.47	Device ID: b21D
+Time end: 5/25/2023 3:16:15 PM		Latitude: 38.033869836	Longitude: -78.508727247	Speed: 44.91	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 6/23/2023 12:13:41 PM	Latitude: 38.0320511	Longitude: -78.504730749	Speed: 43.396	Device ID: b21D
+Time end: 6/23/2023 12:13:41 PM		Latitude: 38.0320511	Longitude: -78.504708089	Speed: 40.756	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 7/27/2023 6:23:40 PM	Latitude: 38.0320778	Longitude: -78.50622485066667	Speed: 32.836666	Device ID: b21D
+Time end: 7/27/2023 6:23:40 PM		Latitude: 38.0320778	Longitude: -78.50623476533333	Speed: 31.493334	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 8/14/2023 5:19:02 PM	Latitude: 38.0320511	Longitude: -78.50348143857501	Speed: 25.42975	Device ID: b21D
+Time end: 8/14/2023 5:19:02 PM		Latitude: 38.0320511	Longitude: -78.50347795967501	Speed: 24.99275	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 8/24/2023 4:19:08 PM	Latitude: 38.03022492705	Longitude: -78.49924928845	Speed: 24.453	Device ID: b21D
+Time end: 8/24/2023 4:19:08 PM		Latitude: 38.030222217	Longitude: -78.499262453	Speed: 22.22	Device ID: b21D
+-
+Vehicle: V1004
+Time start: 10/16/2023 5:59:44 PM	Latitude: 38.03043833984615	Longitude: -78.49789013175385	Speed: 23.991846	Device ID: b21D
+Time point 2: 10/16/2023 5:59:45 PM	Latitude: 38.0304375	Longitude: -78.4978943	Speed: 24	Device ID: b21D
+Time end: 10/16/2023 5:59:45 PM		Latitude: 38.0304375	Longitude: -78.49789651546666	Speed: 23.464	Device ID: b21D
+-

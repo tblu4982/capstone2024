@@ -1,0 +1,242 @@
+Vehicle: V0780
+Time start: 3/20/2019 8:18:27 PM	Latitude: 38.02940109497917	Longitude: -78.51585459824477	Speed: 0	Device ID: b2A
+Time end: 3/20/2019 8:18:27 PM		Latitude: 38.02940109758035	Longitude: -78.51585459527338	Speed: 0	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/15/2019 9:37:20 PM	Latitude: 38.0421371	Longitude: -78.50352726726196	Speed: 2.0025978	Device ID: b2A
+Time end: 4/15/2019 9:37:20 PM		Latitude: 38.0421371	Longitude: -78.50352708978153	Speed: 2.009576	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/16/2019 9:00:35 PM	Latitude: 38.0481774394	Longitude: -78.51219274716	Speed: 12.0822	Device ID: b2A
+Time end: 4/16/2019 9:00:35 PM		Latitude: 38.0481752146	Longitude: -78.51219164844001	Speed: 12.3198	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/16/2019 9:00:35 PM	Latitude: 38.048171877399994	Longitude: -78.51219000036001	Speed: 12.6762	Device ID: b2A
+Time end: 4/16/2019 9:00:35 PM		Latitude: 38.048167983999996	Longitude: -78.5121880776	Speed: 13.092	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 5/6/2019 6:42:26 PM	Latitude: 38.03918527238	Longitude: -78.50595257756	Speed: 23.8134	Device ID: b2A
+Time point 2: 5/6/2019 6:42:30 PM	Latitude: 38.0390129	Longitude: -78.5058594	Speed: 0	Device ID: b2A
+Time point 3: 5/6/2019 6:42:34 PM	Latitude: 38.03899	Longitude: -78.5058594	Speed: 5	Device ID: b2A
+Time end: 5/6/2019 6:42:34 PM		Latitude: 38.03896322	Longitude: -78.50584353133334	Speed: 7.6	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 6/18/2019 1:54:19 PM	Latitude: 38.0855891706	Longitude: -78.4742763706	Speed: 17.768667	Device ID: b2A
+Time end: 6/18/2019 1:54:20 PM		Latitude: 38.0856042294	Longitude: -78.4742914294	Speed: 11.564667	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 8/21/2019 10:16:25 PM	Latitude: 38.029783776	Longitude: -78.5039368	Speed: 2.2	Device ID: b2A
+Time end: 8/21/2019 10:16:25 PM		Latitude: 38.029785608	Longitude: -78.5039368	Speed: 2.6	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 9/17/2019 9:10:34 PM	Latitude: 38.02884984285	Longitude: -78.5164986014625	Speed: 1.65875	Device ID: b2A
+Time end: 9/17/2019 9:10:34 PM		Latitude: 38.02884736	Longitude: -78.516498965	Speed: 1.5	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 10/7/2019 7:01:52 PM	Latitude: 38.035231781925006	Longitude: -78.515672700825	Speed: 6.28875	Device ID: b2A
+Time end: 10/7/2019 7:01:52 PM		Latitude: 38.035228838250006	Longitude: -78.51567185925	Speed: 5.7375	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 10/18/2019 10:09:52 PM	Latitude: 38.0351328114	Longitude: -78.5141863114	Speed: 7.9783335	Device ID: b2A
+Time end: 10/18/2019 10:09:52 PM		Latitude: 38.0351287174	Longitude: -78.5141822174	Speed: 8.361667	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 10/31/2019 2:06:33 AM	Latitude: 38.029234140475005	Longitude: -78.51642676337501	Speed: 9.89125	Device ID: b2A
+Time end: 10/31/2019 2:06:33 AM		Latitude: 38.029234216775	Longitude: -78.516426732875	Speed: 9.89625	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 11/18/2019 12:56:48 PM	Latitude: 38.035500471599995	Longitude: -78.5157415844	Speed: 2.772	Device ID: b2A
+Time end: 11/18/2019 12:56:48 PM		Latitude: 38.0355016464	Longitude: -78.51573587760001	Speed: 2.288	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 11/22/2019 11:01:49 PM	Latitude: 38.0305138	Longitude: -78.5198593	Speed: 2.2305	Device ID: b2A
+Time end: 11/22/2019 11:01:49 PM		Latitude: 38.0305138	Longitude: -78.5198593	Speed: 2.3805	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 11/23/2019 12:04:17 AM	Latitude: 38.0331268	Longitude: -78.51599112849999	Speed: 1.2825	Device ID: b2A
+Time end: 11/23/2019 12:04:17 AM		Latitude: 38.0331268	Longitude: -78.51598975345	Speed: 1.20525	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 12/3/2019 4:14:58 PM	Latitude: 38.047944900425	Longitude: -78.511989731725	Speed: 45.7285	Device ID: b2A
+Time point 2: 12/3/2019 4:14:59 PM	Latitude: 38.0480003	Longitude: -78.5120239	Speed: 46	Device ID: b2A
+Time end: 12/3/2019 4:14:59 PM		Latitude: 38.048003287	Longitude: -78.5120247845	Speed: 44.811	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 1/22/2020 11:30:14 PM	Latitude: 38.03384280918	Longitude: -78.51003848956	Speed: 28.5094	Device ID: b2A
+Time point 2: 1/22/2020 11:30:15 PM	Latitude: 38.033844	Longitude: -78.5100555	Speed: 29	Device ID: b2A
+Time end: 1/22/2020 11:30:15 PM		Latitude: 38.033844	Longitude: -78.510066182	Speed: 24.94	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 1/23/2020 7:26:46 PM	Latitude: 38.041507794	Longitude: -78.50612193336364	Speed: 44.395454	Device ID: b2A
+Time end: 1/23/2020 7:26:46 PM		Latitude: 38.0414974758	Longitude: -78.50612555335455	Speed: 44.276817	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 2/5/2020 4:40:37 AM	Latitude: 38.04715465288889	Longitude: -78.509905136	Speed: 17.022223	Device ID: b2A
+Time point 2: 2/5/2020 4:40:38 AM	Latitude: 38.0471535	Longitude: -78.509903	Speed: 17	Device ID: b2A
+Time end: 2/5/2020 4:40:38 AM		Latitude: 38.04715112985	Longitude: -78.509903	Speed: 15.758	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 2/13/2020 2:43:54 PM	Latitude: 38.03752518509091	Longitude: -78.50737158145454	Speed: 39.01091	Device ID: b2A
+Time point 2: 2/13/2020 2:43:55 PM	Latitude: 38.037529	Longitude: -78.50737	Speed: 39	Device ID: b2A
+Time end: 2/13/2020 2:43:55 PM		Latitude: 38.03753097229091	Longitude: -78.50736931550908	Speed: 38.833363	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/29/2020 6:52:16 PM	Latitude: 38.035419887366665	Longitude: -78.514122	Speed: 24.814333	Device ID: b2A
+Time end: 4/29/2020 6:52:16 PM		Latitude: 38.0354102227	Longitude: -78.514122	Speed: 21.141	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 8/7/2020 9:37:20 PM	Latitude: 38.0285766304	Longitude: -78.5153905848	Speed: 34.12	Device ID: b2A
+Time end: 8/7/2020 9:37:20 PM		Latitude: 38.028576577	Longitude: -78.515389349	Speed: 34.1	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 8/7/2020 9:37:20 PM	Latitude: 38.028576310000005	Longitude: -78.51538316999999	Speed: 34	Device ID: b2A
+Time end: 8/7/2020 9:37:20 PM		Latitude: 38.028576080380006	Longitude: -78.51537785606	Speed: 33.914	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 12/4/2020 4:38:54 AM	Latitude: 38.0399361	Longitude: -78.5067645263	Speed: 11.6025	Device ID: b2A
+Time end: 12/4/2020 4:38:54 AM		Latitude: 38.0399361	Longitude: -78.506764366	Speed: 11.55	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 3/14/2021 10:23:25 AM	Latitude: 38.03630074649483	Longitude: -78.51594534688793	Speed: 0	Device ID: b2A
+Time end: 3/14/2021 10:23:26 AM		Latitude: 38.03630074682596	Longitude: -78.51594534650968	Speed: 0	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 3/27/2021 4:34:17 AM	Latitude: 38.031696683	Longitude: -78.51532391233333	Speed: 0.47	Device ID: b2A
+Time end: 3/27/2021 4:34:17 AM		Latitude: 38.031696389299995	Longitude: -78.51532416423333	Speed: 0.437	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 3/27/2021 5:27:10 AM	Latitude: 38.029074277333336	Longitude: -78.51836389033333	Speed: 1.01	Device ID: b2A
+Time end: 3/27/2021 5:27:10 AM		Latitude: 38.02907433986667	Longitude: -78.51836394376666	Speed: 1.003	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/24/2021 9:05:40 AM	Latitude: 38.029736239900004	Longitude: -78.5203934	Speed: 4.179	Device ID: b2A
+Time end: 4/24/2021 9:05:40 AM		Latitude: 38.029736053	Longitude: -78.5203934	Speed: 4.13	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 5/8/2021 11:11:17 AM	Latitude: 38.0422134	Longitude: -78.5036011	Speed: 10.549	Device ID: b2A
+Time end: 5/8/2021 11:11:17 AM		Latitude: 38.0422134	Longitude: -78.5036011	Speed: 9.191	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 5/16/2021 11:14:42 AM	Latitude: 38.036379841466875	Longitude: -78.51617551853168	Speed: 0	Device ID: b2A
+Time end: 5/16/2021 11:14:43 AM		Latitude: 38.03637986305941	Longitude: -78.5161755277914	Speed: 0	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 5/27/2021 11:07:47 AM	Latitude: 38.0354042	Longitude: -78.515686	Speed: 14.056	Device ID: b2A
+Time end: 5/27/2021 11:07:47 AM		Latitude: 38.0354042	Longitude: -78.515686	Speed: 13.656	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 6/2/2021 12:15:57 AM	Latitude: 38.047453055814195	Longitude: -78.50814750581435	Speed: 0	Device ID: b2A
+Time end: 6/2/2021 12:15:58 AM		Latitude: 38.04745305512444	Longitude: -78.50814750464623	Speed: 0	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 6/29/2021 7:05:56 PM	Latitude: 38.035278341707226	Longitude: -78.51625055829278	Speed: 0	Device ID: b2A
+Time end: 6/29/2021 7:05:58 PM		Latitude: 38.03527834223034	Longitude: -78.51625055776967	Speed: 0	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 8/4/2021 3:21:03 PM	Latitude: 38.0858383	Longitude: -78.47475904629128	Speed: 0	Device ID: b2A
+Time end: 8/4/2021 3:21:04 PM		Latitude: 38.0858383	Longitude: -78.47475904620838	Speed: 0	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 8/19/2021 1:49:57 PM	Latitude: 38.03212610505	Longitude: -78.50734579045	Speed: 39.642	Device ID: b2A
+Time end: 8/19/2021 1:49:57 PM		Latitude: 38.03211876255	Longitude: -78.50738145795	Speed: 31.942	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 9/2/2021 5:26:24 PM	Latitude: 38.045461580499996	Longitude: -78.5075541733	Speed: 42.339	Device ID: b2A
+Time point 2: 9/2/2021 5:26:25 PM	Latitude: 38.0454674	Longitude: -78.5075684	Speed: 42	Device ID: b2A
+Time end: 9/2/2021 5:26:25 PM		Latitude: 38.0454674	Longitude: -78.5075684	Speed: 35.448	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 10/22/2021 6:35:04 PM	Latitude: 38.0314883865	Longitude: -78.5103126753	Speed: 42.068	Device ID: b2A
+Time end: 10/22/2021 6:35:04 PM		Latitude: 38.031485230166666	Longitude: -78.5103158747	Speed: 41.932	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 12/14/2021 12:40:03 PM	Latitude: 38.042180738599995	Longitude: -78.5118280759	Speed: 48.115	Device ID: b2A
+Time end: 12/14/2021 12:40:03 PM		Latitude: 38.04218414666666	Longitude: -78.51182398666667	Speed: 47.333332	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 2/4/2022 1:53:57 PM	Latitude: 38.08522914	Longitude: -78.47453597833334	Speed: 3.9	Device ID: b2A
+Time end: 2/4/2022 1:53:57 PM		Latitude: 38.0852282812	Longitude: -78.4745328181	Speed: 3.222	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 2/4/2022 6:44:41 PM	Latitude: 38.03042109965	Longitude: -78.50471216505	Speed: 47.07475	Device ID: b2A
+Time end: 2/4/2022 6:44:42 PM		Latitude: 38.03038844365	Longitude: -78.50472437305	Speed: 50.03475	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 2/10/2022 4:20:03 PM	Latitude: 38.0318985	Longitude: -78.5022202	Speed: 1.988	Device ID: b2A
+Time end: 2/10/2022 4:20:03 PM		Latitude: 38.0318985	Longitude: -78.5022202	Speed: 1.12	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 3/14/2022 1:19:47 PM	Latitude: 38.036304019	Longitude: -78.5078152739	Speed: 43.362	Device ID: b2A
+Time point 2: 3/14/2022 1:19:48 PM	Latitude: 38.0363274	Longitude: -78.5078049	Speed: 42	Device ID: b2A
+Time end: 3/14/2022 1:19:48 PM		Latitude: 38.036333065	Longitude: -78.50780196299999	Speed: 40.24	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 3/21/2022 4:11:02 PM	Latitude: 38.02998520495	Longitude: -78.50508081935	Speed: 7.818	Device ID: b2A
+Time end: 3/21/2022 4:11:02 PM		Latitude: 38.029987648	Longitude: -78.505078724	Speed: 6.72	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/21/2022 4:31:06 PM	Latitude: 38.03156245936667	Longitude: -78.51100803013333	Speed: 19.721333	Device ID: b2A
+Time end: 4/21/2022 4:31:07 PM		Latitude: 38.03158168696667	Longitude: -78.51103302853333	Speed: 12.665334	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/21/2022 6:04:07 PM	Latitude: 38.03859489545	Longitude: -78.50711746190001	Speed: 30.888	Device ID: b2A
+Time end: 4/21/2022 6:04:07 PM		Latitude: 38.03857734645	Longitude: -78.50712974390001	Speed: 23.528	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/25/2022 12:59:56 PM	Latitude: 38.032076571800005	Longitude: -78.5096460564	Speed: 37.092	Device ID: b2A
+Time point 2: 4/25/2022 12:59:57 PM	Latitude: 38.0320778	Longitude: -78.5096436	Speed: 37	Device ID: b2A
+Time end: 4/25/2022 12:59:57 PM		Latitude: 38.0320779736	Longitude: -78.50964333295	Speed: 36.8915	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/27/2022 3:45:15 PM	Latitude: 38.035146616000006	Longitude: -78.508389568	Speed: 39.4	Device ID: b2A
+Time point 2: 4/27/2022 3:45:16 PM	Latitude: 38.035099	Longitude: -78.5084152	Speed: 37	Device ID: b2A
+Time end: 4/27/2022 3:45:16 PM		Latitude: 38.035082446000004	Longitude: -78.508422299	Speed: 26.46	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 5/20/2022 7:59:02 PM	Latitude: 38.0336160555	Longitude: -78.514122	Speed: 31.871	Device ID: b2A
+Time end: 5/20/2022 7:59:02 PM		Latitude: 38.0336328445	Longitude: -78.514122	Speed: 26.329	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 7/6/2022 8:31:35 PM	Latitude: 38.04255799585	Longitude: -78.51134810645	Speed: 33.611	Device ID: b2A
+Time end: 7/6/2022 8:31:36 PM		Latitude: 38.04258683185	Longitude: -78.51132063845	Speed: 21.371	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 9/9/2022 5:16:34 PM	Latitude: 38.0320778	Longitude: -78.5067021098	Speed: 42.661	Device ID: b2A
+Time end: 9/9/2022 5:16:34 PM		Latitude: 38.0320778	Longitude: -78.5066975318	Speed: 42.451	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 12/8/2022 12:34:40 PM	Latitude: 38.042227818	Longitude: -78.511782688	Speed: 21.84	Device ID: b2A
+Time end: 12/8/2022 12:34:40 PM		Latitude: 38.0422317429	Longitude: -78.5117793364	Speed: 21.252	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 12/15/2022 6:55:59 PM	Latitude: 38.041735861549995	Longitude: -78.50429744464999	Speed: 1.417	Device ID: b2A
+Time end: 12/15/2022 6:55:59 PM		Latitude: 38.041735447878565	Longitude: -78.50429594077858	Speed: 1.3315715	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 1/27/2023 6:02:09 PM	Latitude: 38.03334433305	Longitude: -78.51426737290001	Speed: 33.956	Device ID: b2A
+Time end: 1/27/2023 6:02:09 PM		Latitude: 38.0333441385	Longitude: -78.514267453	Speed: 33.92	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 2/7/2023 12:38:14 PM	Latitude: 38.03228979455	Longitude: -78.514670252725	Speed: 30.64425	Device ID: b2A
+Time end: 2/7/2023 12:38:14 PM		Latitude: 38.03229002345	Longitude: -78.51467013827501	Speed: 30.58575	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 3/31/2023 2:21:03 PM	Latitude: 38.031537577099996	Longitude: -78.502861	Speed: 7.304	Device ID: b2A
+Time end: 3/31/2023 2:21:03 PM		Latitude: 38.0315295671	Longitude: -78.502861	Speed: 4.904	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 3/31/2023 2:52:04 PM	Latitude: 38.0417023	Longitude: -78.504301346775	Speed: 0.317	Device ID: b2A
+Time end: 3/31/2023 2:52:04 PM		Latitude: 38.0417023	Longitude: -78.50430001152499	Speed: 0.247	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 4/27/2023 4:09:50 PM	Latitude: 38.04176250546923	Longitude: -78.50438622577693	Speed: 2.2895384	Device ID: b2A
+Time end: 4/27/2023 4:09:51 PM		Latitude: 38.04176180708462	Longitude: -78.50438376123846	Speed: 2.1387691	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 8/16/2023 9:55:52 PM	Latitude: 38.032225822	Longitude: -78.512392858	Speed: 36.76	Device ID: b2A
+Time end: 8/16/2023 9:55:52 PM		Latitude: 38.03222905203334	Longitude: -78.5124070693	Speed: 36.929333	Device ID: b2A
+-
+Vehicle: V0780
+Time start: 10/31/2023 2:05:52 PM	Latitude: 38.0304306208	Longitude: -78.50316250165	Speed: 18.969	Device ID: b2A
+Time end: 10/31/2023 2:05:52 PM		Latitude: 38.0304211968	Longitude: -78.50316467715	Speed: 18.399	Device ID: b2A
+-

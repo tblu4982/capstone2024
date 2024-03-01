@@ -1,0 +1,41 @@
+Vehicle: V0542
+Time start: 6/30/2020 11:32:15 AM	Latitude: 38.0444994169	Longitude: -78.510849	Speed: 37.09833	Device ID: bE8
+Time end: 6/30/2020 11:32:16 AM		Latitude: 38.0445245959	Longitude: -78.510849	Speed: 33.248333	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 3/30/2021 6:42:05 PM	Latitude: 38.0313873	Longitude: -78.5000929163199	Speed: 0	Device ID: bE8
+Time end: 3/30/2021 6:42:06 PM		Latitude: 38.0313873	Longitude: -78.50009291506234	Speed: 0	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 4/27/2021 12:15:02 PM	Latitude: 38.03297281453894	Longitude: -78.51249167655867	Speed: 0	Device ID: bE8
+Time end: 4/27/2021 12:15:02 PM		Latitude: 38.03297281277835	Longitude: -78.51249167957872	Speed: 0	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 4/27/2021 7:33:48 PM	Latitude: 38.0411085455	Longitude: -78.50888644535	Speed: 42.442	Device ID: bE8
+Time end: 4/27/2021 7:33:49 PM		Latitude: 38.0411490245	Longitude: -78.50895840365	Speed: 31.438	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 8/3/2021 2:38:08 PM	Latitude: 38.03452797834189	Longitude: -78.5201187	Speed: 0	Device ID: bE8
+Time end: 8/3/2021 2:38:08 PM		Latitude: 38.03452793859152	Longitude: -78.5201187	Speed: 0	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 8/3/2021 6:05:10 PM	Latitude: 38.03642521049644	Longitude: -78.51666705092254	Speed: 0	Device ID: bE8
+Time end: 8/3/2021 6:05:12 PM		Latitude: 38.03642514209843	Longitude: -78.516667109586	Speed: 0	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 1/6/2022 3:37:32 PM	Latitude: 38.0411190008	Longitude: -78.5062737659	Speed: 38.345	Device ID: bE8
+Time end: 1/6/2022 3:37:32 PM		Latitude: 38.0411077912	Longitude: -78.5062798001	Speed: 34.955	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 1/7/2022 3:50:07 PM	Latitude: 38.0347137	Longitude: -78.51004929542857	Speed: 0.5809524	Device ID: bE8
+Time end: 1/7/2022 3:50:07 PM		Latitude: 38.0347137	Longitude: -78.5100492522	Speed: 0.585	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 1/12/2022 4:49:31 PM	Latitude: 38.0345974835	Longitude: -78.50579059750001	Speed: 10.1	Device ID: bE8
+Time end: 1/12/2022 4:49:32 PM		Latitude: 38.03459717645	Longitude: -78.50579094825001	Speed: 9.87	Device ID: bE8
+-
+Vehicle: V0542
+Time start: 3/17/2023 2:40:31 PM	Latitude: 38.03229616062	Longitude: -78.51385094188	Speed: 29.2492	Device ID: bE8
+Time point 2: 3/17/2023 2:40:32 PM	Latitude: 38.03228	Longitude: -78.5137939	Speed: 29	Device ID: bE8
+Time end: 3/17/2023 2:40:32 PM		Latitude: 38.0322753055	Longitude: -78.513782953	Speed: 23.055	Device ID: bE8
+-

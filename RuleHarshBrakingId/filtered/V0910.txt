@@ -1,0 +1,19 @@
+Vehicle: V0910
+Time start: 11/15/2019 2:03:15 PM	Latitude: 38.0254295148	Longitude: -78.52376772982856	Speed: 27.614	Device ID: bBA
+Time point 2: 11/15/2019 2:03:16 PM	Latitude: 38.0254211	Longitude: -78.5237732	Speed: 28	Device ID: bBA
+-
+Time end: 11/15/2019 2:03:16 PM		Latitude: 38.0254187771	Longitude: -78.52377452674999	Speed: 26.9125	Device ID: bBA
+-
+Vehicle: V0910
+Time start: 11/22/2019 5:04:04 PM	Latitude: 38.024534846	Longitude: -78.52745421	Speed: 9.92	Device ID: bBA
+Time end: 11/22/2019 5:04:04 PM		Latitude: 38.02453493945	Longitude: -78.52745410325	Speed: 9.864	Device ID: bBA
+-
+Vehicle: V0910
+Time start: 8/24/2022 6:18:58 PM	Latitude: 38.025396215	Longitude: -78.526594205	Speed: 23.4	Device ID: bBA
+Time end: 8/24/2022 6:18:58 PM		Latitude: 38.0254069985	Longitude: -78.5265818095	Speed: 23.66	Device ID: bBA
+-
+Vehicle: V0910
+Time start: 8/28/2023 12:10:05 PM	Latitude: 38.024626265600006	Longitude: -78.5270032688	Speed: 11.976	Device ID: bBA
+Time point 2: 8/28/2023 12:10:06 PM	Latitude: 38.0246277	Longitude: -78.5270004	Speed: 12	Device ID: bBA
+Time end: 8/28/2023 12:10:06 PM		Latitude: 38.024629115100005	Longitude: -78.5270004	Speed: 11.364	Device ID: bBA
+-

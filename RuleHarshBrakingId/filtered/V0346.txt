@@ -1,0 +1,100 @@
+Vehicle: V0346
+Time start: 10/6/2018 8:45:41 AM	Latitude: 38.04265103942	Longitude: -78.5113602	Speed: 2.6922	Device ID: b11
+Time end: 10/6/2018 8:45:41 AM		Latitude: 38.04265058018	Longitude: -78.5113602	Speed: 2.7438	Device ID: b11
+-
+Vehicle: V0346
+Time start: 12/9/2018 6:16:06 PM	Latitude: 38.0317688	Longitude: -78.4972305	Speed: 13.3595	Device ID: b11
+Time end: 12/9/2018 6:16:06 PM		Latitude: 38.0317688	Longitude: -78.4972305	Speed: 13.0655	Device ID: b11
+-
+Vehicle: V0346
+Time start: 12/9/2018 11:45:50 PM	Latitude: 38.03223271466667	Longitude: -78.49659432466667	Speed: 0.74666667	Device ID: b11
+Time end: 12/9/2018 11:45:50 PM		Latitude: 38.03223101173334	Longitude: -78.49659092223334	Speed: 0.19733334	Device ID: b11
+-
+Vehicle: V0346
+Time start: 12/10/2018 9:12:11 AM	Latitude: 38.0323390462	Longitude: -78.49690722090001	Speed: 4.37	Device ID: b11
+Time end: 12/10/2018 9:12:11 AM		Latitude: 38.03233900042	Longitude: -78.49690712019	Speed: 4.367	Device ID: b11
+-
+Vehicle: V0346
+Time start: 1/7/2019 8:50:27 AM	Latitude: 38.0319748	Longitude: -78.4963837	Speed: 8.4691	Device ID: b11
+Time end: 1/7/2019 8:50:27 AM		Latitude: 38.0319748	Longitude: -78.4963837	Speed: 8.697	Device ID: b11
+-
+Vehicle: V0346
+Time start: 1/13/2019 5:03:42 AM	Latitude: 38.03135081445	Longitude: -78.4969398438	Speed: 6.335	Device ID: b11
+Time end: 1/13/2019 5:03:42 AM		Latitude: 38.03134929255	Longitude: -78.4969385442	Speed: 5.765	Device ID: b11
+-
+Vehicle: V0346
+Time start: 1/13/2019 7:47:42 AM	Latitude: 38.0317025812	Longitude: -78.497325045575	Speed: 1.626	Device ID: b11
+Time end: 1/13/2019 7:47:42 AM		Latitude: 38.0317023332	Longitude: -78.497325160075	Speed: 1.586	Device ID: b11
+-
+Vehicle: V0346
+Time start: 1/14/2019 1:32:01 PM	Latitude: 38.0323334	Longitude: -78.49733984599999	Speed: 12.15	Device ID: b11
+Time end: 1/14/2019 1:32:01 PM		Latitude: 38.0323334	Longitude: -78.4973532761	Speed: 8.3775	Device ID: b11
+-
+Vehicle: V0346
+Time start: 1/25/2019 1:55:44 PM	Latitude: 38.04782099455714	Longitude: -78.50572970933644	Speed: 0	Device ID: b11
+Time end: 1/25/2019 1:55:44 PM		Latitude: 38.04782099412857	Longitude: -78.50572971007159	Speed: 0	Device ID: b11
+-
+Vehicle: V0346
+Time start: 2/6/2019 3:59:32 PM	Latitude: 38.02926338231667	Longitude: -78.52527411139167	Speed: 13	Device ID: b11
+Time end: 2/6/2019 3:59:33 PM		Latitude: 38.02926589251667	Longitude: -78.52527427169167	Speed: 13	Device ID: b11
+-
+Vehicle: V0346
+Time start: 2/7/2019 7:59:27 PM	Latitude: 38.029281290575	Longitude: -78.52527696435	Speed: 18.95525	Device ID: b11
+Time end: 2/7/2019 7:59:27 PM		Latitude: 38.029284847250004	Longitude: -78.5252756705	Speed: 18.7575	Device ID: b11
+-
+Vehicle: V0346
+Time start: 2/8/2019 8:21:38 PM	Latitude: 38.036327377937575	Longitude: -78.51734921264251	Speed: 0	Device ID: b11
+Time end: 2/8/2019 8:21:38 PM		Latitude: 38.03632737785453	Longitude: -78.51734921269009	Speed: 0	Device ID: b11
+-
+Vehicle: V0346
+Time start: 2/20/2019 5:07:11 PM	Latitude: 38.0303116	Longitude: -78.5026711001	Speed: 5.427	Device ID: b11
+Time end: 2/20/2019 5:07:11 PM		Latitude: 38.0303116	Longitude: -78.5026681631	Speed: 4.437	Device ID: b11
+-
+Vehicle: V0346
+Time start: 2/20/2019 5:12:45 PM	Latitude: 38.03014252485	Longitude: -78.5023133371	Speed: 6.642	Device ID: b11
+Time end: 2/20/2019 5:12:45 PM		Latitude: 38.03014286835	Longitude: -78.5023128781	Speed: 6.462	Device ID: b11
+-
+Vehicle: V0346
+Time start: 2/20/2019 5:12:57 PM	Latitude: 38.030154184025	Longitude: -78.50230751545	Speed: 2.1795	Device ID: b11
+Time end: 2/20/2019 5:12:57 PM		Latitude: 38.030154432	Longitude: -78.50230741600001	Speed: 2.16	Device ID: b11
+-
+Vehicle: V0346
+Time start: 2/20/2019 5:23:44 PM	Latitude: 38.03040027545	Longitude: -78.50261573675	Speed: 6.0255	Device ID: b11
+Time end: 2/20/2019 5:23:44 PM		Latitude: 38.03039947445	Longitude: -78.50261482175	Speed: 5.6355	Device ID: b11
+-
+Vehicle: V0346
+Time start: 4/28/2019 8:04:25 AM	Latitude: 38.040688258857145	Longitude: -78.50811497028572	Speed: 33.874287	Device ID: b11
+Time end: 4/28/2019 8:04:25 AM		Latitude: 38.040689501428574	Longitude: -78.50811723714286	Speed: 33.657143	Device ID: b11
+-
+Vehicle: V0346
+Time start: 4/28/2019 8:04:27 AM	Latitude: 38.04081170832857	Longitude: -78.50834018254285	Speed: 12.301143	Device ID: b11
+Time end: 4/28/2019 8:04:28 AM		Latitude: 38.040826619185715	Longitude: -78.50836738482857	Speed: 9.695429	Device ID: b11
+-
+Vehicle: V0346
+Time start: 4/28/2019 8:04:35 AM	Latitude: 38.0408821	Longitude: -78.5084686	Speed: 2.889	Device ID: b11
+Time end: 4/28/2019 8:04:35 AM		Latitude: 38.0408821	Longitude: -78.5084686	Speed: 2.88	Device ID: b11
+-
+Vehicle: V0346
+Time start: 4/28/2019 9:12:43 AM	Latitude: 38.0421353878	Longitude: -78.50851343478	Speed: 4.852	Device ID: b11
+Time end: 4/28/2019 9:12:43 AM		Latitude: 38.042134501999996	Longitude: -78.5085145502	Speed: 4.68	Device ID: b11
+-
+Vehicle: V0346
+Time start: 4/28/2019 9:49:05 AM	Latitude: 38.04024645501667	Longitude: -78.50438708435	Speed: 13.087167	Device ID: b11
+Time end: 4/28/2019 9:49:05 AM		Latitude: 38.040242066833336	Longitude: -78.5043937935	Speed: 12.038333	Device ID: b11
+-
+Vehicle: V0346
+Time start: 4/28/2019 9:49:06 AM	Latitude: 38.04022202818334	Longitude: -78.50442443085001	Speed: 7.248833	Device ID: b11
+Time end: 4/28/2019 9:49:06 AM		Latitude: 38.040213532833334	Longitude: -78.50443741950001	Speed: 5.2183332	Device ID: b11
+-
+Vehicle: V0346
+Time start: 6/21/2019 1:27:55 PM	Latitude: 38.0322037	Longitude: -78.49940489348502	Speed: 0	Device ID: b11
+Time end: 6/21/2019 1:27:55 PM		Latitude: 38.0322037	Longitude: -78.49940489344814	Speed: 0	Device ID: b11
+-
+Vehicle: V0346
+Time start: 11/6/2019 8:23:13 PM	Latitude: 38.0294418	Longitude: -78.5253601	Speed: 1.706	Device ID: b11
+Time end: 11/6/2019 8:23:13 PM		Latitude: 38.0294418	Longitude: -78.5253601	Speed: 1.674	Device ID: b11
+-
+Vehicle: V0346
+Time start: 11/6/2019 8:32:23 PM	Latitude: 38.0294271604	Longitude: -78.5254018668	Speed: 6.396	Device ID: b11
+Time end: 11/6/2019 8:32:23 PM		Latitude: 38.02942781658	Longitude: -78.52540166986	Speed: 6.2842	Device ID: b11
+-

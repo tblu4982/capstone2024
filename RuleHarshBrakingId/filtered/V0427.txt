@@ -1,0 +1,34 @@
+Vehicle: V0427
+Time start: 8/2/2021 3:20:40 PM	Latitude: 38.0446121424	Longitude: -78.5144258021	Speed: 22.7985	Device ID: b1FE
+Time end: 8/2/2021 3:20:40 PM		Latitude: 38.0446113984	Longitude: -78.51442500110001	Speed: 22.5135	Device ID: b1FE
+-
+Vehicle: V0427
+Time start: 9/20/2021 8:12:22 PM	Latitude: 38.036000311900004	Longitude: -78.5080471836	Speed: 40.239	Device ID: b1FE
+Time point 2: 9/20/2021 8:12:23 PM	Latitude: 38.0359688	Longitude: -78.5080566	Speed: 39	Device ID: b1FE
+Time end: 9/20/2021 8:12:24 PM		Latitude: 38.03593000145	Longitude: -78.50806824465	Speed: 19.1685	Device ID: b1FE
+-
+Vehicle: V0427
+Time start: 10/6/2021 6:03:39 PM	Latitude: 38.04965736662857	Longitude: -78.51250825657144	Speed: 39.019142	Device ID: b1FE
+Time point 2: 10/6/2021 6:03:40 PM	Latitude: 38.0496635	Longitude: -78.5125122	Speed: 39	Device ID: b1FE
+Time end: 10/6/2021 6:03:40 PM		Latitude: 38.04966420196	Longitude: -78.5125130073	Speed: 38.839	Device ID: b1FE
+-
+Vehicle: V0427
+Time start: 11/21/2021 2:07:33 PM	Latitude: 38.0334854	Longitude: -78.4996872	Speed: 6.364122	Device ID: b1FE
+Time end: 11/21/2021 2:07:33 PM		Latitude: 38.0334854	Longitude: -78.4996872	Speed: 5.5953016	Device ID: b1FE
+-
+Vehicle: V0427
+Time start: 3/31/2022 10:17:28 AM	Latitude: 38.0409895967	Longitude: -78.5087894573	Speed: 34.032	Device ID: b1FE
+Time end: 3/31/2022 10:17:29 AM		Latitude: 38.0409857817	Longitude: -78.5087829723	Speed: 31.632	Device ID: b1FE
+-
+Vehicle: V0427
+Time start: 6/10/2022 6:20:07 PM	Latitude: 38.04614223863334	Longitude: -78.50981661093334	Speed: 31.3425	Device ID: b1FE
+Time end: 6/10/2022 6:20:07 PM		Latitude: 38.0461442707	Longitude: -78.5098153144	Speed: 31.2575	Device ID: b1FE
+-
+Vehicle: V0427
+Time start: 10/28/2022 5:32:11 PM	Latitude: 38.0322037	Longitude: -78.506725541075	Speed: 8.085	Device ID: b1FE
+Time end: 10/28/2022 5:32:11 PM		Latitude: 38.0322037	Longitude: -78.50672718942499	Speed: 7.815	Device ID: b1FE
+-
+Vehicle: V0427
+Time start: 1/20/2023 7:21:33 PM	Latitude: 38.0285783429875	Longitude: -78.5185022548375	Speed: 42.5265	Device ID: b1FE
+Time end: 1/20/2023 7:21:34 PM		Latitude: 38.0285773320125	Longitude: -78.5185175201625	Speed: 42.4735	Device ID: b1FE
+-

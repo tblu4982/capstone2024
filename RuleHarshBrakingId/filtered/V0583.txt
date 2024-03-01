@@ -1,0 +1,38 @@
+Vehicle: V0583
+Time start: 10/23/2020 7:27:52 PM	Latitude: 38.033359066275	Longitude: -78.505838532175	Speed: 18.361	Device ID: bEA
+Time end: 10/23/2020 7:27:53 PM		Latitude: 38.03337190375	Longitude: -78.50586933875	Speed: 13.65	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 9/29/2021 10:20:17 AM	Latitude: 38.036377	Longitude: -78.5150986	Speed: 30.982353	Device ID: bEA
+Time point 2: 9/29/2021 10:20:18 AM	Latitude: 38.036377	Longitude: -78.5150986	Speed: 31	Device ID: bEA
+Time point 3: 9/29/2021 10:20:19 AM	Latitude: 38.036377	Longitude: -78.5150986	Speed: 17	Device ID: bEA
+Time end: 9/29/2021 10:20:19 AM		Latitude: 38.0358660049	Longitude: -78.5147080846	Speed: 17.363	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 3/2/2022 11:57:46 PM	Latitude: 38.033511755527236	Longitude: -78.5074921	Speed: 0	Device ID: bEA
+Time end: 3/2/2022 11:57:46 PM		Latitude: 38.03351175571053	Longitude: -78.5074921	Speed: 0	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 3/3/2022 10:07:51 PM	Latitude: 38.03929996134868	Longitude: -78.5027847	Speed: 0	Device ID: bEA
+Time end: 3/3/2022 10:07:51 PM		Latitude: 38.0392999620915	Longitude: -78.5027847	Speed: 0	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 3/10/2022 1:25:36 AM	Latitude: 38.0333664601	Longitude: -78.5057299489	Speed: 25.627	Device ID: bEA
+Time end: 3/10/2022 1:25:36 AM		Latitude: 38.033358904	Longitude: -78.505708356	Speed: 23.08	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 4/20/2022 12:56:56 AM	Latitude: 38.032185986849996	Longitude: -78.506134959	Speed: 42.111	Device ID: bEA
+Time end: 4/20/2022 12:56:56 AM		Latitude: 38.03218942185	Longitude: -78.50616585899999	Speed: 38.211	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 9/6/2022 11:30:01 PM	Latitude: 38.032472723733335	Longitude: -78.50741945253333	Speed: 14.646667	Device ID: bEA
+Time end: 9/6/2022 11:30:01 PM		Latitude: 38.0324706736	Longitude: -78.50742355279999	Speed: 13.82	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 1/23/2023 2:19:16 PM	Latitude: 38.0313136605	Longitude: -78.5110454862	Speed: 21.572	Device ID: bEA
+Time end: 1/23/2023 2:19:16 PM		Latitude: 38.0313301405	Longitude: -78.51102839820001	Speed: 20.292	Device ID: bEA
+-
+Vehicle: V0583
+Time start: 1/23/2023 11:26:37 PM	Latitude: 38.0393715	Longitude: -78.5028135475	Speed: 5.635	Device ID: bEA
+Time end: 1/23/2023 11:26:37 PM		Latitude: 38.0393715	Longitude: -78.50281411175	Speed: 5.5055	Device ID: bEA
+-

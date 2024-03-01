@@ -1,0 +1,61 @@
+Vehicle: V0674
+Time start: 10/28/2021 6:05:14 PM	Latitude: 38.0319481	Longitude: -78.50804442085	Speed: 34.8595	Device ID: b200
+Time end: 10/28/2021 6:05:14 PM		Latitude: 38.0319481	Longitude: -78.50803556715	Speed: 34.3005	Device ID: b200
+-
+Vehicle: V0674
+Time start: 1/3/2022 8:29:10 PM	Latitude: 38.02605856905	Longitude: -78.5146001472	Speed: 28.0445	Device ID: b200
+Time end: 1/3/2022 8:29:10 PM		Latitude: 38.02604901045	Longitude: -78.5146356608	Speed: 19.8105	Device ID: b200
+-
+Vehicle: V0674
+Time start: 1/5/2022 3:03:31 PM	Latitude: 38.03438620794337	Longitude: -78.4598007	Speed: 0	Device ID: b200
+Time end: 1/5/2022 3:03:32 PM		Latitude: 38.03438621489995	Longitude: -78.4598007	Speed: 0	Device ID: b200
+-
+Vehicle: V0674
+Time start: 1/13/2022 7:37:33 PM	Latitude: 38.0323347063114	Longitude: -78.5021667	Speed: 0	Device ID: b200
+Time end: 1/13/2022 7:37:33 PM		Latitude: 38.03233471270828	Longitude: -78.5021667	Speed: 0	Device ID: b200
+-
+Vehicle: V0674
+Time start: 1/19/2022 5:20:41 PM	Latitude: 38.036773460725	Longitude: -78.5146531195	Speed: 18.878	Device ID: b200
+Time end: 1/19/2022 5:20:41 PM		Latitude: 38.036773660975	Longitude: -78.51465157450001	Speed: 18.698	Device ID: b200
+-
+Vehicle: V0674
+Time start: 2/8/2022 8:32:34 PM	Latitude: 38.02628597102	Longitude: -78.52193593918	Speed: 47.2894	Device ID: b200
+Time point 2: 2/8/2022 8:32:35 PM	Latitude: 38.0262909	Longitude: -78.5219803	Speed: 48	Device ID: b200
+Time end: 2/8/2022 8:32:35 PM		Latitude: 38.0262909	Longitude: -78.52198509889999	Speed: 47.26	Device ID: b200
+-
+Vehicle: V0674
+Time start: 2/8/2022 8:32:35 PM	Latitude: 38.0262909	Longitude: -78.52200662909999	Speed: 43.94	Device ID: b200
+Time end: 2/8/2022 8:32:35 PM		Latitude: 38.0262909	Longitude: -78.5220745919	Speed: 33.46	Device ID: b200
+-
+Vehicle: V0674
+Time start: 4/11/2022 12:29:10 PM	Latitude: 38.05475806435	Longitude: -78.48302266435	Speed: 64.264	Device ID: b200
+Time end: 4/11/2022 12:29:10 PM		Latitude: 38.054741698	Longitude: -78.48300629799999	Speed: 63.12	Device ID: b200
+-
+Vehicle: V0674
+Time start: 5/12/2022 4:01:54 PM	Latitude: 38.03229117573602	Longitude: -78.50221061481817	Speed: 0	Device ID: b200
+Time end: 5/12/2022 4:01:54 PM		Latitude: 38.03229117611129	Longitude: -78.5022106144963	Speed: 0	Device ID: b200
+-
+Vehicle: V0674
+Time start: 8/31/2022 2:54:26 PM	Latitude: 38.037290908799996	Longitude: -78.5047571339	Speed: 31.588	Device ID: b200
+Time end: 8/31/2022 2:54:26 PM		Latitude: 38.0373167008	Longitude: -78.5047968099	Speed: 29.508	Device ID: b200
+-
+Vehicle: V0674
+Time start: 9/22/2022 1:39:35 PM	Latitude: 38.0476685	Longitude: -78.5081635	Speed: 3.892909	Device ID: b200
+Time end: 9/22/2022 1:39:35 PM		Latitude: 38.0476685	Longitude: -78.5081635	Speed: 3.38	Device ID: b200
+-
+Vehicle: V0674
+Time start: 9/23/2022 2:00:45 PM	Latitude: 38.032093101600005	Longitude: -78.51805933535	Speed: 10.915	Device ID: b200
+Time end: 9/23/2022 2:00:45 PM		Latitude: 38.032086653600004	Longitude: -78.51806231235	Speed: 12.215	Device ID: b200
+-
+Vehicle: V0674
+Time start: 10/10/2022 2:56:04 PM	Latitude: 38.0390396	Longitude: -78.50286221649999	Speed: 4.56	Device ID: b200
+Time end: 10/10/2022 2:56:04 PM		Latitude: 38.0390396	Longitude: -78.50286261321666	Speed: 4.5253334	Device ID: b200
+-
+Vehicle: V0674
+Time start: 10/18/2023 5:35:27 PM	Latitude: 38.052476002333336	Longitude: -78.51363566533333	Speed: 16.073334	Device ID: b200
+Time end: 10/18/2023 5:35:27 PM		Latitude: 38.05247633296667	Longitude: -78.51363634306666	Speed: 16.064667	Device ID: b200
+-
+Vehicle: V0674
+Time start: 10/19/2023 7:52:27 PM	Latitude: 38.027522496	Longitude: -78.51165968720001	Speed: 25.264	Device ID: b200
+Time end: 10/19/2023 7:52:27 PM		Latitude: 38.0275204978	Longitude: -78.51166308996001	Speed: 25.7102	Device ID: b200
+-

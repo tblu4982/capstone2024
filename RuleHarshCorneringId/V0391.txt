@@ -1,0 +1,1981 @@
+Event 129:
+Time start: 2/5/2020 5:49:54 PM	Latitude: 38.04640725403333	Longitude: -78.5099142493	Speed: 24.007668	Device ID: bCD
+Time end: 2/5/2020 5:49:54 PM		Latitude: 38.04640625966667	Longitude: -78.509912407	Speed: 23.923334	Device ID: bCD
+-
+Event 129:
+Time start: 7/28/2020 3:25:58 PM	Latitude: 38.052798795724925	Longitude: -78.51522422731159	Speed: 4.480396	Device ID: bCD
+Time end: 7/28/2020 3:25:58 PM		Latitude: 38.05280063253939	Longitude: -78.51522354697691	Speed: 4.560645	Device ID: bCD
+-
+Event 129:
+Time start: 7/31/2020 6:25:51 PM	Latitude: 38.05281543947273	Longitude: -78.51520218922727	Speed: 5.2804546	Device ID: bCD
+-
+Event 129:
+Time start: 8/12/2020 11:41:59 AM	Latitude: 38.05270898222222	Longitude: -78.51521398255557	Speed: 6.61	Device ID: bCD
+Time end: 8/12/2020 11:41:59 AM		Latitude: 38.052708455777775	Longitude: -78.51521417754445	Speed: 6.633	Device ID: bCD
+-
+Event 129:
+Time start: 9/3/2020 3:18:08 PM	Latitude: 38.0499669407	Longitude: -78.512841759975	Speed: 28.3045	Device ID: bCD
+Time point 2: 9/3/2020 3:18:09 PM	Latitude: 38.0499725	Longitude: -78.5128479	Speed: 28	Device ID: bCD
+Time end: 9/3/2020 3:18:09 PM		Latitude: 38.049983042840005	Longitude: -78.51284476008	Speed: 28.2058	Device ID: bCD
+-
+Event 129:
+Time start: 9/10/2020 1:26:53 PM	Latitude: 38.02713188054	Longitude: -78.52087589802	Speed: 30.1508	Device ID: bCD
+Time end: 9/10/2020 1:26:53 PM		Latitude: 38.0271309334	Longitude: -78.5208781442	Speed: 30.068	Device ID: bCD
+-
+Event 129:
+Time start: 9/25/2020 12:45:24 PM	Latitude: 38.04762577738572	Longitude: -78.5081981701	Speed: 12.726	Device ID: bCD
+Time end: 9/25/2020 12:45:24 PM		Latitude: 38.04761812967143	Longitude: -78.5081896681	Speed: 12.206	Device ID: bCD
+-
+Event 129:
+Time start: 10/27/2020 5:28:01 PM	Latitude: 38.046387925975	Longitude: -78.509901785275	Speed: 26.02475	Device ID: bCD
+Time end: 10/27/2020 5:28:01 PM		Latitude: 38.046382098725	Longitude: -78.50989087502501	Speed: 25.60225	Device ID: bCD
+-
+Event 129:
+Time start: 10/30/2020 11:16:37 AM	Latitude: 38.0464019082	Longitude: -78.50985711045	Speed: 23.19	Device ID: bCD
+Time end: 10/30/2020 11:16:37 AM		Latitude: 38.046400332	Longitude: -78.50985395866667	Speed: 23.066668	Device ID: bCD
+-
+Event 129:
+Time start: 1/14/2021 11:10:14 AM	Latitude: 38.032503136625	Longitude: -78.512655915575	Speed: 14.77875	Device ID: bCD
+Time end: 1/14/2021 11:10:14 AM		Latitude: 38.032504295375	Longitude: -78.512655314825	Speed: 14.74125	Device ID: bCD
+-
+Event 129:
+Time start: 1/20/2021 6:44:01 PM	Latitude: 38.032713987157145	Longitude: -78.51283260092858	Speed: 16.044428	Device ID: bCD
+Time end: 1/20/2021 6:44:01 PM		Latitude: 38.03271455228572	Longitude: -78.51283302714286	Speed: 16.037144	Device ID: bCD
+-
+Event 129:
+Time start: 1/27/2021 1:54:44 PM	Latitude: 38.036231654724574	Longitude: -78.516304	Speed: 0	Device ID: bCD
+Time end: 1/27/2021 1:54:47 PM		Latitude: 38.036231863142014	Longitude: -78.516304	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/27/2021 2:05:27 PM	Latitude: 38.0334587	Longitude: -78.51220525522986	Speed: 0	Device ID: bCD
+Time end: 1/27/2021 2:05:28 PM		Latitude: 38.0334587	Longitude: -78.51220524593492	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/27/2021 2:36:34 PM	Latitude: 38.0334587	Longitude: -78.5121765	Speed: 0	Device ID: bCD
+Time end: 1/27/2021 2:36:34 PM		Latitude: 38.0334587	Longitude: -78.5121765	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/27/2021 2:57:00 PM	Latitude: 38.0359955	Longitude: -78.51691744347966	Speed: 0	Device ID: bCD
+Time end: 1/27/2021 2:57:01 PM		Latitude: 38.0359955	Longitude: -78.51691745007538	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/27/2021 3:54:04 PM	Latitude: 38.03279781966204	Longitude: -78.52242563202898	Speed: 0	Device ID: bCD
+Time end: 1/27/2021 3:54:05 PM		Latitude: 38.032797818864374	Longitude: -78.52242563122782	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/27/2021 4:18:41 PM	Latitude: 38.023468302378724	Longitude: -78.4845276	Speed: 0	Device ID: bCD
+Time end: 1/27/2021 4:18:43 PM		Latitude: 38.023468205173046	Longitude: -78.4845276	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/28/2021 1:01:46 PM	Latitude: 38.0355072	Longitude: -78.5169144	Speed: 0	Device ID: bCD
+Time end: 1/28/2021 1:01:48 PM		Latitude: 38.0355072	Longitude: -78.5169144	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/28/2021 1:19:12 PM	Latitude: 38.0355072	Longitude: -78.5169144	Speed: 0	Device ID: bCD
+Time end: 1/28/2021 1:19:14 PM		Latitude: 38.0355072	Longitude: -78.5169144	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/28/2021 6:48:04 PM	Latitude: 38.0489731	Longitude: -78.501915	Speed: 0	Device ID: bCD
+Time end: 1/28/2021 6:48:07 PM		Latitude: 38.0489731	Longitude: -78.501915	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 1/31/2021 4:13:15 PM	Latitude: 38.0489464	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+Time end: 1/31/2021 4:13:17 PM		Latitude: 38.0489464	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/1/2021 11:32:33 AM	Latitude: 38.0484848	Longitude: -78.51320058021773	Speed: 0	Device ID: bCD
+Time end: 2/1/2021 11:32:34 AM		Latitude: 38.0484848	Longitude: -78.51320055465231	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/1/2021 12:04:37 PM	Latitude: 38.04958378929623	Longitude: -78.51012497859246	Speed: 0	Device ID: bCD
+Time end: 2/1/2021 12:04:38 PM		Latitude: 38.04958377037737	Longitude: -78.51012494075474	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/1/2021 1:05:56 PM	Latitude: 38.03551856329144	Longitude: -78.5159324194611	Speed: 0	Device ID: bCD
+Time end: 2/1/2021 1:05:58 PM		Latitude: 38.03551875164591	Longitude: -78.51593220429962	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/1/2021 2:45:25 PM	Latitude: 38.0502014	Longitude: -78.5004272	Speed: 0	Device ID: bCD
+Time end: 2/1/2021 2:45:28 PM		Latitude: 38.0502014	Longitude: -78.5004272	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/1/2021 7:28:49 PM	Latitude: 38.0364532	Longitude: -78.51627521631818	Speed: 0	Device ID: bCD
+Time end: 2/1/2021 7:28:49 PM		Latitude: 38.0364532	Longitude: -78.5162752309065	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/3/2021 2:46:56 PM	Latitude: 38.03630754222631	Longitude: -78.5163269	Speed: 0	Device ID: bCD
+Time end: 2/3/2021 2:46:57 PM		Latitude: 38.03630765812998	Longitude: -78.5163269	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/4/2021 12:17:46 PM	Latitude: 38.0335121	Longitude: -78.5122299	Speed: 0	Device ID: bCD
+Time end: 2/4/2021 12:17:48 PM		Latitude: 38.0335121	Longitude: -78.5122299	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/4/2021 6:32:21 PM	Latitude: 38.03552515719009	Longitude: -78.51589574925742	Speed: 0	Device ID: bCD
+Time end: 2/4/2021 6:32:22 PM		Latitude: 38.035525093125656	Longitude: -78.51589577673076	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/4/2021 6:47:17 PM	Latitude: 38.03346158859803	Longitude: -78.512207	Speed: 0	Device ID: bCD
+Time end: 2/4/2021 6:47:20 PM		Latitude: 38.03346166183231	Longitude: -78.512207	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/4/2021 7:09:01 PM	Latitude: 38.0364304	Longitude: -78.5161743	Speed: 0	Device ID: bCD
+Time end: 2/4/2021 7:09:01 PM		Latitude: 38.0364304	Longitude: -78.5161743	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/5/2021 11:19:33 AM	Latitude: 38.0468979	Longitude: -78.50726349546373	Speed: 0	Device ID: bCD
+Time end: 2/5/2021 11:19:36 AM		Latitude: 38.0468979	Longitude: -78.50726280510133	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/5/2021 11:51:13 AM	Latitude: 38.0332154431875	Longitude: -78.51237018647916	Speed: 0	Device ID: bCD
+Time end: 2/5/2021 11:51:15 AM		Latitude: 38.03321566535375	Longitude: -78.51237037702624	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/5/2021 2:15:33 PM	Latitude: 38.047633336240004	Longitude: -78.50812156672	Speed: 11.8656	Device ID: bCD
+Time end: 2/5/2021 2:15:33 PM		Latitude: 38.0476154128	Longitude: -78.5081101984	Speed: 10.032	Device ID: bCD
+-
+Event 129:
+Time start: 2/5/2021 7:19:57 PM	Latitude: 38.0470276	Longitude: -78.5073395	Speed: 0	Device ID: bCD
+Time end: 2/5/2021 7:19:59 PM		Latitude: 38.0470276	Longitude: -78.5073395	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/8/2021 11:46:04 AM	Latitude: 38.046875	Longitude: -78.507164	Speed: 0	Device ID: bCD
+Time end: 2/8/2021 11:46:06 AM		Latitude: 38.046875	Longitude: -78.507164	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/8/2021 7:24:59 PM	Latitude: 38.036274	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 2/8/2021 7:25:01 PM		Latitude: 38.036274	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/9/2021 1:13:43 PM	Latitude: 38.036271182181686	Longitude: -78.51623051781831	Speed: 0	Device ID: bCD
+Time end: 2/9/2021 1:13:45 PM		Latitude: 38.036271146599	Longitude: -78.516230553401	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/9/2021 2:18:40 PM	Latitude: 38.036303509151224	Longitude: -78.5161972	Speed: 0	Device ID: bCD
+Time end: 2/9/2021 2:18:41 PM		Latitude: 38.036303512427295	Longitude: -78.5161972	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/9/2021 6:40:13 PM	Latitude: 38.0435219	Longitude: -78.5102615	Speed: 0	Device ID: bCD
+Time end: 2/9/2021 6:40:15 PM		Latitude: 38.0435219	Longitude: -78.5102615	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/10/2021 3:32:10 PM	Latitude: 38.0435715	Longitude: -78.5103073	Speed: 0	Device ID: bCD
+Time end: 2/10/2021 3:32:13 PM		Latitude: 38.0435715	Longitude: -78.5103073	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/10/2021 3:44:12 PM	Latitude: 38.0435715	Longitude: -78.5103073	Speed: 0	Device ID: bCD
+Time end: 2/10/2021 3:44:15 PM		Latitude: 38.0435715	Longitude: -78.5103073	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/10/2021 3:53:07 PM	Latitude: 38.0362511	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 2/10/2021 3:53:09 PM		Latitude: 38.0362511	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/10/2021 6:53:47 PM	Latitude: 38.03642909140747	Longitude: -78.5161220223509	Speed: 0	Device ID: bCD
+Time end: 2/10/2021 6:53:48 PM		Latitude: 38.03642907757879	Longitude: -78.51612203421146	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/11/2021 11:12:23 AM	Latitude: 38.0391159	Longitude: -78.51694235943184	Speed: 0	Device ID: bCD
+Time end: 2/11/2021 11:12:27 AM		Latitude: 38.0391159	Longitude: -78.51694251627404	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/11/2021 1:28:29 PM	Latitude: 38.0334854	Longitude: -78.5122299	Speed: 0	Device ID: bCD
+Time end: 2/11/2021 1:28:31 PM		Latitude: 38.0334854	Longitude: -78.5122299	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/11/2021 4:06:54 PM	Latitude: 38.0362511	Longitude: -78.5163269	Speed: 0	Device ID: bCD
+Time end: 2/11/2021 4:06:56 PM		Latitude: 38.0362511	Longitude: -78.5163269	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/12/2021 12:32:39 PM	Latitude: 38.0509949	Longitude: -78.5092316	Speed: 0	Device ID: bCD
+Time end: 2/12/2021 12:32:41 PM		Latitude: 38.0509949	Longitude: -78.5092316	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/12/2021 12:50:32 PM	Latitude: 38.0485649	Longitude: -78.5103073	Speed: 0	Device ID: bCD
+Time end: 2/12/2021 12:50:33 PM		Latitude: 38.0485649	Longitude: -78.5103073	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/12/2021 1:01:18 PM	Latitude: 38.0479736	Longitude: -78.5094376	Speed: 0	Device ID: bCD
+Time end: 2/12/2021 1:01:19 PM		Latitude: 38.0479736	Longitude: -78.5094376	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/12/2021 4:10:16 PM	Latitude: 38.03640213756117	Longitude: -78.5164032	Speed: 0	Device ID: bCD
+Time end: 2/12/2021 4:10:20 PM		Latitude: 38.03640207903873	Longitude: -78.5164032	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/15/2021 11:17:37 AM	Latitude: 38.039399710384245	Longitude: -78.5168627253453	Speed: 0	Device ID: bCD
+Time end: 2/15/2021 11:17:39 AM		Latitude: 38.039399733553665	Longitude: -78.51686275181224	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/15/2021 1:48:48 PM	Latitude: 38.0394249	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+Time end: 2/15/2021 1:48:51 PM		Latitude: 38.0394249	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/16/2021 6:50:33 PM	Latitude: 38.0393982	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+Time end: 2/16/2021 6:50:35 PM		Latitude: 38.0393982	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/17/2021 5:27:09 PM	Latitude: 38.0365562	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+Time end: 2/17/2021 5:27:12 PM		Latitude: 38.0365562	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/17/2021 5:45:37 PM	Latitude: 38.0237045	Longitude: -78.4848862	Speed: 0	Device ID: bCD
+Time end: 2/17/2021 5:45:38 PM		Latitude: 38.0237045	Longitude: -78.4848862	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/17/2021 6:12:25 PM	Latitude: 38.0354309	Longitude: -78.51708966958542	Speed: 0	Device ID: bCD
+Time end: 2/17/2021 6:12:26 PM		Latitude: 38.0354309	Longitude: -78.51708971194404	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/17/2021 6:20:10 PM	Latitude: 38.0390396	Longitude: -78.5169144	Speed: 0	Device ID: bCD
+Time end: 2/17/2021 6:20:11 PM		Latitude: 38.0390396	Longitude: -78.5169144	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/18/2021 11:41:32 AM	Latitude: 38.05092011603869	Longitude: -78.5091324	Speed: 0	Device ID: bCD
+Time end: 2/18/2021 11:41:37 AM		Latitude: 38.05092017382433	Longitude: -78.5091324	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/18/2021 12:41:58 PM	Latitude: 38.047210306217686	Longitude: -78.51015177856236	Speed: 0	Device ID: bCD
+Time end: 2/18/2021 12:42:02 PM		Latitude: 38.04721043115068	Longitude: -78.51015167141009	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/18/2021 1:57:31 PM	Latitude: 38.0364532	Longitude: -78.5163002650956	Speed: 0	Device ID: bCD
+Time end: 2/18/2021 1:57:32 PM		Latitude: 38.0364532	Longitude: -78.51630026375	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/18/2021 2:21:41 PM	Latitude: 38.02932613603692	Longitude: -78.4955368	Speed: 0	Device ID: bCD
+Time end: 2/18/2021 2:21:42 PM		Latitude: 38.029326321210256	Longitude: -78.4955368	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/18/2021 3:09:42 PM	Latitude: 38.0469513	Longitude: -78.5073166	Speed: 0	Device ID: bCD
+Time end: 2/18/2021 3:09:43 PM		Latitude: 38.0469513	Longitude: -78.5073166	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/18/2021 7:04:47 PM	Latitude: 38.0484865173927	Longitude: -78.5093384	Speed: 0	Device ID: bCD
+Time end: 2/18/2021 7:04:48 PM		Latitude: 38.04848652869889	Longitude: -78.5093384	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/24/2021 11:08:32 AM	Latitude: 38.039372359336355	Longitude: -78.5168602629662	Speed: 0	Device ID: bCD
+Time end: 2/24/2021 11:08:34 AM		Latitude: 38.03937237456479	Longitude: -78.51686024990511	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/24/2021 12:02:21 PM	Latitude: 38.0364037	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+Time end: 2/24/2021 12:02:22 PM		Latitude: 38.0364037	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/25/2021 6:04:51 PM	Latitude: 38.02355102188603	Longitude: -78.53385854686105	Speed: 0	Device ID: bCD
+Time end: 2/25/2021 6:04:52 PM		Latitude: 38.023551020381134	Longitude: -78.53385854557034	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/25/2021 7:15:10 PM	Latitude: 38.0364037	Longitude: -78.51612085506218	Speed: 0	Device ID: bCD
+Time end: 2/25/2021 7:15:11 PM		Latitude: 38.0364037	Longitude: -78.51612085467691	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/26/2021 11:25:04 AM	Latitude: 38.0334854	Longitude: -78.512207	Speed: 0	Device ID: bCD
+Time end: 2/26/2021 11:25:07 AM		Latitude: 38.0334854	Longitude: -78.512207	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 2/26/2021 7:07:36 PM	Latitude: 38.03643043101576	Longitude: -78.516098	Speed: 0	Device ID: bCD
+Time end: 2/26/2021 7:07:37 PM		Latitude: 38.036430431088064	Longitude: -78.516098	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 11:33:55 AM	Latitude: 38.036264532622134	Longitude: -78.5163269	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 11:33:56 AM		Latitude: 38.036264533815796	Longitude: -78.5163269	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 11:59:27 AM	Latitude: 38.0392952	Longitude: -78.5027313	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 11:59:28 AM		Latitude: 38.0392952	Longitude: -78.5027313	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 1:05:54 PM	Latitude: 38.03353450131534	Longitude: -78.5121538302395	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 1:05:56 PM		Latitude: 38.03353449120782	Longitude: -78.51215383490607	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 4:17:31 PM	Latitude: 38.0237312	Longitude: -78.4849396	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 4:17:32 PM		Latitude: 38.0237312	Longitude: -78.4849396	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 4:57:45 PM	Latitude: 38.0332031	Longitude: -78.5123062	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 4:57:45 PM		Latitude: 38.0332031	Longitude: -78.5123062	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 6:25:34 PM	Latitude: 38.0355339	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 6:25:35 PM		Latitude: 38.0355339	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 7:07:03 PM	Latitude: 38.0364304	Longitude: -78.51617424005582	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 7:07:04 PM		Latitude: 38.0364304	Longitude: -78.51617423973116	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/1/2021 7:11:37 PM	Latitude: 38.0364304	Longitude: -78.51617409234652	Speed: 0	Device ID: bCD
+Time end: 3/1/2021 7:11:39 PM		Latitude: 38.0364304	Longitude: -78.5161740914657	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/2/2021 11:18:08 AM	Latitude: 38.036275571639585	Longitude: -78.51636738655893	Speed: 0	Device ID: bCD
+Time end: 3/2/2021 11:18:09 AM		Latitude: 38.03627541654166	Longitude: -78.51636749510715	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/2/2021 11:54:18 AM	Latitude: 38.0354805	Longitude: -78.51592238671098	Speed: 0	Device ID: bCD
+Time end: 3/2/2021 11:54:19 AM		Latitude: 38.0354805	Longitude: -78.5159224276011	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/2/2021 12:33:27 PM	Latitude: 38.0236816	Longitude: -78.484884581043	Speed: 0	Device ID: bCD
+Time end: 3/2/2021 12:33:27 PM		Latitude: 38.0236816	Longitude: -78.48488458620356	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/2/2021 12:47:28 PM	Latitude: 38.0389366	Longitude: -78.5078810476501	Speed: 0	Device ID: bCD
+Time end: 3/2/2021 12:47:30 PM		Latitude: 38.0389366	Longitude: -78.50788104486416	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/2/2021 1:20:03 PM	Latitude: 38.0389366	Longitude: -78.50787836099236	Speed: 0	Device ID: bCD
+Time end: 3/2/2021 1:20:04 PM		Latitude: 38.0389366	Longitude: -78.50787835917264	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/3/2021 11:37:02 AM	Latitude: 38.039014397413986	Longitude: -78.50800063701053	Speed: 0	Device ID: bCD
+Time end: 3/3/2021 11:37:06 AM		Latitude: 38.039014412891234	Longitude: -78.50800061051952	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/3/2021 1:14:20 PM	Latitude: 38.0390385130159	Longitude: -78.50795936049339	Speed: 0	Device ID: bCD
+Time end: 3/3/2021 1:14:24 PM		Latitude: 38.039038526493954	Longitude: -78.50795933742421	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/3/2021 3:57:44 PM	Latitude: 38.036274	Longitude: -78.51619915559753	Speed: 0	Device ID: bCD
+Time end: 3/3/2021 3:57:46 PM		Latitude: 38.036274	Longitude: -78.51619917740018	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/4/2021 3:35:59 PM	Latitude: 38.0442352	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+Time end: 3/4/2021 3:36:01 PM		Latitude: 38.0442352	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/4/2021 6:50:37 PM	Latitude: 38.03917531473952	Longitude: -78.51694531089761	Speed: 0	Device ID: bCD
+Time end: 3/4/2021 6:50:38 PM		Latitude: 38.039175383603094	Longitude: -78.51694540261548	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/8/2021 11:52:44 AM	Latitude: 38.035685779772024	Longitude: -78.52082758497386	Speed: 0	Device ID: bCD
+Time end: 3/8/2021 11:52:47 AM		Latitude: 38.035685759262385	Longitude: -78.52082756746002	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/8/2021 1:04:48 PM	Latitude: 38.0356369	Longitude: -78.5207825	Speed: 0	Device ID: bCD
+Time end: 3/8/2021 1:04:49 PM		Latitude: 38.0356369	Longitude: -78.5207825	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/8/2021 1:28:47 PM	Latitude: 38.0356715747	Longitude: -78.5205466494	Speed: 5.528	Device ID: bCD
+Time end: 3/8/2021 1:28:47 PM		Latitude: 38.0356730343	Longitude: -78.5205495686	Speed: 5.9653335	Device ID: bCD
+-
+Event 129:
+Time start: 3/8/2021 1:31:00 PM	Latitude: 38.03574016102682	Longitude: -78.5208212491039	Speed: 0	Device ID: bCD
+Time end: 3/8/2021 1:31:04 PM		Latitude: 38.03574028779784	Longitude: -78.52082103212129	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/8/2021 8:37:00 PM	Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+Time end: 3/8/2021 8:37:03 PM		Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/8/2021 8:44:33 PM	Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+Time end: 3/8/2021 8:44:36 PM		Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/8/2021 10:57:33 PM	Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+Time end: 3/8/2021 10:57:34 PM		Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/9/2021 3:05:14 PM	Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+Time end: 3/9/2021 3:05:15 PM		Latitude: 38.0356102	Longitude: -78.5205536	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/9/2021 7:32:48 PM	Latitude: 38.0359036012	Longitude: -78.52028670204287	Speed: 2.883	Device ID: bCD
+Time end: 3/9/2021 7:32:48 PM		Latitude: 38.0359034268	Longitude: -78.52028677181428	Speed: 2.887	Device ID: bCD
+-
+Event 129:
+Time start: 3/9/2021 11:46:23 PM	Latitude: 38.0356369	Longitude: -78.5205231	Speed: 0	Device ID: bCD
+Time end: 3/9/2021 11:46:25 PM		Latitude: 38.0356369	Longitude: -78.5205231	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/10/2021 3:31:54 PM	Latitude: 38.03575754207641	Longitude: -78.5207764937577	Speed: 0	Device ID: bCD
+Time end: 3/10/2021 3:31:55 PM		Latitude: 38.03575753693193	Longitude: -78.52077648788105	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/10/2021 4:27:14 PM	Latitude: 38.035748767151134	Longitude: -78.52076646996665	Speed: 0	Device ID: bCD
+Time end: 3/10/2021 4:27:15 PM		Latitude: 38.03574876656984	Longitude: -78.52076646930261	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/11/2021 10:11:14 AM	Latitude: 38.0355645119424	Longitude: -78.52124903840588	Speed: 0	Device ID: bCD
+Time end: 3/11/2021 10:11:15 AM		Latitude: 38.03556451155286	Longitude: -78.52124903795945	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/11/2021 7:38:58 PM	Latitude: 38.0355568	Longitude: -78.5212402	Speed: 0	Device ID: bCD
+Time end: 3/11/2021 7:39:00 PM		Latitude: 38.0355568	Longitude: -78.5212402	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/12/2021 6:41:29 PM	Latitude: 38.048027	Longitude: -78.5216522	Speed: 0	Device ID: bCD
+Time end: 3/12/2021 6:41:32 PM		Latitude: 38.048027	Longitude: -78.5216522	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/13/2021 2:48:56 PM	Latitude: 38.0391922	Longitude: -78.51689630814552	Speed: 0	Device ID: bCD
+Time end: 3/13/2021 2:48:59 PM		Latitude: 38.0391922	Longitude: -78.5168964467418	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/13/2021 3:09:50 PM	Latitude: 38.03566063710465	Longitude: -78.5205765	Speed: 0	Device ID: bCD
+Time end: 3/13/2021 3:09:52 PM		Latitude: 38.035660642012786	Longitude: -78.5205765	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/13/2021 7:39:41 PM	Latitude: 38.03553392726325	Longitude: -78.5205994	Speed: 0	Device ID: bCD
+Time end: 3/13/2021 7:39:43 PM		Latitude: 38.035533927787945	Longitude: -78.5205994	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/14/2021 6:40:55 PM	Latitude: 38.0355568	Longitude: -78.5205994	Speed: 0	Device ID: bCD
+Time end: 3/14/2021 6:40:58 PM		Latitude: 38.0355568	Longitude: -78.5205994	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/14/2021 6:41:00 PM	Latitude: 38.0355568	Longitude: -78.5205994	Speed: 0	Device ID: bCD
+Time end: 3/14/2021 6:41:01 PM		Latitude: 38.0355568	Longitude: -78.5205994	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/15/2021 3:42:24 PM	Latitude: 38.0481262	Longitude: -78.5216751	Speed: 0	Device ID: bCD
+Time end: 3/15/2021 3:42:25 PM		Latitude: 38.0481262	Longitude: -78.5216751	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/15/2021 6:01:10 PM	Latitude: 38.0356865	Longitude: -78.52057874203655	Speed: 0	Device ID: bCD
+Time end: 3/15/2021 6:01:13 PM		Latitude: 38.0356865	Longitude: -78.52057878722425	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/15/2021 6:28:00 PM	Latitude: 38.047233400526835	Longitude: -78.50724019658382	Speed: 0	Device ID: bCD
+Time end: 3/15/2021 6:28:02 PM		Latitude: 38.04723339633743	Longitude: -78.50724019441184	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/16/2021 11:41:19 AM	Latitude: 38.0352770570402	Longitude: -78.5211105	Speed: 0	Device ID: bCD
+Time end: 3/16/2021 11:41:20 AM		Latitude: 38.03527705365261	Longitude: -78.5211105	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/16/2021 1:40:17 PM	Latitude: 38.03524745967825	Longitude: -78.5211105	Speed: 0	Device ID: bCD
+Time end: 3/16/2021 1:40:18 PM		Latitude: 38.03524745818555	Longitude: -78.5211105	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/16/2021 5:45:44 PM	Latitude: 38.02342691696658	Longitude: -78.5338593	Speed: 0	Device ID: bCD
+Time end: 3/16/2021 5:45:45 PM		Latitude: 38.0234269136178	Longitude: -78.5338593	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/17/2021 11:55:05 AM	Latitude: 38.03633958471338	Longitude: -78.5163803	Speed: 0	Device ID: bCD
+Time end: 3/17/2021 11:55:05 AM		Latitude: 38.03633958350238	Longitude: -78.5163803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/17/2021 12:57:28 PM	Latitude: 38.0331001	Longitude: -78.5122833	Speed: 0	Device ID: bCD
+Time end: 3/17/2021 12:57:29 PM		Latitude: 38.0331001	Longitude: -78.5122833	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/17/2021 1:45:27 PM	Latitude: 38.0331268	Longitude: -78.51228227509938	Speed: 0	Device ID: bCD
+Time end: 3/17/2021 1:45:29 PM		Latitude: 38.0331268	Longitude: -78.512282272051	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/17/2021 5:03:18 PM	Latitude: 38.0354805	Longitude: -78.51701556444351	Speed: 0	Device ID: bCD
+Time end: 3/17/2021 5:03:22 PM		Latitude: 38.0354805	Longitude: -78.51701535665262	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/17/2021 5:39:52 PM	Latitude: 38.0355339	Longitude: -78.51584031683967	Speed: 0	Device ID: bCD
+Time end: 3/17/2021 5:39:55 PM		Latitude: 38.0355339	Longitude: -78.51584035487846	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/17/2021 6:15:42 PM	Latitude: 38.03640375263768	Longitude: -78.516098	Speed: 0	Device ID: bCD
+Time end: 3/17/2021 6:15:43 PM		Latitude: 38.03640375309133	Longitude: -78.516098	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/18/2021 1:25:07 PM	Latitude: 38.0394405292615	Longitude: -78.516861	Speed: 0	Device ID: bCD
+Time end: 3/18/2021 1:25:09 PM		Latitude: 38.039440531318874	Longitude: -78.516861	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/18/2021 3:24:23 PM	Latitude: 38.03546884794313	Longitude: -78.51588034794312	Speed: 0	Device ID: bCD
+Time end: 3/18/2021 3:24:24 PM		Latitude: 38.035468829285094	Longitude: -78.5158803292851	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/18/2021 4:57:06 PM	Latitude: 38.0386314	Longitude: -78.5171738	Speed: 0	Device ID: bCD
+Time end: 3/18/2021 4:57:08 PM		Latitude: 38.0386314	Longitude: -78.5171738	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/19/2021 9:02:54 AM	Latitude: 38.0391426	Longitude: -78.51693848049675	Speed: 0	Device ID: bCD
+Time end: 3/19/2021 9:02:57 AM		Latitude: 38.0391426	Longitude: -78.51693849708488	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/19/2021 1:51:16 PM	Latitude: 38.038887	Longitude: -78.507917614928	Speed: 0	Device ID: bCD
+Time end: 3/19/2021 1:51:17 PM		Latitude: 38.038887	Longitude: -78.50791753376001	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/19/2021 3:30:25 PM	Latitude: 38.038862377189346	Longitude: -78.50788475533906	Speed: 0	Device ID: bCD
+Time end: 3/19/2021 3:30:26 PM		Latitude: 38.03886238537041	Longitude: -78.50788476934186	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/22/2021 11:37:21 AM	Latitude: 38.02350545679672	Longitude: -78.5338135	Speed: 0	Device ID: bCD
+Time end: 3/22/2021 11:37:22 AM		Latitude: 38.02350549100252	Longitude: -78.5338135	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/22/2021 11:42:04 AM	Latitude: 38.02351362609773	Longitude: -78.5338135	Speed: 0	Device ID: bCD
+Time end: 3/22/2021 11:42:07 AM		Latitude: 38.02351370492103	Longitude: -78.5338135	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/22/2021 11:59:46 AM	Latitude: 38.0389137	Longitude: -78.5079575	Speed: 0	Device ID: bCD
+Time end: 3/22/2021 11:59:46 AM		Latitude: 38.0389137	Longitude: -78.5079575	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/22/2021 2:11:46 PM	Latitude: 38.03580021553665	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 3/22/2021 2:11:48 PM		Latitude: 38.0358004144089	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/22/2021 3:41:33 PM	Latitude: 38.0391693	Longitude: -78.5169373	Speed: 0	Device ID: bCD
+Time end: 3/22/2021 3:41:34 PM		Latitude: 38.0391693	Longitude: -78.5169373	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/22/2021 3:54:25 PM	Latitude: 38.0391693	Longitude: -78.5169373	Speed: 0	Device ID: bCD
+Time end: 3/22/2021 3:54:26 PM		Latitude: 38.0391693	Longitude: -78.5169373	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/22/2021 4:19:32 PM	Latitude: 38.0364304	Longitude: -78.5161178829	Speed: 0	Device ID: bCD
+Time end: 3/22/2021 4:19:34 PM		Latitude: 38.0364304	Longitude: -78.51611783289268	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/23/2021 10:25:12 AM	Latitude: 38.035464317771805	Longitude: -78.5159750177718	Speed: 0	Device ID: bCD
+Time end: 3/23/2021 10:25:14 AM		Latitude: 38.03546446904334	Longitude: -78.51597516904334	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/23/2021 12:34:30 PM	Latitude: 38.0435448	Longitude: -78.5102844	Speed: 0	Device ID: bCD
+Time end: 3/23/2021 12:34:31 PM		Latitude: 38.0435448	Longitude: -78.5102844	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/23/2021 5:57:58 PM	Latitude: 38.02354554861389	Longitude: -78.5338593	Speed: 0	Device ID: bCD
+Time end: 3/23/2021 5:58:00 PM		Latitude: 38.02354544292639	Longitude: -78.5338593	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 1:10:31 PM	Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 1:10:35 PM		Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 2:10:33 PM	Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 2:10:37 PM		Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 2:40:35 PM	Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 2:40:36 PM		Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 3:27:12 PM	Latitude: 38.044294445829	Longitude: -78.50307201383836	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 3:27:16 PM		Latitude: 38.04429465204416	Longitude: -78.50307219070454	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 3:57:46 PM	Latitude: 38.0364532	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 3:57:47 PM		Latitude: 38.0364532	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 4:29:23 PM	Latitude: 38.0546036	Longitude: -78.50762002943506	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 4:29:24 PM		Latitude: 38.0546036	Longitude: -78.50762000884293	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 4:29:25 PM	Latitude: 38.0546036	Longitude: -78.50761998381384	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 4:29:26 PM		Latitude: 38.0546036	Longitude: -78.50761997243697	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/24/2021 4:49:59 PM	Latitude: 38.0546036	Longitude: -78.50759992944359	Speed: 0	Device ID: bCD
+Time end: 3/24/2021 4:50:00 PM		Latitude: 38.0546036	Longitude: -78.50759992082968	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 9:37:02 AM	Latitude: 38.0364304	Longitude: -78.516098	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 9:37:04 AM		Latitude: 38.0364304	Longitude: -78.516098	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 1:15:58 PM	Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 1:16:01 PM		Latitude: 38.0530701	Longitude: -78.5150986	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 2:36:28 PM	Latitude: 38.0364304	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 2:36:31 PM		Latitude: 38.0364304	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 2:46:41 PM	Latitude: 38.054708125554704	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 2:46:42 PM		Latitude: 38.05470814297314	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 2:59:50 PM	Latitude: 38.05471900332226	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 2:59:52 PM		Latitude: 38.05471903080837	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 3:19:01 PM	Latitude: 38.0547333	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 3:19:04 PM		Latitude: 38.0547333	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 3:26:38 PM	Latitude: 38.0547333	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 3:26:42 PM		Latitude: 38.0547333	Longitude: -78.5075989	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 3:53:39 PM	Latitude: 38.03553250928194	Longitude: -78.51591648864797	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 3:53:40 PM		Latitude: 38.03553250141431	Longitude: -78.51591649763533	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 4:42:18 PM	Latitude: 38.0312534281843	Longitude: -78.49702521205951	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 4:42:19 PM		Latitude: 38.03125302890124	Longitude: -78.49702551744794	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 4:56:03 PM	Latitude: 38.0390663	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 4:56:04 PM		Latitude: 38.0390663	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 5:02:58 PM	Latitude: 38.0390663	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 5:02:59 PM		Latitude: 38.0390663	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 5:27:14 PM	Latitude: 38.0390663	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 5:27:15 PM		Latitude: 38.0390663	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/25/2021 5:54:25 PM	Latitude: 38.0364304	Longitude: -78.516098	Speed: 0	Device ID: bCD
+Time end: 3/25/2021 5:54:26 PM		Latitude: 38.0364304	Longitude: -78.516098	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 9:47:08 AM	Latitude: 38.036274	Longitude: -78.51631011513814	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 9:47:09 AM		Latitude: 38.036274	Longitude: -78.51631021447061	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 10:09:01 AM	Latitude: 38.0545807	Longitude: -78.50769981173983	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 10:09:03 AM		Latitude: 38.0545807	Longitude: -78.507699829119	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 10:09:04 AM	Latitude: 38.0545807	Longitude: -78.50769985787481	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 10:09:05 AM		Latitude: 38.0545807	Longitude: -78.50769986086038	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 12:39:56 PM	Latitude: 38.0355339	Longitude: -78.51599369105926	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 12:40:00 PM		Latitude: 38.0355339	Longitude: -78.51599378542852	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 1:14:23 PM	Latitude: 38.023701161474904	Longitude: -78.4848666385251	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 1:14:23 PM		Latitude: 38.02370114071143	Longitude: -78.48486665928857	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 1:14:24 PM	Latitude: 38.02370113138292	Longitude: -78.48486666861709	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 1:14:24 PM		Latitude: 38.02370110550381	Longitude: -78.48486669449619	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 1:14:25 PM	Latitude: 38.02370110120066	Longitude: -78.48486669879935	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 1:14:25 PM		Latitude: 38.023701082332984	Longitude: -78.48486671766702	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 1:48:23 PM	Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 1:48:26 PM		Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 1:55:05 PM	Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 1:55:07 PM		Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 2:49:31 PM	Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 2:49:32 PM		Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 3:12:04 PM	Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 3:12:08 PM		Latitude: 38.0442619	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/26/2021 3:23:54 PM	Latitude: 38.036348991803514	Longitude: -78.5164032	Speed: 0	Device ID: bCD
+Time end: 3/26/2021 3:23:55 PM		Latitude: 38.03634897950821	Longitude: -78.5164032	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/30/2021 10:12:11 AM	Latitude: 38.03940895653358	Longitude: -78.516861	Speed: 0	Device ID: bCD
+Time end: 3/30/2021 10:12:13 AM		Latitude: 38.039409122902526	Longitude: -78.516861	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/30/2021 10:25:01 AM	Latitude: 38.0393982	Longitude: -78.51683825654204	Speed: 0	Device ID: bCD
+Time end: 3/30/2021 10:25:03 AM		Latitude: 38.0393982	Longitude: -78.51683825853868	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/30/2021 2:55:30 PM	Latitude: 38.03553056633488	Longitude: -78.51587195921091	Speed: 0	Device ID: bCD
+Time end: 3/30/2021 2:55:31 PM		Latitude: 38.03553054652613	Longitude: -78.51587197620043	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/30/2021 3:16:07 PM	Latitude: 38.0235404849171	Longitude: -78.5338593	Speed: 0	Device ID: bCD
+Time end: 3/30/2021 3:16:08 PM		Latitude: 38.0235404543622	Longitude: -78.5338593	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/30/2021 3:30:46 PM	Latitude: 38.02372540806628	Longitude: -78.48493463238644	Speed: 0	Device ID: bCD
+Time end: 3/30/2021 3:30:48 PM		Latitude: 38.02372534338605	Longitude: -78.48493457691163	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/30/2021 6:19:26 PM	Latitude: 38.03650664810031	Longitude: -78.516098	Speed: 0	Device ID: bCD
+Time end: 3/30/2021 6:19:29 PM		Latitude: 38.03650664689398	Longitude: -78.516098	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/31/2021 10:16:02 AM	Latitude: 38.0390396	Longitude: -78.50795736283895	Speed: 0	Device ID: bCD
+Time end: 3/31/2021 10:16:02 AM		Latitude: 38.0390396	Longitude: -78.50795736196332	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/31/2021 10:16:03 AM	Latitude: 38.0390396	Longitude: -78.50795736128131	Speed: 0	Device ID: bCD
+Time end: 3/31/2021 10:16:03 AM		Latitude: 38.0390396	Longitude: -78.50795736073374	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/31/2021 10:16:03 AM	Latitude: 38.0390396	Longitude: -78.50795736072635	Speed: 0	Device ID: bCD
+Time end: 3/31/2021 10:16:04 AM		Latitude: 38.0390396	Longitude: -78.50795735981742	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/31/2021 11:29:49 AM	Latitude: 38.0390396	Longitude: -78.50795190306367	Speed: 0	Device ID: bCD
+Time end: 3/31/2021 11:29:51 AM		Latitude: 38.0390396	Longitude: -78.50795190060205	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/31/2021 4:07:20 PM	Latitude: 38.0390396	Longitude: -78.50793136822651	Speed: 0	Device ID: bCD
+Time end: 3/31/2021 4:07:22 PM		Latitude: 38.0390396	Longitude: -78.50793136574762	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/31/2021 5:16:56 PM	Latitude: 38.03542854804664	Longitude: -78.5210876	Speed: 0	Device ID: bCD
+Time end: 3/31/2021 5:16:57 PM		Latitude: 38.0354285266524	Longitude: -78.5210876	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 3/31/2021 5:51:58 PM	Latitude: 38.0235023	Longitude: -78.53381141060765	Speed: 0	Device ID: bCD
+Time end: 3/31/2021 5:52:01 PM		Latitude: 38.0235023	Longitude: -78.5338113537262	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/1/2021 10:38:16 AM	Latitude: 38.0390396	Longitude: -78.50788835932832	Speed: 0	Device ID: bCD
+Time end: 4/1/2021 10:38:19 AM		Latitude: 38.0390396	Longitude: -78.5078883787153	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/1/2021 12:32:50 PM	Latitude: 38.03546189201515	Longitude: -78.51687100845456	Speed: 0	Device ID: bCD
+Time end: 4/1/2021 12:32:52 PM		Latitude: 38.03546197991414	Longitude: -78.51687121342425	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/1/2021 12:48:36 PM	Latitude: 38.0390400073246	Longitude: -78.50788073317855	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/1/2021 12:48:36 PM	Latitude: 38.039040010775445	Longitude: -78.50788072922364	Speed: 0	Device ID: bCD
+Time end: 4/1/2021 12:48:37 PM		Latitude: 38.03904001142156	Longitude: -78.50788072848316	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/1/2021 2:59:10 PM	Latitude: 38.03566049010695	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+Time end: 4/1/2021 2:59:11 PM		Latitude: 38.035660499380896	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/1/2021 4:11:04 PM	Latitude: 38.0390396	Longitude: -78.50790375973621	Speed: 0	Device ID: bCD
+Time end: 4/1/2021 4:11:05 PM		Latitude: 38.0390396	Longitude: -78.50790375618922	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/2/2021 9:37:27 AM	Latitude: 38.0335440256898	Longitude: -78.5122147411347	Speed: 0	Device ID: bCD
+Time end: 4/2/2021 9:37:28 AM		Latitude: 38.033544124679594	Longitude: -78.51221482603606	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/2/2021 10:14:36 AM	Latitude: 38.0390129	Longitude: -78.50788100526198	Speed: 0	Device ID: bCD
+Time end: 4/2/2021 10:14:37 AM		Latitude: 38.0390129	Longitude: -78.50788100500546	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/2/2021 10:14:37 AM	Latitude: 38.0390129	Longitude: -78.50788100499624	Speed: 0	Device ID: bCD
+Time end: 4/2/2021 10:14:37 AM		Latitude: 38.0390129	Longitude: -78.50788100467827	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/2/2021 10:14:38 AM	Latitude: 38.0390129	Longitude: -78.5078810021284	Speed: 0	Device ID: bCD
+Time end: 4/2/2021 10:14:39 AM		Latitude: 38.0390129	Longitude: -78.50788100193331	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 10:04:59 AM	Latitude: 38.039012991567304	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 10:05:01 AM		Latitude: 38.039012993357545	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 1:22:36 PM	Latitude: 38.03902389898418	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 1:22:36 PM		Latitude: 38.039023899842505	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 1:22:38 PM	Latitude: 38.03902390158123	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 1:22:39 PM		Latitude: 38.03902390221968	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 3:58:09 PM	Latitude: 38.039032485213106	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 3:58:12 PM		Latitude: 38.03903248832901	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 4:33:55 PM	Latitude: 38.03903445937742	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 4:33:57 PM		Latitude: 38.03903446141605	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 4:56:00 PM	Latitude: 38.03903567848086	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 4:56:01 PM		Latitude: 38.039035679189226	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 6:13:31 PM	Latitude: 38.03640374784033	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 6:13:32 PM		Latitude: 38.03640374844612	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/6/2021 6:13:33 PM	Latitude: 38.03640374900426	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/6/2021 6:13:34 PM		Latitude: 38.036403749056156	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/7/2021 10:09:29 AM	Latitude: 38.0390129	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+Time end: 4/7/2021 10:09:30 AM		Latitude: 38.0390129	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/7/2021 4:00:18 PM	Latitude: 38.0390129	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+Time end: 4/7/2021 4:00:19 PM		Latitude: 38.0390129	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 10:14:43 AM	Latitude: 38.039039703996075	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 10:14:44 AM		Latitude: 38.03903970555884	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 1:03:05 PM	Latitude: 38.039049231456765	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 1:03:06 PM		Latitude: 38.03904923294691	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 1:03:07 PM	Latitude: 38.039049233236454	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 1:03:09 PM		Latitude: 38.03904923542734	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 3:56:04 PM	Latitude: 38.03905902013701	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 3:56:06 PM		Latitude: 38.039059022702325	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 4:47:48 PM	Latitude: 38.03906194833761	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 4:47:51 PM		Latitude: 38.03906195098781	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 5:22:08 PM	Latitude: 38.03906389025663	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 5:22:08 PM		Latitude: 38.039063890744224	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 6:04:02 PM	Latitude: 38.039066261429774	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 6:04:04 PM		Latitude: 38.039066263797025	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/8/2021 6:15:18 PM	Latitude: 38.0364037	Longitude: -78.5161972	Speed: 0	Device ID: bCD
+Time end: 4/8/2021 6:15:22 PM		Latitude: 38.0364037	Longitude: -78.5161972	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/11/2021 1:52:36 PM	Latitude: 38.0364799	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 4/11/2021 1:52:39 PM		Latitude: 38.0364799	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 8:50:57 AM	Latitude: 38.0364799	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 8:50:58 AM		Latitude: 38.0364799	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 9:04:21 AM	Latitude: 38.0361977	Longitude: -78.5163498	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 9:04:24 AM		Latitude: 38.0361977	Longitude: -78.5163498	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 9:25:56 AM	Latitude: 38.03903668271033	Longitude: -78.5079803	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 9:25:57 AM		Latitude: 38.03903667960381	Longitude: -78.5079803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 9:46:16 AM	Latitude: 38.0354576	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 9:46:17 AM		Latitude: 38.0354576	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 9:58:03 AM	Latitude: 38.039013169484754	Longitude: -78.50788143113111	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 9:58:04 AM		Latitude: 38.03901317046881	Longitude: -78.50788143197512	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 1:09:08 PM	Latitude: 38.03898920101623	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 1:09:10 PM		Latitude: 38.03898918861089	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 2:11:11 PM	Latitude: 38.0481529	Longitude: -78.52198132660796	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 2:11:12 PM		Latitude: 38.0481529	Longitude: -78.52198132846037	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 2:11:14 PM	Latitude: 38.0481529	Longitude: -78.5219813525788	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 2:11:15 PM		Latitude: 38.0481529	Longitude: -78.52198136448982	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 3:11:53 PM	Latitude: 38.0363007	Longitude: -78.5163498	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 3:11:54 PM		Latitude: 38.0363007	Longitude: -78.5163498	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/12/2021 3:23:12 PM	Latitude: 38.0354805	Longitude: -78.516861	Speed: 0	Device ID: bCD
+Time end: 4/12/2021 3:23:13 PM		Latitude: 38.0354805	Longitude: -78.516861	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 12:39:45 PM	Latitude: 38.039039771800766	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 12:39:50 PM		Latitude: 38.03903978054694	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 1:05:52 PM	Latitude: 38.03904221494119	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 1:05:54 PM		Latitude: 38.03904221836015	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 1:19:24 PM	Latitude: 38.03904348187381	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 1:19:25 PM		Latitude: 38.03904348286535	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 4:45:25 PM	Latitude: 38.03906275155347	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 4:45:27 PM		Latitude: 38.03906275522188	Longitude: -78.5078506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 5:33:11 PM	Latitude: 38.03901394190469	Longitude: -78.50788209361862	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 5:33:11 PM		Latitude: 38.03901394902538	Longitude: -78.50788209972589	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 6:19:53 PM	Latitude: 38.03640375108356	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 6:19:53 PM		Latitude: 38.036403751113575	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 6:19:53 PM	Latitude: 38.03640375144322	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 6:19:54 PM		Latitude: 38.03640375155107	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 6:19:54 PM	Latitude: 38.03640375155248	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 6:19:54 PM		Latitude: 38.036403751622814	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/13/2021 6:19:54 PM	Latitude: 38.03640375191682	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/13/2021 6:19:57 PM		Latitude: 38.036403753083015	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/14/2021 10:15:04 AM	Latitude: 38.0390129	Longitude: -78.50785049356914	Speed: 0	Device ID: bCD
+Time end: 4/14/2021 10:15:05 AM		Latitude: 38.0390129	Longitude: -78.50785049289263	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/14/2021 1:37:35 PM	Latitude: 38.0390129	Longitude: -78.50783901251107	Speed: 0	Device ID: bCD
+Time end: 4/14/2021 1:37:36 PM		Latitude: 38.0390129	Longitude: -78.50783901250163	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/14/2021 1:37:38 PM	Latitude: 38.0390129	Longitude: -78.50783900969545	Speed: 0	Device ID: bCD
+Time end: 4/14/2021 1:37:38 PM		Latitude: 38.0390129	Longitude: -78.50783900968032	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/14/2021 5:20:19 PM	Latitude: 38.0390396	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/14/2021 5:20:20 PM		Latitude: 38.0390396	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/14/2021 5:20:20 PM	Latitude: 38.0390396	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 4/14/2021 5:20:21 PM		Latitude: 38.0390396	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 10:06:56 AM	Latitude: 38.03898985102039	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 10:06:57 AM		Latitude: 38.038989850172534	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 10:06:58 AM	Latitude: 38.03898984856202	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 10:06:58 AM		Latitude: 38.038989848358376	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 10:06:59 AM	Latitude: 38.03898984771416	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 10:06:59 AM		Latitude: 38.038989847022044	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 1:04:18 PM	Latitude: 38.038975687562164	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 1:04:20 PM		Latitude: 38.038975684012364	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 1:34:27 PM	Latitude: 38.03897327864717	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 1:34:28 PM		Latitude: 38.038973277648914	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 1:34:30 PM	Latitude: 38.0389732753862	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 1:34:32 PM		Latitude: 38.03897327290653	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 3:49:48 PM	Latitude: 38.0390396	Longitude: -78.50785097208468	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 3:49:49 PM		Latitude: 38.0390396	Longitude: -78.50785097881229	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 3:49:51 PM	Latitude: 38.0390396	Longitude: -78.50785098480645	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 3:49:52 PM		Latitude: 38.0390396	Longitude: -78.50785098792267	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 3:56:15 PM	Latitude: 38.0390396	Longitude: -78.50785241433167	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 3:56:18 PM		Latitude: 38.0390396	Longitude: -78.5078524241122	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 4:59:51 PM	Latitude: 38.0390396	Longitude: -78.50786662372965	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 4:59:52 PM		Latitude: 38.0390396	Longitude: -78.50786662406473	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/15/2021 6:14:18 PM	Latitude: 38.03640375685195	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/15/2021 6:14:19 PM		Latitude: 38.03640375735645	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/16/2021 9:43:32 AM	Latitude: 38.0389137	Longitude: -78.5078049	Speed: 0	Device ID: bCD
+Time end: 4/16/2021 9:43:34 AM		Latitude: 38.0389137	Longitude: -78.5078049	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/16/2021 10:18:53 AM	Latitude: 38.038887	Longitude: -78.5171994636315	Speed: 0	Device ID: bCD
+Time end: 4/16/2021 10:18:57 AM		Latitude: 38.038887	Longitude: -78.51719955843966	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/16/2021 12:42:15 PM	Latitude: 38.0354309	Longitude: -78.51709247481708	Speed: 0	Device ID: bCD
+Time end: 4/16/2021 12:42:17 PM		Latitude: 38.0354309	Longitude: -78.51709234170114	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/16/2021 12:55:55 PM	Latitude: 38.039093	Longitude: -78.51691415688761	Speed: 0	Device ID: bCD
+Time end: 4/16/2021 12:55:56 PM		Latitude: 38.039093	Longitude: -78.5169141567035	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/16/2021 12:55:56 PM	Latitude: 38.039093	Longitude: -78.51691415489984	Speed: 0	Device ID: bCD
+Time end: 4/16/2021 12:55:57 PM		Latitude: 38.039093	Longitude: -78.51691415432346	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/19/2021 10:19:07 AM	Latitude: 38.0390396	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+Time end: 4/19/2021 10:19:12 AM		Latitude: 38.0390396	Longitude: -78.5079041	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/19/2021 12:03:52 PM	Latitude: 38.0237312	Longitude: -78.48489132905215	Speed: 0	Device ID: bCD
+Time end: 4/19/2021 12:03:53 PM		Latitude: 38.0237312	Longitude: -78.48489134289878	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/19/2021 12:03:53 PM	Latitude: 38.0237312	Longitude: -78.48489134977531	Speed: 0	Device ID: bCD
+Time end: 4/19/2021 12:03:54 PM		Latitude: 38.0237312	Longitude: -78.48489141306749	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/19/2021 12:58:56 PM	Latitude: 38.04421257542817	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+Time end: 4/19/2021 12:58:58 PM		Latitude: 38.044212578458186	Longitude: -78.5031204	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/19/2021 3:45:06 PM	Latitude: 38.0388603	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+Time end: 4/19/2021 3:45:07 PM		Latitude: 38.0388603	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/21/2021 10:05:39 AM	Latitude: 38.0393715	Longitude: -78.51683818084571	Speed: 0	Device ID: bCD
+Time end: 4/21/2021 10:05:40 AM		Latitude: 38.0393715	Longitude: -78.51683818147767	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/21/2021 10:05:41 AM	Latitude: 38.0393715	Longitude: -78.51683818248266	Speed: 0	Device ID: bCD
+Time end: 4/21/2021 10:05:42 AM		Latitude: 38.0393715	Longitude: -78.51683818270301	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/22/2021 10:40:54 AM	Latitude: 38.0393486	Longitude: -78.5169373	Speed: 0	Device ID: bCD
+Time end: 4/22/2021 10:40:57 AM		Latitude: 38.0393486	Longitude: -78.5169373	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/22/2021 11:15:09 AM	Latitude: 38.0354576	Longitude: -78.51600824996683	Speed: 0	Device ID: bCD
+Time end: 4/22/2021 11:15:11 AM		Latitude: 38.0354576	Longitude: -78.51600859122449	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/22/2021 11:24:51 AM	Latitude: 38.02354459350194	Longitude: -78.5339127	Speed: 0	Device ID: bCD
+Time end: 4/22/2021 11:24:52 AM		Latitude: 38.023544668606455	Longitude: -78.5339127	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/22/2021 11:37:58 AM	Latitude: 38.0236792382	Longitude: -78.48547332295	Speed: 17.2965	Device ID: bCD
+Time end: 4/22/2021 11:37:58 AM		Latitude: 38.0236869062	Longitude: -78.48546645595	Speed: 17.2065	Device ID: bCD
+-
+Event 129:
+Time start: 4/22/2021 12:11:23 PM	Latitude: 38.0237045	Longitude: -78.4849167	Speed: 0	Device ID: bCD
+Time end: 4/22/2021 12:11:24 PM		Latitude: 38.0237045	Longitude: -78.4849167	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/23/2021 10:08:42 AM	Latitude: 38.0394249	Longitude: -78.51684108946316	Speed: 0	Device ID: bCD
+Time end: 4/23/2021 10:08:45 AM		Latitude: 38.0394249	Longitude: -78.51684116303282	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/23/2021 11:11:15 AM	Latitude: 38.0394249	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+Time end: 4/23/2021 11:11:16 AM		Latitude: 38.0394249	Longitude: -78.5168915	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/23/2021 11:35:16 AM	Latitude: 38.0355339	Longitude: -78.5160217	Speed: 0	Device ID: bCD
+Time end: 4/23/2021 11:35:19 AM		Latitude: 38.0355339	Longitude: -78.5160217	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/23/2021 5:05:57 PM	Latitude: 38.038835132822726	Longitude: -78.51732464328182	Speed: 0	Device ID: bCD
+Time end: 4/23/2021 5:05:58 PM		Latitude: 38.03883515083419	Longitude: -78.51732462263946	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/23/2021 5:51:37 PM	Latitude: 38.0364532	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 4/23/2021 5:51:39 PM		Latitude: 38.0364532	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/27/2021 12:40:10 PM	Latitude: 38.0236816	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+Time end: 4/27/2021 12:40:11 PM		Latitude: 38.0236816	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/27/2021 1:13:56 PM	Latitude: 38.0547079841208	Longitude: -78.5077515	Speed: 0	Device ID: bCD
+Time end: 4/27/2021 1:13:59 PM		Latitude: 38.05470803013952	Longitude: -78.5077515	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/27/2021 4:21:06 PM	Latitude: 38.0362511	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 4/27/2021 4:21:09 PM		Latitude: 38.0362511	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/27/2021 4:40:25 PM	Latitude: 38.0547333	Longitude: -78.5077515	Speed: 0	Device ID: bCD
+Time end: 4/27/2021 4:40:27 PM		Latitude: 38.0547333	Longitude: -78.5077515	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/27/2021 6:11:28 PM	Latitude: 38.0547333	Longitude: -78.5077515	Speed: 0	Device ID: bCD
+Time end: 4/27/2021 6:11:29 PM		Latitude: 38.0547333	Longitude: -78.5077515	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 4/29/2021 3:21:03 PM	Latitude: 38.05476	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+Time end: 4/29/2021 3:21:04 PM		Latitude: 38.05476	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/3/2021 10:32:20 AM	Latitude: 38.0388107	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+Time end: 5/3/2021 10:32:21 AM		Latitude: 38.0388107	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/3/2021 11:26:37 AM	Latitude: 38.0503044	Longitude: -78.5005341	Speed: 0	Device ID: bCD
+Time end: 5/3/2021 11:26:41 AM		Latitude: 38.0503044	Longitude: -78.5005341	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/3/2021 12:21:16 PM	Latitude: 38.0545807	Longitude: -78.5079803	Speed: 0	Device ID: bCD
+Time end: 5/3/2021 12:21:18 PM		Latitude: 38.0545807	Longitude: -78.5079803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/3/2021 1:28:52 PM	Latitude: 38.0547333	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/3/2021 1:28:55 PM		Latitude: 38.0547333	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/3/2021 1:55:01 PM	Latitude: 38.0547333	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/3/2021 1:55:03 PM		Latitude: 38.0547333	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/3/2021 3:09:36 PM	Latitude: 38.0389137	Longitude: -78.51721000954223	Speed: 0	Device ID: bCD
+Time end: 5/3/2021 3:09:37 PM		Latitude: 38.0389137	Longitude: -78.51720995152888	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/3/2021 3:31:10 PM	Latitude: 38.05470829019358	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/3/2021 3:31:14 PM		Latitude: 38.05470829923012	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/4/2021 9:49:15 AM	Latitude: 38.03643011896218	Longitude: -78.5161743	Speed: 0	Device ID: bCD
+Time end: 5/4/2021 9:49:16 AM		Latitude: 38.03643011988626	Longitude: -78.5161743	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/4/2021 10:15:03 AM	Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/4/2021 10:15:07 AM		Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/4/2021 11:21:26 AM	Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/4/2021 11:21:27 AM		Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/4/2021 11:31:40 AM	Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/4/2021 11:31:43 AM		Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/4/2021 3:47:59 PM	Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/4/2021 3:48:00 PM		Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/4/2021 3:52:27 PM	Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+Time end: 5/4/2021 3:52:28 PM		Latitude: 38.0546036	Longitude: -78.5076752	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/4/2021 6:11:51 PM	Latitude: 38.0364799	Longitude: -78.51619746612327	Speed: 0	Device ID: bCD
+Time end: 5/4/2021 6:11:52 PM		Latitude: 38.0364799	Longitude: -78.51619746646061	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 9:56:33 AM	Latitude: 38.0364799	Longitude: -78.51622753067495	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 9:56:34 AM		Latitude: 38.0364799	Longitude: -78.5162275308712	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 10:11:23 AM	Latitude: 38.054707020934856	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 10:11:24 AM		Latitude: 38.05470702438684	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 12:57:34 PM	Latitude: 38.05474539517697	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 12:57:37 PM		Latitude: 38.054745404028225	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 1:31:03 PM	Latitude: 38.05475312276809	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 1:31:05 PM		Latitude: 38.054753130441746	Longitude: -78.5075684	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 2:13:14 PM	Latitude: 38.0361977	Longitude: -78.5163803	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 2:13:15 PM		Latitude: 38.0361977	Longitude: -78.5163803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 3:04:14 PM	Latitude: 38.0237045	Longitude: -78.48486177214991	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 3:04:15 PM		Latitude: 38.0237045	Longitude: -78.48486174824565	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 3:04:16 PM	Latitude: 38.0237045	Longitude: -78.4848617359399	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 3:04:17 PM		Latitude: 38.0237045	Longitude: -78.48486172302594	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 3:46:20 PM	Latitude: 38.038833096957326	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 3:46:22 PM		Latitude: 38.038833089171604	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 3:59:29 PM	Latitude: 38.038829453663844	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 3:59:29 PM		Latitude: 38.038829453506835	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 5:14:12 PM	Latitude: 38.038881657722506	Longitude: -78.50790866194482	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 5:14:16 PM		Latitude: 38.038881465492196	Longitude: -78.50790882609655	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 5:32:11 PM	Latitude: 38.023709648884214	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 5:32:13 PM		Latitude: 38.02370973994526	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/5/2021 5:55:57 PM	Latitude: 38.03883109711397	Longitude: -78.5172704080436	Speed: 0	Device ID: bCD
+Time end: 5/5/2021 5:55:58 PM		Latitude: 38.03883107040109	Longitude: -78.51727038144737	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/6/2021 10:01:05 AM	Latitude: 38.0359688	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+Time end: 5/6/2021 10:01:06 AM		Latitude: 38.0359688	Longitude: -78.5172729	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/6/2021 10:50:19 AM	Latitude: 38.036261983004806	Longitude: -78.5163911830048	Speed: 0	Device ID: bCD
+Time end: 5/6/2021 10:50:24 AM		Latitude: 38.03626249131875	Longitude: -78.51639169131874	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/6/2021 11:23:01 AM	Latitude: 38.0389137	Longitude: -78.5171738	Speed: 0	Device ID: bCD
+Time end: 5/6/2021 11:23:04 AM		Latitude: 38.0389137	Longitude: -78.5171738	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/10/2021 1:46:42 PM	Latitude: 38.03893645365513	Longitude: -78.51718430521578	Speed: 0	Device ID: bCD
+Time end: 5/10/2021 1:46:46 PM		Latitude: 38.03893645955349	Longitude: -78.517184307939	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/10/2021 6:21:56 PM	Latitude: 38.0364799	Longitude: -78.51625018225535	Speed: 0	Device ID: bCD
+Time end: 5/10/2021 6:21:59 PM		Latitude: 38.0364799	Longitude: -78.51625017929497	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/11/2021 11:57:37 AM	Latitude: 38.03892421907739	Longitude: -78.51720153538234	Speed: 0	Device ID: bCD
+Time end: 5/11/2021 11:57:39 AM		Latitude: 38.038924224216935	Longitude: -78.51720153774488	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/11/2021 1:27:12 PM	Latitude: 38.03893343698092	Longitude: -78.51720577264446	Speed: 0	Device ID: bCD
+Time end: 5/11/2021 1:27:14 PM		Latitude: 38.03893344176034	Longitude: -78.51720577484144	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/11/2021 4:24:24 PM	Latitude: 38.03895167116227	Longitude: -78.51721415448588	Speed: 0	Device ID: bCD
+Time end: 5/11/2021 4:24:25 PM		Latitude: 38.0389516715224	Longitude: -78.51721415465143	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/12/2021 9:49:30 AM	Latitude: 38.03640496970254	Longitude: -78.5161209	Speed: 0	Device ID: bCD
+Time end: 5/12/2021 9:49:31 AM		Latitude: 38.03640496939017	Longitude: -78.5161209	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/12/2021 11:13:53 AM	Latitude: 38.0481993299413	Longitude: -78.5220108	Speed: 0	Device ID: bCD
+Time end: 5/12/2021 11:13:54 AM		Latitude: 38.048199269273844	Longitude: -78.5220108	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/12/2021 11:13:54 AM	Latitude: 38.048199226301065	Longitude: -78.5220108	Speed: 0	Device ID: bCD
+Time end: 5/12/2021 11:13:57 AM		Latitude: 38.04819909403337	Longitude: -78.5220108	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/12/2021 12:39:33 PM	Latitude: 38.0389137	Longitude: -78.51727263765048	Speed: 0	Device ID: bCD
+Time end: 5/12/2021 12:39:34 PM		Latitude: 38.0389137	Longitude: -78.51727263373418	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/12/2021 12:57:15 PM	Latitude: 38.0389137	Longitude: -78.51727010598837	Speed: 0	Device ID: bCD
+Time end: 5/12/2021 12:57:17 PM		Latitude: 38.0389137	Longitude: -78.51727010111921	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/17/2021 11:23:49 AM	Latitude: 38.0512227105795	Longitude: -78.5149470894205	Speed: 0	Device ID: bCD
+Time end: 5/17/2021 11:23:54 AM		Latitude: 38.05122266353271	Longitude: -78.51494713646728	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/17/2021 1:00:54 PM	Latitude: 38.0414467	Longitude: -78.5050354	Speed: 0	Device ID: bCD
+Time end: 5/17/2021 1:00:59 PM		Latitude: 38.0414467	Longitude: -78.5050354	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/17/2021 1:09:25 PM	Latitude: 38.0414467	Longitude: -78.5050354	Speed: 0	Device ID: bCD
+Time end: 5/17/2021 1:09:28 PM		Latitude: 38.0414467	Longitude: -78.5050354	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/17/2021 1:13:42 PM	Latitude: 38.0414467	Longitude: -78.5050354	Speed: 0	Device ID: bCD
+Time end: 5/17/2021 1:13:46 PM		Latitude: 38.0414467	Longitude: -78.5050354	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/17/2021 1:45:16 PM	Latitude: 38.05114264914344	Longitude: -78.5150223	Speed: 0	Device ID: bCD
+Time end: 5/17/2021 1:45:22 PM		Latitude: 38.051142618686846	Longitude: -78.5150223	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/17/2021 2:31:40 PM	Latitude: 38.05112871629502	Longitude: -78.5150223	Speed: 0	Device ID: bCD
+Time end: 5/17/2021 2:31:44 PM		Latitude: 38.05112869687806	Longitude: -78.5150223	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/17/2021 4:47:44 PM	Latitude: 38.0355072	Longitude: -78.51594821497413	Speed: 0	Device ID: bCD
+Time end: 5/17/2021 4:47:46 PM		Latitude: 38.0355072	Longitude: -78.51594827473566	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/19/2021 11:10:06 AM	Latitude: 38.03622894235112	Longitude: -78.51623159587419	Speed: 0	Device ID: bCD
+Time end: 5/19/2021 11:10:09 AM		Latitude: 38.03622884407878	Longitude: -78.51623151158816	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/19/2021 1:55:25 PM	Latitude: 38.0388603	Longitude: -78.51730370373429	Speed: 0	Device ID: bCD
+Time end: 5/19/2021 1:55:28 PM		Latitude: 38.0388603	Longitude: -78.51730377814818	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/19/2021 2:22:41 PM	Latitude: 38.0481262	Longitude: -78.5220337	Speed: 0	Device ID: bCD
+Time end: 5/19/2021 2:22:45 PM		Latitude: 38.0481262	Longitude: -78.5220337	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/19/2021 3:49:50 PM	Latitude: 38.0538635	Longitude: -78.505394	Speed: 0	Device ID: bCD
+Time end: 5/19/2021 3:49:51 PM		Latitude: 38.0538635	Longitude: -78.505394	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/19/2021 4:39:12 PM	Latitude: 38.0388603	Longitude: -78.5172958	Speed: 0	Device ID: bCD
+Time end: 5/19/2021 4:39:13 PM		Latitude: 38.0388603	Longitude: -78.5172958	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/20/2021 9:05:53 AM	Latitude: 38.04813471772731	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/20/2021 9:05:58 AM		Latitude: 38.04813478489773	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/20/2021 9:28:39 AM	Latitude: 38.0481529	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/20/2021 9:28:40 AM		Latitude: 38.0481529	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/20/2021 10:58:32 AM	Latitude: 38.0481529	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/20/2021 10:58:33 AM		Latitude: 38.0481529	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/20/2021 12:09:52 PM	Latitude: 38.0503311	Longitude: -78.5005341	Speed: 0	Device ID: bCD
+Time end: 5/20/2021 12:09:54 PM		Latitude: 38.0503311	Longitude: -78.5005341	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/20/2021 1:11:00 PM	Latitude: 38.0503311	Longitude: -78.5005341	Speed: 0	Device ID: bCD
+Time end: 5/20/2021 1:11:02 PM		Latitude: 38.0503311	Longitude: -78.5005341	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/21/2021 8:41:26 AM	Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 5/21/2021 8:41:29 AM		Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/21/2021 9:04:11 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/21/2021 9:04:13 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 8:33:33 AM	Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 8:33:36 AM		Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 8:40:33 AM	Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 8:40:37 AM		Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 8:44:40 AM	Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 8:44:44 AM		Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 9:07:06 AM	Latitude: 38.04813288456148	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 9:07:06 AM		Latitude: 38.04813275701486	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 9:22:36 AM	Latitude: 38.05022938859814	Longitude: -78.5004807	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 9:22:39 AM		Latitude: 38.05022943153564	Longitude: -78.5004807	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 12:30:18 PM	Latitude: 38.050251	Longitude: -78.5004807	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 12:30:23 PM		Latitude: 38.050251	Longitude: -78.5004807	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 1:13:33 PM	Latitude: 38.0236816	Longitude: -78.4848099	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 1:13:34 PM		Latitude: 38.0236816	Longitude: -78.4848099	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/24/2021 4:07:00 PM	Latitude: 38.0501747	Longitude: -78.5004578	Speed: 0	Device ID: bCD
+Time end: 5/24/2021 4:07:01 PM		Latitude: 38.0501747	Longitude: -78.5004578	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 9:49:01 AM	Latitude: 38.0364304	Longitude: -78.5162506	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 9:49:03 AM		Latitude: 38.0364304	Longitude: -78.5162506	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 10:03:02 AM	Latitude: 38.05187884988452	Longitude: -78.5044352215801	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 10:03:04 AM		Latitude: 38.051879099990266	Longitude: -78.50443593630177	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 10:08:21 AM	Latitude: 38.04217009475	Longitude: -78.50520940050001	Speed: 18.33	Device ID: bCD
+Time point 2: 5/26/2021 10:08:22 AM	Latitude: 38.0421638	Longitude: -78.505188	Speed: 18	Device ID: bCD
+Time end: 5/26/2021 10:08:22 AM		Latitude: 38.04216308462857	Longitude: -78.50518838257143	Speed: 18.020428	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 10:10:35 AM	Latitude: 38.0414734	Longitude: -78.50499789189757	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 10:10:37 AM		Latitude: 38.0414734	Longitude: -78.50499812608032	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 11:02:26 AM	Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 11:02:29 AM		Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 11:42:25 AM	Latitude: 38.0236816	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 11:42:28 AM		Latitude: 38.0236816	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 12:02:54 PM	Latitude: 38.041832	Longitude: -78.48262879678401	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 12:02:58 PM		Latitude: 38.041832	Longitude: -78.48262874952034	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 12:46:02 PM	Latitude: 38.04142	Longitude: -78.504982	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 12:46:05 PM		Latitude: 38.04142	Longitude: -78.504982	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 12:58:29 PM	Latitude: 38.039118922875176	Longitude: -78.50783082287518	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 12:58:34 PM		Latitude: 38.039119057280956	Longitude: -78.50783095728096	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 4:29:38 PM	Latitude: 38.0389137	Longitude: -78.5171967	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 4:29:41 PM		Latitude: 38.0389137	Longitude: -78.5171967	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 5:18:50 PM	Latitude: 38.02372344667397	Longitude: -78.484993	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 5:18:54 PM		Latitude: 38.0237231310144	Longitude: -78.484993	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/26/2021 6:05:54 PM	Latitude: 38.0463867	Longitude: -78.5220871	Speed: 0	Device ID: bCD
+Time end: 5/26/2021 6:05:58 PM		Latitude: 38.0463867	Longitude: -78.5220871	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 8:46:40 AM	Latitude: 38.04810020249675	Longitude: -78.52193582833004	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 8:46:41 AM		Latitude: 38.04810018035932	Longitude: -78.52193583782343	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 11:05:02 AM	Latitude: 38.0389366	Longitude: -78.51724836335516	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 11:05:07 AM		Latitude: 38.0389366	Longitude: -78.51724828480042	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 12:06:08 PM	Latitude: 38.0389366	Longitude: -78.5172195	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 12:06:09 PM		Latitude: 38.0389366	Longitude: -78.5172195	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 12:36:09 PM	Latitude: 38.0389366	Longitude: -78.5172195	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 12:36:13 PM		Latitude: 38.0389366	Longitude: -78.5172195	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 2:49:47 PM	Latitude: 38.036274	Longitude: -78.51622971157946	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 2:49:50 PM		Latitude: 38.036274	Longitude: -78.51622976758941	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 3:06:44 PM	Latitude: 38.036274	Longitude: -78.51624812824822	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 3:06:45 PM		Latitude: 38.036274	Longitude: -78.51624814580791	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 3:13:10 PM	Latitude: 38.0355072	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 3:13:12 PM		Latitude: 38.0355072	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/27/2021 4:35:50 PM	Latitude: 38.0464134	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+Time end: 5/27/2021 4:35:52 PM		Latitude: 38.0464134	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/28/2021 8:55:23 AM	Latitude: 38.0481262	Longitude: -78.52193583919303	Speed: 0	Device ID: bCD
+Time end: 5/28/2021 8:55:25 AM		Latitude: 38.0481262	Longitude: -78.52193586124311	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/28/2021 10:56:28 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/28/2021 10:56:32 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/28/2021 11:21:51 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/28/2021 11:21:54 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/28/2021 11:27:54 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/28/2021 11:27:55 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/28/2021 11:37:03 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 5/28/2021 11:37:05 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/28/2021 12:19:16 PM	Latitude: 38.0362511	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 5/28/2021 12:19:18 PM		Latitude: 38.0362511	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 5/28/2021 2:40:30 PM	Latitude: 38.0301056	Longitude: -78.5156097	Speed: 0	Device ID: bCD
+Time end: 5/28/2021 2:40:35 PM		Latitude: 38.0301056	Longitude: -78.5156097	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 8:31:01 AM	Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 8:31:02 AM		Latitude: 38.0364304	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 8:46:19 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 8:46:19 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 10:17:24 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 10:17:28 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 10:31:57 AM	Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 10:32:02 AM		Latitude: 38.0481262	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 12:23:46 PM	Latitude: 38.038926207293	Longitude: -78.517236212802	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 12:23:50 PM		Latitude: 38.0389266942615	Longitude: -78.517236863511	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 12:45:11 PM	Latitude: 38.05318415074424	Longitude: -78.51401174925577	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 12:45:12 PM		Latitude: 38.05318416668207	Longitude: -78.51401173331793	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 1:39:09 PM	Latitude: 38.0354805	Longitude: -78.5169678	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 1:39:13 PM		Latitude: 38.0354805	Longitude: -78.5169678	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 2:57:29 PM	Latitude: 38.039093	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 2:57:33 PM		Latitude: 38.039093	Longitude: -78.5078278	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 3:22:11 PM	Latitude: 38.0301056	Longitude: -78.51559872850827	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 3:22:13 PM		Latitude: 38.0301056	Longitude: -78.515598486	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 4:12:19 PM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 4:12:20 PM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 4:42:22 PM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 4:42:24 PM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/2/2021 5:00:56 PM	Latitude: 38.0363503	Longitude: -78.51640631740392	Speed: 0	Device ID: bCD
+Time end: 6/2/2021 5:00:57 PM		Latitude: 38.0363503	Longitude: -78.51640635547206	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 10:01:43 AM	Latitude: 38.03552412628295	Longitude: -78.51598281729886	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 10:01:44 AM		Latitude: 38.03552428708977	Longitude: -78.51598295521931	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 11:22:32 AM	Latitude: 38.0481033	Longitude: -78.52195858759139	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 11:22:39 AM		Latitude: 38.0481033	Longitude: -78.52195866055766	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 12:47:55 PM	Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 12:47:56 PM		Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 12:55:18 PM	Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 12:55:19 PM		Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 1:31:27 PM	Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 1:31:28 PM		Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 1:54:04 PM	Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 1:54:06 PM		Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 2:00:36 PM	Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 2:00:38 PM		Latitude: 38.0481033	Longitude: -78.5219803	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 2:51:57 PM	Latitude: 38.0236549	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 2:51:59 PM		Latitude: 38.0236549	Longitude: -78.4848633	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 3:08:30 PM	Latitude: 38.04823441418277	Longitude: -78.52208262791065	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 3:08:30 PM		Latitude: 38.04823444296945	Longitude: -78.52208260322095	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 3:26:54 PM	Latitude: 38.04830701042562	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 3:26:55 PM		Latitude: 38.0483070217345	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 3:34:48 PM	Latitude: 38.04831355312546	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 3:34:49 PM		Latitude: 38.04831355716632	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 3:34:50 PM	Latitude: 38.048313572116115	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 3:34:52 PM		Latitude: 38.04831360635997	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 3:58:04 PM	Latitude: 38.0483322	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 3:58:09 PM		Latitude: 38.0483322	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 4:28:06 PM	Latitude: 38.0483322	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 4:28:08 PM		Latitude: 38.0483322	Longitude: -78.5222168	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 6:45:00 PM	Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 6:45:03 PM		Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 7:45:00 PM	Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 7:45:00 PM		Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 8:03:06 PM	Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 8:03:07 PM		Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 8:03:09 PM	Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 8:03:10 PM		Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 8:11:35 PM	Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 8:11:35 PM		Latitude: 38.0481033	Longitude: -78.5219345	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/3/2021 8:19:34 PM	Latitude: 38.0363274	Longitude: -78.5164032	Speed: 0	Device ID: bCD
+Time end: 6/3/2021 8:19:36 PM		Latitude: 38.0363274	Longitude: -78.5164032	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/4/2021 10:11:21 AM	Latitude: 38.04810471289916	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 6/4/2021 10:11:23 AM		Latitude: 38.04810474151773	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/4/2021 10:19:22 AM	Latitude: 38.04811089984433	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 6/4/2021 10:19:24 AM		Latitude: 38.0481109248133	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/4/2021 12:51:36 PM	Latitude: 38.0532722	Longitude: -78.5141983	Speed: 0	Device ID: bCD
+Time end: 6/4/2021 12:51:38 PM		Latitude: 38.0532722	Longitude: -78.5141983	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/4/2021 1:21:40 PM	Latitude: 38.0532722	Longitude: -78.5141983	Speed: 0	Device ID: bCD
+Time end: 6/4/2021 1:21:42 PM		Latitude: 38.0532722	Longitude: -78.5141983	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/4/2021 3:43:05 PM	Latitude: 38.03549163440188	Longitude: -78.51595875026955	Speed: 0	Device ID: bCD
+Time end: 6/4/2021 3:43:06 PM		Latitude: 38.03549171269511	Longitude: -78.51595868311918	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/4/2021 3:43:07 PM	Latitude: 38.03549174581917	Longitude: -78.5159586547094	Speed: 0	Device ID: bCD
+Time end: 6/4/2021 3:43:09 PM		Latitude: 38.03549195891729	Longitude: -78.51595847193985	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 10:18:16 AM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 10:18:21 AM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 12:18:25 PM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 12:18:26 PM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 12:32:04 PM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 12:32:09 PM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 12:48:23 PM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 12:48:24 PM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 1:31:08 PM	Latitude: 38.0389633	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 1:31:09 PM		Latitude: 38.0389633	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 1:31:09 PM	Latitude: 38.0389633	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 1:31:10 PM		Latitude: 38.0389633	Longitude: -78.5078812	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 2:09:28 PM	Latitude: 38.051217586925816	Longitude: -78.50444168692582	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 2:09:30 PM		Latitude: 38.051217456470425	Longitude: -78.50444155647043	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/7/2021 4:41:59 PM	Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 6/7/2021 4:42:00 PM		Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/9/2021 9:42:02 AM	Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 6/9/2021 9:42:06 AM		Latitude: 38.0364037	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/9/2021 10:10:46 AM	Latitude: 38.0481033	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+Time end: 6/9/2021 10:10:47 AM		Latitude: 38.0481033	Longitude: -78.5219574	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/9/2021 1:15:33 PM	Latitude: 38.0532227	Longitude: -78.5141983	Speed: 0	Device ID: bCD
+Time end: 6/9/2021 1:15:36 PM		Latitude: 38.0532227	Longitude: -78.5141983	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/9/2021 3:30:00 PM	Latitude: 38.0301323	Longitude: -78.51561339377731	Speed: 0	Device ID: bCD
+Time end: 6/9/2021 3:30:01 PM		Latitude: 38.0301323	Longitude: -78.51561345607556	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/9/2021 5:50:01 PM	Latitude: 38.0532227	Longitude: -78.5141754	Speed: 0	Device ID: bCD
+Time end: 6/9/2021 5:50:01 PM		Latitude: 38.0532227	Longitude: -78.5141754	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/10/2021 10:04:20 AM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/10/2021 10:04:22 AM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/10/2021 11:05:27 AM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 6/10/2021 11:05:27 AM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/10/2021 7:34:14 PM	Latitude: 38.036377	Longitude: -78.5161972	Speed: 0	Device ID: bCD
+Time end: 6/10/2021 7:34:15 PM		Latitude: 38.036377	Longitude: -78.5161972	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/11/2021 10:13:07 AM	Latitude: 38.0532227	Longitude: -78.5141754	Speed: 0	Device ID: bCD
+Time end: 6/11/2021 10:13:09 AM		Latitude: 38.0532227	Longitude: -78.5141754	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/11/2021 10:28:24 AM	Latitude: 38.0306435	Longitude: -78.5123062	Speed: 0	Device ID: bCD
+Time end: 6/11/2021 10:28:25 AM		Latitude: 38.0306435	Longitude: -78.5123062	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/11/2021 11:06:03 AM	Latitude: 38.0526352	Longitude: -78.508873	Speed: 0	Device ID: bCD
+Time end: 6/11/2021 11:06:06 AM		Latitude: 38.0526352	Longitude: -78.508873	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/11/2021 11:44:00 AM	Latitude: 38.0304375	Longitude: -78.5122528	Speed: 0	Device ID: bCD
+Time end: 6/11/2021 11:44:02 AM		Latitude: 38.0304375	Longitude: -78.5122528	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/11/2021 5:44:16 PM	Latitude: 38.03547410807671	Longitude: -78.5170212	Speed: 0	Device ID: bCD
+Time end: 6/11/2021 5:44:17 PM		Latitude: 38.03547410387315	Longitude: -78.5170212	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/11/2021 5:53:01 PM	Latitude: 38.036377	Longitude: -78.5164261	Speed: 0	Device ID: bCD
+Time end: 6/11/2021 5:53:02 PM		Latitude: 38.036377	Longitude: -78.5164261	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/14/2021 10:24:08 AM	Latitude: 38.036377	Longitude: -78.5164261	Speed: 0	Device ID: bCD
+Time end: 6/14/2021 10:24:09 AM		Latitude: 38.036377	Longitude: -78.5164261	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/14/2021 10:55:17 AM	Latitude: 38.05319778838951	Longitude: -78.5141754	Speed: 0	Device ID: bCD
+Time end: 6/14/2021 10:55:18 AM		Latitude: 38.05319779800249	Longitude: -78.5141754	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/15/2021 10:47:54 AM	Latitude: 38.0302353	Longitude: -78.5127411	Speed: 0	Device ID: bCD
+Time end: 6/15/2021 10:47:54 AM		Latitude: 38.0302353	Longitude: -78.5127411	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/15/2021 10:47:55 AM	Latitude: 38.0302353	Longitude: -78.5127411	Speed: 0	Device ID: bCD
+Time end: 6/15/2021 10:47:56 AM		Latitude: 38.0302353	Longitude: -78.5127411	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/15/2021 11:05:30 AM	Latitude: 38.0237312	Longitude: -78.4849396	Speed: 0	Device ID: bCD
+Time end: 6/15/2021 11:05:31 AM		Latitude: 38.0237312	Longitude: -78.4849396	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/15/2021 11:44:59 AM	Latitude: 38.053197521601454	Longitude: -78.5140228	Speed: 0	Device ID: bCD
+Time end: 6/15/2021 11:45:01 AM		Latitude: 38.05319755018992	Longitude: -78.5140228	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/15/2021 3:16:06 PM	Latitude: 38.0532227	Longitude: -78.5140228	Speed: 0	Device ID: bCD
+Time end: 6/15/2021 3:16:07 PM		Latitude: 38.0532227	Longitude: -78.5140228	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/15/2021 3:54:25 PM	Latitude: 38.053196	Longitude: -78.51409777920082	Speed: 0	Device ID: bCD
+Time end: 6/15/2021 3:54:27 PM		Latitude: 38.053196	Longitude: -78.51409775468115	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/16/2021 9:26:31 AM	Latitude: 38.0364532	Longitude: -78.5161209	Speed: 0	Device ID: bCD
+Time end: 6/16/2021 9:26:33 AM		Latitude: 38.0364532	Longitude: -78.5161209	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/16/2021 2:38:39 PM	Latitude: 38.023506840651855	Longitude: -78.53387003408889	Speed: 0	Device ID: bCD
+Time end: 6/16/2021 2:38:41 PM		Latitude: 38.02350655173603	Longitude: -78.53386972303838	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/16/2021 2:38:42 PM	Latitude: 38.02350649328485	Longitude: -78.53386966010909	Speed: 0	Device ID: bCD
+Time end: 6/16/2021 2:38:45 PM		Latitude: 38.02350591111111	Longitude: -78.53386903333333	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/16/2021 5:57:16 PM	Latitude: 38.0532227	Longitude: -78.514122	Speed: 0	Device ID: bCD
+Time end: 6/16/2021 5:57:17 PM		Latitude: 38.0532227	Longitude: -78.514122	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/17/2021 4:11:54 PM	Latitude: 38.03640523738545	Longitude: -78.51614555618937	Speed: 0	Device ID: bCD
+Time end: 6/17/2021 4:11:55 PM		Latitude: 38.03640524942663	Longitude: -78.51614556994427	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/21/2021 4:05:14 PM	Latitude: 38.0389366	Longitude: -78.5171432	Speed: 0	Device ID: bCD
+Time end: 6/21/2021 4:05:15 PM		Latitude: 38.0389366	Longitude: -78.5171432	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/21/2021 4:05:16 PM	Latitude: 38.0389366	Longitude: -78.5171432	Speed: 0	Device ID: bCD
+Time end: 6/21/2021 4:05:17 PM		Latitude: 38.0389366	Longitude: -78.5171432	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/21/2021 4:05:17 PM	Latitude: 38.0389366	Longitude: -78.5171432	Speed: 0	Device ID: bCD
+Time end: 6/21/2021 4:05:18 PM		Latitude: 38.0389366	Longitude: -78.5171432	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/22/2021 11:35:08 AM	Latitude: 38.038915000506975	Longitude: -78.51719799482791	Speed: 0	Device ID: bCD
+Time end: 6/22/2021 11:35:09 AM		Latitude: 38.03891500221116	Longitude: -78.51719799652464	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/23/2021 1:31:45 PM	Latitude: 38.0857849	Longitude: -78.47423588665484	Speed: 0	Device ID: bCD
+Time end: 6/23/2021 1:31:45 PM		Latitude: 38.0857849	Longitude: -78.47423588250538	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/23/2021 1:31:47 PM	Latitude: 38.0857849	Longitude: -78.47423583583763	Speed: 0	Device ID: bCD
+Time end: 6/23/2021 1:31:47 PM		Latitude: 38.0857849	Longitude: -78.47423583539893	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/23/2021 1:31:48 PM	Latitude: 38.0857849	Longitude: -78.4742358225484	Speed: 0	Device ID: bCD
+Time end: 6/23/2021 1:31:48 PM		Latitude: 38.0857849	Longitude: -78.47423581573011	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 6/24/2021 11:38:51 AM	Latitude: 38.0861969	Longitude: -78.4751892	Speed: 0	Device ID: bCD
+Time end: 6/24/2021 11:38:53 AM		Latitude: 38.0861969	Longitude: -78.4751892	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 7/1/2021 2:36:23 PM	Latitude: 38.0364037	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+Time end: 7/1/2021 2:36:24 PM		Latitude: 38.0364037	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 7/1/2021 3:36:30 PM	Latitude: 38.0364037	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+Time end: 7/1/2021 3:36:30 PM		Latitude: 38.0364037	Longitude: -78.5162735	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 7/22/2021 5:02:23 PM	Latitude: 38.0320244	Longitude: -78.50992293598696	Speed: 0	Device ID: bCD
+Time end: 7/22/2021 5:02:24 PM		Latitude: 38.0320244	Longitude: -78.50992293222113	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 7/28/2021 11:09:04 PM	Latitude: 38.0364304	Longitude: -78.5160446	Speed: 0	Device ID: bCD
+Time end: 7/28/2021 11:09:04 PM		Latitude: 38.0364304	Longitude: -78.5160446	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 7/30/2021 9:21:37 PM	Latitude: 38.0364037	Longitude: -78.5159683	Speed: 0	Device ID: bCD
+Time end: 7/30/2021 9:21:37 PM		Latitude: 38.0364037	Longitude: -78.5159683	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/5/2021 2:36:29 PM	Latitude: 38.0532227	Longitude: -78.508522	Speed: 0	Device ID: bCD
+Time end: 8/5/2021 2:36:30 PM		Latitude: 38.0532227	Longitude: -78.508522	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/6/2021 11:08:07 AM	Latitude: 38.0489464	Longitude: -78.5022736	Speed: 0	Device ID: bCD
+Time end: 8/6/2021 11:08:07 AM		Latitude: 38.0489464	Longitude: -78.5022736	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/13/2021 11:27:24 AM	Latitude: 38.0321541	Longitude: -78.5100784	Speed: 0	Device ID: bCD
+Time end: 8/13/2021 11:27:25 AM		Latitude: 38.0321541	Longitude: -78.5100784	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/17/2021 4:12:15 PM	Latitude: 38.0321274	Longitude: -78.5101089	Speed: 0	Device ID: bCD
+Time end: 8/17/2021 4:12:16 PM		Latitude: 38.0321274	Longitude: -78.5101089	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/19/2021 12:49:47 PM	Latitude: 38.038789266114286	Longitude: -78.51715204745715	Speed: 18.167715	Device ID: bCD
+Time end: 8/19/2021 12:49:47 PM		Latitude: 38.0388002204	Longitude: -78.51716316459999	Speed: 18.082	Device ID: bCD
+-
+Event 129:
+Time start: 8/21/2021 9:36:32 AM	Latitude: 38.0364532	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 8/21/2021 9:36:33 AM		Latitude: 38.0364532	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/29/2021 4:06:28 PM	Latitude: 38.0364304	Longitude: -78.5160446	Speed: 0	Device ID: bCD
+Time end: 8/29/2021 4:06:29 PM		Latitude: 38.0364304	Longitude: -78.5160446	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/31/2021 9:13:43 AM	Latitude: 38.0545807	Longitude: -78.50781649639269	Speed: 0	Device ID: bCD
+Time end: 8/31/2021 9:13:44 AM		Latitude: 38.0545807	Longitude: -78.50781650548996	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 8/31/2021 9:20:14 AM	Latitude: 38.053093	Longitude: -78.50870453415979	Speed: 0	Device ID: bCD
+Time end: 8/31/2021 9:20:15 AM		Latitude: 38.053093	Longitude: -78.50870454368489	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/3/2021 1:10:06 AM	Latitude: 38.0364304	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 9/3/2021 1:10:08 AM		Latitude: 38.0364304	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/5/2021 9:43:33 AM	Latitude: 38.0364037	Longitude: -78.5160217	Speed: 0	Device ID: bCD
+Time end: 9/5/2021 9:43:34 AM		Latitude: 38.0364037	Longitude: -78.5160217	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/8/2021 5:11:11 PM	Latitude: 38.0342026	Longitude: -78.5035553	Speed: 0	Device ID: bCD
+Time end: 9/8/2021 5:11:11 PM		Latitude: 38.0342026	Longitude: -78.5035553	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/14/2021 10:23:56 AM	Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+Time end: 9/14/2021 10:23:57 AM		Latitude: 38.0532227	Longitude: -78.5141525	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/14/2021 11:40:12 AM	Latitude: 38.051530677475	Longitude: -78.504792849075	Speed: 12.07575	Device ID: bCD
+Time end: 9/14/2021 11:40:12 AM		Latitude: 38.051530477225	Longitude: -78.504793764825	Speed: 12.08325	Device ID: bCD
+-
+Event 129:
+Time start: 9/14/2021 11:50:08 AM	Latitude: 38.0362511	Longitude: -78.5161743	Speed: 0	Device ID: bCD
+Time end: 9/14/2021 11:50:09 AM		Latitude: 38.0362511	Longitude: -78.5161743	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/14/2021 4:17:14 PM	Latitude: 38.0364037	Longitude: -78.5160446	Speed: 0	Device ID: bCD
+Time end: 9/14/2021 4:17:15 PM		Latitude: 38.0364037	Longitude: -78.5160446	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/16/2021 10:00:43 AM	Latitude: 38.0364037	Longitude: -78.516304	Speed: 0	Device ID: bCD
+Time end: 9/16/2021 10:00:43 AM		Latitude: 38.0364037	Longitude: -78.516304	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/20/2021 4:06:15 PM	Latitude: 38.0341492	Longitude: -78.5035248	Speed: 0	Device ID: bCD
+Time end: 9/20/2021 4:06:16 PM		Latitude: 38.0341492	Longitude: -78.5035248	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/21/2021 6:28:56 PM	Latitude: 38.036953573699996	Longitude: -78.514578843775	Speed: 25.87775	Device ID: bCD
+Time end: 9/21/2021 6:28:57 PM		Latitude: 38.0368864787	Longitude: -78.51454479752499	Speed: 21.41525	Device ID: bCD
+-
+Event 129:
+Time start: 9/22/2021 6:05:48 PM	Latitude: 38.0359955	Longitude: -78.5192947	Speed: 0	Device ID: bCD
+Time end: 9/22/2021 6:05:49 PM		Latitude: 38.0359955	Longitude: -78.5192947	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/28/2021 6:26:22 PM	Latitude: 38.03640522669691	Longitude: -78.515892	Speed: 0	Device ID: bCD
+Time end: 9/28/2021 6:26:23 PM		Latitude: 38.03640523790346	Longitude: -78.515892	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/29/2021 1:41:58 PM	Latitude: 38.0235252	Longitude: -78.5339311234669	Speed: 0	Device ID: bCD
+Time end: 9/29/2021 1:42:00 PM		Latitude: 38.0235252	Longitude: -78.53393106826482	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 9/30/2021 4:08:31 PM	Latitude: 38.0369155392	Longitude: -78.51454924474	Speed: 23.7316	Device ID: bCD
+Time point 2: 9/30/2021 4:08:32 PM	Latitude: 38.0368881	Longitude: -78.514534	Speed: 22	Device ID: bCD
+Time end: 9/30/2021 4:08:32 PM		Latitude: 38.036879172	Longitude: -78.514540867	Speed: 21.55	Device ID: bCD
+-
+Event 129:
+Time start: 10/4/2021 8:02:12 AM	Latitude: 38.0361481	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+Time end: 10/4/2021 8:02:13 AM		Latitude: 38.0361481	Longitude: -78.5162277	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/5/2021 1:23:02 AM	Latitude: 38.0364532	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 10/5/2021 1:23:04 AM		Latitude: 38.0364532	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/5/2021 9:23:03 AM	Latitude: 38.0364532	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 10/5/2021 9:23:04 AM		Latitude: 38.0364532	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/5/2021 12:08:15 PM	Latitude: 38.0341492	Longitude: -78.5035248	Speed: 0	Device ID: bCD
+Time end: 10/5/2021 12:08:16 PM		Latitude: 38.0341492	Longitude: -78.5035248	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/5/2021 7:53:48 PM	Latitude: 38.03690563115	Longitude: -78.51456523105	Speed: 18.8645	Device ID: bCD
+Time end: 10/5/2021 7:53:48 PM		Latitude: 38.03689407215	Longitude: -78.51455973805	Speed: 18.2945	Device ID: bCD
+-
+Event 129:
+Time start: 10/6/2021 8:04:46 PM	Latitude: 38.036274	Longitude: -78.5158691	Speed: 0	Device ID: bCD
+Time end: 10/6/2021 8:04:47 PM		Latitude: 38.036274	Longitude: -78.5158691	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/10/2021 12:32:28 PM	Latitude: 38.0365067	Longitude: -78.5159683	Speed: 0	Device ID: bCD
+Time end: 10/10/2021 12:32:29 PM		Latitude: 38.0365067	Longitude: -78.5159683	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/11/2021 4:26:11 PM	Latitude: 38.0346375	Longitude: -78.5034256	Speed: 0	Device ID: bCD
+Time end: 10/11/2021 4:26:12 PM		Latitude: 38.0346375	Longitude: -78.5034256	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/12/2021 10:09:21 AM	Latitude: 38.0364532	Longitude: -78.516098	Speed: 0	Device ID: bCD
+Time end: 10/12/2021 10:09:21 AM		Latitude: 38.0364532	Longitude: -78.516098	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/21/2021 12:58:04 AM	Latitude: 38.0364799	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+Time end: 10/21/2021 12:58:05 AM		Latitude: 38.0364799	Longitude: -78.5161438	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/31/2021 1:52:47 AM	Latitude: 38.0364304	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+Time end: 10/31/2021 1:52:48 AM		Latitude: 38.0364304	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 10/31/2021 7:22:48 AM	Latitude: 38.0364304	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+Time end: 10/31/2021 7:22:48 AM		Latitude: 38.0364304	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 11/1/2021 6:51:09 PM	Latitude: 38.0364304	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+Time end: 11/1/2021 6:51:10 PM		Latitude: 38.0364304	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 11/8/2021 5:13:46 PM	Latitude: 38.0364037	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+Time end: 11/8/2021 5:13:48 PM		Latitude: 38.0364037	Longitude: -78.5160675	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 11/17/2021 7:14:01 PM	Latitude: 38.036377	Longitude: -78.5161209	Speed: 0	Device ID: bCD
+Time end: 11/17/2021 7:14:02 PM		Latitude: 38.036377	Longitude: -78.5161209	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 11/22/2021 5:21:55 AM	Latitude: 38.0364304	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 11/22/2021 5:21:56 AM		Latitude: 38.0364304	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 11/24/2021 10:29:40 PM	Latitude: 38.0364304	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+Time end: 11/24/2021 10:29:41 PM		Latitude: 38.0364304	Longitude: -78.5159912	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 12/4/2021 4:49:14 PM	Latitude: 38.0364532	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+Time end: 12/4/2021 4:49:15 PM		Latitude: 38.0364532	Longitude: -78.5159149	Speed: 0	Device ID: bCD
+-
+Event 129:
+Time start: 12/7/2021 7:30:48 AM	Latitude: 38.0364532	Longitude: -78.5159683	Speed: 0	Device ID: bCD
+Time end: 12/7/2021 7:30:49 AM		Latitude: 38.0364532	Longitude: -78.5159683	Speed: 0	Device ID: bCD
+-

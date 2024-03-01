@@ -1,0 +1,30 @@
+Vehicle: V0935
+Time start: 6/24/2021 4:02:52 PM	Latitude: 38.023732721	Longitude: -78.434313899	Speed: 54.97	Device ID: b149
+Time point 2: 6/24/2021 4:02:53 PM	Latitude: 38.0237579	Longitude: -78.4343567	Speed: 52	Device ID: b149
+-
+Time end: 6/24/2021 4:02:53 PM		Latitude: 38.02376526295	Longitude: -78.43436921605	Speed: 47.947	Device ID: b149
+-
+Vehicle: V0935
+Time start: 7/20/2021 5:30:52 PM	Latitude: 38.0567256376	Longitude: -78.4960278624	Speed: 51.421	Device ID: b149
+Time point 2: 7/20/2021 5:30:53 PM	Latitude: 38.0567055	Longitude: -78.496048	Speed: 50	Device ID: b149
+Time end: 7/20/2021 5:30:53 PM		Latitude: 38.0566971055	Longitude: -78.49605421845	Speed: 46.74	Device ID: b149
+-
+Vehicle: V0935
+Time start: 5/26/2022 1:39:12 PM	Latitude: 38.0463868793	Longitude: -78.521393315	Speed: 57	Device ID: b149
+Time point 2: 5/26/2022 1:39:13 PM	Latitude: 38.0463867	Longitude: -78.5213928	Speed: 57	Device ID: b149
+Time end: 5/26/2022 1:39:13 PM		Latitude: 38.04637422495	Longitude: -78.52135164705	Speed: 54.057	Device ID: b149
+-
+Vehicle: V0935
+Time start: 11/4/2022 12:23:46 PM	Latitude: 38.02609066836666	Longitude: -78.4780419494	Speed: 21.044333	Device ID: b149
+Time end: 11/4/2022 12:23:47 PM		Latitude: 38.026085988633334	Longitude: -78.4780452246	Speed: 19.265667	Device ID: b149
+-
+Vehicle: V0935
+Time start: 3/23/2023 8:40:51 PM	Latitude: 37.36599912305	Longitude: -78.845900085925	Speed: 23.44425	Device ID: b149
+Time end: 3/23/2023 8:40:51 PM		Latitude: 37.36599568955	Longitude: -78.845900601175	Speed: 23.64675	Device ID: b149
+-
+Vehicle: V0935
+Time start: 8/17/2023 1:30:22 PM	Latitude: 38.0511246	Longitude: -78.555091158	Speed: 72.242	Device ID: b149
+Time point 2: 8/17/2023 1:30:23 PM	Latitude: 38.0511246	Longitude: -78.5552368	Speed: 68	Device ID: b149
+Time point 3: 8/17/2023 1:30:25 PM	Latitude: 38.0511475	Longitude: -78.5554199	Speed: 15	Device ID: b149
+Time end: 8/17/2023 1:30:25 PM		Latitude: 38.0511475	Longitude: -78.55543974	Speed: 12	Device ID: b149
+-

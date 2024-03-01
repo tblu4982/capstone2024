@@ -1,0 +1,50 @@
+Vehicle: V0799
+Time start: 11/5/2020 8:02:06 PM	Latitude: 38.033098956349995	Longitude: -78.5000206127	Speed: 0.085666664	Device ID: b9A
+Time end: 11/5/2020 8:02:06 PM		Latitude: 38.03309904535	Longitude: -78.5000207907	Speed: 0.079	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 6/1/2021 6:16:58 PM	Latitude: 38.03670883971881	Longitude: -78.51757806593405	Speed: 0	Device ID: b9A
+Time end: 6/1/2021 6:16:59 PM		Latitude: 38.03670883979962	Longitude: -78.51757806586474	Speed: 0	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 1/3/2022 2:22:59 PM	Latitude: 38.03486985261831	Longitude: -78.51679180523662	Speed: 0	Device ID: b9A
+Time end: 1/3/2022 2:23:00 PM		Latitude: 38.034869856802906	Longitude: -78.51679181360582	Speed: 0	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 3/3/2022 4:38:25 PM	Latitude: 38.03566435104118	Longitude: -78.5165787	Speed: 0.829549	Device ID: b9A
+Time end: 3/3/2022 4:38:33 PM		Latitude: 38.03565992198235	Longitude: -78.5165787	Speed: 0.99543136	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 3/3/2022 4:38:37 PM	Latitude: 38.0356598	Longitude: -78.5165787	Speed: 1.3815	Device ID: b9A
+Time end: 3/3/2022 4:38:38 PM		Latitude: 38.0356598	Longitude: -78.5165787	Speed: 1.8035	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 3/3/2022 4:38:38 PM	Latitude: 38.0356598	Longitude: -78.5165787	Speed: 1.835	Device ID: b9A
+Time end: 3/3/2022 4:38:38 PM		Latitude: 38.0356598	Longitude: -78.5165787	Speed: 1.9585	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 3/3/2022 4:38:38 PM	Latitude: 38.0356598	Longitude: -78.5165787	Speed: 1.965	Device ID: b9A
+Time point 2: 3/3/2022 4:38:39 PM	Latitude: 38.0356598	Longitude: -78.5165787	Speed: 2	Device ID: b9A
+Time end: 3/3/2022 4:38:39 PM		Latitude: 38.0356598	Longitude: -78.5165787	Speed: 0.486	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 3/3/2022 4:38:39 PM	Latitude: 38.0356598	Longitude: -78.5165787	Speed: 0.46	Device ID: b9A
+Time end: 3/3/2022 4:38:39 PM		Latitude: 38.0356598	Longitude: -78.5165787	Speed: 0.266	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 3/3/2022 4:38:39 PM	Latitude: 38.0356598	Longitude: -78.5165787	Speed: 0.174	Device ID: b9A
+Time point 2: 3/3/2022 4:38:40 PM	Latitude: 38.0356598	Longitude: -78.5165787	Speed: 0	Device ID: b9A
+Time end: 3/3/2022 4:38:42 PM		Latitude: 38.03566355365892	Longitude: -78.51658298788753	Speed: 0	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 7/21/2022 12:41:41 PM	Latitude: 38.03913909744545	Longitude: -78.50574671428183	Speed: 1.2623637	Device ID: b9A
+Time end: 7/21/2022 12:41:41 PM		Latitude: 38.03913912171818	Longitude: -78.50574659637273	Speed: 1.2605455	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 10/24/2022 12:59:44 PM	Latitude: 38.041930947025	Longitude: -78.510025	Speed: 10.826	Device ID: b9A
+Time end: 10/24/2022 12:59:44 PM		Latitude: 38.041931061475005	Longitude: -78.510025	Speed: 10.814	Device ID: b9A
+-
+Vehicle: V0799
+Time start: 1/8/2024 4:31:51 PM	Latitude: 38.026045622032306	Longitude: -78.53134780332475	Speed: 35.120815	Device ID: b9A
+Time end: 1/8/2024 4:31:52 PM		Latitude: 38.02604606327948	Longitude: -78.53134639445875	Speed: 35.131977	Device ID: b9A
+-

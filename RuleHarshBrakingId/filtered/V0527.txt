@@ -1,0 +1,73 @@
+Vehicle: V0527
+Time start: 8/1/2019 2:50:23 PM	Latitude: 38.0400887	Longitude: -78.5045013	Speed: 4.371	Device ID: b92
+Time end: 8/1/2019 2:50:23 PM		Latitude: 38.0400887	Longitude: -78.5045013	Speed: 3.681	Device ID: b92
+-
+Vehicle: V0527
+Time start: 1/13/2021 9:42:45 PM	Latitude: 38.0857849	Longitude: -78.4746246	Speed: 3.353	Device ID: b92
+Time end: 1/13/2021 9:42:45 PM		Latitude: 38.0857849	Longitude: -78.4746246	Speed: 3.407	Device ID: b92
+-
+Vehicle: V0527
+Time start: 2/9/2021 7:56:02 PM	Latitude: 38.04321393505	Longitude: -78.5125482592	Speed: 26.0935	Device ID: b92
+Time end: 2/9/2021 7:56:02 PM		Latitude: 38.0432155755	Longitude: -78.512550392	Speed: 25.685	Device ID: b92
+-
+Vehicle: V0527
+Time start: 5/21/2021 12:54:04 PM	Latitude: 38.0401649	Longitude: -78.5043945	Speed: 23.049	Device ID: b92
+Time end: 5/21/2021 12:54:04 PM		Latitude: 38.0401649	Longitude: -78.5043945	Speed: 16.77	Device ID: b92
+-
+Vehicle: V0527
+Time start: 7/30/2021 3:31:02 PM	Latitude: 38.03415089398333	Longitude: -78.50585207530001	Speed: 3.5663333	Device ID: b92
+Time end: 7/30/2021 3:31:02 PM		Latitude: 38.03415080433333	Longitude: -78.505852102	Speed: 3.5533333	Device ID: b92
+-
+Vehicle: V0527
+Time start: 9/8/2021 12:51:21 PM	Latitude: 38.0401917	Longitude: -78.5044479	Speed: 1.3466667	Device ID: b92
+Time end: 9/8/2021 12:51:21 PM		Latitude: 38.0401917	Longitude: -78.5044479	Speed: 1.3446667	Device ID: b92
+-
+Vehicle: V0527
+Time start: 10/4/2021 3:54:18 PM	Latitude: 38.04632449966667	Longitude: -78.50951919933333	Speed: 25.266	Device ID: b92
+Time end: 10/4/2021 3:54:18 PM		Latitude: 38.046332877000005	Longitude: -78.509535954	Speed: 25.754	Device ID: b92
+-
+Vehicle: V0527
+Time start: 10/11/2021 1:56:41 PM	Latitude: 38.0336914	Longitude: -78.5075915842	Speed: 18.219	Device ID: b92
+Time end: 10/11/2021 1:56:41 PM		Latitude: 38.0336914	Longitude: -78.50757129220001	Speed: 13.279	Device ID: b92
+-
+Vehicle: V0527
+Time start: 1/17/2022 5:05:19 PM	Latitude: 38.03243294366667	Longitude: -78.5034364494	Speed: 18.163666	Device ID: b92
+Time end: 1/17/2022 5:05:19 PM		Latitude: 38.03241337366667	Longitude: -78.5034465954	Speed: 21.393667	Device ID: b92
+-
+Vehicle: V0527
+Time start: 4/5/2022 4:04:00 PM	Latitude: 38.0400998298	Longitude: -78.5045139866	Speed: 8.31	Device ID: b92
+Time end: 4/5/2022 4:04:00 PM		Latitude: 38.0401036448	Longitude: -78.5045128416	Speed: 7.56	Device ID: b92
+-
+Vehicle: V0527
+Time start: 9/16/2022 3:50:35 PM	Latitude: 38.0402184	Longitude: -78.5044479	Speed: 6.948	Device ID: b92
+Time end: 9/16/2022 3:50:35 PM		Latitude: 38.0402184	Longitude: -78.5044479	Speed: 6.88	Device ID: b92
+-
+Vehicle: V0527
+Time start: 4/10/2023 1:46:42 PM	Latitude: 38.087345419533335	Longitude: -78.47071230466668	Speed: 41.913666	Device ID: b92
+Time point 2: 4/10/2023 1:46:43 PM	Latitude: 38.0873489	Longitude: -78.4707108	Speed: 42	Device ID: b92
+Time end: 4/10/2023 1:46:43 PM		Latitude: 38.08735129066667	Longitude: -78.47070907066667	Speed: 41.6	Device ID: b92
+-
+Vehicle: V0527
+Time start: 5/2/2023 2:44:40 PM	Latitude: 38.04008466451666	Longitude: -78.50446892906666	Speed: 7.314	Device ID: b92
+Time end: 5/2/2023 2:44:40 PM		Latitude: 38.04008561565	Longitude: -78.5044682016	Speed: 7.226	Device ID: b92
+-
+Vehicle: V0527
+Time start: 5/23/2023 7:23:31 PM	Latitude: 38.0387928784	Longitude: -78.50562835950001	Speed: 19.704	Device ID: b92
+Time end: 5/23/2023 7:23:31 PM		Latitude: 38.03879519306667	Longitude: -78.50562978283334	Speed: 18.584	Device ID: b92
+-
+Vehicle: V0527
+Time start: 6/23/2023 12:10:53 PM	Latitude: 38.0859167755	Longitude: -78.4743630245	Speed: 16.67	Device ID: b92
+Time end: 6/23/2023 12:10:53 PM		Latitude: 38.08591731365	Longitude: -78.47436248634999	Speed: 16.341	Device ID: b92
+-
+Vehicle: V0527
+Time start: 9/5/2023 7:21:08 PM	Latitude: 38.040106144	Longitude: -78.50449133666667	Speed: 11.753333	Device ID: b92
+Time end: 9/5/2023 7:21:09 PM		Latitude: 38.0401065	Longitude: -78.50449113333333	Speed: 11.666667	Device ID: b92
+-
+Vehicle: V0527
+Time start: 9/11/2023 3:53:09 PM	Latitude: 38.0329475	Longitude: -78.5058594	Speed: 8.239	Device ID: b92
+Time end: 9/11/2023 3:53:09 PM		Latitude: 38.0329475	Longitude: -78.5058594	Speed: 8.12	Device ID: b92
+-
+Vehicle: V0527
+Time start: 12/20/2023 5:49:27 PM	Latitude: 38.0348434	Longitude: -78.50441466558333	Speed: 0.33883333	Device ID: b92
+Time end: 12/20/2023 5:49:27 PM		Latitude: 38.0348434	Longitude: -78.50441481808333	Speed: 0.33383334	Device ID: b92
+-

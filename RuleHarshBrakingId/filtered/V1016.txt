@@ -1,0 +1,13 @@
+Vehicle: V1016
+Time start: 3/23/2023 3:12:47 PM	Latitude: 37.7329903	Longitude: -78.8948212	Speed: 85.7795	Device ID: b233
+Time end: 3/23/2023 3:12:48 PM		Latitude: 37.7329903	Longitude: -78.8948212	Speed: 73.7345	Device ID: b233
+-
+Vehicle: V1016
+Time start: 3/24/2023 11:42:38 AM	Latitude: 38.057015486666664	Longitude: -78.49543710133332	Speed: 46.48	Device ID: b233
+Time end: 3/24/2023 11:42:38 AM		Latitude: 38.057041579999996	Longitude: -78.495417772	Speed: 41.92	Device ID: b233
+-
+Vehicle: V1016
+Time start: 4/10/2023 5:10:25 PM	Latitude: 38.0363007	Longitude: -78.5157852	Speed: 33.96	Device ID: b233
+Time point 2: 4/10/2023 5:10:26 PM	Latitude: 38.0363007	Longitude: -78.5157852	Speed: 33	Device ID: b233
+Time end: 4/10/2023 5:10:26 PM		Latitude: 38.0363007	Longitude: -78.5157852	Speed: 28.755	Device ID: b233
+-

@@ -1,0 +1,120 @@
+Vehicle: V0876
+Time start: 9/24/2019 6:33:29 PM	Latitude: 38.0280018892875	Longitude: -78.516379946225	Speed: 76.50975	Device ID: b9F
+Time point 2: 9/24/2019 6:33:30 PM	Latitude: 38.0280075	Longitude: -78.5163803	Speed: 77	Device ID: b9F
+-
+Time end: 9/24/2019 6:33:31 PM		Latitude: 38.02810204726	Longitude: -78.5163736693	Speed: 60.2602	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 12/3/2019 6:34:55 PM	Latitude: 38.027980365000005	Longitude: -78.51642765550001	Speed: 68.481	Device ID: b9F
+Time end: 12/3/2019 6:34:56 PM		Latitude: 38.02804385714286	Longitude: -78.5164314157143	Speed: 59.974285	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 12/19/2019 8:20:38 PM	Latitude: 38.04274950695	Longitude: -78.511324201425	Speed: 17.906	Device ID: b9F
+Time end: 12/19/2019 8:20:38 PM		Latitude: 38.0427417625	Longitude: -78.51133349375	Speed: 17.5	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 1/24/2020 7:17:15 PM	Latitude: 38.031399991257146	Longitude: -78.5183019281	Speed: 66.17557	Device ID: b9F
+Time point 2: 1/24/2020 7:17:16 PM	Latitude: 38.0314369	Longitude: -78.5182724	Speed: 68	Device ID: b9F
+Time end: 1/24/2020 7:17:16 PM		Latitude: 38.03147459518333	Longitude: -78.51825224633333	Speed: 61.8365	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/4/2020 4:32:36 PM	Latitude: 38.047311274	Longitude: -78.507060404	Speed: 26.32	Device ID: b9F
+Time end: 2/4/2020 4:32:36 PM		Latitude: 38.047319289	Longitude: -78.507079094	Speed: 16.52	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 3/24/2021 1:21:58 PM	Latitude: 38.0242095575	Longitude: -78.4788055785	Speed: 25.16	Device ID: b9F
+Time end: 3/24/2021 1:21:58 PM		Latitude: 38.0242151735	Longitude: -78.47881949529999	Speed: 25.928	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 6/10/2021 1:02:41 PM	Latitude: 38.039969490720004	Longitude: -78.5070998396	Speed: 30.9542	Device ID: b9F
+Time end: 6/10/2021 1:02:41 PM		Latitude: 38.039968042400005	Longitude: -78.507096832	Speed: 30.414	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 10/15/2021 1:53:29 PM	Latitude: 38.0338173	Longitude: -78.45306056733334	Speed: 32.418667	Device ID: b9F
+Time end: 10/15/2021 1:53:30 PM		Latitude: 38.0338173	Longitude: -78.45309902066667	Speed: 26.445333	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 1/24/2022 12:10:59 PM	Latitude: 38.0361481	Longitude: -78.5160217	Speed: 5.252	Device ID: b9F
+Time end: 1/24/2022 12:10:59 PM		Latitude: 38.0361481	Longitude: -78.5160217	Speed: 4.88	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/4/2022 1:49:48 PM	Latitude: 38.035736121275	Longitude: -78.514122	Speed: 15.9815	Device ID: b9F
+Time point 2: 2/4/2022 1:49:50 PM	Latitude: 38.0356865	Longitude: -78.514122	Speed: 11	Device ID: b9F
+Time end: 2/4/2022 1:49:52 PM		Latitude: 38.03550797375	Longitude: -78.51412693882143	Speed: 16.991358	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/4/2022 2:07:45 PM	Latitude: 38.0319214	Longitude: -78.5115128	Speed: 2.433	Device ID: b9F
+Time point 2: 2/4/2022 2:07:46 PM	Latitude: 38.0319214	Longitude: -78.5115128	Speed: 3	Device ID: b9F
+Time end: 2/4/2022 2:07:49 PM		Latitude: 38.0319558964	Longitude: -78.5115965862	Speed: 11.398	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/8/2022 9:38:31 PM	Latitude: 38.0361481	Longitude: -78.516098	Speed: 0	Device ID: b9F
+Time point 2: 2/8/2022 9:38:34 PM	Latitude: 38.0361481	Longitude: -78.516098	Speed: 0	Device ID: b9F
+Time end: 2/8/2022 9:38:34 PM		Latitude: 38.0361481	Longitude: -78.51609792435039	Speed: 0	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/11/2022 1:51:51 PM	Latitude: 38.035759526999996	Longitude: -78.5140991	Speed: 21.979	Device ID: b9F
+Time end: 2/11/2022 1:51:52 PM		Latitude: 38.03575104666667	Longitude: -78.5140991	Speed: 19.426666	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/16/2022 12:50:56 PM	Latitude: 38.03618875608182	Longitude: -78.5157616498	Speed: 4.397091	Device ID: b9F
+Time end: 2/16/2022 12:50:57 PM		Latitude: 38.03619185709091	Longitude: -78.515753076	Speed: 4.0145454	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/24/2022 7:25:32 PM	Latitude: 38.036319563549995	Longitude: -78.5173264	Speed: 9.1845	Device ID: b9F
+Time end: 2/24/2022 7:25:33 PM		Latitude: 38.036313248999996	Longitude: -78.5173264	Speed: 6.11	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 8/5/2022 12:32:02 PM	Latitude: 38.03452375366667	Longitude: -78.5170975	Speed: 10.791333	Device ID: b9F
+Time point 2: 8/5/2022 12:32:03 PM	Latitude: 38.0345345	Longitude: -78.5170975	Speed: 11	Device ID: b9F
+Time end: 8/5/2022 12:32:03 PM		Latitude: 38.0345345	Longitude: -78.5170975	Speed: 10.9835	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 9/29/2022 1:53:33 PM	Latitude: 38.028963567599995	Longitude: -78.5164554565	Speed: 5.754	Device ID: b9F
+Time end: 9/29/2022 1:53:33 PM		Latitude: 38.02895500204	Longitude: -78.51645891385	Speed: 4.9266	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 10/4/2022 9:48:14 AM	Latitude: 38.03677155456	Longitude: -78.51485362034	Speed: 38.9472	Device ID: b9F
+Time end: 10/4/2022 9:48:15 AM		Latitude: 38.03677212	Longitude: -78.51484988	Speed: 38.4	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 10/6/2022 3:15:55 PM	Latitude: 38.03370643385	Longitude: -78.50759005195	Speed: 21.939	Device ID: b9F
+Time point 2: 10/6/2022 3:15:56 PM	Latitude: 38.0337143	Longitude: -78.5075455	Speed: 24	Device ID: b9F
+Time end: 10/6/2022 3:15:56 PM		Latitude: 38.0337154481	Longitude: -78.50754451530001	Speed: 23.14	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 1/13/2023 1:58:25 PM	Latitude: 38.03513761295	Longitude: -78.515053669	Speed: 33.823	Device ID: b9F
+Time end: 1/13/2023 1:58:25 PM		Latitude: 38.0351412575	Longitude: -78.51502555	Speed: 33.55	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 1/20/2023 3:56:42 PM	Latitude: 38.032567844700004	Longitude: -78.50694683228333	Speed: 16.415333	Device ID: b9F
+Time end: 1/20/2023 3:56:42 PM		Latitude: 38.032566331700004	Longitude: -78.50695612845	Speed: 16.302	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 1/20/2023 3:59:15 PM	Latitude: 38.0345872663	Longitude: -78.5123955652	Speed: 21.064	Device ID: b9F
+Time end: 1/20/2023 3:59:15 PM		Latitude: 38.034589785	Longitude: -78.51240564	Speed: 18.8	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 2/7/2023 12:01:52 PM	Latitude: 38.03669562293334	Longitude: -78.51478186806668	Speed: 33.31333	Device ID: b9F
+Time end: 2/7/2023 12:01:52 PM		Latitude: 38.0366968464	Longitude: -78.51477302260001	Speed: 32.82	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 3/28/2023 10:29:26 AM	Latitude: 38.0361481	Longitude: -78.5160675	Speed: 32.382	Device ID: b9F
+Time end: 3/28/2023 10:29:27 AM		Latitude: 38.0361481	Longitude: -78.5160675	Speed: 24.598	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 4/14/2023 2:24:33 PM	Latitude: 38.00494875475	Longitude: -78.48018131789999	Speed: 61.066	Device ID: b9F
+Time end: 4/14/2023 2:24:34 PM		Latitude: 38.004968667499995	Longitude: -78.480170407	Speed: 60.78	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 5/24/2023 11:03:30 AM	Latitude: 38.029196174666666	Longitude: -78.51360158666667	Speed: 46.866665	Device ID: b9F
+Time end: 5/24/2023 11:03:30 AM		Latitude: 38.02917352346667	Longitude: -78.51363405866667	Speed: 44.886665	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 6/7/2023 10:47:57 AM	Latitude: 38.03678138662	Longitude: -78.51465324164	Speed: 6.1908	Device ID: b9F
+Time end: 6/7/2023 10:47:57 AM		Latitude: 38.036781424	Longitude: -78.514653028	Speed: 6.16	Device ID: b9F
+-
+Vehicle: V0876
+Time start: 10/13/2023 5:44:16 PM	Latitude: 38.045071856725	Longitude: -78.506675039125	Speed: 30.30125	Device ID: b9F
+Time end: 10/13/2023 5:44:16 PM		Latitude: 38.045065829025	Longitude: -78.50666117462501	Speed: 27.53625	Device ID: b9F
+-

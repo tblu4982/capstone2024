@@ -1,0 +1,444 @@
+Event 254:
+Time start: 7/29/2020 7:10:43 PM	Latitude: 38.032950403625	Longitude: -78.505874002375	Speed: 0.435	Device ID: b103
+Time end: 7/29/2020 7:10:43 PM		Latitude: 38.032950136625	Longitude: -78.505874765375	Speed: 0.395	Device ID: b103
+-
+Event 254:
+Time start: 8/31/2020 3:58:38 PM	Latitude: 38.0310516	Longitude: -78.518689896	Speed: 3.8	Device ID: b103
+Time end: 8/31/2020 3:58:38 PM		Latitude: 38.0310516	Longitude: -78.51868981585	Speed: 3.8175	Device ID: b103
+-
+Event 254:
+Time start: 8/31/2020 6:01:50 PM	Latitude: 38.028573488000006	Longitude: -78.520191948	Speed: 10.56	Device ID: b103
+Time point 2: 8/31/2020 6:01:51 PM	Latitude: 38.0285683	Longitude: -78.520195	Speed: 10	Device ID: b103
+Time end: 8/31/2020 6:01:51 PM		Latitude: 38.02855919156001	Longitude: -78.52019558166	Speed: 10.9144	Device ID: b103
+-
+Event 254:
+Time start: 8/31/2020 6:01:51 PM	Latitude: 38.02851902836	Longitude: -78.52019814646	Speed: 14.9464	Device ID: b103
+Time end: 8/31/2020 6:01:51 PM		Latitude: 38.02851214324	Longitude: -78.52019858614	Speed: 15.6376	Device ID: b103
+-
+Event 254:
+Time start: 8/31/2020 6:01:52 PM	Latitude: 38.02845161156	Longitude: -78.52020245166	Speed: 21.7144	Device ID: b103
+Time end: 8/31/2020 6:01:52 PM		Latitude: 38.02843368156	Longitude: -78.52020359666	Speed: 23.5144	Device ID: b103
+-
+Event 254:
+Time start: 9/3/2020 6:40:21 PM	Latitude: 38.03488868622	Longitude: -78.51691907502	Speed: 11.9342	Device ID: b103
+Time end: 9/3/2020 6:40:21 PM		Latitude: 38.034888789979995	Longitude: -78.51691884918	Speed: 11.9478	Device ID: b103
+-
+Event 254:
+Time start: 9/14/2020 7:23:03 PM	Latitude: 38.031597910500004	Longitude: -78.5077442865	Speed: 3.52	Device ID: b103
+Time end: 9/14/2020 7:23:03 PM		Latitude: 38.03160094095	Longitude: -78.50774168734999	Speed: 4.428	Device ID: b103
+-
+Event 254:
+Time start: 9/28/2020 3:19:49 PM	Latitude: 38.032233090025	Longitude: -78.50146165267499	Speed: 11.8135	Device ID: b103
+Time end: 9/28/2020 3:19:49 PM		Latitude: 38.032232956525	Longitude: -78.501462568175	Speed: 11.7235	Device ID: b103
+-
+Event 254:
+Time start: 10/1/2020 11:00:16 AM	Latitude: 38.0395012	Longitude: -78.506335829	Speed: 13.095	Device ID: b103
+Time end: 10/1/2020 11:00:17 AM		Latitude: 38.0395012	Longitude: -78.506332019	Speed: 13.545	Device ID: b103
+-
+Event 254:
+Time start: 10/8/2020 1:34:02 PM	Latitude: 38.02656892153846	Longitude: -78.52428083223076	Speed: 12.038462	Device ID: b103
+Time end: 10/8/2020 1:34:02 PM		Latitude: 38.02656998323077	Longitude: -78.52428928608461	Speed: 11.780769	Device ID: b103
+-
+Event 254:
+Time start: 11/4/2020 4:24:32 PM	Latitude: 38.0322571	Longitude: -78.50104482891666	Speed: 0	Device ID: b103
+Time point 2: 11/4/2020 4:24:33 PM	Latitude: 38.0322571	Longitude: -78.5010452	Speed: 0	Device ID: b103
+Time end: 11/4/2020 4:24:33 PM		Latitude: 38.032258935200005	Longitude: -78.50104322419999	Speed: 0.37	Device ID: b103
+-
+Event 254:
+Time start: 11/12/2020 3:24:02 PM	Latitude: 38.0511345922	Longitude: -78.5006104	Speed: 12.303	Device ID: b103
+Time end: 11/12/2020 3:24:02 PM		Latitude: 38.0511399598	Longitude: -78.5006104	Speed: 12.177	Device ID: b103
+-
+Event 254:
+Time start: 2/12/2021 3:50:15 PM	Latitude: 38.04106954707143	Longitude: -78.50212781892857	Speed: 12.670714	Device ID: b103
+Time end: 2/12/2021 3:50:15 PM		Latitude: 38.04106477278572	Longitude: -78.50213043321429	Speed: 12.927857	Device ID: b103
+-
+Event 254:
+Time start: 3/4/2021 8:15:04 PM	Latitude: 38.04811685	Longitude: -78.508155395	Speed: 16.1	Device ID: b103
+Time end: 3/4/2021 8:15:04 PM		Latitude: 38.04811460975	Longitude: -78.508158215975	Speed: 16.2305	Device ID: b103
+-
+Event 254:
+Time start: 3/24/2021 5:33:53 PM	Latitude: 38.04786055655	Longitude: -78.50860448479999	Speed: 12.707	Device ID: b103
+Time end: 3/24/2021 5:33:53 PM		Latitude: 38.04788024195	Longitude: -78.5085788912	Speed: 18.383	Device ID: b103
+-
+Event 254:
+Time start: 4/2/2021 1:33:26 PM	Latitude: 38.0340996	Longitude: -78.508873	Speed: 0	Device ID: b103
+Time point 2: 4/2/2021 1:33:27 PM	Latitude: 38.0340996	Longitude: -78.508873	Speed: 0	Device ID: b103
+Time end: 4/2/2021 1:33:27 PM		Latitude: 38.0341155399	Longitude: -78.5088274489	Speed: 9.552	Device ID: b103
+-
+Event 254:
+Time start: 4/2/2021 3:11:48 PM	Latitude: 38.03406790725	Longitude: -78.50888941337499	Speed: 8.11175	Device ID: b103
+Time end: 4/2/2021 3:11:50 PM		Latitude: 38.03411168225	Longitude: -78.50881482587499	Speed: 20.43675	Device ID: b103
+-
+Event 254:
+Time start: 6/23/2021 6:32:25 PM	Latitude: 38.0315895	Longitude: -78.5189896	Speed: 0	Device ID: b103
+Time end: 6/23/2021 6:32:26 PM		Latitude: 38.0315895	Longitude: -78.5189896	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 6/23/2021 6:32:26 PM	Latitude: 38.0315895	Longitude: -78.5189896	Speed: 0	Device ID: b103
+Time end: 6/23/2021 6:32:27 PM		Latitude: 38.0315895	Longitude: -78.5189896	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 6/24/2021 3:10:33 PM	Latitude: 38.0354042	Longitude: -78.5081863	Speed: 0	Device ID: b103
+Time end: 6/24/2021 3:10:37 PM		Latitude: 38.0354042	Longitude: -78.5081863	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 6/24/2021 3:10:38 PM	Latitude: 38.0354042	Longitude: -78.5081863	Speed: 0	Device ID: b103
+Time end: 6/24/2021 3:10:38 PM		Latitude: 38.0354042	Longitude: -78.5081863	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 6/24/2021 6:02:40 PM	Latitude: 38.0365562	Longitude: -78.51575298959746	Speed: 0	Device ID: b103
+Time end: 6/24/2021 6:02:40 PM		Latitude: 38.0365562	Longitude: -78.5157529779534	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 6/25/2021 11:31:16 AM	Latitude: 38.02491	Longitude: -78.5322495	Speed: 0	Device ID: b103
+Time end: 6/25/2021 11:31:16 AM		Latitude: 38.02491	Longitude: -78.5322495	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 6/25/2021 11:58:02 AM	Latitude: 38.0365829	Longitude: -78.4830246	Speed: 0	Device ID: b103
+Time end: 6/25/2021 11:58:03 AM		Latitude: 38.0365829	Longitude: -78.4830246	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 6/25/2021 11:58:04 AM	Latitude: 38.0365829	Longitude: -78.4830246	Speed: 0	Device ID: b103
+Time end: 6/25/2021 11:58:04 AM		Latitude: 38.0365829	Longitude: -78.4830246	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 9/16/2021 4:04:11 PM	Latitude: 38.0285997019875	Longitude: -78.51659918608749	Speed: 6.7255	Device ID: b103
+Time end: 9/16/2021 4:04:11 PM		Latitude: 38.028604508887504	Longitude: -78.5165655377875	Speed: 8.4895	Device ID: b103
+-
+Event 254:
+Time start: 9/20/2021 4:28:53 PM	Latitude: 38.026029191	Longitude: -78.515274162	Speed: 11.58	Device ID: b103
+Time end: 9/20/2021 4:28:53 PM		Latitude: 38.0260239263	Longitude: -78.5152778466	Speed: 11.994	Device ID: b103
+-
+Event 254:
+Time start: 9/20/2021 4:53:37 PM	Latitude: 38.02861525195	Longitude: -78.5166626	Speed: 3.7925	Device ID: b103
+Time end: 9/20/2021 4:53:37 PM		Latitude: 38.028617654950004	Longitude: -78.5166626	Speed: 4.2425	Device ID: b103
+-
+Event 254:
+Time start: 9/21/2021 3:09:35 PM	Latitude: 38.03492496981429	Longitude: -78.51700491338572	Speed: 5.0045714	Device ID: b103
+Time end: 9/21/2021 3:09:35 PM		Latitude: 38.03492522161429	Longitude: -78.51700413518572	Speed: 5.0525713	Device ID: b103
+-
+Event 254:
+Time start: 9/22/2021 2:42:13 PM	Latitude: 38.02870513528125	Longitude: -78.51647673339376	Speed: 6.2284374	Device ID: b103
+Time end: 9/22/2021 2:42:14 PM		Latitude: 38.028701316562504	Longitude: -78.5164766231875	Speed: 6.396875	Device ID: b103
+-
+Event 254:
+Time start: 9/22/2021 7:19:28 PM	Latitude: 38.04793137	Longitude: -78.508711011	Speed: 14.46	Device ID: b103
+Time end: 9/22/2021 7:19:28 PM		Latitude: 38.047929653333334	Longitude: -78.50871062933334	Speed: 14.56	Device ID: b103
+-
+Event 254:
+Time start: 9/23/2021 2:11:31 PM	Latitude: 38.03246131318	Longitude: -78.5009155	Speed: 3.6984	Device ID: b103
+Time end: 9/23/2021 2:11:31 PM		Latitude: 38.0324610088	Longitude: -78.5009155	Speed: 3.744	Device ID: b103
+-
+Event 254:
+Time start: 9/27/2021 2:05:51 PM	Latitude: 38.0350456	Longitude: -78.5156631	Speed: 0	Device ID: b103
+Time end: 9/27/2021 2:05:52 PM		Latitude: 38.0350456	Longitude: -78.5156631	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 9/29/2021 7:53:26 PM	Latitude: 38.0352301597	Longitude: -78.5141269752	Speed: 13.124	Device ID: b103
+Time end: 9/29/2021 7:53:26 PM		Latitude: 38.03523438163334	Longitude: -78.51412148613333	Speed: 12.902667	Device ID: b103
+-
+Event 254:
+Time start: 9/29/2021 7:53:26 PM	Latitude: 38.035249311	Longitude: -78.514102076	Speed: 12.12	Device ID: b103
+Time point 2: 9/29/2021 7:53:27 PM	Latitude: 38.0352516	Longitude: -78.5140991	Speed: 12	Device ID: b103
+Time end: 9/29/2021 7:53:27 PM		Latitude: 38.0352544569	Longitude: -78.5140966497	Speed: 12.856	Device ID: b103
+-
+Event 254:
+Time start: 9/30/2021 1:03:35 PM	Latitude: 38.0424461	Longitude: -78.5113373	Speed: 2.44	Device ID: b103
+Time point 2: 9/30/2021 1:03:36 PM	Latitude: 38.0424461	Longitude: -78.5113373	Speed: 4	Device ID: b103
+Time end: 9/30/2021 1:03:36 PM		Latitude: 38.042447016	Longitude: -78.51134035199999	Speed: 4.56	Device ID: b103
+-
+Event 254:
+Time start: 9/30/2021 1:41:46 PM	Latitude: 38.047597724824996	Longitude: -78.50460773077499	Speed: 3.0035	Device ID: b103
+Time end: 9/30/2021 1:41:46 PM		Latitude: 38.047600375749994	Longitude: -78.50461120025	Speed: 3.485	Device ID: b103
+-
+Event 254:
+Time start: 9/30/2021 2:12:46 PM	Latitude: 38.051918	Longitude: -78.50951492428571	Speed: 5.0742855	Device ID: b103
+Time point 2: 9/30/2021 2:12:47 PM	Latitude: 38.051918	Longitude: -78.5095139	Speed: 5	Device ID: b103
+Time end: 9/30/2021 2:12:47 PM		Latitude: 38.05191662518	Longitude: -78.50951179696	Speed: 5.2226	Device ID: b103
+-
+Event 254:
+Time start: 9/30/2021 2:13:54 PM	Latitude: 38.04818480265715	Longitude: -78.5045348066	Speed: 14.195714	Device ID: b103
+Time end: 9/30/2021 2:13:54 PM		Latitude: 38.04818260734286	Longitude: -78.5045364634	Speed: 14.304286	Device ID: b103
+-
+Event 254:
+Time start: 10/5/2021 1:00:24 PM	Latitude: 38.028780503780006	Longitude: -78.51650160765999	Speed: 6.7612	Device ID: b103
+Time end: 10/5/2021 1:00:24 PM		Latitude: 38.0287775274	Longitude: -78.5165019878	Speed: 6.396	Device ID: b103
+-
+Event 254:
+Time start: 10/5/2021 1:01:07 PM	Latitude: 38.026102265966664	Longitude: -78.51525773259999	Speed: 5.345667	Device ID: b103
+Time end: 10/5/2021 1:01:07 PM		Latitude: 38.0261009943	Longitude: -78.5152586226	Speed: 5.529	Device ID: b103
+-
+Event 254:
+Time start: 10/6/2021 12:52:12 PM	Latitude: 38.0340729	Longitude: -78.5089264	Speed: 0	Device ID: b103
+Time point 2: 10/6/2021 12:52:13 PM	Latitude: 38.0340729	Longitude: -78.5089264	Speed: 0	Device ID: b103
+Time end: 10/6/2021 12:52:13 PM		Latitude: 38.034076290899996	Longitude: -78.50891670989999	Speed: 1.27	Device ID: b103
+-
+Event 254:
+Time start: 10/6/2021 5:17:40 PM	Latitude: 38.0313346654	Longitude: -78.51045115636667	Speed: 11.0286665	Device ID: b103
+Time end: 10/6/2021 5:17:40 PM		Latitude: 38.031334256	Longitude: -78.51045174133333	Speed: 11.013333	Device ID: b103
+-
+Event 254:
+Time start: 10/6/2021 6:52:10 PM	Latitude: 38.03004964435455	Longitude: -78.51229093306364	Speed: 10.866909	Device ID: b103
+Time end: 10/6/2021 6:52:10 PM		Latitude: 38.030049970363635	Longitude: -78.51229191109091	Speed: 10.832727	Device ID: b103
+-
+Event 254:
+Time start: 11/23/2021 6:59:45 PM	Latitude: 38.082410394200004	Longitude: -78.4738969116	Speed: 10.7196	Device ID: b103
+Time point 2: 11/23/2021 6:59:46 PM	Latitude: 38.0824051	Longitude: -78.4739075	Speed: 10	Device ID: b103
+Time end: 11/23/2021 6:59:46 PM		Latitude: 38.0824051	Longitude: -78.47394311779999	Speed: 14.002	Device ID: b103
+-
+Event 254:
+Time start: 1/3/2022 5:17:54 PM	Latitude: 38.0364304	Longitude: -78.5169678	Speed: 0	Device ID: b103
+Time end: 1/3/2022 5:17:54 PM		Latitude: 38.0364304	Longitude: -78.5169678	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 1/3/2022 5:17:55 PM	Latitude: 38.0364304	Longitude: -78.5169678	Speed: 0	Device ID: b103
+Time end: 1/3/2022 5:17:56 PM		Latitude: 38.0364304	Longitude: -78.5169678	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 1/27/2022 9:08:02 PM	Latitude: 38.03488227995	Longitude: -78.51702133444999	Speed: 9.409	Device ID: b103
+Time end: 1/27/2022 9:08:02 PM		Latitude: 38.03488369505	Longitude: -78.51701729055	Speed: 9.091	Device ID: b103
+-
+Event 254:
+Time start: 2/8/2022 8:06:46 PM	Latitude: 38.034062246699996	Longitude: -78.5088393132	Speed: 13.611	Device ID: b103
+Time end: 2/8/2022 8:06:46 PM		Latitude: 38.0340627273	Longitude: -78.50883739080001	Speed: 13.809	Device ID: b103
+-
+Event 254:
+Time start: 2/11/2022 3:42:51 PM	Latitude: 38.036937762	Longitude: -78.507612721	Speed: 7.77	Device ID: b103
+Time end: 2/11/2022 3:42:51 PM		Latitude: 38.036938522949995	Longitude: -78.507614569225	Speed: 7.61325	Device ID: b103
+-
+Event 254:
+Time start: 2/21/2022 4:59:01 PM	Latitude: 38.0301552	Longitude: -78.51573029575	Speed: 3.5075	Device ID: b103
+Time end: 2/21/2022 4:59:01 PM		Latitude: 38.0301552	Longitude: -78.51573147	Speed: 3.7	Device ID: b103
+-
+Event 254:
+Time start: 3/7/2022 4:24:17 PM	Latitude: 38.0336914	Longitude: -78.5176849	Speed: 0	Device ID: b103
+Time end: 3/7/2022 4:24:17 PM		Latitude: 38.0336914	Longitude: -78.5176849	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 3/18/2022 4:47:11 PM	Latitude: 38.0330734	Longitude: -78.5168381	Speed: 0	Device ID: b103
+Time end: 3/18/2022 4:47:12 PM		Latitude: 38.0330734	Longitude: -78.5168381	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 3/21/2022 6:53:32 PM	Latitude: 38.02521467925	Longitude: -78.5331192	Speed: 9.9745	Device ID: b103
+Time end: 3/21/2022 6:53:32 PM		Latitude: 38.0252148525	Longitude: -78.5331192	Speed: 9.985	Device ID: b103
+-
+Event 254:
+Time start: 3/28/2022 7:42:33 PM	Latitude: 38.0857086	Longitude: -78.4747543	Speed: 0	Device ID: b103
+Time end: 3/28/2022 7:45:11 PM		Latitude: 38.0857086	Longitude: -78.4747543	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 4/4/2022 12:49:10 PM	Latitude: 38.0350456	Longitude: -78.5155106	Speed: 0	Device ID: b103
+Time end: 4/4/2022 12:49:10 PM		Latitude: 38.0350456	Longitude: -78.5155106	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 4/22/2022 11:24:49 AM	Latitude: 38.030056	Longitude: -78.50032822966728	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 4/22/2022 2:00:21 PM	Latitude: 38.0349048346	Longitude: -78.5169917968	Speed: 10.162	Device ID: b103
+Time end: 4/22/2022 2:00:21 PM		Latitude: 38.034906269859995	Longitude: -78.51698823088	Speed: 10.4242	Device ID: b103
+-
+Event 254:
+Time start: 4/25/2022 1:06:03 PM	Latitude: 38.02525489503333	Longitude: -78.5330714426	Speed: 14.211333	Device ID: b103
+Time end: 4/25/2022 1:06:03 PM		Latitude: 38.02525779166666	Longitude: -78.53307025000001	Speed: 14.166667	Device ID: b103
+-
+Event 254:
+Time start: 4/28/2022 10:26:51 AM	Latitude: 38.034903323799995	Longitude: -78.5169147746	Speed: 13.394	Device ID: b103
+Time end: 4/28/2022 10:26:51 AM		Latitude: 38.03490465834	Longitude: -78.51691186277999	Speed: 13.5742	Device ID: b103
+-
+Event 254:
+Time start: 5/4/2022 8:01:17 PM	Latitude: 38.0252874975	Longitude: -78.5331406668	Speed: 17.485	Device ID: b103
+Time end: 5/4/2022 8:01:18 PM		Latitude: 38.02529308916667	Longitude: -78.5331367508	Speed: 18.035	Device ID: b103
+-
+Event 254:
+Time start: 5/13/2022 12:13:12 PM	Latitude: 38.028569753666666	Longitude: -78.52020635076667	Speed: 13.060667	Device ID: b103
+Time end: 5/13/2022 12:13:12 PM		Latitude: 38.02856848333333	Longitude: -78.52020606833334	Speed: 13.233334	Device ID: b103
+-
+Event 254:
+Time start: 5/18/2022 5:51:49 PM	Latitude: 38.02857155033333	Longitude: -78.52017144383333	Speed: 11.187333	Device ID: b103
+Time end: 5/18/2022 5:51:49 PM		Latitude: 38.028567293	Longitude: -78.5201727045	Speed: 11.766	Device ID: b103
+-
+Event 254:
+Time start: 5/23/2022 3:34:33 PM	Latitude: 37.99401140095	Longitude: -78.488266	Speed: 15.287	Device ID: b103
+Time end: 5/23/2022 3:34:33 PM		Latitude: 37.99400277905	Longitude: -78.488266	Speed: 15.513	Device ID: b103
+-
+Event 254:
+Time start: 5/26/2022 12:06:38 PM	Latitude: 38.1424861017	Longitude: -78.4286371374	Speed: 12.107	Device ID: b103
+Time end: 5/26/2022 12:06:38 PM		Latitude: 38.142474299	Longitude: -78.428632278	Speed: 13.29	Device ID: b103
+-
+Event 254:
+Time start: 5/26/2022 12:23:28 PM	Latitude: 38.04994488165	Longitude: -78.50219731205	Speed: 7.2068334	Device ID: b103
+Time end: 5/26/2022 12:23:28 PM		Latitude: 38.04992860235	Longitude: -78.50221535595	Speed: 9.6865	Device ID: b103
+-
+Event 254:
+Time start: 5/31/2022 8:05:15 PM	Latitude: 38.03493138906667	Longitude: -78.51696013403333	Speed: 12.828	Device ID: b103
+Time end: 5/31/2022 8:05:15 PM		Latitude: 38.03493176933333	Longitude: -78.51695913966667	Speed: 12.92	Device ID: b103
+-
+Event 254:
+Time start: 6/2/2022 10:20:20 AM	Latitude: 38.03192718055	Longitude: -78.508029353475	Speed: 12.05675	Device ID: b103
+Time end: 6/2/2022 10:20:20 AM		Latitude: 38.03192776795	Longitude: -78.508026584775	Speed: 12.26575	Device ID: b103
+-
+Event 254:
+Time start: 6/29/2022 3:54:59 PM	Latitude: 38.03397658896667	Longitude: -78.50875959653332	Speed: 14.824667	Device ID: b103
+Time end: 6/29/2022 3:54:59 PM		Latitude: 38.033975241	Longitude: -78.508757844	Speed: 14.86	Device ID: b103
+-
+Event 254:
+Time start: 7/19/2022 1:54:40 PM	Latitude: 38.044989569611765	Longitude: -78.51482671982941	Speed: 0.6637647	Device ID: b103
+Time end: 7/19/2022 1:54:41 PM		Latitude: 38.0449791	Longitude: -78.5148163	Speed: 0	Device ID: b103
+-
+Event 254:
+Time start: 7/28/2022 6:38:14 PM	Latitude: 38.044116167	Longitude: -78.513828473	Speed: 13.26	Device ID: b103
+Time end: 7/28/2022 6:38:14 PM		Latitude: 38.04411947333333	Longitude: -78.51383409333333	Speed: 13.866667	Device ID: b103
+-
+Event 254:
+Time start: 8/18/2022 6:12:16 PM	Latitude: 38.04586632855	Longitude: -78.5191571682	Speed: 3	Device ID: b103
+Time end: 8/18/2022 6:12:16 PM		Latitude: 38.04586793055	Longitude: -78.5191585362	Speed: 3	Device ID: b103
+-
+Event 254:
+Time start: 9/7/2022 2:00:07 PM	Latitude: 38.028597232	Longitude: -78.5202168695	Speed: 7.495	Device ID: b103
+Time point 2: 9/7/2022 2:00:08 PM	Latitude: 38.028595	Longitude: -78.5202179	Speed: 7	Device ID: b103
+Time end: 9/7/2022 2:00:08 PM		Latitude: 38.028592623983336	Longitude: -78.5202179	Speed: 7.185	Device ID: b103
+-
+Event 254:
+Time start: 9/29/2022 6:39:12 PM	Latitude: 38.0322304	Longitude: -78.5093102676	Speed: 4.4572	Device ID: b103
+Time end: 9/29/2022 6:39:12 PM		Latitude: 38.0322304	Longitude: -78.5093123276	Speed: 4.2772	Device ID: b103
+-
+Event 254:
+Time start: 10/22/2022 9:12:02 AM	Latitude: 38.04241172412727	Longitude: -78.51157425695455	Speed: 8.471	Device ID: b103
+Time end: 10/22/2022 9:12:02 AM		Latitude: 38.04241891109091	Longitude: -78.51156671318182	Speed: 8.03	Device ID: b103
+-
+Event 254:
+Time start: 11/29/2022 2:05:12 PM	Latitude: 38.0243454	Longitude: -78.514946	Speed: 2.5445	Device ID: b103
+Time end: 11/29/2022 2:05:12 PM		Latitude: 38.0243454	Longitude: -78.514946	Speed: 1.085	Device ID: b103
+-
+Event 254:
+Time start: 1/2/2023 7:35:28 PM	Latitude: 38.03249650072857	Longitude: -78.5144276923	Speed: 7.2805715	Device ID: b103
+Time end: 1/2/2023 7:35:28 PM		Latitude: 38.03249652742857	Longitude: -78.51442761599999	Speed: 7.2685714	Device ID: b103
+-
+Event 254:
+Time start: 2/27/2023 7:01:53 PM	Latitude: 38.026253339966665	Longitude: -78.5207748994	Speed: 3.9926667	Device ID: b103
+Time end: 2/27/2023 7:01:53 PM		Latitude: 38.02624860936667	Longitude: -78.5207715886	Speed: 4.8606668	Device ID: b103
+-
+Event 254:
+Time start: 3/9/2023 6:53:28 PM	Latitude: 38.03448913017143	Longitude: -78.51713930244286	Speed: 0.17057143	Device ID: b103
+Time end: 3/9/2023 6:53:28 PM		Latitude: 38.03448905931429	Longitude: -78.51713936772857	Speed: 0.16771428	Device ID: b103
+-
+Event 254:
+Time start: 3/14/2023 1:15:33 PM	Latitude: 38.04788858136667	Longitude: -78.50856773403333	Speed: 11.949	Device ID: b103
+Time end: 3/14/2023 1:15:33 PM		Latitude: 38.0478903617	Longitude: -78.5085647077	Speed: 12.439	Device ID: b103
+-
+Event 254:
+Time start: 3/16/2023 3:29:16 PM	Latitude: 38.0480499	Longitude: -78.50834741745	Speed: 11.0735	Device ID: b103
+Time end: 3/16/2023 3:29:16 PM		Latitude: 38.0480499	Longitude: -78.50836092255	Speed: 9.1265	Device ID: b103
+-
+Event 254:
+Time start: 3/17/2023 6:58:44 PM	Latitude: 38.04803507225	Longitude: -78.5083385085	Speed: 14.115	Device ID: b103
+Time end: 3/17/2023 6:58:44 PM		Latitude: 38.048034883325	Longitude: -78.50833976745	Speed: 14.0655	Device ID: b103
+-
+Event 254:
+Time start: 3/21/2023 10:46:34 AM	Latitude: 38.03117056225	Longitude: -78.515230687325	Speed: 2.72975	Device ID: b103
+Time end: 3/21/2023 10:46:34 AM		Latitude: 38.03117195275	Longitude: -78.515230378175	Speed: 2.63525	Device ID: b103
+-
+Event 254:
+Time start: 3/21/2023 6:58:05 PM	Latitude: 38.02854921842	Longitude: -78.52017163958001	Speed: 17.7436	Device ID: b103
+Time end: 3/21/2023 6:58:05 PM		Latitude: 38.0285347364	Longitude: -78.52017272360001	Speed: 18.312	Device ID: b103
+-
+Event 254:
+Time start: 3/23/2023 5:23:33 PM	Latitude: 38.0340996	Longitude: -78.50884657339999	Speed: 12.846	Device ID: b103
+Time end: 3/23/2023 5:23:33 PM		Latitude: 38.0340996	Longitude: -78.5088403446	Speed: 12.574	Device ID: b103
+-
+Event 254:
+Time start: 3/23/2023 5:31:03 PM	Latitude: 38.051870220333335	Longitude: -78.51293973933333	Speed: 12.996667	Device ID: b103
+Time end: 3/23/2023 5:31:03 PM		Latitude: 38.05186799381667	Longitude: -78.51293358336666	Speed: 12.601833	Device ID: b103
+-
+Event 254:
+Time start: 3/28/2023 11:53:42 AM	Latitude: 38.04796242205	Longitude: -78.50871704515001	Speed: 11.465	Device ID: b103
+Time end: 3/28/2023 11:53:42 AM		Latitude: 38.04795730995	Longitude: -78.50871551085	Speed: 12.135	Device ID: b103
+-
+Event 254:
+Time start: 3/31/2023 1:45:26 PM	Latitude: 38.0262213551	Longitude: -78.52079105314999	Speed: 8.8555	Device ID: b103
+Time end: 3/31/2023 1:45:26 PM		Latitude: 38.026220207	Longitude: -78.5207915455	Speed: 9.135	Device ID: b103
+-
+Event 254:
+Time start: 4/3/2023 5:39:12 PM	Latitude: 38.034953924	Longitude: -78.5169117295	Speed: 15.9	Device ID: b103
+Time end: 4/3/2023 5:39:12 PM		Latitude: 38.0349625296	Longitude: -78.51689187242499	Speed: 17.635	Device ID: b103
+-
+Event 254:
+Time start: 4/10/2023 4:15:14 PM	Latitude: 38.032207524774996	Longitude: -78.50931654005001	Speed: 7.719	Device ID: b103
+Time end: 4/10/2023 4:15:14 PM		Latitude: 38.032207458025	Longitude: -78.50931692155001	Speed: 7.689	Device ID: b103
+-
+Event 254:
+Time start: 4/10/2023 6:50:29 PM	Latitude: 38.0425539241	Longitude: -78.5116511241	Speed: 12.4535	Device ID: b103
+Time end: 4/10/2023 6:50:29 PM		Latitude: 38.0425515211	Longitude: -78.5116487211	Speed: 12.0485	Device ID: b103
+-
+Event 254:
+Time start: 5/10/2023 8:03:57 PM	Latitude: 38.03513876306957	Longitude: -78.51548509421305	Speed: 5.6066957	Device ID: b103
+Time end: 5/10/2023 8:03:57 PM		Latitude: 38.03513858724348	Longitude: -78.51548520699565	Speed: 5.6084347	Device ID: b103
+-
+Event 254:
+Time start: 5/10/2023 8:03:57 PM	Latitude: 38.035137769652174	Longitude: -78.51548573143478	Speed: 5.616522	Device ID: b103
+Time end: 5/10/2023 8:03:57 PM		Latitude: 38.03513750591304	Longitude: -78.5154859006087	Speed: 5.6191306	Device ID: b103
+-
+Event 254:
+Time start: 5/27/2023 6:26:03 PM	Latitude: 38.03257553	Longitude: -78.514474486	Speed: 17.32	Device ID: b103
+-
+Event 254:
+Time start: 5/27/2023 8:24:25 PM	Latitude: 38.0365562	Longitude: -78.516346365	Speed: 1.8	Device ID: b103
+Time end: 5/27/2023 8:24:25 PM		Latitude: 38.0365562	Longitude: -78.5163476245	Speed: 1.14	Device ID: b103
+-
+Event 254:
+Time start: 7/26/2023 10:02:03 AM	Latitude: 38.0340724517375	Longitude: -78.5088285447875	Speed: 5.076375	Device ID: b103
+Time point 2: 7/26/2023 10:02:04 AM	Latitude: 38.0340729	Longitude: -78.5088272	Speed: 5	Device ID: b103
+Time end: 7/26/2023 10:02:04 AM		Latitude: 38.034078062966664	Longitude: -78.5088199732	Speed: 6.2856665	Device ID: b103
+-
+Event 254:
+Time start: 7/26/2023 5:34:39 PM	Latitude: 38.031413226333335	Longitude: -78.510411608	Speed: 11.42	Device ID: b103
+Time end: 7/26/2023 5:34:39 PM		Latitude: 38.031412794000005	Longitude: -78.510411964	Speed: 11.36	Device ID: b103
+-
+Event 254:
+Time start: 7/27/2023 6:24:58 PM	Latitude: 38.034915485739994	Longitude: -78.51693619128	Speed: 14.8576	Device ID: b103
+Time end: 7/27/2023 6:24:59 PM		Latitude: 38.03491926274	Longitude: -78.51692703527999	Speed: 15.3376	Device ID: b103
+-
+Event 254:
+Time start: 8/19/2023 1:10:38 PM	Latitude: 38.035025753	Longitude: -78.51595903483333	Speed: 16.695	Device ID: b103
+Time end: 8/19/2023 1:10:38 PM		Latitude: 38.035026669699995	Longitude: -78.51595065235	Speed: 17.0555	Device ID: b103
+-
+Event 254:
+Time start: 8/22/2023 2:53:33 PM	Latitude: 38.03488674275	Longitude: -78.51699996437499	Speed: 11.0935	Device ID: b103
+Time end: 8/22/2023 2:53:33 PM		Latitude: 38.03488828775	Longitude: -78.516997676875	Speed: 10.8235	Device ID: b103
+-
+Event 254:
+Time start: 9/7/2023 10:22:29 AM	Latitude: 38.0365766255	Longitude: -78.5162968325	Speed: 0.94	Device ID: b103
+Time end: 9/7/2023 10:22:29 AM		Latitude: 38.036577513275	Longitude: -78.51629784662501	Speed: 0.807	Device ID: b103
+-
+Event 254:
+Time start: 9/11/2023 3:06:13 PM	Latitude: 38.028648044575	Longitude: -78.520224834225	Speed: 12.46475	Device ID: b103
+Time end: 9/11/2023 3:06:13 PM		Latitude: 38.028646785575	Longitude: -78.520225597225	Speed: 12.39475	Device ID: b103
+-
+Event 254:
+Time start: 9/19/2023 4:48:57 PM	Latitude: 38.034861959975004	Longitude: -78.516976660925	Speed: 11.946	Device ID: b103
+Time end: 9/19/2023 4:48:57 PM		Latitude: 38.034862227025	Longitude: -78.516976020075	Speed: 11.974	Device ID: b103
+-
+Event 254:
+Time start: 10/5/2023 2:36:28 PM	Latitude: 38.0244918896	Longitude: -78.53233313055	Speed: 9.7235	Device ID: b103
+Time end: 10/5/2023 2:36:28 PM		Latitude: 38.024494692	Longitude: -78.5323305485	Speed: 10.345	Device ID: b103
+-
+Event 254:
+Time start: 11/8/2023 3:03:26 PM	Latitude: 38.048943424	Longitude: -78.525538622	Speed: 11.66	Device ID: b103
+Time end: 11/8/2023 3:03:26 PM		Latitude: 38.048942679999996	Longitude: -78.5255374775	Speed: 11.825	Device ID: b103
+-
+Event 254:
+Time start: 11/15/2023 9:55:28 PM	Latitude: 38.0289803	Longitude: -78.4946280320077	Speed: 0.17646153	Device ID: b103
+Time end: 11/15/2023 9:55:28 PM		Latitude: 38.0289803	Longitude: -78.49462785593077	Speed: 0.17184615	Device ID: b103
+-
+Event 254:
+Time start: 11/28/2023 12:37:38 PM	Latitude: 38.0286088467	Longitude: -78.52020405605	Speed: 14.5925	Device ID: b103
+Time end: 11/28/2023 12:37:39 PM		Latitude: 38.0286072827	Longitude: -78.52020459005	Speed: 14.4925	Device ID: b103
+-
+Event 254:
+Time start: 12/14/2023 9:15:44 PM	Latitude: 38.039403160633334	Longitude: -78.50185843355	Speed: 11.415	Device ID: b103
+Time end: 12/14/2023 9:15:44 PM		Latitude: 38.039404774333335	Longitude: -78.5018574035	Speed: 11.55	Device ID: b103
+-
+Event 254:
+Time start: 12/16/2023 8:17:44 PM	Latitude: 38.0365829	Longitude: -78.5164261	Speed: 11.7788	Device ID: b103
+Time end: 12/16/2023 8:17:44 PM		Latitude: 38.0365829	Longitude: -78.5164261	Speed: 11.088	Device ID: b103
+-

@@ -1,0 +1,572 @@
+Event 13:
+Time start: 9/25/2019 6:07:37 PM	Latitude: 38.036887521666664	Longitude: -78.51460889333333	Speed: 25.566668	Device ID: bA3
+Time end: 9/25/2019 6:07:37 PM		Latitude: 38.036875771	Longitude: -78.514618152	Speed: 25.38	Device ID: bA3
+-
+Event 13:
+Time start: 9/25/2019 6:17:52 PM	Latitude: 38.026008141199995	Longitude: -78.51876302915001	Speed: 20.0555	Device ID: bA3
+Time end: 9/25/2019 6:17:52 PM		Latitude: 38.026008352	Longitude: -78.518761959	Speed: 20.03	Device ID: bA3
+-
+Event 13:
+Time start: 10/4/2019 6:49:46 PM	Latitude: 38.026891910500005	Longitude: -78.5275655441	Speed: 33.586	Device ID: bA3
+Time end: 10/4/2019 6:49:47 PM		Latitude: 38.0269081845	Longitude: -78.5275896549	Speed: 32.954	Device ID: bA3
+-
+Event 13:
+Time start: 10/4/2019 6:55:05 PM	Latitude: 38.050771966142854	Longitude: -78.54658603714286	Speed: 27.61143	Device ID: bA3
+-
+Event 13:
+Time start: 10/7/2019 12:33:47 PM	Latitude: 38.04211274666667	Longitude: -78.505762298	Speed: 26.577778	Device ID: bA3
+Time point 2: 10/7/2019 12:33:48 PM	Latitude: 38.0421371	Longitude: -78.5057526	Speed: 26	Device ID: bA3
+Time end: 10/7/2019 12:33:48 PM		Latitude: 38.04213775983333	Longitude: -78.50575005933332	Speed: 25.950666	Device ID: bA3
+-
+Event 13:
+Time start: 10/9/2019 5:43:07 PM	Latitude: 38.036562786	Longitude: -78.515595488	Speed: 10.986667	Device ID: bA3
+-
+Event 13:
+Time start: 10/9/2019 5:44:29 PM	Latitude: 38.0423596226	Longitude: -78.51153925365	Speed: 32.49	Device ID: bA3
+Time end: 10/9/2019 5:44:29 PM		Latitude: 38.0423695094	Longitude: -78.51152750601666	Speed: 31.976667	Device ID: bA3
+-
+Event 13:
+Time start: 10/10/2019 12:07:14 PM	Latitude: 38.038720379	Longitude: -78.51541556875	Speed: 21.69	Device ID: bA3
+Time end: 10/10/2019 12:07:14 PM		Latitude: 38.0387186977	Longitude: -78.515417208125	Speed: 21.647	Device ID: bA3
+-
+Event 13:
+Time start: 10/15/2019 3:19:32 PM	Latitude: 38.01894041533333	Longitude: -77.992186316	Speed: 27.66	Device ID: bA3
+-
+Event 13:
+Time start: 10/16/2019 12:44:33 PM	Latitude: 38.04693956323333	Longitude: -78.50433120403333	Speed: 26.374166	Device ID: bA3
+-
+Event 13:
+Time start: 10/18/2019 1:08:18 PM	Latitude: 38.0317100840375	Longitude: -78.501590827725	Speed: 22.8635	Device ID: bA3
+Time end: 10/18/2019 1:08:18 PM		Latitude: 38.0316823591625	Longitude: -78.501587423475	Speed: 22.6085	Device ID: bA3
+-
+Event 13:
+Time start: 10/18/2019 3:30:40 PM	Latitude: 38.05412103802	Longitude: -78.50089385984	Speed: 19.746	Device ID: bA3
+Time end: 10/18/2019 3:30:40 PM		Latitude: 38.05412326598	Longitude: -78.50089530816	Speed: 19.454	Device ID: bA3
+-
+Event 13:
+Time start: 10/18/2019 3:40:15 PM	Latitude: 38.03686966267143	Longitude: -78.51458480402857	Speed: 24.151428	Device ID: bA3
+Time end: 10/18/2019 3:40:15 PM		Latitude: 38.03684714771429	Longitude: -78.51457394628572	Speed: 23.314285	Device ID: bA3
+-
+Event 13:
+Time start: 11/11/2019 7:52:22 PM	Latitude: 38.0262609388	Longitude: -78.51531137225	Speed: 15.474	Device ID: bA3
+Time end: 11/11/2019 7:52:22 PM		Latitude: 38.0262605172	Longitude: -78.51531224774999	Speed: 15.406	Device ID: bA3
+-
+Event 13:
+Time start: 11/13/2019 4:54:26 PM	Latitude: 38.0541339785	Longitude: -78.50092927816667	Speed: 13.39	Device ID: bA3
+Time end: 11/13/2019 4:54:26 PM		Latitude: 38.05413539005	Longitude: -78.50092913695	Speed: 13.427	Device ID: bA3
+-
+Event 13:
+Time start: 11/13/2019 6:27:41 PM	Latitude: 38.026280976	Longitude: -78.51531054099999	Speed: 16.21	Device ID: bA3
+Time end: 11/13/2019 6:27:41 PM		Latitude: 38.026277924000006	Longitude: -78.51531008399999	Speed: 16.04	Device ID: bA3
+-
+Event 13:
+Time start: 11/13/2019 7:43:05 PM	Latitude: 38.03690675316667	Longitude: -78.51467317683334	Speed: 26.803333	Device ID: bA3
+Time end: 11/13/2019 7:43:06 PM		Latitude: 38.036869061833336	Longitude: -78.51465730816668	Speed: 24.896667	Device ID: bA3
+-
+Event 13:
+Time start: 11/20/2019 6:58:33 PM	Latitude: 38.054122979666666	Longitude: -78.50083144066667	Speed: 18.489666	Device ID: bA3
+Time point 2: 11/20/2019 6:58:34 PM	Latitude: 38.0541191	Longitude: -78.5008392	Speed: 18	Device ID: bA3
+Time end: 11/20/2019 6:58:34 PM		Latitude: 38.054120187275004	Longitude: -78.5008399068	Speed: 17.87175	Device ID: bA3
+-
+Event 13:
+Time start: 12/4/2019 5:59:10 PM	Latitude: 38.0268985396	Longitude: -78.52106205623333	Speed: 29.256666	Device ID: bA3
+Time end: 12/4/2019 5:59:10 PM		Latitude: 38.0269005844	Longitude: -78.52106291143333	Speed: 29.176666	Device ID: bA3
+-
+Event 13:
+Time start: 12/16/2019 12:59:13 PM	Latitude: 38.046659685099996	Longitude: -78.50942763318334	Speed: 28	Device ID: bA3
+Time end: 12/16/2019 12:59:14 PM		Latitude: 38.0466731041	Longitude: -78.50938597968333	Speed: 28	Device ID: bA3
+-
+Event 13:
+Time start: 12/17/2019 12:06:27 AM	Latitude: 38.04214689771428	Longitude: -78.50575979085714	Speed: 22.62857	Device ID: bA3
+Time end: 12/17/2019 12:06:27 AM		Latitude: 38.04216149514286	Longitude: -78.50575358057142	Speed: 22.085714	Device ID: bA3
+-
+Event 13:
+Time start: 12/17/2019 3:19:16 AM	Latitude: 38.04215637066667	Longitude: -78.50574547866667	Speed: 24.72	Device ID: bA3
+Time end: 12/17/2019 3:19:16 AM		Latitude: 38.04215834153334	Longitude: -78.50574308793334	Speed: 24.626	Device ID: bA3
+-
+Event 13:
+Time start: 12/18/2019 5:16:27 PM	Latitude: 38.03872560163333	Longitude: -78.51536593595	Speed: 24.1755	Device ID: bA3
+Time end: 12/18/2019 5:16:27 PM		Latitude: 38.0387208203	Longitude: -78.51537000395	Speed: 23.8955	Device ID: bA3
+-
+Event 13:
+Time start: 12/19/2019 2:40:25 PM	Latitude: 38.036953734325	Longitude: -78.5145986197	Speed: 23.7345	Device ID: bA3
+Time end: 12/19/2019 2:40:25 PM		Latitude: 38.036952572675	Longitude: -78.5145980723	Speed: 23.6855	Device ID: bA3
+-
+Event 13:
+Time start: 12/20/2019 3:38:11 PM	Latitude: 38.04982259765	Longitude: -78.5127716	Speed: 28.4315	Device ID: bA3
+Time end: 12/20/2019 3:38:11 PM		Latitude: 38.04982675235	Longitude: -78.5127716	Speed: 28.0685	Device ID: bA3
+-
+Event 13:
+Time start: 12/20/2019 3:47:58 PM	Latitude: 38.0463983596	Longitude: -78.50979640129	Speed: 22.5377	Device ID: bA3
+Time end: 12/20/2019 3:47:58 PM		Latitude: 38.0463939924	Longitude: -78.50978774851	Speed: 22.3363	Device ID: bA3
+-
+Event 13:
+Time start: 1/6/2020 5:48:55 PM	Latitude: 38.026505485170006	Longitude: -78.52427839416	Speed: 34.8658	Device ID: bA3
+Time end: 1/6/2020 5:48:55 PM		Latitude: 38.026507084100004	Longitude: -78.5242995168	Speed: 34.434	Device ID: bA3
+-
+Event 13:
+Time start: 1/7/2020 2:00:27 PM	Latitude: 38.036814959024014	Longitude: -78.51453770728118	Speed: 13.54299	Device ID: bA3
+Time end: 1/7/2020 2:00:27 PM		Latitude: 38.036817657113346	Longitude: -78.51453672576814	Speed: 13.928738	Device ID: bA3
+-
+Event 13:
+Time start: 1/14/2020 1:59:23 PM	Latitude: 38.04687726434	Longitude: -78.50435940554	Speed: 27.5984	Device ID: bA3
+Time point 2: 1/14/2020 1:59:24 PM	Latitude: 38.0468483	Longitude: -78.5043716	Speed: 26	Device ID: bA3
+Time end: 1/14/2020 1:59:24 PM		Latitude: 38.04684844688333	Longitude: -78.5043721341	Speed: 26.008167	Device ID: bA3
+-
+Event 13:
+Time start: 1/21/2020 6:53:29 PM	Latitude: 38.036917398285716	Longitude: -78.514601352	Speed: 28.914286	Device ID: bA3
+Time point 2: 1/21/2020 6:53:30 PM	Latitude: 38.0368881	Longitude: -78.5145874	Speed: 28	Device ID: bA3
+Time end: 1/21/2020 6:53:30 PM		Latitude: 38.036868756	Longitude: -78.51460227849999	Speed: 26.83	Device ID: bA3
+-
+Event 13:
+Time start: 1/30/2020 3:19:44 PM	Latitude: 38.02711104903333	Longitude: -78.52079883343333	Speed: 31.297667	Device ID: bA3
+Time end: 1/30/2020 3:19:45 PM		Latitude: 38.02709140007777	Longitude: -78.52082757834444	Speed: 30.79789	Device ID: bA3
+-
+Event 13:
+Time start: 2/12/2020 6:02:37 PM	Latitude: 38.03693675162857	Longitude: -78.51463303455715	Speed: 18.278715	Device ID: bA3
+Time end: 2/12/2020 6:02:37 PM		Latitude: 38.03692992885714	Longitude: -78.51463086671428	Speed: 18.061428	Device ID: bA3
+-
+Event 13:
+Time start: 2/19/2020 6:17:47 PM	Latitude: 38.0365796575	Longitude: -78.5156320275	Speed: 7.275	Device ID: bA3
+Time end: 2/19/2020 6:17:47 PM		Latitude: 38.036579884474996	Longitude: -78.515632067575	Speed: 7.25575	Device ID: bA3
+-
+Event 13:
+Time start: 2/19/2020 6:23:58 PM	Latitude: 38.03225105944615	Longitude: -78.51254882763847	Speed: 24.049154	Device ID: bA3
+Time end: 2/19/2020 6:23:58 PM		Latitude: 38.032258054461536	Longitude: -78.51256628638461	Speed: 23.791538	Device ID: bA3
+-
+Event 13:
+Time start: 3/5/2020 8:05:16 PM	Latitude: 38.042127242	Longitude: -78.505757931	Speed: 27.53	Device ID: bA3
+Time end: 3/5/2020 8:05:17 PM		Latitude: 38.042132194349996	Longitude: -78.50574379642501	Speed: 27.09775	Device ID: bA3
+-
+Event 13:
+Time start: 3/12/2020 7:02:02 PM	Latitude: 38.0367287410937	Longitude: -78.51454608397826	Speed: 9.5945	Device ID: bA3
+Time end: 3/12/2020 7:02:02 PM		Latitude: 38.036723714614645	Longitude: -78.51453804029421	Speed: 10.7803	Device ID: bA3
+-
+Event 13:
+Time start: 3/12/2020 7:06:06 PM	Latitude: 38.0320025677125	Longitude: -78.5029233867125	Speed: 19.21225	Device ID: bA3
+Time point 2: 3/12/2020 7:06:07 PM	Latitude: 38.0320015	Longitude: -78.5028839	Speed: 18	Device ID: bA3
+Time end: 3/12/2020 7:06:07 PM		Latitude: 38.03199506575	Longitude: -78.5028839	Speed: 17.8275	Device ID: bA3
+-
+Event 13:
+Time start: 5/4/2020 4:53:29 PM	Latitude: 38.04254503566667	Longitude: -78.51163315766667	Speed: 16.363333	Device ID: bA3
+Time end: 5/4/2020 4:53:29 PM		Latitude: 38.042533082000006	Longitude: -78.511625998	Speed: 19.34	Device ID: bA3
+-
+Event 13:
+Time start: 5/29/2020 6:17:23 PM	Latitude: 38.0422633329	Longitude: -78.50573524174999	Speed: 17.5005	Device ID: bA3
+Time end: 5/29/2020 6:17:23 PM		Latitude: 38.0422627741	Longitude: -78.50573244408332	Speed: 17.581167	Device ID: bA3
+-
+Event 13:
+Time start: 6/5/2020 3:33:40 PM	Latitude: 38.036144369	Longitude: -78.51416384326666	Speed: 34.412334	Device ID: bA3
+Time end: 6/5/2020 3:33:40 PM		Latitude: 38.036137159	Longitude: -78.51416028259999	Speed: 33.969	Device ID: bA3
+-
+Event 13:
+Time start: 6/17/2020 1:34:40 PM	Latitude: 38.03540739184286	Longitude: -78.5103223590857	Speed: 20.625856	Device ID: bA3
+Time end: 6/17/2020 1:34:40 PM		Latitude: 38.035428318985716	Longitude: -78.51030895337142	Speed: 20.068714	Device ID: bA3
+-
+Event 13:
+Time start: 6/26/2020 12:02:45 PM	Latitude: 38.04642688466667	Longitude: -78.50988494233333	Speed: 28.29	Device ID: bA3
+Time end: 6/26/2020 12:02:46 PM		Latitude: 38.0464109634	Longitude: -78.5098769817	Speed: 27.977	Device ID: bA3
+-
+Event 13:
+Time start: 7/1/2020 4:50:18 PM	Latitude: 38.046384111500004	Longitude: -78.5099153755	Speed: 31.58	Device ID: bA3
+Time end: 7/1/2020 4:50:18 PM		Latitude: 38.0463578255	Longitude: -78.5098657935	Speed: 28.46	Device ID: bA3
+-
+Event 13:
+Time start: 7/16/2020 3:36:43 PM	Latitude: 38.086675467400006	Longitude: -78.4755647674	Speed: 27.773	Device ID: bA3
+Time end: 7/16/2020 3:36:43 PM		Latitude: 38.086668654	Longitude: -78.475557954	Speed: 27.83	Device ID: bA3
+-
+Event 13:
+Time start: 7/16/2020 3:36:43 PM	Latitude: 38.086640631971434	Longitude: -78.47552993197142	Speed: 28.064428	Device ID: bA3
+Time end: 7/16/2020 3:36:44 PM		Latitude: 38.086622394600006	Longitude: -78.4755116946	Speed: 28.217	Device ID: bA3
+-
+Event 13:
+Time start: 7/22/2020 2:55:58 PM	Latitude: 38.0483025075	Longitude: -78.50897300749999	Speed: 23.98625	Device ID: bA3
+Time end: 7/22/2020 2:55:59 PM		Latitude: 38.04832869525	Longitude: -78.50899919525	Speed: 20.045376	Device ID: bA3
+-
+Event 13:
+Time start: 7/29/2020 1:11:36 PM	Latitude: 38.04641445597143	Longitude: -78.50988994771429	Speed: 24.555714	Device ID: bA3
+Time end: 7/29/2020 1:11:36 PM		Latitude: 38.04641276542857	Longitude: -78.50988703428571	Speed: 24.414286	Device ID: bA3
+-
+Event 13:
+Time start: 7/29/2020 1:52:30 PM	Latitude: 38.044428184924996	Longitude: -78.5053032942125	Speed: 30.599125	Device ID: bA3
+Time point 2: 7/29/2020 1:52:31 PM	Latitude: 38.0443916	Longitude: -78.5052185	Speed: 28	Device ID: bA3
+Time end: 7/29/2020 1:52:31 PM		Latitude: 38.044357447749995	Longitude: -78.50522311614999	Speed: 29.452	Device ID: bA3
+-
+Event 13:
+Time start: 7/29/2020 7:00:17 PM	Latitude: 38.0269901265	Longitude: -78.52097502560001	Speed: 6.188	Device ID: bA3
+Time end: 7/29/2020 7:00:17 PM		Latitude: 38.026990023500005	Longitude: -78.5209752544	Speed: 6.212	Device ID: bA3
+-
+Event 13:
+Time start: 7/31/2020 5:32:54 PM	Latitude: 38.0368930873	Longitude: -78.51458942194999	Speed: 22.265	Device ID: bA3
+Time end: 7/31/2020 5:32:54 PM		Latitude: 38.036889041	Longitude: -78.5145877815	Speed: 22.05	Device ID: bA3
+-
+Event 13:
+Time start: 8/10/2020 5:22:41 PM	Latitude: 38.0499409579	Longitude: -78.512760968	Speed: 31.798	Device ID: bA3
+Time end: 8/10/2020 5:22:41 PM		Latitude: 38.04997505557143	Longitude: -78.51278845428571	Speed: 30.597143	Device ID: bA3
+-
+Event 13:
+Time start: 8/11/2020 2:48:30 PM	Latitude: 38.04476898	Longitude: -78.504832452	Speed: 13.52	Device ID: bA3
+Time end: 8/11/2020 2:48:30 PM		Latitude: 38.04476942633333	Longitude: -78.50483212136668	Speed: 13.463667	Device ID: bA3
+-
+Event 13:
+Time start: 8/19/2020 1:35:32 PM	Latitude: 38.039232154016666	Longitude: -78.50770184816666	Speed: 8.548833	Device ID: bA3
+Time end: 8/19/2020 1:35:32 PM		Latitude: 38.039233737833335	Longitude: -78.50770093833333	Speed: 8.451667	Device ID: bA3
+-
+Event 13:
+Time start: 8/25/2020 4:19:13 PM	Latitude: 38.039238124181814	Longitude: -78.50770495654545	Speed: 8.556364	Device ID: bA3
+Time end: 8/25/2020 4:19:13 PM		Latitude: 38.03923864299091	Longitude: -78.50770467357273	Speed: 8.516182	Device ID: bA3
+-
+Event 13:
+Time start: 9/4/2020 7:50:08 PM	Latitude: 38.03443648502	Longitude: -78.51088720236	Speed: 13.0156	Device ID: bA3
+Time end: 9/4/2020 7:50:08 PM		Latitude: 38.03443968962	Longitude: -78.51088944516	Speed: 13.6036	Device ID: bA3
+-
+Event 13:
+Time start: 9/8/2020 3:37:04 PM	Latitude: 38.044730115	Longitude: -78.50484204575001	Speed: 17.17	Device ID: bA3
+Time end: 9/8/2020 3:37:04 PM		Latitude: 38.0447382005	Longitude: -78.504836955025	Speed: 16.699	Device ID: bA3
+-
+Event 13:
+Time start: 9/8/2020 5:27:26 PM	Latitude: 38.039305570366665	Longitude: -78.50771261956668	Speed: 7.331333	Device ID: bA3
+Time end: 9/8/2020 5:27:26 PM		Latitude: 38.039306269811114	Longitude: -78.50771189901111	Speed: 7.253556	Device ID: bA3
+-
+Event 13:
+Time start: 9/10/2020 1:02:50 PM	Latitude: 38.04470180091	Longitude: -78.50483853422	Speed: 21.1302	Device ID: bA3
+Time end: 9/10/2020 1:02:50 PM		Latitude: 38.04470182761	Longitude: -78.50483817562	Speed: 21.1042	Device ID: bA3
+-
+Event 13:
+Time start: 9/10/2020 2:40:43 PM	Latitude: 38.03407550406	Longitude: -78.50875422508	Speed: 18.7424	Device ID: bA3
+Time end: 9/10/2020 2:40:43 PM		Latitude: 38.03408944386	Longitude: -78.50875230148	Speed: 17.7344	Device ID: bA3
+-
+Event 13:
+Time start: 9/10/2020 3:50:33 PM	Latitude: 38.04479933275	Longitude: -78.504825795	Speed: 15.0875	Device ID: bA3
+Time end: 9/10/2020 3:50:33 PM		Latitude: 38.044799085775	Longitude: -78.5048238895	Speed: 15.13375	Device ID: bA3
+-
+Event 13:
+Time start: 9/10/2020 7:04:49 PM	Latitude: 38.0447695846	Longitude: -78.50486406093749	Speed: 12.4175	Device ID: bA3
+Time end: 9/10/2020 7:04:49 PM		Latitude: 38.044769318	Longitude: -78.50486090312499	Speed: 12.525	Device ID: bA3
+-
+Event 13:
+Time start: 9/15/2020 12:07:59 PM	Latitude: 38.039260540725	Longitude: -78.5077057057875	Speed: 15.99675	Device ID: bA3
+Time end: 9/15/2020 12:07:59 PM		Latitude: 38.039261112975	Longitude: -78.50770539116249	Speed: 15.91425	Device ID: bA3
+-
+Event 13:
+Time start: 9/15/2020 12:28:11 PM	Latitude: 38.03921993	Longitude: -78.5077089015	Speed: 11.88	Device ID: bA3
+Time end: 9/15/2020 12:28:11 PM		Latitude: 38.03922155225	Longitude: -78.5077078801125	Speed: 11.691	Device ID: bA3
+-
+Event 13:
+Time start: 9/15/2020 12:50:48 PM	Latitude: 38.03686124282857	Longitude: -78.5146303451	Speed: 20.452	Device ID: bA3
+Time end: 9/15/2020 12:50:48 PM		Latitude: 38.03684083657143	Longitude: -78.514622072	Speed: 19.44	Device ID: bA3
+-
+Event 13:
+Time start: 9/17/2020 3:19:26 PM	Latitude: 38.044769876000004	Longitude: -78.5048479985	Speed: 16.26	Device ID: bA3
+Time end: 9/17/2020 3:19:26 PM		Latitude: 38.044765325200004	Longitude: -78.504831199075	Speed: 16.627	Device ID: bA3
+-
+Event 13:
+Time start: 9/22/2020 6:39:14 PM	Latitude: 38.03928047521	Longitude: -78.50771094281	Speed: 15.1206	Device ID: bA3
+Time end: 9/22/2020 6:39:14 PM		Latitude: 38.03928092689	Longitude: -78.50771073528999	Speed: 15.0854	Device ID: bA3
+-
+Event 13:
+Time start: 9/23/2020 4:05:26 PM	Latitude: 38.04111531866666	Longitude: -78.50634575066667	Speed: 24.826666	Device ID: bA3
+Time end: 9/23/2020 4:05:26 PM		Latitude: 38.04111371636667	Longitude: -78.50634943406666	Speed: 24.742666	Device ID: bA3
+-
+Event 13:
+Time start: 9/23/2020 4:12:33 PM	Latitude: 38.026155375	Longitude: -78.520118905	Speed: 7.475	Device ID: bA3
+Time end: 9/23/2020 4:12:33 PM		Latitude: 38.02615559816667	Longitude: -78.5201187893	Speed: 7.446833	Device ID: bA3
+-
+Event 13:
+Time start: 9/25/2020 12:43:47 PM	Latitude: 38.04475085766666	Longitude: -78.50489223400001	Speed: 14.943334	Device ID: bA3
+Time end: 9/25/2020 12:43:47 PM		Latitude: 38.0447603841	Longitude: -78.5048881934	Speed: 14.111	Device ID: bA3
+-
+Event 13:
+Time start: 9/25/2020 1:56:52 PM	Latitude: 38.04476142666667	Longitude: -78.50483804733334	Speed: 15.133333	Device ID: bA3
+Time end: 9/25/2020 1:56:52 PM		Latitude: 38.044764757	Longitude: -78.50483558030001	Speed: 14.81	Device ID: bA3
+-
+Event 13:
+Time start: 1/28/2021 3:16:19 PM	Latitude: 38.040004216	Longitude: -78.506669168	Speed: 26.68	Device ID: bA3
+Time end: 1/28/2021 3:16:19 PM		Latitude: 38.0400037944	Longitude: -78.5066700112	Speed: 26.612	Device ID: bA3
+-
+Event 13:
+Time start: 1/28/2021 5:19:23 PM	Latitude: 38.049946231475005	Longitude: -78.51282163147499	Speed: 31.0345	Device ID: bA3
+Time point 2: 1/28/2021 5:19:24 PM	Latitude: 38.0499725	Longitude: -78.5128479	Speed: 29	Device ID: bA3
+Time end: 1/28/2021 5:19:24 PM		Latitude: 38.05001277174	Longitude: -78.51283306548	Speed: 30.5742	Device ID: bA3
+-
+Event 13:
+Time start: 2/5/2021 5:16:36 PM	Latitude: 38.04942749	Longitude: -78.523548038	Speed: 17.79	Device ID: bA3
+Time end: 2/5/2021 5:16:36 PM		Latitude: 38.04942524975	Longitude: -78.52354919945	Speed: 17.72475	Device ID: bA3
+-
+Event 13:
+Time start: 2/5/2021 6:11:11 PM	Latitude: 38.042170378512495	Longitude: -78.505783719075	Speed: 22.87375	Device ID: bA3
+Time end: 2/5/2021 6:11:11 PM		Latitude: 38.0421790572625	Longitude: -78.505780191575	Speed: 22.49875	Device ID: bA3
+-
+Event 13:
+Time start: 2/8/2021 11:41:34 AM	Latitude: 38.038754447463155	Longitude: -78.51538924247895	Speed: 26.024527	Device ID: bA3
+Time end: 2/8/2021 11:41:34 AM		Latitude: 38.038747860536844	Longitude: -78.51539558352106	Speed: 25.935474	Device ID: bA3
+-
+Event 13:
+Time start: 2/8/2021 3:55:17 PM	Latitude: 38.04937296968889	Longitude: -78.52355035161112	Speed: 25.848223	Device ID: bA3
+-
+Event 13:
+Time start: 2/8/2021 3:55:17 PM	Latitude: 38.0493604552	Longitude: -78.5235606945	Speed: 25.794	Device ID: bA3
+Time end: 2/8/2021 3:55:17 PM		Latitude: 38.04935737786666	Longitude: -78.52356323783334	Speed: 25.780666	Device ID: bA3
+-
+Event 13:
+Time start: 3/4/2021 4:55:26 PM	Latitude: 38.03892076698889	Longitude: -78.50456673301112	Speed: 3.3446667	Device ID: bA3
+Time end: 3/4/2021 4:55:27 PM		Latitude: 38.03892093654444	Longitude: -78.50456656345555	Speed: 3.3313334	Device ID: bA3
+-
+Event 13:
+Time start: 4/5/2021 5:15:26 PM	Latitude: 38.035219399800006	Longitude: -78.51020687713999	Speed: 18.932	Device ID: bA3
+Time end: 4/5/2021 5:15:26 PM		Latitude: 38.035209511800005	Longitude: -78.51020467874	Speed: 17.012	Device ID: bA3
+-
+Event 13:
+Time start: 5/25/2021 1:01:02 PM	Latitude: 38.0332794	Longitude: -78.52157053189612	Speed: 0	Device ID: bA3
+Time end: 5/25/2021 1:01:02 PM		Latitude: 38.0332794	Longitude: -78.52157053585255	Speed: 0	Device ID: bA3
+-
+Event 13:
+Time start: 6/25/2021 6:10:17 PM	Latitude: 38.042170905199995	Longitude: -78.50539196945	Speed: 31.13775	Device ID: bA3
+Time end: 6/25/2021 6:10:17 PM		Latitude: 38.042167023999994	Longitude: -78.505363909	Speed: 32.155	Device ID: bA3
+-
+Event 13:
+Time start: 6/25/2021 6:10:18 PM	Latitude: 38.0421748282	Longitude: -78.5052778051	Speed: 28.4735	Device ID: bA3
+Time end: 6/25/2021 6:10:18 PM		Latitude: 38.042175592	Longitude: -78.505273456	Speed: 28.16	Device ID: bA3
+-
+Event 13:
+Time start: 7/1/2021 2:34:17 PM	Latitude: 38.027015791210005	Longitude: -78.52103720178	Speed: 4.4825	Device ID: bA3
+Time end: 7/1/2021 2:34:17 PM		Latitude: 38.0270164008	Longitude: -78.5210350144	Speed: 4.6	Device ID: bA3
+-
+Event 13:
+Time start: 7/1/2021 2:51:59 PM	Latitude: 38.03370968586667	Longitude: -78.51425270803333	Speed: 23.262667	Device ID: bA3
+Time end: 7/1/2021 2:51:59 PM		Latitude: 38.03371299253334	Longitude: -78.51425703136667	Speed: 23.129333	Device ID: bA3
+-
+Event 13:
+Time start: 7/9/2021 1:00:58 PM	Latitude: 38.0858627005	Longitude: -78.471703745	Speed: 31.5625	Device ID: bA3
+Time end: 7/9/2021 1:00:58 PM		Latitude: 38.0858232545	Longitude: -78.471726405	Speed: 28.8125	Device ID: bA3
+-
+Event 13:
+Time start: 7/29/2021 4:57:25 PM	Latitude: 38.0447712143	Longitude: -78.50481620010001	Speed: 18.271856	Device ID: bA3
+Time end: 7/29/2021 4:57:25 PM		Latitude: 38.044768304	Longitude: -78.504795828	Speed: 18.69143	Device ID: bA3
+-
+Event 13:
+Time start: 7/29/2021 7:23:05 PM	Latitude: 38.04223971018	Longitude: -78.5056936301	Speed: 20.1606	Device ID: bA3
+Time end: 7/29/2021 7:23:05 PM		Latitude: 38.04223883442	Longitude: -78.50568111689999	Speed: 20.5214	Device ID: bA3
+-
+Event 13:
+Time start: 8/11/2021 6:17:00 PM	Latitude: 38.042138027	Longitude: -78.5057741266	Speed: 30.919	Device ID: bA3
+Time end: 8/11/2021 6:17:01 PM		Latitude: 38.04217236033333	Longitude: -78.50572325993333	Speed: 27.919	Device ID: bA3
+-
+Event 13:
+Time start: 8/13/2021 4:28:04 PM	Latitude: 38.04999466207273	Longitude: -78.51281688023637	Speed: 32.73591	Device ID: bA3
+Time end: 8/13/2021 4:28:04 PM		Latitude: 38.04999547698182	Longitude: -78.51281748369091	Speed: 32.72227	Device ID: bA3
+-
+Event 13:
+Time start: 8/15/2021 1:13:13 PM	Latitude: 38.04242758962	Longitude: -78.51147180434	Speed: 25.6982	Device ID: bA3
+Time end: 8/15/2021 1:13:13 PM		Latitude: 38.04242820002	Longitude: -78.51147491714	Speed: 25.6422	Device ID: bA3
+-
+Event 13:
+Time start: 8/16/2021 5:42:41 PM	Latitude: 38.0392817966	Longitude: -78.5076848034	Speed: 10.008	Device ID: bA3
+Time end: 8/16/2021 5:42:41 PM		Latitude: 38.039282330599995	Longitude: -78.5076842694	Speed: 9.928	Device ID: bA3
+-
+Event 13:
+Time start: 8/17/2021 7:14:41 PM	Latitude: 38.033823711915005	Longitude: -78.51424136728001	Speed: 17.9067	Device ID: bA3
+Time end: 8/17/2021 7:14:42 PM		Latitude: 38.0338213852	Longitude: -78.5142463064	Speed: 17.896	Device ID: bA3
+-
+Event 13:
+Time start: 8/23/2021 6:54:33 PM	Latitude: 38.03226407013334	Longitude: -78.50888897036667	Speed: 17.854	Device ID: bA3
+Time end: 8/23/2021 6:54:33 PM		Latitude: 38.0322636568	Longitude: -78.5088919587	Speed: 17.954	Device ID: bA3
+-
+Event 13:
+Time start: 9/10/2021 3:25:32 PM	Latitude: 38.0443153	Longitude: -78.5030899	Speed: 0	Device ID: bA3
+Time end: 9/10/2021 3:25:33 PM		Latitude: 38.0443153	Longitude: -78.5030899	Speed: 0	Device ID: bA3
+-
+Event 13:
+Time start: 9/10/2021 3:25:33 PM	Latitude: 38.0443153	Longitude: -78.5030899	Speed: 0	Device ID: bA3
+Time end: 9/10/2021 3:25:34 PM		Latitude: 38.0443153	Longitude: -78.5030899	Speed: 0	Device ID: bA3
+-
+Event 13:
+Time start: 9/15/2021 1:05:09 PM	Latitude: 38.03404045646	Longitude: -78.50872836728	Speed: 20.9094	Device ID: bA3
+Time end: 9/15/2021 1:05:09 PM		Latitude: 38.034062201459996	Longitude: -78.50872302728	Speed: 18.9594	Device ID: bA3
+-
+Event 13:
+Time start: 9/15/2021 1:05:10 PM	Latitude: 38.03405258787143	Longitude: -78.50877571741428	Speed: 19.699286	Device ID: bA3
+Time end: 9/15/2021 1:05:10 PM		Latitude: 38.03405197312857	Longitude: -78.50877739158571	Speed: 19.750713	Device ID: bA3
+-
+Event 13:
+Time start: 9/16/2021 6:21:58 PM	Latitude: 38.036919830740004	Longitude: -78.51460874861999	Speed: 22.7982	Device ID: bA3
+Time point 2: 9/16/2021 6:21:59 PM	Latitude: 38.0368652	Longitude: -78.5145874	Speed: 20	Device ID: bA3
+Time end: 9/16/2021 6:21:59 PM		Latitude: 38.036853527	Longitude: -78.514633408	Speed: 21.17	Device ID: bA3
+-
+Event 13:
+Time start: 9/28/2021 4:31:31 PM	Latitude: 38.033339599	Longitude: -78.498191943	Speed: 18	Device ID: bA3
+Time end: 9/28/2021 4:31:32 PM		Latitude: 38.03331192966667	Longitude: -78.49818705766667	Speed: 18	Device ID: bA3
+-
+Event 13:
+Time start: 9/30/2021 6:35:17 PM	Latitude: 38.036690154	Longitude: -78.51442954666666	Speed: 18.28	Device ID: bA3
+Time end: 9/30/2021 6:35:17 PM		Latitude: 38.036700108	Longitude: -78.51443572666666	Speed: 17.56	Device ID: bA3
+-
+Event 13:
+Time start: 10/13/2021 11:21:09 AM	Latitude: 38.04432434373334	Longitude: -78.5136919683	Speed: 16.359	Device ID: bA3
+Time end: 10/13/2021 11:21:09 AM		Latitude: 38.04432560026667	Longitude: -78.5136926447	Speed: 16.131	Device ID: bA3
+-
+Event 13:
+Time start: 10/13/2021 11:26:37 AM	Latitude: 38.0442520523	Longitude: -78.5137327834	Speed: 23.21	Device ID: bA3
+Time end: 10/13/2021 11:26:37 AM		Latitude: 38.044243583	Longitude: -78.513713314	Speed: 22.1	Device ID: bA3
+-
+Event 13:
+Time start: 10/13/2021 11:26:38 AM	Latitude: 38.04423391833333	Longitude: -78.51369109666666	Speed: 20.833334	Device ID: bA3
+Time end: 10/13/2021 11:26:38 AM		Latitude: 38.044216623666664	Longitude: -78.51365133933334	Speed: 18.566668	Device ID: bA3
+-
+Event 13:
+Time start: 10/15/2021 1:00:26 PM	Latitude: 38.04444405617143	Longitude: -78.51374548145714	Speed: 16.932858	Device ID: bA3
+Time end: 10/15/2021 1:00:26 PM		Latitude: 38.04445464531429	Longitude: -78.51374326917143	Speed: 16.518572	Device ID: bA3
+-
+Event 13:
+Time start: 10/15/2021 1:05:28 PM	Latitude: 38.044299513	Longitude: -78.513784052	Speed: 20.32	Device ID: bA3
+Time end: 10/15/2021 1:05:29 PM		Latitude: 38.044276588525	Longitude: -78.5137436116	Speed: 18.906	Device ID: bA3
+-
+Event 13:
+Time start: 10/15/2021 1:06:14 PM	Latitude: 38.044838308766664	Longitude: -78.51564598866668	Speed: 10.327666	Device ID: bA3
+Time end: 10/15/2021 1:06:14 PM		Latitude: 38.04483731643333	Longitude: -78.51565127533334	Speed: 10.804334	Device ID: bA3
+-
+Event 13:
+Time start: 10/15/2021 1:12:06 PM	Latitude: 38.044679694779994	Longitude: -78.5152936524	Speed: 17.8092	Device ID: bA3
+Time point 2: 10/15/2021 1:12:07 PM	Latitude: 38.0446968	Longitude: -78.515274	Speed: 18	Device ID: bA3
+Time end: 10/15/2021 1:12:07 PM		Latitude: 38.044679327299995	Longitude: -78.5152093762	Speed: 23.496	Device ID: bA3
+-
+Event 13:
+Time start: 10/15/2021 1:12:44 PM	Latitude: 38.0424731208974	Longitude: -78.5116718674302	Speed: 20.136806	Device ID: bA3
+Time end: 10/15/2021 1:12:44 PM		Latitude: 38.042459136397866	Longitude: -78.51166846849702	Speed: 22.136179	Device ID: bA3
+-
+Event 13:
+Time start: 10/26/2021 2:33:54 PM	Latitude: 38.0441072066	Longitude: -78.51358879979999	Speed: 20.672	Device ID: bA3
+Time point 2: 10/26/2021 2:33:58 PM	Latitude: 38.0440063	Longitude: -78.5135117	Speed: 2	Device ID: bA3
+Time end: 10/26/2021 2:33:58 PM		Latitude: 38.0440063	Longitude: -78.5135163588	Speed: 1.5913334	Device ID: bA3
+-
+Event 13:
+Time start: 11/19/2021 3:50:26 PM	Latitude: 38.088387146775005	Longitude: -78.471177378875	Speed: 22.07075	Device ID: bA3
+Time end: 11/19/2021 3:50:26 PM		Latitude: 38.088387729500006	Longitude: -78.4711781475	Speed: 22.035	Device ID: bA3
+-
+Event 13:
+Time start: 1/26/2022 6:50:05 PM	Latitude: 38.0442365634	Longitude: -78.51376961289999	Speed: 24.636	Device ID: bA3
+Time end: 1/26/2022 6:50:05 PM		Latitude: 38.04423127326667	Longitude: -78.51376326543333	Speed: 24.497334	Device ID: bA3
+-
+Event 13:
+Time start: 4/15/2022 4:48:41 PM	Latitude: 38.0495525998	Longitude: -78.5023847969	Speed: 12.8025	Device ID: bA3
+Time end: 4/15/2022 4:48:41 PM		Latitude: 38.0495528962	Longitude: -78.5023854911	Speed: 12.9975	Device ID: bA3
+-
+Event 13:
+Time start: 6/3/2022 6:26:40 PM	Latitude: 38.0385253857	Longitude: -78.51620853398572	Speed: 13.173	Device ID: bA3
+Time end: 6/3/2022 6:26:40 PM		Latitude: 38.0385251023	Longitude: -78.51620748544286	Speed: 13.147	Device ID: bA3
+-
+Event 13:
+Time start: 6/22/2022 10:06:19 AM	Latitude: 38.04251994025	Longitude: -78.5107327851	Speed: 18.289	Device ID: bA3
+Time end: 6/22/2022 10:06:19 AM		Latitude: 38.0425262875	Longitude: -78.51072367833333	Speed: 18.216667	Device ID: bA3
+-
+Event 13:
+Time start: 6/22/2022 12:55:07 PM	Latitude: 38.09859373853333	Longitude: -78.4676495746	Speed: 32.729	Device ID: bA3
+Time end: 6/22/2022 12:55:07 PM		Latitude: 38.0985518868	Longitude: -78.4676398914	Speed: 34.361	Device ID: bA3
+-
+Event 13:
+Time start: 7/7/2022 5:05:31 PM	Latitude: 38.032183349125	Longitude: -78.508569514125	Speed: 26.96375	Device ID: bA3
+Time end: 7/7/2022 5:05:31 PM		Latitude: 38.0321834549875	Longitude: -78.5085697744875	Speed: 26.956625	Device ID: bA3
+-
+Event 13:
+Time start: 7/19/2022 12:13:31 PM	Latitude: 38.0423698	Longitude: -78.51139445400001	Speed: 27.29	Device ID: bA3
+Time end: 7/19/2022 12:13:32 PM		Latitude: 38.0423698	Longitude: -78.51133234333334	Speed: 29.016666	Device ID: bA3
+-
+Event 13:
+Time start: 7/21/2022 4:14:05 PM	Latitude: 38.035184992425	Longitude: -78.516218604475	Speed: 9.34875	Device ID: bA3
+Time end: 7/21/2022 4:14:05 PM		Latitude: 38.035184820675	Longitude: -78.516219577225	Speed: 9.23625	Device ID: bA3
+-
+Event 13:
+Time start: 7/25/2022 3:17:47 PM	Latitude: 38.046278359	Longitude: -78.50970234100001	Speed: 17.23	Device ID: bA3
+Time point 2: 7/25/2022 3:17:48 PM	Latitude: 38.0462837	Longitude: -78.509697	Speed: 18	Device ID: bA3
+Time end: 7/25/2022 3:17:48 PM		Latitude: 38.0462837	Longitude: -78.50969672535	Speed: 18.0225	Device ID: bA3
+-
+Event 13:
+Time start: 7/28/2022 1:11:30 PM	Latitude: 38.0464107345	Longitude: -78.509880748	Speed: 22.63	Device ID: bA3
+Time end: 7/28/2022 1:11:30 PM		Latitude: 38.04639139245	Longitude: -78.5098556008	Speed: 22.123	Device ID: bA3
+-
+Event 13:
+Time start: 8/4/2022 6:21:20 PM	Latitude: 38.03421479654	Longitude: -78.51366199972	Speed: 17.8696	Device ID: bA3
+Time end: 8/4/2022 6:21:20 PM		Latitude: 38.03421493394	Longitude: -78.51366369291999	Speed: 17.8456	Device ID: bA3
+-
+Event 13:
+Time start: 8/4/2022 6:31:24 PM	Latitude: 38.0288931052	Longitude: -78.5046342948	Speed: 15.572	Device ID: bA3
+Time end: 8/4/2022 6:31:24 PM		Latitude: 38.0288915488	Longitude: -78.5046358512	Speed: 15.368	Device ID: bA3
+-
+Event 13:
+Time start: 8/5/2022 1:38:37 PM	Latitude: 38.03258360435	Longitude: -78.51444428769999	Speed: 12.535	Device ID: bA3
+Time end: 8/5/2022 1:38:37 PM		Latitude: 38.03258830935	Longitude: -78.51444339769999	Speed: 13.035	Device ID: bA3
+-
+Event 13:
+Time start: 8/9/2022 2:09:04 PM	Latitude: 38.03245183074	Longitude: -78.5145067609	Speed: 20.2422	Device ID: bA3
+Time end: 8/9/2022 2:09:04 PM		Latitude: 38.0324492372	Longitude: -78.514498902	Speed: 20.716	Device ID: bA3
+-
+Event 13:
+Time start: 8/9/2022 2:09:04 PM	Latitude: 38.032436899	Longitude: -78.514461515	Speed: 22.97	Device ID: bA3
+Time end: 8/9/2022 2:09:04 PM		Latitude: 38.0324363954	Longitude: -78.514459989	Speed: 23.062	Device ID: bA3
+-
+Event 13:
+Time start: 8/11/2022 12:39:50 PM	Latitude: 38.04674307966667	Longitude: -78.50938455116666	Speed: 7.0403333	Device ID: bA3
+Time end: 8/11/2022 12:39:50 PM		Latitude: 38.046744796333336	Longitude: -78.50938404283333	Speed: 7.3236666	Device ID: bA3
+-
+Event 13:
+Time start: 8/12/2022 3:28:13 PM	Latitude: 38.036884026	Longitude: -78.5145975218	Speed: 22.641	Device ID: bA3
+Time end: 8/12/2022 3:28:13 PM		Latitude: 38.03685999266667	Longitude: -78.51459217846666	Speed: 20.191	Device ID: bA3
+-
+Event 13:
+Time start: 8/18/2022 1:25:56 PM	Latitude: 38.042425808299996	Longitude: -78.51146403603333	Speed: 25.688	Device ID: bA3
+Time end: 8/18/2022 1:25:56 PM		Latitude: 38.04242853763333	Longitude: -78.51146084892223	Speed: 25.581333	Device ID: bA3
+-
+Event 13:
+Time start: 8/18/2022 2:32:10 PM	Latitude: 38.03674763864598	Longitude: -78.51454578834039	Speed: 11.635167	Device ID: bA3
+Time end: 8/18/2022 2:32:10 PM		Latitude: 38.03674554231311	Longitude: -78.51453979769629	Speed: 12.734367	Device ID: bA3
+-
+Event 13:
+Time start: 8/19/2022 12:43:30 PM	Latitude: 38.042382653062496	Longitude: -78.51153484831251	Speed: 25.75175	Device ID: bA3
+Time point 2: 8/19/2022 12:43:31 PM	Latitude: 38.0424194	Longitude: -78.5114899	Speed: 24	Device ID: bA3
+Time end: 8/19/2022 12:43:31 PM		Latitude: 38.04241043919375	Longitude: -78.511471887225	Speed: 24.23375	Device ID: bA3
+-
+Event 13:
+Time start: 8/19/2022 1:28:53 PM	Latitude: 38.04443244593333	Longitude: -78.50529465253334	Speed: 25.535334	Device ID: bA3
+Time end: 8/19/2022 1:28:53 PM		Latitude: 38.044426850600004	Longitude: -78.5052910152	Speed: 25.462	Device ID: bA3
+-
+Event 13:
+Time start: 8/24/2022 12:30:32 PM	Latitude: 37.65009000146	Longitude: -77.58564319062	Speed: 18.7872	Device ID: bA3
+Time point 2: 8/24/2022 12:30:33 PM	Latitude: 37.6501007	Longitude: -77.58564	Speed: 18	Device ID: bA3
+Time end: 8/24/2022 12:30:33 PM		Latitude: 37.65010052454286	Longitude: -77.58563914768571	Speed: 17.990143	Device ID: bA3
+-
+Event 13:
+Time start: 8/24/2022 7:40:11 PM	Latitude: 37.64758528392857	Longitude: -77.58650918054286	Speed: 30.515142	Device ID: bA3
+Time end: 8/24/2022 7:40:12 PM		Latitude: 37.647554230357144	Longitude: -77.58652289168572	Speed: 29.352285	Device ID: bA3
+-
+Event 13:
+Time start: 8/24/2022 7:40:35 PM	Latitude: 37.6477866502	Longitude: -77.58945102774001	Speed: 22.7048	Device ID: bA3
+Time end: 8/24/2022 7:40:35 PM		Latitude: 37.6477919238	Longitude: -77.58947719606	Speed: 21.2712	Device ID: bA3
+-
+Event 13:
+Time start: 8/24/2022 8:50:13 PM	Latitude: 38.0459477594	Longitude: -78.50878144713333	Speed: 31.816	Device ID: bA3
+Time end: 8/24/2022 8:50:13 PM		Latitude: 38.045948649399996	Longitude: -78.5087856438	Speed: 31.416	Device ID: bA3
+-
+Event 13:
+Time start: 9/13/2022 2:22:51 PM	Latitude: 38.03685082205	Longitude: -78.5145052441	Speed: 12.1545	Device ID: bA3
+Time end: 9/13/2022 2:22:51 PM		Latitude: 38.03684788505	Longitude: -78.5144993701	Speed: 14.0245	Device ID: bA3
+-
+Event 13:
+Time start: 9/13/2022 2:22:51 PM	Latitude: 38.036840903000005	Longitude: -78.514485406	Speed: 18.47	Device ID: bA3
+Time end: 9/13/2022 2:22:51 PM		Latitude: 38.0368407695	Longitude: -78.514485139	Speed: 18.555	Device ID: bA3
+-
+Event 13:
+Time start: 9/21/2022 11:25:44 AM	Latitude: 38.025973418	Longitude: -78.518742398	Speed: 11.06	Device ID: bA3
+Time end: 9/21/2022 11:25:44 AM		Latitude: 38.02597324445	Longitude: -78.51874289395	Speed: 11.1315	Device ID: bA3
+-
+Event 13:
+Time start: 10/17/2022 12:00:20 PM	Latitude: 38.04239610806666	Longitude: -78.51154034473333	Speed: 29.821333	Device ID: bA3
+Time end: 10/17/2022 12:00:20 PM		Latitude: 38.042406790066664	Longitude: -78.51152512673333	Speed: 29.261333	Device ID: bA3
+-
+Event 13:
+Time start: 10/20/2022 12:58:21 PM	Latitude: 38.04268515717778	Longitude: -78.5116196	Speed: 14.776334	Device ID: bA3
+Time end: 10/20/2022 12:58:21 PM		Latitude: 38.042687152822225	Longitude: -78.5116196	Speed: 14.673667	Device ID: bA3
+-
+Event 13:
+Time start: 11/22/2022 2:37:45 PM	Latitude: 38.044180851683336	Longitude: -78.51378138693333	Speed: 10.7635	Device ID: bA3
+Time end: 11/22/2022 2:37:45 PM		Latitude: 38.04418050833333	Longitude: -78.51378183333334	Speed: 10.75	Device ID: bA3
+-

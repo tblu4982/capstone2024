@@ -1,0 +1,21 @@
+Vehicle: V0758
+Time start: 6/13/2019 6:58:15 PM	Latitude: 38.035736533875	Longitude: -78.517349448625	Speed: 0.024375	Device ID: b58
+Time end: 6/13/2019 6:58:15 PM		Latitude: 38.035736600625	Longitude: -78.51734948687499	Speed: 0.028125	Device ID: b58
+-
+Vehicle: V0758
+Time start: 5/13/2021 12:30:03 PM	Latitude: 38.0352516	Longitude: -78.5155869	Speed: 1.666	Device ID: b58
+Time end: 5/13/2021 12:30:03 PM		Latitude: 38.0352516	Longitude: -78.5155869	Speed: 1.646	Device ID: b58
+-
+Vehicle: V0758
+Time start: 12/16/2021 3:05:39 PM	Latitude: 38.0344048	Longitude: -78.51990640038073	Speed: 0	Device ID: b58
+Time end: 12/16/2021 3:05:39 PM		Latitude: 38.0344048	Longitude: -78.51990638655668	Speed: 0	Device ID: b58
+-
+Vehicle: V0758
+Time start: 7/27/2022 1:26:56 PM	Latitude: 38.0354309	Longitude: -78.5166092	Speed: 1.2555	Device ID: b58
+Time end: 7/27/2022 1:26:56 PM		Latitude: 38.0354309	Longitude: -78.5166092	Speed: 1.1745	Device ID: b58
+-
+Vehicle: V0758
+Time start: 12/9/2022 5:59:45 PM	Latitude: 38.03546711	Longitude: -78.508216142	Speed: 36.48	Device ID: b58
+Time point 2: 12/9/2022 5:59:46 PM	Latitude: 38.0353775	Longitude: -78.5082626	Speed: 33	Device ID: b58
+Time end: 12/9/2022 5:59:46 PM		Latitude: 38.0353753424	Longitude: -78.50826359615	Speed: 31.6515	Device ID: b58
+-

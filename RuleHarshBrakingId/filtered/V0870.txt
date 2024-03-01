@@ -1,0 +1,242 @@
+Vehicle: V0870
+Time start: 9/27/2019 2:34:01 PM	Latitude: 38.03465439735	Longitude: -78.512509558575	Speed: 31.90825	Device ID: bAA
+Time end: 9/27/2019 2:34:02 PM		Latitude: 38.03465717865	Longitude: -78.512517913425	Speed: 30.41175	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/9/2019 2:29:23 PM	Latitude: 38.03428660702	Longitude: -78.51411598646	Speed: 25.809	Device ID: bAA
+Time end: 10/9/2019 2:29:23 PM		Latitude: 38.0343102028	Longitude: -78.5141136644	Speed: 22.26	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 12/18/2019 2:41:46 PM	Latitude: 38.037143022375	Longitude: -78.50766631104999	Speed: 41	Device ID: bAA
+Time point 2: 12/18/2019 2:41:47 PM	Latitude: 38.0371208	Longitude: -78.5076752	Speed: 41	Device ID: bAA
+Time end: 12/18/2019 2:41:47 PM		Latitude: 38.037116006379996	Longitude: -78.50767677178	Speed: 40.2378	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 1/3/2020 2:19:20 PM	Latitude: 38.03302651005	Longitude: -78.4965068149	Speed: 44.8835	Device ID: bAA
+Time end: 1/3/2020 2:19:20 PM		Latitude: 38.03303003445	Longitude: -78.4965380461	Speed: 43.4315	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 1/14/2020 12:17:23 PM	Latitude: 38.0320511	Longitude: -78.503498256675	Speed: 20.06275	Device ID: bAA
+Time end: 1/14/2020 12:17:23 PM		Latitude: 38.0320511	Longitude: -78.503482062	Speed: 18.86	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 2/4/2020 2:09:14 PM	Latitude: 38.032984875023985	Longitude: -78.4965271357851	Speed: 32.04989	Device ID: bAA
+Time end: 2/4/2020 2:09:15 PM		Latitude: 38.03299524867285	Longitude: -78.49657021989127	Speed: 27.239527	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 8/19/2020 1:52:37 PM	Latitude: 38.035881945250004	Longitude: -78.517333666075	Speed: 13.0595	Device ID: bAA
+Time end: 8/19/2020 1:52:37 PM		Latitude: 38.03588055475	Longitude: -78.517335003925	Speed: 13.1405	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 9/29/2020 11:02:40 PM	Latitude: 38.0325515516	Longitude: -78.50077297124	Speed: 12.3202	Device ID: bAA
+Time end: 9/29/2020 11:02:40 PM		Latitude: 38.0325466076	Longitude: -78.50077168964	Speed: 12.1522	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/5/2020 12:40:34 PM	Latitude: 38.070371321850004	Longitude: -78.4839217792	Speed: 111.3385	Device ID: bAA
+Time point 2: 10/5/2020 12:40:35 PM	Latitude: 38.0704002	Longitude: -78.4838943	Speed: 112	Device ID: bAA
+Time end: 10/5/2020 12:40:35 PM		Latitude: 38.07043237255	Longitude: -78.48386436525	Speed: 109.996	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/5/2020 1:16:44 PM	Latitude: 38.085840599	Longitude: -78.474352861	Speed: 13.14	Device ID: bAA
+Time end: 10/5/2020 1:16:44 PM		Latitude: 38.0858402393	Longitude: -78.47435264555713	Speed: 13.055142	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 3/19/2021 12:42:41 PM	Latitude: 38.042918272550004	Longitude: -78.501830022175	Speed: 32.45125	Device ID: bAA
+Time end: 3/19/2021 12:42:42 PM		Latitude: 38.04292002745	Longitude: -78.501832127825	Speed: 32.04875	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 5/5/2021 1:51:59 PM	Latitude: 38.0340257056	Longitude: -78.5108538112	Speed: 37.642	Device ID: bAA
+Time end: 5/5/2021 1:51:59 PM		Latitude: 38.0340305664	Longitude: -78.51086353279999	Speed: 34.898	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/3/2021 1:56:27 PM	Latitude: 38.0455715159	Longitude: -78.51824567248333	Speed: 66.67067	Device ID: bAA
+Time end: 6/3/2021 1:56:27 PM		Latitude: 38.045563442100004	Longitude: -78.51821578385	Speed: 66.476	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/11/2021 1:36:20 PM	Latitude: 38.0358928147375	Longitude: -78.5173790447125	Speed: 12.95875	Device ID: bAA
+Time point 2: 6/11/2021 1:36:21 PM	Latitude: 38.0358925	Longitude: -78.5173798	Speed: 13	Device ID: bAA
+Time end: 6/11/2021 1:36:21 PM		Latitude: 38.035891699000004	Longitude: -78.5173798	Speed: 12.805	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 8/2/2021 3:43:00 PM	Latitude: 38.03297771515	Longitude: -78.496621321	Speed: 43.3905	Device ID: bAA
+Time end: 8/2/2021 3:43:00 PM		Latitude: 38.03298240965	Longitude: -78.496663551	Speed: 39.9055	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 8/12/2021 3:47:13 PM	Latitude: 38.03670070485	Longitude: -78.515195127	Speed: 24.637	Device ID: bAA
+Time end: 8/12/2021 3:47:13 PM		Latitude: 38.03669891865	Longitude: -78.515204643	Speed: 23.233	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 9/23/2021 3:02:39 PM	Latitude: 38.0294539417	Longitude: -78.5196088834	Speed: 9.961	Device ID: bAA
+Time end: 9/23/2021 3:02:39 PM		Latitude: 38.02945434863333	Longitude: -78.51960969726666	Speed: 9.849	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 9/30/2021 11:52:40 AM	Latitude: 38.0359955	Longitude: -78.51422049383334	Speed: 2.183	Device ID: bAA
+Time end: 9/30/2021 11:52:40 AM		Latitude: 38.0359955	Longitude: -78.514218735	Speed: 2.01	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/4/2021 1:17:53 PM	Latitude: 38.03604052095	Longitude: -78.5167467547	Speed: 14.0845	Device ID: bAA
+Time end: 10/4/2021 1:17:53 PM		Latitude: 38.036035488	Longitude: -78.51675538799999	Speed: 10.88	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/5/2021 11:04:26 AM	Latitude: 38.0343819	Longitude: -78.5002587433	Speed: 6.092	Device ID: bAA
+Time end: 10/5/2021 11:04:26 AM		Latitude: 38.0343819	Longitude: -78.5002547757	Speed: 5.468	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/11/2021 11:27:54 AM	Latitude: 38.03667052174615	Longitude: -78.51558203546924	Speed: 30.554846	Device ID: bAA
+Time end: 10/11/2021 11:27:54 AM		Latitude: 38.03667011676923	Longitude: -78.51558384415385	Speed: 30.570768	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/14/2021 1:48:36 PM	Latitude: 38.03164692276667	Longitude: -78.50131978396666	Speed: 28.851667	Device ID: bAA
+Time end: 10/14/2021 1:48:37 PM		Latitude: 38.03165188443333	Longitude: -78.50134788563332	Speed: 21.268333	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 11/10/2021 7:11:40 PM	Latitude: 38.0337143	Longitude: -78.507558095	Speed: 17.05	Device ID: bAA
+Time end: 11/10/2021 7:11:40 PM		Latitude: 38.0337143	Longitude: -78.5075506983	Speed: 13.497	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 12/13/2021 1:52:53 PM	Latitude: 38.0357628	Longitude: -78.51719985700001	Speed: 14.12	Device ID: bAA
+Time end: 12/13/2021 1:52:54 PM		Latitude: 38.0357628	Longitude: -78.51718526515	Speed: 13.574	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 2/2/2022 1:50:40 PM	Latitude: 38.03218989333333	Longitude: -78.51244097666667	Speed: 28.05	Device ID: bAA
+Time end: 2/2/2022 1:50:40 PM		Latitude: 38.032192042666665	Longitude: -78.51244758933333	Speed: 26.88	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 3/1/2022 2:03:16 PM	Latitude: 38.03288520335	Longitude: -78.5011978	Speed: 5.5035	Device ID: bAA
+Time end: 3/1/2022 2:03:16 PM		Latitude: 38.032884596500004	Longitude: -78.5011978	Speed: 5.265	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 3/4/2022 4:21:47 PM	Latitude: 38.0320511	Longitude: -78.50364367493749	Speed: 23.920376	Device ID: bAA
+Time end: 3/4/2022 4:21:47 PM		Latitude: 38.0320511	Longitude: -78.503643055	Speed: 23.87	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 3/29/2022 3:51:57 PM	Latitude: 38.0365551307	Longitude: -78.5143046461	Speed: 26.0595	Device ID: bAA
+Time end: 3/29/2022 3:51:58 PM		Latitude: 38.0365562	Longitude: -78.5143051	Speed: 26	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 5/6/2022 2:36:43 PM	Latitude: 38.028216567	Longitude: -78.5202408	Speed: 27.729	Device ID: bAA
+Time end: 5/6/2022 2:36:44 PM		Latitude: 38.028222506666665	Longitude: -78.5202408	Speed: 25.48	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/15/2022 1:39:01 PM	Latitude: 38.03276327033084	Longitude: -78.5010681	Speed: 8.477055	Device ID: bAA
+Time end: 6/15/2022 1:39:01 PM		Latitude: 38.03276401120598	Longitude: -78.5010681	Speed: 8.25507	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/15/2022 1:39:01 PM	Latitude: 38.032764125186766	Longitude: -78.5010681	Speed: 8.220918	Device ID: bAA
+Time end: 6/15/2022 1:39:01 PM		Latitude: 38.03276498004269	Longitude: -78.5010681	Speed: 7.9647813	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/15/2022 1:39:01 PM	Latitude: 38.03276515101388	Longitude: -78.5010681	Speed: 7.9135537	Device ID: bAA
+Time point 2: 6/15/2022 1:39:02 PM	Latitude: 38.0327682	Longitude: -78.5010681	Speed: 7	Device ID: bAA
+Time end: 6/15/2022 1:39:02 PM		Latitude: 38.0327682	Longitude: -78.5010681	Speed: 7	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/15/2022 1:39:02 PM	Latitude: 38.032773086466165	Longitude: -78.5010681	Speed: 7	Device ID: bAA
+Time end: 6/15/2022 1:39:02 PM		Latitude: 38.03278492481203	Longitude: -78.5010681	Speed: 7	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 9/1/2022 11:36:32 AM	Latitude: 38.0358391	Longitude: -78.516969336	Speed: 25.44	Device ID: bAA
+Time end: 9/1/2022 11:36:32 AM		Latitude: 38.0358391	Longitude: -78.51692737100001	Speed: 24.34	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 9/8/2022 1:45:17 PM	Latitude: 38.03898827562	Longitude: -78.50278987314	Speed: 16.1356	Device ID: bAA
+Time point 2: 9/8/2022 1:45:18 PM	Latitude: 38.03899	Longitude: -78.5027847	Speed: 16	Device ID: bAA
+Time end: 9/8/2022 1:45:18 PM		Latitude: 38.03899	Longitude: -78.502778746	Speed: 11.84	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 9/9/2022 12:41:04 PM	Latitude: 38.032556414700004	Longitude: -78.500395388	Speed: 28.229	Device ID: bAA
+Time end: 9/9/2022 12:41:04 PM		Latitude: 38.0325557277	Longitude: -78.50039790800001	Speed: 28.139	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 10/31/2022 3:43:40 PM	Latitude: 38.032298156	Longitude: -78.513562	Speed: 41.68	Device ID: bAA
+Time point 2: 10/31/2022 3:43:41 PM	Latitude: 38.0323067	Longitude: -78.5136108	Speed: 42	Device ID: bAA
+Time end: 10/31/2022 3:43:41 PM		Latitude: 38.0323082753	Longitude: -78.513622954	Speed: 39.817	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 11/17/2022 2:05:46 PM	Latitude: 38.033691246475	Longitude: -78.50767739304999	Speed: 26.05175	Device ID: bAA
+Time point 2: 11/17/2022 2:05:47 PM	Latitude: 38.0336914	Longitude: -78.5076752	Speed: 26	Device ID: bAA
+Time end: 11/17/2022 2:05:47 PM		Latitude: 38.0336914	Longitude: -78.507663185	Speed: 20.15	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 1/27/2023 2:25:27 PM	Latitude: 38.03224528525	Longitude: -78.50913375875	Speed: 16.1675	Device ID: bAA
+Time end: 1/27/2023 2:25:27 PM		Latitude: 38.032245265225	Longitude: -78.509133890375	Speed: 16.14575	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 2/23/2023 12:37:27 PM	Latitude: 38.036485517200006	Longitude: -78.5156097	Speed: 9.75425	Device ID: bAA
+Time end: 2/23/2023 12:37:27 PM		Latitude: 38.0364856412	Longitude: -78.5156097	Speed: 9.72675	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 2/28/2023 12:01:36 PM	Latitude: 38.0358213067	Longitude: -78.5161267851	Speed: 26.216	Device ID: bAA
+Time end: 2/28/2023 12:01:36 PM		Latitude: 38.035825589	Longitude: -78.516112517	Speed: 24.72	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 3/9/2023 12:05:09 PM	Latitude: 38.0358658	Longitude: -78.515613438	Speed: 25.02	Device ID: bAA
+Time end: 3/9/2023 12:05:09 PM		Latitude: 38.0358658	Longitude: -78.5156354922	Speed: 19.238	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 3/29/2023 11:41:57 AM	Latitude: 38.0357895	Longitude: -78.51677810005	Speed: 24.0105	Device ID: bAA
+Time end: 3/29/2023 11:41:57 AM		Latitude: 38.0357895	Longitude: -78.516757995	Speed: 17.95	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 3/29/2023 11:51:45 AM	Latitude: 38.0346856662	Longitude: -78.5004026099	Speed: 20.713	Device ID: bAA
+Time end: 3/29/2023 11:51:45 AM		Latitude: 38.034681607799996	Longitude: -78.50039716309999	Speed: 16.797	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 4/18/2023 3:18:13 PM	Latitude: 38.032023035814284	Longitude: -78.50402973755715	Speed: 32.702145	Device ID: bAA
+Time end: 4/18/2023 3:18:13 PM		Latitude: 38.032023081614284	Longitude: -78.50402841015715	Speed: 32.712143	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 5/4/2023 12:36:37 PM	Latitude: 38.0346801648	Longitude: -78.51275588514285	Speed: 21.84743	Device ID: bAA
+Time point 2: 5/4/2023 12:36:38 PM	Latitude: 38.034687	Longitude: -78.5127716	Speed: 22	Device ID: bAA
+Time end: 5/4/2023 12:36:38 PM		Latitude: 38.0346882549	Longitude: -78.51277339305	Speed: 21.6945	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 5/12/2023 2:05:20 PM	Latitude: 38.035365016	Longitude: -78.500926714	Speed: 26.31	Device ID: bAA
+Time end: 5/12/2023 2:05:20 PM		Latitude: 38.0353613952	Longitude: -78.50092281580001	Speed: 25.507	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 5/26/2023 1:02:35 PM	Latitude: 38.035044398275	Longitude: -78.51656108727501	Speed: 30.79525	Device ID: bAA
+Time point 2: 5/26/2023 1:02:36 PM	Latitude: 38.0350456	Longitude: -78.5165558	Speed: 31	Device ID: bAA
+Time end: 5/26/2023 1:02:36 PM		Latitude: 38.035047909549995	Longitude: -78.5165472192	Speed: 29.443	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/7/2023 1:50:57 PM	Latitude: 38.028492	Longitude: -78.5199973127	Speed: 19.644	Device ID: bAA
+Time end: 6/7/2023 1:50:57 PM		Latitude: 38.028492	Longitude: -78.5199975417	Speed: 19.524	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/8/2023 12:10:47 PM	Latitude: 38.0321330871	Longitude: -78.5074480704	Speed: 37.852	Device ID: bAA
+Time point 2: 6/8/2023 12:10:48 PM	Latitude: 38.0321274	Longitude: -78.5074692	Speed: 37	Device ID: bAA
+Time end: 6/8/2023 12:10:48 PM		Latitude: 38.032126573333336	Longitude: -78.50747136166667	Speed: 36.383335	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 6/26/2023 11:20:02 AM	Latitude: 38.0492554	Longitude: -78.5025108693	Speed: 13.335	Device ID: bAA
+Time end: 6/26/2023 11:20:02 AM		Latitude: 38.0492554	Longitude: -78.50251359066667	Speed: 12.8	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 7/6/2023 2:49:43 PM	Latitude: 38.0351982	Longitude: -78.5146605104	Speed: 38.581	Device ID: bAA
+Time end: 7/6/2023 2:49:43 PM		Latitude: 38.0351982	Longitude: -78.5146313456	Speed: 34.759	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 7/6/2023 3:45:20 PM	Latitude: 38.043061871999996	Longitude: -78.510959681	Speed: 32.27	Device ID: bAA
+Time end: 7/6/2023 3:45:20 PM		Latitude: 38.043046992	Longitude: -78.510967691	Speed: 28.97	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 7/12/2023 8:46:16 AM	Latitude: 38.0406197097	Longitude: -78.51340495006666	Speed: 51.411335	Device ID: bAA
+Time end: 7/12/2023 8:46:16 AM		Latitude: 38.040681157	Longitude: -78.51334848733333	Speed: 51.84667	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 8/18/2023 12:10:01 PM	Latitude: 38.03552372536	Longitude: -78.5140496467	Speed: 23.2236	Device ID: bAA
+Time end: 8/18/2023 12:10:01 PM		Latitude: 38.035538908	Longitude: -78.514047835	Speed: 23.58	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 9/12/2023 1:31:09 PM	Latitude: 38.04170662666667	Longitude: -78.50597124	Speed: 45.733334	Device ID: bAA
+Time end: 9/12/2023 1:31:09 PM		Latitude: 38.04172756966666	Longitude: -78.505964382	Speed: 42.853333	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 11/29/2023 1:10:09 PM	Latitude: 38.0405503297	Longitude: -78.5135878703	Speed: 40.967	Device ID: bAA
+Time end: 11/29/2023 1:10:09 PM		Latitude: 38.040567061	Longitude: -78.51357113899999	Speed: 36.71	Device ID: bAA
+-
+Vehicle: V0870
+Time start: 1/8/2024 12:39:51 PM	Latitude: 38.036274	Longitude: -78.51618193715	Speed: 1.9995	Device ID: bAA
+Time end: 1/8/2024 12:39:51 PM		Latitude: 38.036274	Longitude: -78.51618216615	Speed: 1.9695	Device ID: bAA
+-

@@ -1,0 +1,43 @@
+Event 111:
+Time start: 1/8/2024 4:10:06 PM	Latitude: 38.044663838000005	Longitude: -78.505113364	Speed: 26	Device ID: b285
+Time end: 1/8/2024 4:10:07 PM		Latitude: 38.044657353000005	Longitude: -78.505116034	Speed: 26	Device ID: b285
+-
+Event 111:
+Time start: 1/8/2024 4:10:07 PM	Latitude: 38.04460787245	Longitude: -78.5051364061	Speed: 26	Device ID: b285
+Time point 2: 1/8/2024 4:10:08 PM	Latitude: 38.0445938	Longitude: -78.5051422	Speed: 26	Device ID: b285
+Time end: 1/8/2024 4:10:08 PM		Latitude: 38.0445913039	Longitude: -78.5051638256	Speed: 26.327	Device ID: b285
+-
+Event 111:
+Time start: 1/10/2024 4:08:14 PM	Latitude: 38.026746548599995	Longitude: -78.5294031909	Speed: 30.305	Device ID: b285
+Time end: 1/10/2024 4:08:14 PM		Latitude: 38.02674298793333	Longitude: -78.52940746323333	Speed: 30.188334	Device ID: b285
+-
+Event 111:
+Time start: 1/10/2024 4:09:00 PM	Latitude: 38.022541245750006	Longitude: -78.5369916879	Speed: 80.882	Device ID: b285
+Time point 2: 1/10/2024 4:09:01 PM	Latitude: 38.0225525	Longitude: -78.5370331	Speed: 81	Device ID: b285
+Time end: 1/10/2024 4:09:01 PM		Latitude: 38.0225500955	Longitude: -78.537087574	Speed: 81.21	Device ID: b285
+-
+Event 111:
+Time start: 1/22/2024 5:47:22 PM	Latitude: 38.0369882719	Longitude: -78.5146321228	Speed: 30.086666	Device ID: b285
+Time end: 1/22/2024 5:47:22 PM		Latitude: 38.0369420341	Longitude: -78.5146105492	Speed: 26.046667	Device ID: b285
+-
+Event 111:
+Time start: 1/24/2024 1:40:20 PM	Latitude: 38.074307971833335	Longitude: -78.49871431954999	Speed: 24.5345	Device ID: b285
+Time end: 1/24/2024 1:40:21 PM		Latitude: 38.074310255	Longitude: -78.4987075565	Speed: 24.335	Device ID: b285
+-
+Event 111:
+Time start: 1/26/2024 1:56:36 PM	Latitude: 38.07428096668571	Longitude: -78.49872865558571	Speed: 28.789	Device ID: b285
+Time end: 1/26/2024 1:56:37 PM		Latitude: 38.074290708171425	Longitude: -78.49870774627142	Speed: 27.481	Device ID: b285
+-
+Event 111:
+Time start: 1/26/2024 1:56:45 PM	Latitude: 38.07450796453333	Longitude: -78.49838819063334	Speed: 17.021334	Device ID: b285
+Time point 2: 1/26/2024 1:56:46 PM	Latitude: 38.0745201	Longitude: -78.4983826	Speed: 18	Device ID: b285
+Time end: 1/26/2024 1:56:46 PM		Latitude: 38.074522549725	Longitude: -78.498375599475	Speed: 16.532	Device ID: b285
+-
+Event 111:
+Time start: 1/26/2024 2:36:07 PM	Latitude: 38.0744209	Longitude: -78.498677791	Speed: 14.41	Device ID: b285
+Time end: 1/26/2024 2:36:07 PM		Latitude: 38.0744209	Longitude: -78.49870995145	Speed: 19.8895	Device ID: b285
+-
+Event 111:
+Time start: 1/26/2024 2:45:58 PM	Latitude: 38.036938484	Longitude: -78.514614651	Speed: 28.91	Device ID: b285
+Time end: 1/26/2024 2:45:59 PM		Latitude: 38.036892241733334	Longitude: -78.51462142176668	Speed: 25.657667	Device ID: b285
+-

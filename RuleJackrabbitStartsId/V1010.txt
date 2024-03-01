@@ -1,0 +1,120 @@
+Event 27:
+Time start: 1/20/2023 3:42:32 PM	Latitude: 38.02938990514286	Longitude: -78.51300309428571	Speed: 5.647143	Device ID: b23D
+Time end: 1/20/2023 3:42:32 PM		Latitude: 38.02939866857143	Longitude: -78.51301015714286	Speed: 4.3785715	Device ID: b23D
+-
+Event 27:
+Time start: 1/24/2023 3:19:16 PM	Latitude: 38.0447731	Longitude: -78.5050888	Speed: 2	Device ID: b23D
+Time end: 1/24/2023 3:19:16 PM		Latitude: 38.04477168845	Longitude: -78.50508922364999	Speed: 2.444	Device ID: b23D
+-
+Event 27:
+Time start: 1/27/2023 6:43:56 PM	Latitude: 38.03105159	Longitude: -78.4967651	Speed: 8.2	Device ID: b23D
+Time end: 1/27/2023 6:43:56 PM		Latitude: 38.0310603645	Longitude: -78.4967651	Speed: 9.81	Device ID: b23D
+-
+Event 27:
+Time start: 2/14/2023 1:28:07 PM	Latitude: 38.0288025624	Longitude: -78.5165024	Speed: 6.441	Device ID: b23D
+Time end: 2/14/2023 1:28:07 PM		Latitude: 38.0288013224	Longitude: -78.5165024	Speed: 6.091	Device ID: b23D
+-
+Event 27:
+Time start: 3/26/2023 12:28:33 PM	Latitude: 38.039499052699995	Longitude: -78.50634880308571	Speed: 9.309571	Device ID: b23D
+Time end: 3/26/2023 12:28:33 PM		Latitude: 38.0394997067	Longitude: -78.50634612194285	Speed: 9.215285	Device ID: b23D
+-
+Event 27:
+Time start: 4/18/2023 1:52:01 PM	Latitude: 38.04469552966666	Longitude: -78.51443385896667	Speed: 8.308333	Device ID: b23D
+Time point 2: 4/18/2023 1:52:02 PM	Latitude: 38.0446968	Longitude: -78.5144348	Speed: 8	Device ID: b23D
+Time end: 4/18/2023 1:52:02 PM		Latitude: 38.04470279374286	Longitude: -78.5144411765	Speed: 8.568286	Device ID: b23D
+-
+Event 27:
+Time start: 4/28/2023 2:43:31 PM	Latitude: 38.023677254575006	Longitude: -78.434746473125	Speed: 3.46475	Device ID: b23D
+Time point 2: 4/28/2023 2:43:32 PM	Latitude: 38.0236816	Longitude: -78.4347382	Speed: 2	Device ID: b23D
+Time end: 4/28/2023 2:43:32 PM		Latitude: 38.0236816	Longitude: -78.4347339177	Speed: 3.496	Device ID: b23D
+-
+Event 27:
+Time start: 4/28/2023 3:50:51 PM	Latitude: 38.052751003163635	Longitude: -78.5222195736	Speed: 65.748634	Device ID: b23D
+-
+Event 27:
+Time start: 5/7/2023 5:50:49 PM	Latitude: 38.0360718	Longitude: -78.5170212	Speed: 2	Device ID: b23D
+Time point 2: 5/7/2023 5:50:53 PM	Latitude: 38.0360451	Longitude: -78.517067	Speed: 6	Device ID: b23D
+Time point 3: 5/7/2023 5:51:10 PM	Latitude: 38.0358925	Longitude: -78.5173492	Speed: 7	Device ID: b23D
+Time point 4: 5/7/2023 5:51:17 PM	Latitude: 38.0357628	Longitude: -78.5172195	Speed: 16	Device ID: b23D
+Time point 5: 5/7/2023 5:51:20 PM	Latitude: 38.0357628	Longitude: -78.5170212	Speed: 24	Device ID: b23D
+Time point 6: 5/7/2023 5:51:25 PM	Latitude: 38.0357895	Longitude: -78.5166855	Speed: 14	Device ID: b23D
+Time point 7: 5/7/2023 5:51:52 PM	Latitude: 38.0359154	Longitude: -78.5145874	Speed: 28	Device ID: b23D
+Time point 8: 5/7/2023 5:51:54 PM	Latitude: 38.0359421	Longitude: -78.5144348	Speed: 26	Device ID: b23D
+Time point 9: 5/7/2023 5:51:58 PM	Latitude: 38.0359688	Longitude: -78.5142746	Speed: 3	Device ID: b23D
+Time point 10: 5/7/2023 5:52:01 PM	Latitude: 38.0359154	Longitude: -78.5141983	Speed: 16	Device ID: b23D
+Time point 11: 5/7/2023 5:52:04 PM	Latitude: 38.0357628	Longitude: -78.514122	Speed: 28	Device ID: b23D
+Time end: 5/7/2023 5:52:15 PM		Latitude: 38.0354309	Longitude: -78.514122	Speed: 0	Device ID: b23D
+-
+Event 27:
+Time start: 5/7/2023 5:52:30 PM	Latitude: 38.0354042	Longitude: -78.5140991	Speed: 3	Device ID: b23D
+Time point 2: 5/7/2023 5:52:32 PM	Latitude: 38.0353546	Longitude: -78.5140991	Speed: 14	Device ID: b23D
+Time point 3: 5/7/2023 5:52:36 PM	Latitude: 38.0351982	Longitude: -78.5140228	Speed: 17	Device ID: b23D
+Time point 4: 5/7/2023 5:52:43 PM	Latitude: 38.0350723	Longitude: -78.513588	Speed: 22	Device ID: b23D
+Time point 5: 5/7/2023 5:52:59 PM	Latitude: 38.0345345	Longitude: -78.5126419	Speed: 20	Device ID: b23D
+Time point 6: 5/7/2023 5:53:08 PM	Latitude: 38.0343552	Longitude: -78.5121307	Speed: 20	Device ID: b23D
+Time point 7: 5/7/2023 5:53:12 PM	Latitude: 38.0343285	Longitude: -78.5120239	Speed: 4	Device ID: b23D
+Time point 8: 5/7/2023 5:53:19 PM	Latitude: 38.0342255	Longitude: -78.511795	Speed: 18	Device ID: b23D
+Time point 9: 5/7/2023 5:53:28 PM	Latitude: 38.0340729	Longitude: -78.5112839	Speed: 20	Device ID: b23D
+Time point 10: 5/7/2023 5:53:43 PM	Latitude: 38.0337677	Longitude: -78.5101318	Speed: 29	Device ID: b23D
+Time point 11: 5/7/2023 5:53:52 PM	Latitude: 38.0337143	Longitude: -78.5093384	Speed: 28	Device ID: b23D
+Time point 12: 5/7/2023 5:54:03 PM	Latitude: 38.0337143	Longitude: -78.5087509	Speed: 5	Device ID: b23D
+Time point 13: 5/7/2023 5:54:08 PM	Latitude: 38.0336914	Longitude: -78.5086975	Speed: 7	Device ID: b23D
+Time point 14: 5/7/2023 5:54:14 PM	Latitude: 38.0334091	Longitude: -78.5086441	Speed: 29	Device ID: b23D
+Time point 15: 5/7/2023 5:54:24 PM	Latitude: 38.0328178	Longitude: -78.5086441	Speed: 18	Device ID: b23D
+Time point 16: 5/7/2023 5:54:28 PM	Latitude: 38.0326653	Longitude: -78.5084152	Speed: 28	Device ID: b23D
+Time point 17: 5/7/2023 5:54:36 PM	Latitude: 38.0324593	Longitude: -78.5078049	Speed: 22	Device ID: b23D
+Time point 18: 5/7/2023 5:54:49 PM	Latitude: 38.0325623	Longitude: -78.5068054	Speed: 26	Device ID: b23D
+Time point 19: 5/7/2023 5:54:54 PM	Latitude: 38.0328178	Longitude: -78.506546	Speed: 28	Device ID: b23D
+Time point 20: 5/7/2023 5:55:00 PM	Latitude: 38.0330734	Longitude: -78.5062943	Speed: 16	Device ID: b23D
+Time point 21: 5/7/2023 5:55:05 PM	Latitude: 38.0329971	Longitude: -78.506012	Speed: 22	Device ID: b23D
+Time point 22: 5/7/2023 5:55:07 PM	Latitude: 38.0329742	Longitude: -78.5059052	Speed: 14	Device ID: b23D
+Time end: 5/7/2023 5:55:13 PM		Latitude: 38.0329971	Longitude: -78.5058289	Speed: 0	Device ID: b23D
+-
+Event 27:
+Time start: 5/7/2023 5:55:14 PM	Latitude: 38.0329971	Longitude: -78.5058289	Speed: 2	Device ID: b23D
+Time end: 5/7/2023 5:55:25 PM		Latitude: 38.0329208	Longitude: -78.5058594	Speed: 0	Device ID: b23D
+-
+Event 27:
+Time start: 5/12/2023 12:55:23 PM	Latitude: 38.03669152133333	Longitude: -78.51441899933333	Speed: 6.9266667	Device ID: b23D
+Time end: 5/12/2023 12:55:23 PM		Latitude: 38.03669372026667	Longitude: -78.51442474936667	Speed: 7.680333	Device ID: b23D
+-
+Event 27:
+Time start: 6/17/2023 3:44:18 PM	Latitude: 38.046237705	Longitude: -78.50977249850001	Speed: 8.42	Device ID: b23D
+Time end: 6/17/2023 3:44:18 PM		Latitude: 38.0462493955	Longitude: -78.50976989935	Speed: 9.782	Device ID: b23D
+-
+Event 27:
+Time start: 6/18/2023 2:12:18 PM	Latitude: 38.0501251	Longitude: -78.5128937	Speed: 6	Device ID: b23D
+Time end: 6/18/2023 2:12:18 PM		Latitude: 38.050124203500005	Longitude: -78.5128937	Speed: 6.1	Device ID: b23D
+-
+Event 27:
+Time start: 6/20/2023 1:06:16 PM	Latitude: 38.028594076180006	Longitude: -78.5167155276	Speed: 5.7266	Device ID: b23D
+Time end: 6/20/2023 1:06:16 PM		Latitude: 38.028594823780004	Longitude: -78.5167097596	Speed: 5.1386	Device ID: b23D
+-
+Event 27:
+Time start: 6/26/2023 1:44:19 PM	Latitude: 38.036086076000004	Longitude: -78.514185018	Speed: 22.5	Device ID: b23D
+Time end: 6/26/2023 1:44:19 PM		Latitude: 38.036089109	Longitude: -78.5141846745	Speed: 22.875	Device ID: b23D
+-
+Event 27:
+Time start: 8/4/2023 2:25:51 PM	Latitude: 38.031402333440006	Longitude: -78.51049170236	Speed: 5.379	Device ID: b23D
+Time end: 8/4/2023 2:25:51 PM		Latitude: 38.031401301760006	Longitude: -78.51049487644	Speed: 5.691	Device ID: b23D
+-
+Event 27:
+Time start: 9/16/2023 3:06:00 PM	Latitude: 38.02015149468333	Longitude: -78.53796042193333	Speed: 12.7065	Device ID: b23D
+Time end: 9/16/2023 3:06:01 PM		Latitude: 38.02013703115	Longitude: -78.53798504139999	Speed: 15.3685	Device ID: b23D
+-
+Event 27:
+Time start: 9/21/2023 1:39:51 PM	Latitude: 38.03286616705	Longitude: -78.4996005318	Speed: 9.508	Device ID: b23D
+Time end: 9/21/2023 1:39:51 PM		Latitude: 38.032865819950004	Longitude: -78.49960192019999	Speed: 9.612	Device ID: b23D
+-
+Event 27:
+Time start: 11/15/2023 3:50:33 PM	Latitude: 38.085146225	Longitude: -78.47749520833334	Speed: 5.4166665	Device ID: b23D
+Time end: 11/15/2023 3:50:33 PM		Latitude: 38.085144623	Longitude: -78.47749383433334	Speed: 5.116667	Device ID: b23D
+-
+Event 27:
+Time start: 11/30/2023 8:12:38 PM	Latitude: 38.0359421	Longitude: -78.5178146	Speed: 0.24666667	Device ID: b23D
+Time end: 11/30/2023 8:12:38 PM		Latitude: 38.0359421	Longitude: -78.5178146	Speed: 0.238	Device ID: b23D
+-
+Event 27:
+Time start: 1/15/2024 4:22:48 PM	Latitude: 38.04241537248	Longitude: -78.51155404778	Speed: 9.891	Device ID: b23D
+Time end: 1/15/2024 4:22:48 PM		Latitude: 38.04242132448	Longitude: -78.51154946978001	Speed: 10.791	Device ID: b23D
+-

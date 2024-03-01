@@ -1,0 +1,45 @@
+Vehicle: V0445
+Time start: 3/19/2022 12:55:53 PM	Latitude: 38.0237451641	Longitude: -78.4349052962	Speed: 0	Device ID: b204
+Time end: 3/19/2022 12:55:53 PM		Latitude: 38.023745145686206	Longitude: -78.43490531730345	Speed: 0	Device ID: b204
+-
+Vehicle: V0445
+Time start: 9/28/2022 3:52:37 PM	Latitude: 38.03282713678572	Longitude: -78.5010060127	Speed: 2.0494285	Device ID: b204
+Time end: 9/28/2022 3:52:37 PM		Latitude: 38.032828966785715	Longitude: -78.5010069283	Speed: 1.8334286	Device ID: b204
+-
+Vehicle: V0445
+Time start: 5/5/2023 3:13:52 PM	Latitude: 38.0313339	Longitude: -78.4997635	Speed: 2	Device ID: b204
+Time point 2: 5/5/2023 3:14:11 PM	Latitude: 38.0310783	Longitude: -78.4999161	Speed: 12	Device ID: b204
+Time point 3: 5/5/2023 3:14:17 PM	Latitude: 38.0309753	Longitude: -78.4999924	Speed: 5	Device ID: b204
+Time point 4: 5/5/2023 3:14:22 PM	Latitude: 38.031002	Longitude: -78.5001755	Speed: 18	Device ID: b204
+Time point 5: 5/5/2023 3:14:35 PM	Latitude: 38.0314369	Longitude: -78.5010681	Speed: 26	Device ID: b204
+Time point 6: 5/5/2023 3:14:44 PM	Latitude: 38.0316925	Longitude: -78.5015259	Speed: 17	Device ID: b204
+Time point 7: 5/5/2023 3:14:49 PM	Latitude: 38.0318985	Longitude: -78.5016098	Speed: 16	Device ID: b204
+Time end: 5/5/2023 3:14:54 PM		Latitude: 38.0320015	Longitude: -78.5015793	Speed: 0	Device ID: b204
+-
+Vehicle: V0445
+Time start: 5/5/2023 3:15:09 PM	Latitude: 38.0320015	Longitude: -78.5016098	Speed: 3	Device ID: b204
+Time point 2: 5/5/2023 3:15:15 PM	Latitude: 38.0321541	Longitude: -78.5014038	Speed: 20	Device ID: b204
+Time point 3: 5/5/2023 3:15:22 PM	Latitude: 38.03228	Longitude: -78.5011215	Speed: 14	Device ID: b204
+Time point 4: 5/5/2023 3:15:23 PM	Latitude: 38.0323067	Longitude: -78.5010681	Speed: 4	Device ID: b204
+Time point 5: 5/5/2023 3:15:27 PM	Latitude: 38.0323067	Longitude: -78.5009155	Speed: 5	Device ID: b204
+Time point 6: 5/5/2023 3:15:29 PM	Latitude: 38.0323601	Longitude: -78.5008926	Speed: 13	Device ID: b204
+Time point 7: 5/5/2023 3:15:32 PM	Latitude: 38.032486	Longitude: -78.5008926	Speed: 18	Device ID: b204
+Time point 8: 5/5/2023 3:15:43 PM	Latitude: 38.0327415	Longitude: -78.5009155	Speed: 5	Device ID: b204
+Time end: 5/5/2023 3:15:53 PM		Latitude: 38.0327187	Longitude: -78.5009918	Speed: 0	Device ID: b204
+-
+Vehicle: V0445
+Time start: 5/5/2023 3:15:56 PM	Latitude: 38.0327187	Longitude: -78.5009918	Speed: 1	Device ID: b204
+Time end: 5/5/2023 3:16:18 PM		Latitude: 38.0328445	Longitude: -78.501091	Speed: 0	Device ID: b204
+-
+Vehicle: V0445
+Time start: 5/5/2023 3:16:19 PM	Latitude: 38.0328445	Longitude: -78.501091	Speed: 3	Device ID: b204
+Time end: 5/5/2023 3:16:21 PM		Latitude: 38.0328712	Longitude: -78.501091	Speed: 0	Device ID: b204
+-
+Vehicle: V0445
+Time start: 5/5/2023 3:16:24 PM	Latitude: 38.0328712	Longitude: -78.501091	Speed: 3	Device ID: b204
+Time end: 5/5/2023 3:16:26 PM		Latitude: 38.0328712	Longitude: -78.501091	Speed: 0	Device ID: b204
+-
+Vehicle: V0445
+Time start: 9/25/2023 11:31:36 AM	Latitude: 38.0328941	Longitude: -78.5010681	Speed: 8.332	Device ID: b204
+Time end: 9/25/2023 11:31:37 AM		Latitude: 38.0328941	Longitude: -78.5010681	Speed: 8.9158	Device ID: b204
+-

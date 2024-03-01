@@ -1,0 +1,41 @@
+Vehicle: V0971
+Time start: 10/26/2021 11:10:38 AM	Latitude: 38.041173695000005	Longitude: -78.509080047	Speed: 54.646667	Device ID: b208
+Time end: 10/26/2021 11:10:39 AM		Latitude: 38.041154072750004	Longitude: -78.50904482415	Speed: 54.727665	Device ID: b208
+-
+Vehicle: V0971
+Time start: 11/1/2021 5:14:17 PM	Latitude: 38.05010704233334	Longitude: -78.512883438	Speed: 14.213333	Device ID: b208
+Time end: 11/1/2021 5:14:17 PM		Latitude: 38.0501059487	Longitude: -78.5128842034	Speed: 13.984	Device ID: b208
+-
+Vehicle: V0971
+Time start: 11/9/2021 8:28:51 PM	Latitude: 38.043769923666666	Longitude: -78.51330545133334	Speed: 31.43	Device ID: b208
+Time end: 11/9/2021 8:28:51 PM		Latitude: 38.04377267033333	Longitude: -78.51330870466667	Speed: 30.63	Device ID: b208
+-
+Vehicle: V0971
+Time start: 3/17/2022 3:54:30 PM	Latitude: 38.04252275075	Longitude: -78.51129778325	Speed: 27.1525	Device ID: b208
+Time end: 3/17/2022 3:54:30 PM		Latitude: 38.04253261225	Longitude: -78.51131330975001	Speed: 26.6575	Device ID: b208
+-
+Vehicle: V0971
+Time start: 4/14/2022 5:07:51 PM	Latitude: 38.042577299499996	Longitude: -78.505685111	Speed: 44.225	Device ID: b208
+Time end: 4/14/2022 5:07:51 PM		Latitude: 38.04257230605	Longitude: -78.5056871669	Speed: 42.8775	Device ID: b208
+-
+Vehicle: V0971
+Time start: 8/23/2022 1:09:03 PM	Latitude: 38.02598683126	Longitude: -78.51885471484	Speed: 35.8638	Device ID: b208
+Time end: 8/23/2022 1:09:03 PM		Latitude: 38.02598777474	Longitude: -78.51886948916001	Speed: 34.9162	Device ID: b208
+-
+Vehicle: V0971
+Time start: 9/13/2022 3:07:49 PM	Latitude: 38.036142274	Longitude: -78.507872478	Speed: 34.386665	Device ID: b208
+Time end: 9/13/2022 3:07:49 PM		Latitude: 38.036147684199996	Longitude: -78.5078702174	Speed: 33.70933	Device ID: b208
+-
+Vehicle: V0971
+Time start: 10/3/2022 5:30:12 PM	Latitude: 38.0316434267	Longitude: -78.4815398831	Speed: 41.023	Device ID: b208
+Time point 2: 10/3/2022 5:30:13 PM	Latitude: 38.0316429	Longitude: -78.4815369	Speed: 41	Device ID: b208
+Time end: 10/3/2022 5:30:13 PM		Latitude: 38.031635424	Longitude: -78.481511266	Speed: 36.1	Device ID: b208
+-
+Vehicle: V0971
+Time start: 11/10/2022 9:09:37 PM	Latitude: 38.04353940822	Longitude: -78.51298167648	Speed: 6.309	Device ID: b208
+Time end: 11/10/2022 9:09:37 PM		Latitude: 38.0435397592	Longitude: -78.51298213279999	Speed: 6.24	Device ID: b208
+-
+Vehicle: V0971
+Time start: 8/16/2023 2:44:05 PM	Latitude: 38.05223754	Longitude: -78.502973628	Speed: 50.56	Device ID: b208
+Time end: 8/16/2023 2:44:05 PM		Latitude: 38.05223136	Longitude: -78.502980342	Speed: 49.84	Device ID: b208
+-

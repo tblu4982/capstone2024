@@ -1,0 +1,34 @@
+Vehicle: V0689
+Time start: 4/1/2022 1:25:28 PM	Latitude: 38.026750842012504	Longitude: -78.5126904723375	Speed: 21.921625	Device ID: b13E
+Time point 2: 4/1/2022 1:25:29 PM	Latitude: 38.0267525	Longitude: -78.5126877	Speed: 22	Device ID: b13E
+Time end: 4/1/2022 1:25:29 PM		Latitude: 38.0267556496	Longitude: -78.5126847917	Speed: 20.857	Device ID: b13E
+-
+Vehicle: V0689
+Time start: 2/2/2023 6:44:44 PM	Latitude: 38.03519964572976	Longitude: -78.51655641998524	Speed: 3.0541472	Device ID: b13E
+Time end: 2/2/2023 6:44:45 PM		Latitude: 38.03519846285996	Longitude: -78.5165559127246	Speed: 3.009845	Device ID: b13E
+-
+Vehicle: V0689
+Time start: 2/22/2023 2:50:44 PM	Latitude: 38.03440023943333	Longitude: -78.51086078563333	Speed: 15.456667	Device ID: b13E
+Time point 2: 2/22/2023 2:50:45 PM	Latitude: 38.0343819	Longitude: -78.5108719	Speed: 14	Device ID: b13E
+Time end: 2/22/2023 2:50:45 PM		Latitude: 38.0343819	Longitude: -78.5108719	Speed: 13.762	Device ID: b13E
+-
+Vehicle: V0689
+Time start: 3/3/2023 7:36:23 PM	Latitude: 38.035202472	Longitude: -78.5082855	Speed: 22.08	Device ID: b13E
+Time end: 3/3/2023 7:36:23 PM		Latitude: 38.035207464900004	Longitude: -78.5082855	Speed: 19.836	Device ID: b13E
+-
+Vehicle: V0689
+Time start: 3/22/2023 1:52:10 PM	Latitude: 38.03416718245	Longitude: -78.51098361755	Speed: 1.68375	Device ID: b13E
+Time end: 3/22/2023 1:52:11 PM		Latitude: 38.034160988050004	Longitude: -78.51098981195	Speed: 1.10375	Device ID: b13E
+-
+Vehicle: V0689
+Time start: 6/1/2023 2:15:25 PM	Latitude: 38.03938402616	Longitude: -78.50674142482	Speed: 39.6244	Device ID: b13E
+Time end: 6/1/2023 2:15:25 PM		Latitude: 38.03938832024	Longitude: -78.50674014298001	Speed: 38.8516	Device ID: b13E
+-
+Vehicle: V0689
+Time start: 6/6/2023 1:44:55 PM	Latitude: 38.032025221024995	Longitude: -78.50387941172501	Speed: 25.2005	Device ID: b13E
+Time end: 6/6/2023 1:44:55 PM		Latitude: 38.032025621524994	Longitude: -78.503877466225	Speed: 24.8105	Device ID: b13E
+-
+Vehicle: V0689
+Time start: 1/29/2024 6:05:53 PM	Latitude: 38.0320511	Longitude: -78.50306225396666	Speed: 5.826	Device ID: b13E
+Time end: 1/29/2024 6:05:53 PM		Latitude: 38.0320511	Longitude: -78.50305777770001	Speed: 5.474	Device ID: b13E
+-

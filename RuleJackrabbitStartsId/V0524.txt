@@ -1,0 +1,883 @@
+Event 221:
+Time start: 9/26/2019 6:35:39 PM	Latitude: 38.0426483	Longitude: -78.5113373	Speed: 0.9865	Device ID: bC4
+Time end: 9/26/2019 6:35:39 PM		Latitude: 38.0426483	Longitude: -78.5113373	Speed: 0.9915	Device ID: bC4
+-
+Event 221:
+Time start: 9/27/2019 11:38:26 AM	Latitude: 38.0367088	Longitude: -78.5145956584	Speed: 3.332	Device ID: bC4
+-
+Event 221:
+Time start: 12/10/2019 1:13:57 PM	Latitude: 38.04496945896666	Longitude: -78.5148301239	Speed: 13.263667	Device ID: bC4
+Time end: 12/10/2019 1:13:57 PM		Latitude: 38.04495804536666	Longitude: -78.5148193791	Speed: 14.759666	Device ID: bC4
+-
+Event 221:
+Time start: 1/6/2020 4:04:59 PM	Latitude: 38.05657452803333	Longitude: -78.49629588340001	Speed: 15.803667	Device ID: bC4
+-
+Event 221:
+Time start: 1/28/2020 1:49:34 PM	Latitude: 38.0265465	Longitude: -78.52436574105	Speed: 4.878	Device ID: bC4
+Time point 2: 1/28/2020 1:49:35 PM	Latitude: 38.0265465	Longitude: -78.5243683	Speed: 5	Device ID: bC4
+Time end: 1/28/2020 1:49:35 PM		Latitude: 38.02655053118333	Longitude: -78.52440175406667	Speed: 7.4831667	Device ID: bC4
+-
+Event 221:
+Time start: 1/28/2020 1:53:34 PM	Latitude: 38.0564232	Longitude: -78.503273	Speed: 2.93025	Device ID: bC4
+Time point 2: 1/28/2020 1:53:35 PM	Latitude: 38.0564232	Longitude: -78.503273	Speed: 3	Device ID: bC4
+Time end: 1/28/2020 1:53:35 PM		Latitude: 38.0564232	Longitude: -78.50326231999999	Speed: 5	Device ID: bC4
+-
+Event 221:
+Time start: 3/17/2020 4:53:30 PM	Latitude: 38.0340729	Longitude: -78.5088501	Speed: 4.5955	Device ID: bC4
+Time end: 3/17/2020 4:53:30 PM		Latitude: 38.0340729	Longitude: -78.5088501	Speed: 4.6445	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2020 2:17:43 PM	Latitude: 38.03538867295	Longitude: -78.51407076655	Speed: 4.035	Device ID: bC4
+Time end: 3/23/2020 2:17:44 PM		Latitude: 38.03535105705	Longitude: -78.51405760345	Speed: 8.965	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2020 2:20:58 PM	Latitude: 38.0367355	Longitude: -78.5040359	Speed: 0.423	Device ID: bC4
+Time end: 3/23/2020 2:20:58 PM		Latitude: 38.0367355	Longitude: -78.5040359	Speed: 2.43	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2020 2:31:51 PM	Latitude: 38.03696946852	Longitude: -78.5033493	Speed: 5.84655	Device ID: bC4
+Time end: 3/23/2020 2:31:51 PM		Latitude: 38.03696944372	Longitude: -78.5033493	Speed: 5.84955	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2020 4:48:46 PM	Latitude: 38.0398331	Longitude: -78.50646822676666	Speed: 0.9356667	Device ID: bC4
+Time point 2: 3/23/2020 4:48:47 PM	Latitude: 38.0398331	Longitude: -78.5064697	Speed: 1	Device ID: bC4
+Time end: 3/23/2020 4:48:47 PM		Latitude: 38.0398396326	Longitude: -78.50647903403333	Speed: 3.0796666	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2020 4:52:57 PM	Latitude: 38.05185568713	Longitude: -78.50918820788	Speed: 11.3263	Device ID: bC4
+Time end: 3/23/2020 4:52:58 PM		Latitude: 38.051858674230004	Longitude: -78.50919184748001	Speed: 11.0473	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2020 5:04:24 PM	Latitude: 38.042672236762506	Longitude: -78.5113593993125	Speed: 10.61525	Device ID: bC4
+Time end: 3/23/2020 5:04:24 PM		Latitude: 38.042660340625005	Longitude: -78.511371178125	Speed: 9.8125	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2020 11:57:56 AM	Latitude: 38.046377400533075	Longitude: -78.50986683007028	Speed: 3.3157258	Device ID: bC4
+Time end: 3/24/2020 11:57:57 AM		Latitude: 38.046362610128426	Longitude: -78.50985797133512	Speed: 6.9987884	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2020 5:42:13 PM	Latitude: 38.02608115585	Longitude: -78.5152283	Speed: 4.962	Device ID: bC4
+Time end: 3/24/2020 5:42:14 PM		Latitude: 38.02607268285	Longitude: -78.5152283	Speed: 9.402	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2020 5:43:20 PM	Latitude: 38.0264969	Longitude: -78.52432138549999	Speed: 4.275	Device ID: bC4
+Time end: 3/24/2020 5:43:21 PM		Latitude: 38.0264969	Longitude: -78.52437964055	Speed: 15.7275	Device ID: bC4
+-
+Event 221:
+Time start: 3/25/2020 1:01:46 PM	Latitude: 38.0351982	Longitude: -78.51426665369999	Speed: 1.041	Device ID: bC4
+Time point 2: 3/25/2020 1:01:47 PM	Latitude: 38.0351982	Longitude: -78.5142517	Speed: 3	Device ID: bC4
+Time end: 3/25/2020 1:01:47 PM		Latitude: 38.035199261325005	Longitude: -78.51424967805	Speed: 3.25175	Device ID: bC4
+-
+Event 221:
+Time start: 3/26/2020 11:59:50 AM	Latitude: 38.0426483	Longitude: -78.5113602	Speed: 0.8841111	Device ID: bC4
+Time end: 3/26/2020 11:59:51 AM		Latitude: 38.0426483	Longitude: -78.5113602	Speed: 0.9307778	Device ID: bC4
+-
+Event 221:
+Time start: 3/26/2020 12:22:37 PM	Latitude: 38.035358796425	Longitude: -78.5140991	Speed: 4.08375	Device ID: bC4
+Time end: 3/26/2020 12:22:37 PM		Latitude: 38.035358722	Longitude: -78.5140991	Speed: 4.1	Device ID: bC4
+-
+Event 221:
+Time start: 3/26/2020 12:25:57 PM	Latitude: 38.036761805729995	Longitude: -78.50388385038335	Speed: 0.9852333	Device ID: bC4
+Time end: 3/26/2020 12:25:57 PM		Latitude: 38.03676194813	Longitude: -78.50388368771668	Speed: 0.9905667	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 12:58:11 PM	Latitude: 38.096521616125806	Longitude: -78.4677124	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 12:58:11 PM		Latitude: 38.096521615113794	Longitude: -78.4677124	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:16:55 PM	Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:16:55 PM		Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:16:55 PM	Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:16:55 PM		Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:16:56 PM	Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:16:56 PM		Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:06 PM	Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:06 PM		Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:10 PM	Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:11 PM		Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:11 PM	Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:11 PM		Latitude: 38.0967178	Longitude: -78.4680176	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:31 PM	Latitude: 38.09671772888469	Longitude: -78.46801765663454	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:31 PM		Latitude: 38.096717726514186	Longitude: -78.46801765852237	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:35 PM	Latitude: 38.096717179065756	Longitude: -78.46801809449738	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:36 PM		Latitude: 38.09671708787083	Longitude: -78.46801816712288	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:37 PM	Latitude: 38.09671690199494	Longitude: -78.46801831515005	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:37 PM		Latitude: 38.09671686755282	Longitude: -78.46801834257894	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:37 PM	Latitude: 38.096716853190316	Longitude: -78.4680183540169	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:37 PM		Latitude: 38.09671684998315	Longitude: -78.46801835657101	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:38 PM	Latitude: 38.09671679643751	Longitude: -78.46801839921349	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:39 PM		Latitude: 38.0967166625734	Longitude: -78.46801850581971	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:39 PM	Latitude: 38.096716647792576	Longitude: -78.46801851759082	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:39 PM		Latitude: 38.0967166235297	Longitude: -78.46801853691319	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/9/2020 1:18:39 PM	Latitude: 38.09671662213528	Longitude: -78.46801853802367	Speed: 0	Device ID: bC4
+Time end: 4/9/2020 1:18:39 PM		Latitude: 38.096716570123505	Longitude: -78.46801857944463	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/13/2020 12:24:46 PM	Latitude: 38.04813507697	Longitude: -78.50819340553	Speed: 15.3425	Device ID: bC4
+Time end: 5/13/2020 12:24:46 PM		Latitude: 38.0481313265	Longitude: -78.5081996985	Speed: 15.625	Device ID: bC4
+-
+Event 221:
+Time start: 6/22/2020 11:37:34 AM	Latitude: 38.0426939278625	Longitude: -78.5113414588125	Speed: 7.621125	Device ID: bC4
+Time point 2: 6/22/2020 11:37:35 AM	Latitude: 38.042675	Longitude: -78.5113602	Speed: 6	Device ID: bC4
+Time end: 6/22/2020 11:37:35 AM		Latitude: 38.042662906450005	Longitude: -78.5113765255	Speed: 7.98125	Device ID: bC4
+-
+Event 221:
+Time start: 6/22/2020 11:38:42 AM	Latitude: 38.037767285883334	Longitude: -78.51501433936667	Speed: 2.9823334	Device ID: bC4
+Time end: 6/22/2020 11:38:42 AM		Latitude: 38.03776651145	Longitude: -78.5150139833	Speed: 3.071	Device ID: bC4
+-
+Event 221:
+Time start: 6/23/2020 6:59:00 PM	Latitude: 38.04544790688	Longitude: -78.50774374098	Speed: 0.1453	Device ID: bC4
+Time end: 6/23/2020 6:59:00 PM		Latitude: 38.04544777792	Longitude: -78.50774387982	Speed: 0.1427	Device ID: bC4
+-
+Event 221:
+Time start: 7/9/2020 3:48:55 PM	Latitude: 38.032052123499994	Longitude: -78.50756752216667	Speed: 4.8083334	Device ID: bC4
+Time end: 7/9/2020 3:48:55 PM		Latitude: 38.03205178085	Longitude: -78.50756781605	Speed: 4.8725	Device ID: bC4
+-
+Event 221:
+Time start: 7/10/2020 2:05:56 PM	Latitude: 38.0427246	Longitude: -78.5112076	Speed: 2.889857	Device ID: bC4
+Time end: 7/10/2020 2:05:56 PM		Latitude: 38.0427246	Longitude: -78.5112076	Speed: 2.937	Device ID: bC4
+-
+Event 221:
+Time start: 8/4/2020 12:22:37 PM	Latitude: 38.04633964833334	Longitude: -78.50984421833334	Speed: 14.166667	Device ID: bC4
+Time end: 8/4/2020 12:22:37 PM		Latitude: 38.04633753736667	Longitude: -78.50984295396667	Speed: 14.443334	Device ID: bC4
+-
+Event 221:
+Time start: 8/14/2020 11:32:47 AM	Latitude: 38.0381966	Longitude: -78.50724718	Speed: 1.3	Device ID: bC4
+Time end: 8/14/2020 11:32:47 AM		Latitude: 38.0381966	Longitude: -78.50724738597143	Speed: 1.2961428	Device ID: bC4
+-
+Event 221:
+Time start: 9/15/2020 11:43:25 AM	Latitude: 38.03816719262	Longitude: -78.50728377794	Speed: 0.3042	Device ID: bC4
+Time end: 9/15/2020 11:43:25 AM		Latitude: 38.0381679242	Longitude: -78.5072844054	Speed: 0.222	Device ID: bC4
+-
+Event 221:
+Time start: 9/15/2020 4:45:29 PM	Latitude: 38.03815883018	Longitude: -78.50729446036	Speed: 0.8292	Device ID: bC4
+Time end: 9/15/2020 4:45:30 PM		Latitude: 38.03815934282	Longitude: -78.50729548564	Speed: 0.7908	Device ID: bC4
+-
+Event 221:
+Time start: 10/23/2020 12:47:51 PM	Latitude: 38.0337677	Longitude: -78.5094376	Speed: 0.8495	Device ID: bC4
+Time end: 10/23/2020 12:47:51 PM		Latitude: 38.0337677	Longitude: -78.5094376	Speed: 0.85716665	Device ID: bC4
+-
+Event 221:
+Time start: 10/23/2020 5:51:11 PM	Latitude: 38.049954993250005	Longitude: -78.51285440665	Speed: 24.830166	Device ID: bC4
+Time point 2: 10/23/2020 5:51:12 PM	Latitude: 38.0499725	Longitude: -78.5128708	Speed: 24	Device ID: bC4
+Time end: 10/23/2020 5:51:12 PM		Latitude: 38.049991187857145	Longitude: -78.512861971	Speed: 24.501429	Device ID: bC4
+-
+Event 221:
+Time start: 10/27/2020 12:31:28 PM	Latitude: 38.0365295	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+Time end: 10/27/2020 12:31:28 PM		Latitude: 38.0365295	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 10/27/2020 12:31:28 PM	Latitude: 38.0365295	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+Time end: 10/27/2020 12:31:28 PM		Latitude: 38.0365295	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 11/10/2020 4:34:50 PM	Latitude: 38.036904149448155	Longitude: -78.50737983458214	Speed: 0	Device ID: bC4
+Time end: 11/10/2020 4:34:50 PM		Latitude: 38.036904095461175	Longitude: -78.50737988443302	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 11/17/2020 12:24:26 PM	Latitude: 38.036526399040014	Longitude: -78.51673699315968	Speed: 0.06251936	Device ID: bC4
+Time end: 11/17/2020 12:24:26 PM		Latitude: 38.03652637685373	Longitude: -78.5167369795169	Speed: 0.06296666	Device ID: bC4
+-
+Event 221:
+Time start: 11/17/2020 12:31:39 PM	Latitude: 38.039576508	Longitude: -78.5050659	Speed: 0.1	Device ID: bC4
+Time end: 11/17/2020 12:31:39 PM		Latitude: 38.0395769792	Longitude: -78.5050659	Speed: 0.0525	Device ID: bC4
+-
+Event 221:
+Time start: 11/17/2020 12:31:39 PM	Latitude: 38.0395772768	Longitude: -78.5050659	Speed: 0.0225	Device ID: bC4
+Time end: 11/17/2020 12:31:39 PM		Latitude: 38.039577309866665	Longitude: -78.5050659	Speed: 0.019166667	Device ID: bC4
+-
+Event 221:
+Time start: 11/20/2020 1:08:43 PM	Latitude: 38.0312843	Longitude: -78.5200119	Speed: 0	Device ID: bC4
+Time end: 11/20/2020 1:08:43 PM		Latitude: 38.0312843	Longitude: -78.5200119	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 12/4/2020 1:03:26 PM	Latitude: 38.042630583033336	Longitude: -78.51134248303333	Speed: 2.321	Device ID: bC4
+Time end: 12/4/2020 1:03:26 PM		Latitude: 38.0426305525	Longitude: -78.51134245249999	Speed: 2.325	Device ID: bC4
+-
+Event 221:
+Time start: 12/4/2020 1:03:26 PM	Latitude: 38.04263042502333	Longitude: -78.51134232502334	Speed: 2.3417	Device ID: bC4
+Time end: 12/4/2020 1:03:26 PM		Latitude: 38.04263042044333	Longitude: -78.51134232044333	Speed: 2.3423	Device ID: bC4
+-
+Event 221:
+Time start: 12/10/2020 3:30:25 PM	Latitude: 38.0411911	Longitude: -78.5064697	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 12/11/2020 4:53:40 PM	Latitude: 38.0365829	Longitude: -78.5167618	Speed: 0	Device ID: bC4
+Time end: 12/11/2020 4:53:40 PM		Latitude: 38.0365829	Longitude: -78.5167618	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 12/14/2020 7:46:32 PM	Latitude: 38.0351753	Longitude: -78.5142517	Speed: 3.5183334	Device ID: bC4
+Time end: 12/14/2020 7:46:32 PM		Latitude: 38.0351753	Longitude: -78.5142517	Speed: 3.5201666	Device ID: bC4
+-
+Event 221:
+Time start: 1/15/2021 4:59:11 PM	Latitude: 38.0365562	Longitude: -78.5164795	Speed: 0	Device ID: bC4
+Time end: 1/15/2021 4:59:11 PM		Latitude: 38.0365562	Longitude: -78.5164795	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 1/25/2021 12:50:13 PM	Latitude: 38.0474358	Longitude: -78.5076981	Speed: 0.9589583	Device ID: bC4
+Time end: 1/25/2021 12:50:13 PM		Latitude: 38.0474358	Longitude: -78.5076981	Speed: 0.95971876	Device ID: bC4
+-
+Event 221:
+Time start: 1/25/2021 12:50:13 PM	Latitude: 38.0474358	Longitude: -78.5076981	Speed: 0.9621146	Device ID: bC4
+Time end: 1/25/2021 12:50:13 PM		Latitude: 38.0474358	Longitude: -78.5076981	Speed: 0.96215624	Device ID: bC4
+-
+Event 221:
+Time start: 1/25/2021 12:50:13 PM	Latitude: 38.0474358	Longitude: -78.5076981	Speed: 0.9632292	Device ID: bC4
+-
+Event 221:
+Time start: 2/2/2021 2:31:18 PM	Latitude: 38.0531197	Longitude: -78.5130768	Speed: 0	Device ID: bC4
+Time end: 2/2/2021 2:31:18 PM		Latitude: 38.0531197	Longitude: -78.5130768	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/4/2021 3:10:13 PM	Latitude: 38.039616331383016	Longitude: -78.50668646861699	Speed: 2.1190188	Device ID: bC4
+Time end: 2/4/2021 3:10:13 PM		Latitude: 38.039616345641505	Longitude: -78.5066864543585	Speed: 2.1215096	Device ID: bC4
+-
+Event 221:
+Time start: 2/7/2021 3:29:41 PM	Latitude: 38.0396805	Longitude: -78.5026321	Speed: 0	Device ID: bC4
+Time end: 2/7/2021 3:29:41 PM		Latitude: 38.0396805	Longitude: -78.5026321	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/7/2021 3:29:41 PM	Latitude: 38.0396805	Longitude: -78.5026321	Speed: 0	Device ID: bC4
+Time end: 2/7/2021 3:29:41 PM		Latitude: 38.0396805	Longitude: -78.5026321	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/11/2021 3:13:23 PM	Latitude: 38.0535812	Longitude: -78.5134811	Speed: 0	Device ID: bC4
+Time end: 2/11/2021 3:13:24 PM		Latitude: 38.0535812	Longitude: -78.5134811	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/11/2021 5:37:27 PM	Latitude: 38.0366859	Longitude: -78.5039597	Speed: 0	Device ID: bC4
+Time end: 2/11/2021 5:37:27 PM		Latitude: 38.0366859	Longitude: -78.5039597	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/11/2021 5:37:27 PM	Latitude: 38.0366859	Longitude: -78.5039597	Speed: 0	Device ID: bC4
+Time end: 2/11/2021 5:37:27 PM		Latitude: 38.0366859	Longitude: -78.5039597	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/15/2021 2:19:36 PM	Latitude: 38.0365295	Longitude: -78.5169144	Speed: 0	Device ID: bC4
+Time end: 2/15/2021 2:19:37 PM		Latitude: 38.0365295	Longitude: -78.5169144	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/23/2021 1:18:10 PM	Latitude: 38.0365562	Longitude: -78.5158157	Speed: 0	Device ID: bC4
+Time end: 2/23/2021 1:18:10 PM		Latitude: 38.0365562	Longitude: -78.5158157	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/23/2021 2:07:50 PM	Latitude: 38.0503311	Longitude: -78.5115891	Speed: 0	Device ID: bC4
+Time end: 2/23/2021 2:07:50 PM		Latitude: 38.0503311	Longitude: -78.5115891	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/25/2021 7:05:43 PM	Latitude: 38.0531464	Longitude: -78.5130997	Speed: 0	Device ID: bC4
+Time end: 2/25/2021 7:05:44 PM		Latitude: 38.0531464	Longitude: -78.5130997	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 2/25/2021 7:40:46 PM	Latitude: 38.03655492283148	Longitude: -78.5167847	Speed: 0	Device ID: bC4
+Time end: 2/25/2021 7:40:47 PM		Latitude: 38.03655489685385	Longitude: -78.5167847	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/2/2021 4:50:43 PM	Latitude: 38.03698352105417	Longitude: -78.51669307894583	Speed: 1.3380834	Device ID: bC4
+Time end: 3/2/2021 4:50:43 PM		Latitude: 38.03698353059583	Longitude: -78.51669306940416	Speed: 1.3389167	Device ID: bC4
+-
+Event 221:
+Time start: 3/2/2021 5:24:24 PM	Latitude: 38.0365562	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+Time end: 3/2/2021 5:24:27 PM		Latitude: 38.0365562	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/4/2021 6:23:55 PM	Latitude: 38.0237045	Longitude: -78.4848404	Speed: 0	Device ID: bC4
+Time end: 3/4/2021 6:23:56 PM		Latitude: 38.0237045	Longitude: -78.4848404	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/5/2021 6:39:17 PM	Latitude: 38.0852262817	Longitude: -78.47446879544364	Speed: 0	Device ID: bC4
+Time end: 3/5/2021 6:39:17 PM		Latitude: 38.0852262673	Longitude: -78.47446881761091	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/8/2021 2:43:50 PM	Latitude: 38.036377	Longitude: -78.5166855	Speed: 0	Device ID: bC4
+Time end: 3/8/2021 2:43:51 PM		Latitude: 38.036377	Longitude: -78.5166855	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/9/2021 3:04:24 PM	Latitude: 38.0504820535	Longitude: -78.510928593	Speed: 0.6166667	Device ID: bC4
+Time end: 3/9/2021 3:04:24 PM		Latitude: 38.05048206685	Longitude: -78.5109285663	Speed: 0.6116667	Device ID: bC4
+-
+Event 221:
+Time start: 3/9/2021 4:21:29 PM	Latitude: 38.050354	Longitude: -78.5115356	Speed: 0	Device ID: bC4
+Time end: 3/9/2021 4:21:30 PM		Latitude: 38.050354	Longitude: -78.5115356	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/10/2021 1:17:08 PM	Latitude: 38.0504074	Longitude: -78.5115662	Speed: 0	Device ID: bC4
+Time end: 3/10/2021 1:17:08 PM		Latitude: 38.0504074	Longitude: -78.5115662	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/11/2021 1:07:55 PM	Latitude: 38.0503044	Longitude: -78.5115662	Speed: 0	Device ID: bC4
+Time end: 3/11/2021 1:07:57 PM		Latitude: 38.0503044	Longitude: -78.5115662	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/11/2021 3:04:22 PM	Latitude: 38.0503311	Longitude: -78.5115356	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/11/2021 3:05:03 PM	Latitude: 38.0503311	Longitude: -78.5115356	Speed: 0.5377191	Device ID: bC4
+Time end: 3/11/2021 3:05:03 PM		Latitude: 38.0503311	Longitude: -78.5115356	Speed: 0.6037592	Device ID: bC4
+-
+Event 221:
+Time start: 3/11/2021 7:39:18 PM	Latitude: 38.0368385	Longitude: -78.5165024	Speed: 0	Device ID: bC4
+Time end: 3/11/2021 7:39:20 PM		Latitude: 38.0368385	Longitude: -78.5165024	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/12/2021 3:12:41 PM	Latitude: 38.0249596	Longitude: -78.532196	Speed: 0	Device ID: bC4
+Time end: 3/12/2021 3:12:43 PM		Latitude: 38.0249596	Longitude: -78.532196	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/12/2021 4:07:17 PM	Latitude: 38.0478477	Longitude: -78.5074463	Speed: 3	Device ID: bC4
+Time end: 3/12/2021 4:07:17 PM		Latitude: 38.0478477	Longitude: -78.5074463	Speed: 3	Device ID: bC4
+-
+Event 221:
+Time start: 3/12/2021 7:54:16 PM	Latitude: 38.03697132585	Longitude: -78.5166855	Speed: 1.546	Device ID: bC4
+Time end: 3/12/2021 7:54:16 PM		Latitude: 38.036971715149996	Longitude: -78.5166855	Speed: 1.614	Device ID: bC4
+-
+Event 221:
+Time start: 3/15/2021 6:56:25 PM	Latitude: 38.0365295	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+Time end: 3/15/2021 6:56:25 PM		Latitude: 38.0365295	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/15/2021 6:56:25 PM	Latitude: 38.0365295	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+Time end: 3/15/2021 6:56:25 PM		Latitude: 38.0365295	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/19/2021 1:40:47 PM	Latitude: 38.0382462	Longitude: -78.5074921	Speed: 0	Device ID: bC4
+Time end: 3/19/2021 1:40:48 PM		Latitude: 38.0382462	Longitude: -78.5074921	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/19/2021 1:40:51 PM	Latitude: 38.0382462	Longitude: -78.5074921	Speed: 0	Device ID: bC4
+Time end: 3/19/2021 1:40:52 PM		Latitude: 38.0382462	Longitude: -78.5074921	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/22/2021 11:24:39 AM	Latitude: 38.051403	Longitude: -78.5047073	Speed: 0	Device ID: bC4
+Time end: 3/22/2021 11:24:40 AM		Latitude: 38.051403	Longitude: -78.5047073	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/22/2021 1:20:06 PM	Latitude: 38.0365562	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+Time end: 3/22/2021 1:20:06 PM		Latitude: 38.0365562	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/22/2021 4:56:55 PM	Latitude: 38.0503044	Longitude: -78.5115128	Speed: 0	Device ID: bC4
+Time end: 3/22/2021 4:56:55 PM		Latitude: 38.0503044	Longitude: -78.5115128	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/22/2021 5:01:19 PM	Latitude: 38.0503044	Longitude: -78.5115128	Speed: 0	Device ID: bC4
+Time end: 3/22/2021 5:01:19 PM		Latitude: 38.0503044	Longitude: -78.5115128	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2021 2:11:02 PM	Latitude: 38.0355835	Longitude: -78.5091553	Speed: 0	Device ID: bC4
+Time end: 3/23/2021 2:11:03 PM		Latitude: 38.0355835	Longitude: -78.5091553	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2021 2:44:49 PM	Latitude: 38.0357628	Longitude: -78.509079	Speed: 0	Device ID: bC4
+Time end: 3/23/2021 2:44:50 PM		Latitude: 38.0357628	Longitude: -78.509079	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2021 3:22:41 PM	Latitude: 38.0472832	Longitude: -78.5072632	Speed: 0	Device ID: bC4
+Time end: 3/23/2021 3:22:43 PM		Latitude: 38.0472832	Longitude: -78.5072632	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2021 4:18:37 PM	Latitude: 38.0365562	Longitude: -78.516861	Speed: 0	Device ID: bC4
+Time end: 3/23/2021 4:18:38 PM		Latitude: 38.0365562	Longitude: -78.516861	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2021 5:12:17 PM	Latitude: 38.0358925	Longitude: -78.5091324	Speed: 0	Device ID: bC4
+Time end: 3/23/2021 5:12:17 PM		Latitude: 38.0358925	Longitude: -78.5091324	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/23/2021 5:12:17 PM	Latitude: 38.0358925	Longitude: -78.5091324	Speed: 0	Device ID: bC4
+Time end: 3/23/2021 5:12:18 PM		Latitude: 38.0358925	Longitude: -78.5091324	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2021 1:26:00 PM	Latitude: 38.050354	Longitude: -78.5113068	Speed: 0	Device ID: bC4
+Time end: 3/24/2021 1:26:01 PM		Latitude: 38.050354	Longitude: -78.5113068	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2021 4:20:43 PM	Latitude: 38.0365829	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+Time end: 3/24/2021 4:20:45 PM		Latitude: 38.0365829	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2021 5:16:46 PM	Latitude: 38.0472832	Longitude: -78.5074158	Speed: 0	Device ID: bC4
+Time end: 3/24/2021 5:16:47 PM		Latitude: 38.0472832	Longitude: -78.5074158	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2021 5:55:19 PM	Latitude: 38.0503044	Longitude: -78.5114899	Speed: 0	Device ID: bC4
+Time end: 3/24/2021 5:55:20 PM		Latitude: 38.0503044	Longitude: -78.5114899	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2021 5:55:22 PM	Latitude: 38.0503044	Longitude: -78.5114899	Speed: 0	Device ID: bC4
+Time end: 3/24/2021 5:55:22 PM		Latitude: 38.0503044	Longitude: -78.5114899	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2021 6:24:43 PM	Latitude: 38.0313072	Longitude: -78.519989	Speed: 0	Device ID: bC4
+Time end: 3/24/2021 6:24:45 PM		Latitude: 38.0313072	Longitude: -78.519989	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/30/2021 5:47:59 PM	Latitude: 38.0359154	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+Time end: 3/30/2021 5:48:03 PM		Latitude: 38.0359154	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/30/2021 5:50:58 PM	Latitude: 38.0359154	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+Time end: 3/30/2021 5:50:58 PM		Latitude: 38.0359154	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/30/2021 5:54:31 PM	Latitude: 38.0359154	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+Time end: 3/30/2021 5:54:32 PM		Latitude: 38.0359154	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/31/2021 2:38:51 PM	Latitude: 38.0412178	Longitude: -78.5070343	Speed: 0	Device ID: bC4
+Time end: 3/31/2021 2:38:51 PM		Latitude: 38.0412178	Longitude: -78.5070343	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/1/2021 12:53:07 PM	Latitude: 38.0365295	Longitude: -78.516861	Speed: 0	Device ID: bC4
+Time end: 4/1/2021 12:53:09 PM		Latitude: 38.0365295	Longitude: -78.516861	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/1/2021 4:00:42 PM	Latitude: 38.0365295	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+Time end: 4/1/2021 4:00:44 PM		Latitude: 38.0365295	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/5/2021 1:35:24 PM	Latitude: 38.050354	Longitude: -78.5115662	Speed: 0	Device ID: bC4
+Time end: 4/5/2021 1:35:26 PM		Latitude: 38.050354	Longitude: -78.5115662	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/5/2021 1:51:41 PM	Latitude: 38.0352783	Longitude: -78.502121	Speed: 0	Device ID: bC4
+Time end: 4/5/2021 1:51:41 PM		Latitude: 38.0352783	Longitude: -78.502121	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/5/2021 1:51:44 PM	Latitude: 38.0352783	Longitude: -78.502121	Speed: 0	Device ID: bC4
+Time end: 4/5/2021 1:51:44 PM		Latitude: 38.0352783	Longitude: -78.502121	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/5/2021 6:47:55 PM	Latitude: 38.0365295	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+Time end: 4/5/2021 6:47:57 PM		Latitude: 38.0365295	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/6/2021 11:31:43 AM	Latitude: 38.0474129	Longitude: -78.5075684	Speed: 0	Device ID: bC4
+Time end: 4/6/2021 11:31:45 AM		Latitude: 38.0474129	Longitude: -78.5075684	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/6/2021 12:25:07 PM	Latitude: 38.0368652	Longitude: -78.5165787	Speed: 0	Device ID: bC4
+Time end: 4/6/2021 12:25:08 PM		Latitude: 38.0368652	Longitude: -78.5165787	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/7/2021 12:13:09 PM	Latitude: 38.0475121	Longitude: -78.5076447	Speed: 0	Device ID: bC4
+Time end: 4/7/2021 12:13:11 PM		Latitude: 38.0475121	Longitude: -78.5076447	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/7/2021 12:19:05 PM	Latitude: 38.0475121	Longitude: -78.5076447	Speed: 0	Device ID: bC4
+Time end: 4/7/2021 12:19:06 PM		Latitude: 38.0475121	Longitude: -78.5076447	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/8/2021 12:04:12 PM	Latitude: 38.0540428	Longitude: -78.510849	Speed: 0	Device ID: bC4
+Time end: 4/8/2021 12:04:13 PM		Latitude: 38.0540428	Longitude: -78.510849	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/8/2021 1:48:01 PM	Latitude: 38.0364532	Longitude: -78.5164032	Speed: 0	Device ID: bC4
+Time end: 4/8/2021 1:48:02 PM		Latitude: 38.0364532	Longitude: -78.5164032	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/8/2021 1:59:25 PM	Latitude: 38.0471039	Longitude: -78.5078049	Speed: 0	Device ID: bC4
+Time end: 4/8/2021 1:59:26 PM		Latitude: 38.0471039	Longitude: -78.5078049	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/12/2021 10:53:17 AM	Latitude: 38.0365067	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+Time end: 4/12/2021 10:53:19 AM		Latitude: 38.0365067	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/12/2021 11:06:08 AM	Latitude: 38.036454506164	Longitude: -78.51681370794	Speed: 0.04892	Device ID: bC4
+Time end: 4/12/2021 11:06:08 AM		Latitude: 38.036454521116	Longitude: -78.51681369085999	Speed: 0.04948	Device ID: bC4
+-
+Event 221:
+Time start: 4/12/2021 11:06:08 AM	Latitude: 38.036454756076	Longitude: -78.51681342245999	Speed: 0.05828	Device ID: bC4
+Time end: 4/12/2021 11:06:08 AM		Latitude: 38.036454777436	Longitude: -78.51681339806	Speed: 0.05908	Device ID: bC4
+-
+Event 221:
+Time start: 4/12/2021 11:06:08 AM	Latitude: 38.036454830836	Longitude: -78.51681333706	Speed: 0.06108	Device ID: bC4
+Time end: 4/12/2021 11:06:08 AM		Latitude: 38.036454912004	Longitude: -78.51681324434	Speed: 0.06412	Device ID: bC4
+-
+Event 221:
+Time start: 4/12/2021 11:57:24 AM	Latitude: 38.0365829	Longitude: -78.516861	Speed: 0	Device ID: bC4
+Time end: 4/12/2021 11:57:26 AM		Latitude: 38.0365829	Longitude: -78.516861	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/12/2021 12:47:30 PM	Latitude: 38.0523262	Longitude: -78.5106659	Speed: 0	Device ID: bC4
+Time end: 4/12/2021 12:47:31 PM		Latitude: 38.0523262	Longitude: -78.5106659	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/12/2021 5:36:29 PM	Latitude: 38.0523758	Longitude: -78.5108261	Speed: 0	Device ID: bC4
+Time end: 4/12/2021 5:36:31 PM		Latitude: 38.0523758	Longitude: -78.5108261	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/14/2021 11:12:40 AM	Latitude: 38.0368652	Longitude: -78.5166092	Speed: 0	Device ID: bC4
+Time end: 4/14/2021 11:12:41 AM		Latitude: 38.0368652	Longitude: -78.5166092	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/14/2021 4:02:40 PM	Latitude: 38.0525322	Longitude: -78.5109482	Speed: 0	Device ID: bC4
+Time end: 4/14/2021 4:02:42 PM		Latitude: 38.0525322	Longitude: -78.5109482	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/15/2021 11:04:23 AM	Latitude: 38.0368385	Longitude: -78.5165329	Speed: 0	Device ID: bC4
+Time end: 4/15/2021 11:04:24 AM		Latitude: 38.0368385	Longitude: -78.5165329	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/16/2021 6:06:50 PM	Latitude: 38.0364037	Longitude: -78.5169144	Speed: 0	Device ID: bC4
+Time end: 4/16/2021 6:06:51 PM		Latitude: 38.0364037	Longitude: -78.5169144	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/16/2021 6:28:32 PM	Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 4/16/2021 6:28:32 PM		Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/16/2021 6:28:32 PM	Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 4/16/2021 6:28:32 PM		Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/16/2021 6:28:33 PM	Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 4/16/2021 6:28:33 PM		Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/16/2021 6:28:33 PM	Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 4/16/2021 6:28:33 PM		Latitude: 38.0364037	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/20/2021 1:39:48 PM	Latitude: 38.050354	Longitude: -78.5115356	Speed: 0	Device ID: bC4
+Time end: 4/20/2021 1:39:48 PM		Latitude: 38.050354	Longitude: -78.5115356	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/20/2021 2:49:33 PM	Latitude: 38.0356865	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+Time end: 4/20/2021 2:49:35 PM		Latitude: 38.0356865	Longitude: -78.5090561	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/21/2021 11:09:29 AM	Latitude: 38.0369415	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 4/21/2021 11:09:30 AM		Latitude: 38.0369415	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/21/2021 12:42:21 PM	Latitude: 38.0517387	Longitude: -78.5119476	Speed: 0	Device ID: bC4
+Time end: 4/21/2021 12:42:21 PM		Latitude: 38.0517387	Longitude: -78.5119476	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/21/2021 1:27:13 PM	Latitude: 38.0364532	Longitude: -78.516861	Speed: 0	Device ID: bC4
+Time end: 4/21/2021 1:27:15 PM		Latitude: 38.0364532	Longitude: -78.516861	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/23/2021 3:15:48 PM	Latitude: 38.0517883	Longitude: -78.51189688889282	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/26/2021 1:10:17 PM	Latitude: 38.0365295	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+Time end: 4/26/2021 1:10:17 PM		Latitude: 38.0365295	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/26/2021 1:54:35 PM	Latitude: 38.051650522133336	Longitude: -78.51227418558334	Speed: 0.5976667	Device ID: bC4
+Time end: 4/26/2021 1:54:35 PM		Latitude: 38.05165019146666	Longitude: -78.51227438891667	Speed: 0.58433336	Device ID: bC4
+-
+Event 221:
+Time start: 4/26/2021 4:21:45 PM	Latitude: 38.0365562	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+Time end: 4/26/2021 4:21:47 PM		Latitude: 38.0365562	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/27/2021 1:50:51 PM	Latitude: 38.0516624	Longitude: -78.5122299	Speed: 3	Device ID: bC4
+Time end: 4/27/2021 1:50:51 PM		Latitude: 38.0516624	Longitude: -78.5122299	Speed: 3	Device ID: bC4
+-
+Event 221:
+Time start: 4/27/2021 1:50:57 PM	Latitude: 38.0516233913	Longitude: -78.5122410523	Speed: 1.539	Device ID: bC4
+Time end: 4/27/2021 1:50:57 PM		Latitude: 38.05162300536364	Longitude: -78.51224116263636	Speed: 1.5245454	Device ID: bC4
+-
+Event 221:
+Time start: 4/29/2021 10:57:49 AM	Latitude: 38.0365295	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+Time end: 4/29/2021 10:57:50 AM		Latitude: 38.0365295	Longitude: -78.5168381	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/30/2021 12:50:54 PM	Latitude: 38.0365562	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+Time end: 4/30/2021 12:50:55 PM		Latitude: 38.0365562	Longitude: -78.5168915	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/30/2021 3:37:18 PM	Latitude: 38.0365562	Longitude: -78.51497251868723	Speed: 0.47406384	Device ID: bC4
+Time end: 4/30/2021 3:37:18 PM		Latitude: 38.0365562	Longitude: -78.5149725411	Speed: 0.477	Device ID: bC4
+-
+Event 221:
+Time start: 4/30/2021 3:37:18 PM	Latitude: 38.0365562	Longitude: -78.5149725625383	Speed: 0.4798085	Device ID: bC4
+Time end: 4/30/2021 3:37:18 PM		Latitude: 38.0365562	Longitude: -78.51497264049574	Speed: 0.4900213	Device ID: bC4
+-
+Event 221:
+Time start: 5/3/2021 12:39:53 PM	Latitude: 38.0473862	Longitude: -78.5076218	Speed: 0	Device ID: bC4
+Time end: 5/3/2021 12:39:55 PM		Latitude: 38.0473862	Longitude: -78.5076218	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/3/2021 6:48:07 PM	Latitude: 38.0365562	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+Time end: 5/3/2021 6:48:08 PM		Latitude: 38.0365562	Longitude: -78.5168152	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:44 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:44 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:44 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:44 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:45 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:45 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:45 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:45 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:46 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:46 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:46 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:47 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:47 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:47 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:08:59 AM	Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 11:08:59 AM		Latitude: 38.0363503	Longitude: -78.5167389	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:09:00 AM	Latitude: 38.03635040568205	Longitude: -78.51673895850256	Speed: 0.0005897436	Device ID: bC4
+Time end: 5/4/2021 11:09:00 AM		Latitude: 38.0363507732718	Longitude: -78.51673916198973	Speed: 0.0026410257	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:09:00 AM	Latitude: 38.03635242742564	Longitude: -78.51674007768204	Speed: 0.011871795	Device ID: bC4
+Time end: 5/4/2021 11:09:00 AM		Latitude: 38.0363530707077	Longitude: -78.5167404337846	Speed: 0.015461539	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:09:00 AM	Latitude: 38.03635320855385	Longitude: -78.5167405100923	Speed: 0.01623077	Device ID: bC4
+Time end: 5/4/2021 11:09:00 AM		Latitude: 38.03635343829744	Longitude: -78.5167406372718	Speed: 0.01751282	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 11:09:17 AM	Latitude: 38.036430466728206	Longitude: -78.51678327801025	Speed: 0.44735897	Device ID: bC4
+Time end: 5/4/2021 11:09:17 AM		Latitude: 38.036430494297434	Longitude: -78.51678329327179	Speed: 0.44751284	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 12:57:54 PM	Latitude: 38.03651896266416	Longitude: -78.51690381644778	Speed: 2.1513445	Device ID: bC4
+Time end: 5/4/2021 12:57:54 PM		Latitude: 38.03651901969981	Longitude: -78.51690387373358	Speed: 2.1613507	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 12:57:54 PM	Latitude: 38.03651904393996	Longitude: -78.51690389808006	Speed: 2.1656034	Device ID: bC4
+Time end: 5/4/2021 12:57:54 PM		Latitude: 38.03651913804878	Longitude: -78.51690399260163	Speed: 2.182114	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 1:01:22 PM	Latitude: 38.0356865	Longitude: -78.516551181438	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 1:01:23 PM		Latitude: 38.0356865	Longitude: -78.51655116727122	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2021 1:01:37 PM	Latitude: 38.0356865	Longitude: -78.51655047579027	Speed: 0	Device ID: bC4
+Time end: 5/4/2021 1:01:41 PM		Latitude: 38.0356865	Longitude: -78.51655029620261	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/5/2021 2:34:22 PM	Latitude: 38.0532494	Longitude: -78.511261	Speed: 0	Device ID: bC4
+Time end: 5/5/2021 2:34:22 PM		Latitude: 38.0532494	Longitude: -78.511261	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/18/2021 3:04:51 PM	Latitude: 38.0504992293875	Longitude: -78.5107964632375	Speed: 4.091875	Device ID: bC4
+Time end: 5/18/2021 3:04:51 PM		Latitude: 38.0504990525	Longitude: -78.5107973225	Speed: 4.125	Device ID: bC4
+-
+Event 221:
+Time start: 5/27/2021 12:57:53 PM	Latitude: 38.03387217732	Longitude: -78.50945906859	Speed: 26.7911	Device ID: bC4
+Time end: 5/27/2021 12:57:53 PM		Latitude: 38.03387079708	Longitude: -78.50946236421	Speed: 26.7209	Device ID: bC4
+-
+Event 221:
+Time start: 9/22/2021 5:25:09 PM	Latitude: 38.03679424715	Longitude: -78.5145749311	Speed: 6.5685	Device ID: bC4
+Time end: 9/22/2021 5:25:09 PM		Latitude: 38.036797602	Longitude: -78.514567108	Speed: 8.18	Device ID: bC4
+-
+Event 221:
+Time start: 9/23/2021 2:27:05 PM	Latitude: 38.042501841	Longitude: -78.511266267	Speed: 6.07	Device ID: bC4
+Time end: 9/23/2021 2:27:05 PM		Latitude: 38.042504110500005	Longitude: -78.5112682135	Speed: 6.835	Device ID: bC4
+-
+Event 221:
+Time start: 9/23/2021 6:07:36 PM	Latitude: 38.0480690463	Longitude: -78.50815153180001	Speed: 13.594	Device ID: bC4
+Time end: 9/23/2021 6:07:36 PM		Latitude: 38.0480630949	Longitude: -78.50816621140001	Speed: 14.062	Device ID: bC4
+-
+Event 221:
+Time start: 9/27/2021 12:51:13 PM	Latitude: 38.0428543	Longitude: -78.51112906435	Speed: 3.7068	Device ID: bC4
+Time end: 9/27/2021 12:51:13 PM		Latitude: 38.0428543	Longitude: -78.51112912535	Speed: 3.7148	Device ID: bC4
+-
+Event 221:
+Time start: 9/27/2021 6:38:45 PM	Latitude: 38.031060601179995	Longitude: -78.51867169286	Speed: 10.4858	Device ID: bC4
+Time end: 9/27/2021 6:38:45 PM		Latitude: 38.03106101622	Longitude: -78.51867110694	Speed: 10.5082	Device ID: bC4
+-
+Event 221:
+Time start: 9/28/2021 1:47:00 PM	Latitude: 38.026286551975	Longitude: -78.52456799494999	Speed: 10.230375	Device ID: bC4
+Time end: 9/28/2021 1:47:00 PM		Latitude: 38.02628865875	Longitude: -78.5245673675	Speed: 10.11875	Device ID: bC4
+-
+Event 221:
+Time start: 9/29/2021 1:42:31 PM	Latitude: 38.0523529	Longitude: -78.507947425025	Speed: 4.37375	Device ID: bC4
+Time end: 9/29/2021 1:42:31 PM		Latitude: 38.0523529	Longitude: -78.507949046275	Speed: 4.56125	Device ID: bC4
+-
+Event 221:
+Time start: 9/30/2021 2:35:58 PM	Latitude: 38.034655023725	Longitude: -78.50036678867501	Speed: 2.48575	Device ID: bC4
+Time end: 9/30/2021 2:35:58 PM		Latitude: 38.034649835725	Longitude: -78.50036282467501	Speed: 3.32575	Device ID: bC4
+-
+Event 221:
+Time start: 10/7/2021 3:37:53 PM	Latitude: 38.046635194800004	Longitude: -78.50930357952501	Speed: 4.86225	Device ID: bC4
+Time end: 10/7/2021 3:37:53 PM		Latitude: 38.0466351452	Longitude: -78.50930370922501	Speed: 4.87525	Device ID: bC4
+-
+Event 221:
+Time start: 10/18/2021 1:54:51 PM	Latitude: 38.03974790089	Longitude: -78.50341543664	Speed: 3.9999	Device ID: bC4
+Time end: 10/18/2021 1:54:51 PM		Latitude: 38.03974783681	Longitude: -78.50341519856	Speed: 4.0071	Device ID: bC4
+-
+Event 221:
+Time start: 11/19/2021 7:46:37 PM	Latitude: 38.048100000025	Longitude: -78.50813949995	Speed: 12.2595	Device ID: bC4
+Time end: 11/19/2021 7:46:37 PM		Latitude: 38.048099046275	Longitude: -78.50814140745001	Speed: 12.3345	Device ID: bC4
+-
+Event 221:
+Time start: 12/1/2021 2:33:00 PM	Latitude: 38.0364304	Longitude: -78.5169144	Speed: 0.0395625	Device ID: bC4
+Time end: 12/1/2021 2:33:00 PM		Latitude: 38.0364304	Longitude: -78.5169144	Speed: 0.03375	Device ID: bC4
+-
+Event 221:
+Time start: 12/10/2021 7:12:15 PM	Latitude: 38.047892363390005	Longitude: -78.50782612159999	Speed: 3.5176	Device ID: bC4
+Time end: 12/10/2021 7:12:15 PM		Latitude: 38.0478916538	Longitude: -78.507829172	Speed: 3.592	Device ID: bC4
+-
+Event 221:
+Time start: 12/20/2021 5:39:37 PM	Latitude: 38.042418473	Longitude: -78.51151372700001	Speed: 5.117	Device ID: bC4
+Time point 2: 12/20/2021 5:39:38 PM	Latitude: 38.0424194	Longitude: -78.5115128	Speed: 5	Device ID: bC4
+Time end: 12/20/2021 5:39:38 PM		Latitude: 38.0424208685	Longitude: -78.5115086035	Speed: 5.715	Device ID: bC4
+-
+Event 221:
+Time start: 2/13/2022 1:02:17 PM	Latitude: 38.03653373195	Longitude: -78.51690049162501	Speed: 2.50575	Device ID: bC4
+Time end: 2/13/2022 1:02:17 PM		Latitude: 38.03653399895	Longitude: -78.51689961412501	Speed: 2.60075	Device ID: bC4
+-
+Event 221:
+Time start: 2/17/2022 7:23:51 PM	Latitude: 38.0473328	Longitude: -78.5074921	Speed: 0	Device ID: bC4
+Time end: 2/17/2022 7:23:54 PM		Latitude: 38.0473328	Longitude: -78.5074921	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2022 5:20:52 PM	Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+Time end: 3/24/2022 5:20:53 PM		Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2022 5:20:54 PM	Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+Time end: 3/24/2022 5:20:55 PM		Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2022 5:20:55 PM	Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+Time end: 3/24/2022 5:20:58 PM		Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/24/2022 5:21:00 PM	Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+Time end: 3/24/2022 5:24:49 PM		Latitude: 38.0475121	Longitude: -78.5075455	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 3/31/2022 12:30:40 PM	Latitude: 38.0499458	Longitude: -78.5128174	Speed: 1.194	Device ID: bC4
+Time point 2: 3/31/2022 12:30:41 PM	Latitude: 38.0499458	Longitude: -78.5128174	Speed: 1	Device ID: bC4
+Time end: 3/31/2022 12:30:41 PM		Latitude: 38.04995683080001	Longitude: -78.51281657232857	Speed: 2.0842857	Device ID: bC4
+-
+Event 221:
+Time start: 4/4/2022 3:35:01 PM	Latitude: 38.036738483724996	Longitude: -78.514477312125	Speed: 3.57025	Device ID: bC4
+Time end: 4/4/2022 3:35:01 PM		Latitude: 38.03673917125	Longitude: -78.51448183125	Speed: 4.1625	Device ID: bC4
+-
+Event 221:
+Time start: 4/4/2022 4:41:32 PM	Latitude: 38.033371406275	Longitude: -78.49495603546251	Speed: 0.705875	Device ID: bC4
+Time end: 4/4/2022 4:41:32 PM		Latitude: 38.033371499725	Longitude: -78.4949560755375	Speed: 0.704125	Device ID: bC4
+-
+Event 221:
+Time start: 4/7/2022 3:00:06 PM	Latitude: 38.0474358	Longitude: -78.5073929	Speed: 1	Device ID: bC4
+Time end: 4/7/2022 3:00:06 PM		Latitude: 38.0474358	Longitude: -78.5073929	Speed: 1	Device ID: bC4
+-
+Event 221:
+Time start: 4/26/2022 6:21:40 PM	Latitude: 38.0476685	Longitude: -78.5084152	Speed: 0	Device ID: bC4
+Time end: 4/26/2022 6:21:40 PM		Latitude: 38.0476685	Longitude: -78.5084152	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 4/27/2022 12:01:25 PM	Latitude: 38.0427417681	Longitude: -78.5112413885	Speed: 3.57	Device ID: bC4
+Time end: 4/27/2022 12:01:25 PM		Latitude: 38.0427416079	Longitude: -78.5112415715	Speed: 3.63	Device ID: bC4
+-
+Event 221:
+Time start: 4/27/2022 2:13:36 PM	Latitude: 38.0328178	Longitude: -78.5031662	Speed: 0	Device ID: bC4
+Time end: 4/27/2022 2:13:36 PM		Latitude: 38.0328178	Longitude: -78.5031662	Speed: 0	Device ID: bC4
+-
+Event 221:
+Time start: 5/4/2022 5:01:58 PM	Latitude: 38.042984	Longitude: -78.5055466	Speed: 1.94	Device ID: bC4
+Time point 2: 5/4/2022 5:01:59 PM	Latitude: 38.042984	Longitude: -78.5055466	Speed: 2	Device ID: bC4
+Time end: 5/4/2022 5:01:59 PM		Latitude: 38.04295934093333	Longitude: -78.5055550194	Speed: 6.5723333	Device ID: bC4
+-
+Event 221:
+Time start: 5/12/2022 5:56:11 PM	Latitude: 38.048087059187026	Longitude: -78.5081472763997	Speed: 11.605237	Device ID: bC4
+Time end: 5/12/2022 5:56:11 PM		Latitude: 38.04808213850115	Longitude: -78.5081585705051	Speed: 12.091597	Device ID: bC4
+-
+Event 221:
+Time start: 6/21/2022 4:46:58 PM	Latitude: 38.05363818255	Longitude: -78.50500511745001	Speed: 1.24425	Device ID: bC4
+Time end: 6/21/2022 4:46:58 PM		Latitude: 38.0536360065	Longitude: -78.5050072935	Speed: 0.8775	Device ID: bC4
+-
+Event 221:
+Time start: 7/11/2022 1:45:27 PM	Latitude: 38.04811014056667	Longitude: -78.50810709860001	Speed: 12.923667	Device ID: bC4
+Time end: 7/11/2022 1:45:27 PM		Latitude: 38.04810636356667	Longitude: -78.5081087006	Speed: 12.413667	Device ID: bC4
+-
+Event 221:
+Time start: 7/13/2022 2:05:50 PM	Latitude: 38.03491201571429	Longitude: -78.51694841714286	Speed: 3.3285713	Device ID: bC4
+Time end: 7/13/2022 2:05:50 PM		Latitude: 38.034912348700004	Longitude: -78.5169479354	Speed: 3.271	Device ID: bC4
+-
+Event 221:
+Time start: 7/20/2022 10:30:24 AM	Latitude: 38.0351982	Longitude: -78.5142517	Speed: 1	Device ID: bC4
+Time end: 7/20/2022 10:30:24 AM		Latitude: 38.0351982	Longitude: -78.5142491123	Speed: 2.243	Device ID: bC4
+-
+Event 221:
+Time start: 7/21/2022 2:16:37 PM	Latitude: 38.0481027144	Longitude: -78.50818513895	Speed: 12.4735	Device ID: bC4
+Time end: 7/21/2022 2:16:38 PM		Latitude: 38.0481009784	Longitude: -78.50818673845	Speed: 12.5085	Device ID: bC4
+-
+Event 221:
+Time start: 7/21/2022 3:52:04 PM	Latitude: 38.048002073199996	Longitude: -78.508385754175	Speed: 7.39325	Device ID: bC4
+Time end: 7/21/2022 3:52:04 PM		Latitude: 38.0480018252	Longitude: -78.50838666967499	Speed: 7.33825	Device ID: bC4
+-
+Event 221:
+Time start: 7/25/2022 12:28:21 PM	Latitude: 38.0876396815	Longitude: -78.4706399393	Speed: 27.7185	Device ID: bC4
+Time end: 7/25/2022 12:28:21 PM		Latitude: 38.0876269415	Longitude: -78.4706471113	Speed: 28.4585	Device ID: bC4
+-
+Event 221:
+Time start: 8/8/2022 2:03:18 PM	Latitude: 38.047822869	Longitude: -78.508670862	Speed: 2.7	Device ID: bC4
+Time end: 8/8/2022 2:03:18 PM		Latitude: 38.04782469795	Longitude: -78.5086672041	Speed: 3.385	Device ID: bC4
+-
+Event 221:
+Time start: 8/22/2022 1:47:22 PM	Latitude: 38.0445791584	Longitude: -78.5051117	Speed: 8.332	Device ID: bC4
+Time end: 8/22/2022 1:47:22 PM		Latitude: 38.0445746944	Longitude: -78.5051117	Speed: 7.612	Device ID: bC4
+-
+Event 221:
+Time start: 9/14/2022 3:36:36 PM	Latitude: 38.0340729	Longitude: -78.508873	Speed: 2	Device ID: bC4
+Time end: 9/14/2022 3:36:36 PM		Latitude: 38.034074901219995	Longitude: -78.50887103145999	Speed: 2.3354	Device ID: bC4
+-
+Event 221:
+Time start: 1/28/2023 1:28:53 PM	Latitude: 38.031054615525	Longitude: -78.49690012192501	Speed: 15.372	Device ID: bC4
+Time end: 1/28/2023 1:28:53 PM		Latitude: 38.031052896999995	Longitude: -78.496897089	Speed: 15.16	Device ID: bC4
+-
+Event 221:
+Time start: 3/6/2023 2:37:39 PM	Latitude: 38.0322685729	Longitude: -78.5034904271	Speed: 1.002	Device ID: bC4
+Time end: 3/6/2023 2:37:39 PM		Latitude: 38.03226773323333	Longitude: -78.50349126676667	Speed: 0.92866665	Device ID: bC4
+-
+Event 221:
+Time start: 3/13/2023 11:27:17 AM	Latitude: 38.0326385	Longitude: -78.5092316	Speed: 5	Device ID: bC4
+Time end: 3/13/2023 11:27:17 AM		Latitude: 38.0326528967	Longitude: -78.5092265162	Speed: 7.553	Device ID: bC4
+-
+Event 221:
+Time start: 3/22/2023 12:46:08 PM	Latitude: 38.048160210249996	Longitude: -78.50818646649999	Speed: 12.31775	Device ID: bC4
+Time end: 3/22/2023 12:46:08 PM		Latitude: 38.04816003	Longitude: -78.50818668	Speed: 12.33	Device ID: bC4
+-

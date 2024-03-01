@@ -1,0 +1,61 @@
+Event 264:
+Time start: 5/20/2020 6:01:52 PM	Latitude: 38.05660822351428	Longitude: -78.49608829584285	Speed: 30.788572	Device ID: bFD
+Time end: 5/20/2020 6:01:52 PM		Latitude: 38.056585147142854	Longitude: -78.49610635642857	Speed: 29.285715	Device ID: bFD
+-
+Event 264:
+Time start: 7/31/2020 7:19:34 PM	Latitude: 38.031535899379996	Longitude: -78.4977938592	Speed: 28.1138	Device ID: bFD
+Time end: 7/31/2020 7:19:34 PM		Latitude: 38.03152815362	Longitude: -78.4977760608	Speed: 28.4162	Device ID: bFD
+-
+Event 264:
+Time start: 8/7/2020 7:04:26 PM	Latitude: 38.032804491625	Longitude: -78.4958725	Speed: 6.04125	Device ID: bFD
+Time end: 8/7/2020 7:04:26 PM		Latitude: 38.032804615375	Longitude: -78.4958725	Speed: 6.02875	Device ID: bFD
+-
+Event 264:
+Time start: 1/8/2021 4:39:22 PM	Latitude: 38.03191297633333	Longitude: -78.496628514	Speed: 16.28	Device ID: bFD
+Time end: 1/8/2021 4:39:22 PM		Latitude: 38.03191180903333	Longitude: -78.4966282386	Speed: 16.172	Device ID: bFD
+-
+Event 264:
+Time start: 2/4/2021 5:22:23 PM	Latitude: 38.03264618266667	Longitude: -78.49452878066667	Speed: 24.966667	Device ID: bFD
+Time end: 2/4/2021 5:22:24 PM		Latitude: 38.03264776386666	Longitude: -78.49453643296667	Speed: 22.901667	Device ID: bFD
+-
+Event 264:
+Time start: 6/29/2021 1:57:22 PM	Latitude: 38.0337906	Longitude: -78.5000687	Speed: 0	Device ID: bFD
+Time end: 6/29/2021 1:57:22 PM		Latitude: 38.0337906	Longitude: -78.5000687	Speed: 0	Device ID: bFD
+-
+Event 264:
+Time start: 7/28/2021 11:18:01 AM	Latitude: 38.046749325025	Longitude: -78.509380297775	Speed: 2.7135	Device ID: bFD
+Time end: 7/28/2021 11:18:01 AM		Latitude: 38.046748724275	Longitude: -78.509382014525	Speed: 2.3085	Device ID: bFD
+-
+Event 264:
+Time start: 9/24/2021 7:21:29 PM	Latitude: 38.030774736000005	Longitude: -78.504197068	Speed: 33.92	Device ID: bFD
+Time end: 9/24/2021 7:21:29 PM		Latitude: 38.0307668771	Longitude: -78.5042002198	Speed: 32.787	Device ID: bFD
+-
+Event 264:
+Time start: 2/4/2022 9:36:34 PM	Latitude: 38.0325127	Longitude: -78.4970474	Speed: 11.5266	Device ID: bFD
+Time end: 2/4/2022 9:36:34 PM		Latitude: 38.0325127	Longitude: -78.4970474	Speed: 11.6706	Device ID: bFD
+-
+Event 264:
+Time start: 5/10/2022 5:42:10 PM	Latitude: 38.054688345500004	Longitude: -78.49734396699999	Speed: 38.78	Device ID: bFD
+Time point 2: 5/10/2022 5:42:11 PM	Latitude: 38.0547066	Longitude: -78.4973297	Speed: 39	Device ID: bFD
+Time end: 5/10/2022 5:42:11 PM		Latitude: 38.05470839305	Longitude: -78.4973284451	Speed: 38.389	Device ID: bFD
+-
+Event 264:
+Time start: 7/8/2022 8:33:19 PM	Latitude: 38.0325394	Longitude: -78.4970779	Speed: 0.56775	Device ID: bFD
+-
+Event 264:
+Time start: 10/17/2022 12:14:01 PM	Latitude: 38.035857481	Longitude: -78.501346516	Speed: 27.89	Device ID: bFD
+Time end: 10/17/2022 12:14:01 PM		Latitude: 38.035872396500004	Longitude: -78.501357924	Speed: 27.085	Device ID: bFD
+-
+Event 264:
+Time start: 4/19/2023 7:03:49 PM	Latitude: 38.031344232425	Longitude: -78.4969416989	Speed: 19.229	Device ID: bFD
+Time end: 4/19/2023 7:03:49 PM		Latitude: 38.031359453925	Longitude: -78.4969264809	Speed: 18.249	Device ID: bFD
+-
+Event 264:
+Time start: 5/4/2023 3:52:06 PM	Latitude: 38.031117665539995	Longitude: -78.49671632164001	Speed: 15.7928	Device ID: bFD
+Time end: 5/4/2023 3:52:06 PM		Latitude: 38.031116003659996	Longitude: -78.49671672556	Speed: 15.9512	Device ID: bFD
+-
+Event 264:
+Time start: 10/19/2023 3:38:27 PM	Latitude: 38.0337143	Longitude: -78.5087262751	Speed: 22.154	Device ID: bFD
+Time point 2: 10/19/2023 3:38:28 PM	Latitude: 38.0337143	Longitude: -78.5087204	Speed: 22	Device ID: bFD
+Time end: 10/19/2023 3:38:28 PM		Latitude: 38.0337143	Longitude: -78.5087184077	Speed: 21.043	Device ID: bFD
+-

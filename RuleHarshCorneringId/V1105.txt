@@ -1,0 +1,362 @@
+Event 20:
+Time start: 10/6/2023 1:13:30 PM	Latitude: 38.03221610815	Longitude: -78.50868167905	Speed: 26.405624	Device ID: b279
+Time end: 10/6/2023 1:13:30 PM		Latitude: 38.032224287350004	Longitude: -78.50870462945001	Speed: 25.925625	Device ID: b279
+-
+Event 20:
+Time start: 10/11/2023 2:31:04 PM	Latitude: 38.0365509935	Longitude: -78.5168633915	Speed: 17.71	Device ID: b279
+Time end: 10/11/2023 2:31:04 PM		Latitude: 38.036550372725	Longitude: -78.516866407025	Speed: 17.1985	Device ID: b279
+-
+Event 20:
+Time start: 10/12/2023 1:55:51 PM	Latitude: 38.0531646895	Longitude: -78.5057003345	Speed: 10.4175	Device ID: b279
+Time end: 10/12/2023 1:55:51 PM		Latitude: 38.05316446255	Longitude: -78.50570098305	Speed: 10.45575	Device ID: b279
+-
+Event 20:
+Time start: 10/13/2023 3:15:24 PM	Latitude: 38.0465044972	Longitude: -78.513150861	Speed: 19.294	Device ID: b279
+Time end: 10/13/2023 3:15:24 PM		Latitude: 38.04650628262	Longitude: -78.51315291435	Speed: 19.0249	Device ID: b279
+-
+Event 20:
+Time start: 10/13/2023 3:26:40 PM	Latitude: 38.03692250458572	Longitude: -78.51460360314286	Speed: 23.214428	Device ID: b279
+Time end: 10/13/2023 3:26:40 PM		Latitude: 38.036919714300005	Longitude: -78.514602426	Speed: 23.083	Device ID: b279
+-
+Event 20:
+Time start: 10/19/2023 1:44:54 PM	Latitude: 38.03628397245	Longitude: -78.506890350975	Speed: 5.30725	Device ID: b279
+Time end: 10/19/2023 1:44:54 PM		Latitude: 38.03628418605	Longitude: -78.506890045775	Speed: 5.33525	Device ID: b279
+-
+Event 20:
+Time start: 10/19/2023 6:16:25 PM	Latitude: 38.046669	Longitude: -78.50936841	Speed: 11.2	Device ID: b279
+Time end: 10/19/2023 6:16:25 PM		Latitude: 38.046669	Longitude: -78.5093743929	Speed: 11.788	Device ID: b279
+-
+Event 20:
+Time start: 10/20/2023 11:54:10 AM	Latitude: 38.04466930506666	Longitude: -78.5110273131	Speed: 25.108667	Device ID: b279
+Time end: 10/20/2023 11:54:10 AM		Latitude: 38.044669569599996	Longitude: -78.51102853389999	Speed: 25.098	Device ID: b279
+-
+Event 20:
+Time start: 10/20/2023 11:54:10 AM	Latitude: 38.04467448	Longitude: -78.511051195	Speed: 24.9	Device ID: b279
+Time end: 10/20/2023 11:54:10 AM		Latitude: 38.044674975999996	Longitude: -78.511053484	Speed: 24.88	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 11:53:00 AM	Latitude: 38.044766748025	Longitude: -78.51094626235	Speed: 25.8335	Device ID: b279
+Time end: 10/26/2023 11:53:00 AM		Latitude: 38.044764764225	Longitude: -78.51095280915	Speed: 25.7815	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 11:54:02 AM	Latitude: 38.046719617142855	Longitude: -78.51312690857142	Speed: 19.398571	Device ID: b279
+Time point 2: 10/26/2023 11:54:03 AM	Latitude: 38.046772	Longitude: -78.5131531	Speed: 18	Device ID: b279
+Time end: 10/26/2023 11:54:03 AM		Latitude: 38.046769178699996	Longitude: -78.51316358213333	Speed: 17.894333	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 11:56:59 AM	Latitude: 38.036898009	Longitude: -78.5146234236	Speed: 21.806	Device ID: b279
+Time point 2: 10/26/2023 11:57:00 AM	Latitude: 38.0368652	Longitude: -78.5146103	Speed: 20	Device ID: b279
+Time end: 10/26/2023 11:57:00 AM		Latitude: 38.03686308578948	Longitude: -78.51462152310526	Speed: 20.088947	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 12:42:13 PM	Latitude: 38.03470443521428	Longitude: -78.51068455185715	Speed: 6.095714	Device ID: b279
+Time end: 10/26/2023 12:42:13 PM		Latitude: 38.034703618835714	Longitude: -78.51068497524287	Speed: 6.1432858	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 2:36:00 PM	Latitude: 38.035643120941174	Longitude: -78.50469451905882	Speed: 3.4941177	Device ID: b279
+Time end: 10/26/2023 2:36:00 PM		Latitude: 38.03564410592353	Longitude: -78.50469732457647	Speed: 3.572353	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 2:40:29 PM	Latitude: 38.0385439434	Longitude: -78.5152911181	Speed: 20.279	Device ID: b279
+Time end: 10/26/2023 2:40:29 PM		Latitude: 38.03855001801177	Longitude: -78.51529352284118	Speed: 20.229235	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 2:52:05 PM	Latitude: 38.053166257475006	Longitude: -78.5133404281	Speed: 21.7785	Device ID: b279
+Time end: 10/26/2023 2:52:05 PM		Latitude: 38.053166885025	Longitude: -78.5133408019	Speed: 21.7715	Device ID: b279
+-
+Event 20:
+Time start: 10/26/2023 5:22:31 PM	Latitude: 38.0340346701	Longitude: -78.50875405881999	Speed: 20.5382	Device ID: b279
+Time point 2: 10/26/2023 5:22:32 PM	Latitude: 38.0340462	Longitude: -78.5087509	Speed: 20	Device ID: b279
+Time end: 10/26/2023 5:22:32 PM		Latitude: 38.0340476863	Longitude: -78.50875939473333	Speed: 19.888666	Device ID: b279
+-
+Event 20:
+Time start: 10/27/2023 12:09:39 PM	Latitude: 38.03670665121667	Longitude: -78.51506710015	Speed: 9.689	Device ID: b279
+Time end: 10/27/2023 12:09:39 PM		Latitude: 38.03670655961667	Longitude: -78.51506575735	Speed: 9.761	Device ID: b279
+-
+Event 20:
+Time start: 11/1/2023 12:37:31 PM	Latitude: 38.03553332557369	Longitude: -78.51030813638421	Speed: 14.54579	Device ID: b279
+Time end: 11/1/2023 12:37:31 PM		Latitude: 38.03553221273685	Longitude: -78.5103086628421	Speed: 14.557895	Device ID: b279
+-
+Event 20:
+Time start: 11/1/2023 12:37:31 PM	Latitude: 38.03551963284211	Longitude: -78.51031461410527	Speed: 14.6947365	Device ID: b279
+Time end: 11/1/2023 12:37:31 PM		Latitude: 38.03551784262632	Longitude: -78.5103154610158	Speed: 14.7142105	Device ID: b279
+-
+Event 20:
+Time start: 11/1/2023 1:43:54 PM	Latitude: 38.04461653725	Longitude: -78.51092242967499	Speed: 26.6755	Device ID: b279
+Time end: 11/1/2023 1:43:54 PM		Latitude: 38.04461715525	Longitude: -78.510923803075	Speed: 26.6395	Device ID: b279
+-
+Event 20:
+Time start: 11/2/2023 12:11:20 PM	Latitude: 38.04461543	Longitude: -78.510919969	Speed: 26.74	Device ID: b279
+Time end: 11/2/2023 12:11:20 PM		Latitude: 38.0446192925	Longitude: -78.51092855275	Speed: 26.515	Device ID: b279
+-
+Event 20:
+Time start: 11/2/2023 6:14:51 PM	Latitude: 38.04111480500001	Longitude: -78.5020462425	Speed: 13.3	Device ID: b279
+Time end: 11/2/2023 6:14:51 PM		Latitude: 38.041114454020004	Longitude: -78.50204582137	Speed: 13.3092	Device ID: b279
+-
+Event 20:
+Time start: 11/3/2023 2:02:49 PM	Latitude: 38.04659847615	Longitude: -78.51317394275	Speed: 19.80375	Device ID: b279
+Time end: 11/3/2023 2:02:50 PM		Latitude: 38.04660390765	Longitude: -78.51317832025	Speed: 19.59125	Device ID: b279
+-
+Event 20:
+Time start: 11/3/2023 2:28:56 PM	Latitude: 38.046682703775	Longitude: -78.509423824625	Speed: 14.8675	Device ID: b279
+Time end: 11/3/2023 2:28:57 PM		Latitude: 38.046681502275	Longitude: -78.509431722125	Speed: 15.3175	Device ID: b279
+-
+Event 20:
+Time start: 11/3/2023 4:59:20 PM	Latitude: 38.0367200432	Longitude: -78.51446083600001	Speed: 23.66	Device ID: b279
+Time end: 11/3/2023 4:59:20 PM		Latitude: 38.036722695879995	Longitude: -78.51446277240001	Speed: 23.519	Device ID: b279
+-
+Event 20:
+Time start: 11/6/2023 4:09:01 PM	Latitude: 38.0512009	Longitude: -78.51476046168571	Speed: 19.121714	Device ID: b279
+Time end: 11/6/2023 4:09:01 PM		Latitude: 38.0512009	Longitude: -78.51476235714286	Speed: 19.142857	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 1:02:10 PM	Latitude: 38.036691356	Longitude: -78.515084093	Speed: 12.79	Device ID: b279
+Time end: 11/15/2023 1:02:10 PM		Latitude: 38.036691108	Longitude: -78.5150837115	Speed: 12.845	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 1:17:31 PM	Latitude: 38.04475007266	Longitude: -78.50617227075	Speed: 21.7988	Device ID: b279
+Time end: 11/15/2023 1:17:32 PM		Latitude: 38.04472123126	Longitude: -78.50618187825	Speed: 21.5468	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:42:15 PM	Latitude: 38.04472104516667	Longitude: -78.51088171933333	Speed: 24.047667	Device ID: b279
+Time end: 11/15/2023 3:42:15 PM		Latitude: 38.04471766333334	Longitude: -78.51089524666666	Speed: 24.113333	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:43:15 PM	Latitude: 38.04668325145715	Longitude: -78.5131451539	Speed: 17.41657	Device ID: b279
+Time end: 11/15/2023 3:43:15 PM		Latitude: 38.04669349717143	Longitude: -78.5131516939	Speed: 17.073715	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:47:00 PM	Latitude: 38.03646525355	Longitude: -78.51241882616	Speed: 7.1542	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:47:01 PM	Latitude: 38.036469480049995	Longitude: -78.51239411496	Speed: 8.2602	Device ID: b279
+Time end: 11/15/2023 3:47:01 PM		Latitude: 38.036469517499995	Longitude: -78.51239389599999	Speed: 8.27	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:47:01 PM	Latitude: 38.0364710155	Longitude: -78.51238513759999	Speed: 8.662	Device ID: b279
+Time end: 11/15/2023 3:47:01 PM		Latitude: 38.03647121345	Longitude: -78.51238398024	Speed: 8.7138	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:49:34 PM	Latitude: 38.035345648565006	Longitude: -78.508711617955	Speed: 8.58255	Device ID: b279
+Time end: 11/15/2023 3:49:34 PM		Latitude: 38.035345259435005	Longitude: -78.508711138045	Speed: 8.57745	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:49:39 PM	Latitude: 38.035287462185	Longitude: -78.508639857295	Speed: 7.81995	Device ID: b279
+Time end: 11/15/2023 3:49:39 PM		Latitude: 38.035286283350004	Longitude: -78.50863840344999	Speed: 7.8045	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 3:51:25 PM	Latitude: 38.03521292314286	Longitude: -78.50847409257143	Speed: 9.448571	Device ID: b279
+Time end: 11/15/2023 3:51:25 PM		Latitude: 38.03521325498572	Longitude: -78.50847541994285	Speed: 9.436143	Device ID: b279
+-
+Event 20:
+Time start: 11/15/2023 4:08:59 PM	Latitude: 38.0353170787421	Longitude: -78.50865785265263	Speed: 9.247263	Device ID: b279
+Time end: 11/15/2023 4:08:59 PM		Latitude: 38.035317167889474	Longitude: -78.50865807913685	Speed: 9.251684	Device ID: b279
+-
+Event 20:
+Time start: 11/17/2023 1:36:19 PM	Latitude: 38.051716651	Longitude: -78.509160485	Speed: 22.64	Device ID: b279
+Time end: 11/17/2023 1:36:19 PM		Latitude: 38.051715656633334	Longitude: -78.50916071883334	Speed: 22.578667	Device ID: b279
+-
+Event 20:
+Time start: 11/17/2023 2:52:12 PM	Latitude: 38.02662031818461	Longitude: -78.5236009084923	Speed: 14.087692	Device ID: b279
+Time end: 11/17/2023 2:52:12 PM		Latitude: 38.02661811135384	Longitude: -78.52360317027691	Speed: 13.943077	Device ID: b279
+-
+Event 20:
+Time start: 11/17/2023 2:52:18 PM	Latitude: 38.026491738	Longitude: -78.52372961366666	Speed: 6.6766667	Device ID: b279
+Time end: 11/17/2023 2:52:18 PM		Latitude: 38.0264900826	Longitude: -78.52373032356667	Speed: 6.8936667	Device ID: b279
+-
+Event 20:
+Time start: 11/17/2023 3:01:03 PM	Latitude: 38.026501448000005	Longitude: -78.523726617	Speed: 12.145	Device ID: b279
+Time end: 11/17/2023 3:01:04 PM		Latitude: 38.026504969600005	Longitude: -78.52373555589999	Speed: 11.5415	Device ID: b279
+-
+Event 20:
+Time start: 11/29/2023 8:25:16 PM	Latitude: 38.03626005049852	Longitude: -78.50695749516818	Speed: 4.180454	Device ID: b279
+Time end: 11/29/2023 8:25:16 PM		Latitude: 38.03626032221979	Longitude: -78.50695678463899	Speed: 4.1859317	Device ID: b279
+-
+Event 20:
+Time start: 11/29/2023 8:25:18 PM	Latitude: 38.0362712454147	Longitude: -78.50692822136519	Speed: 4.4061575	Device ID: b279
+Time end: 11/29/2023 8:25:18 PM		Latitude: 38.0362720388408	Longitude: -78.50692614661992	Speed: 4.422154	Device ID: b279
+-
+Event 20:
+Time start: 11/29/2023 8:25:19 PM	Latitude: 38.03627466910266	Longitude: -78.50691926869727	Speed: 4.4751835	Device ID: b279
+Time end: 11/29/2023 8:25:19 PM		Latitude: 38.036274995168185	Longitude: -78.50691841606223	Speed: 4.4817576	Device ID: b279
+-
+Event 20:
+Time start: 11/30/2023 1:14:31 PM	Latitude: 38.04460066975	Longitude: -78.51095457654999	Speed: 10.87275	Device ID: b279
+Time end: 11/30/2023 1:14:31 PM		Latitude: 38.044600515249996	Longitude: -78.51095449645	Speed: 10.89225	Device ID: b279
+-
+Event 20:
+Time start: 12/4/2023 3:10:28 PM	Latitude: 38.03386532161111	Longitude: -78.51792373472222	Speed: 24.279444	Device ID: b279
+Time end: 12/4/2023 3:10:28 PM		Latitude: 38.033869009444444	Longitude: -78.5179294138889	Speed: 24.327778	Device ID: b279
+-
+Event 20:
+Time start: 12/7/2023 12:46:15 PM	Latitude: 38.03649753887142	Longitude: -78.51683085705714	Speed: 11.9232855	Device ID: b279
+Time end: 12/7/2023 12:46:15 PM		Latitude: 38.036496241871426	Longitude: -78.51683039905714	Speed: 12.013286	Device ID: b279
+-
+Event 20:
+Time start: 12/7/2023 12:52:41 PM	Latitude: 38.0531333704	Longitude: -78.5057284792	Speed: 23.968	Device ID: b279
+Time end: 12/7/2023 12:52:42 PM		Latitude: 38.05315110454	Longitude: -78.50566090792	Speed: 22.1968	Device ID: b279
+-
+Event 20:
+Time start: 12/7/2023 1:03:22 PM	Latitude: 38.04472375933333	Longitude: -78.51088353200001	Speed: 19.943333	Device ID: b279
+Time end: 12/7/2023 1:03:22 PM		Latitude: 38.04471882526666	Longitude: -78.5108869852	Speed: 19.587667	Device ID: b279
+-
+Event 20:
+Time start: 12/7/2023 6:07:03 PM	Latitude: 38.038696684499996	Longitude: -78.515392857	Speed: 20.61725	Device ID: b279
+Time end: 12/7/2023 6:07:03 PM		Latitude: 38.038686075499996	Longitude: -78.515401303	Speed: 20.46275	Device ID: b279
+-
+Event 20:
+Time start: 12/7/2023 6:07:57 PM	Latitude: 38.039708944733334	Longitude: -78.51750872095833	Speed: 17.773083	Device ID: b279
+Time end: 12/7/2023 6:07:57 PM		Latitude: 38.0397070214	Longitude: -78.51750859387501	Speed: 17.77725	Device ID: b279
+-
+Event 20:
+Time start: 12/7/2023 6:13:54 PM	Latitude: 38.03876836543636	Longitude: -78.51723382383636	Speed: 4.946636	Device ID: b279
+Time end: 12/7/2023 6:13:54 PM		Latitude: 38.038766340018185	Longitude: -78.51722876161817	Speed: 5.198818	Device ID: b279
+-
+Event 20:
+Time start: 12/8/2023 1:07:51 PM	Latitude: 38.032876412475	Longitude: -78.49890617505	Speed: 16.5095	Device ID: b279
+Time end: 12/8/2023 1:07:51 PM		Latitude: 38.032863822975	Longitude: -78.49893135405	Speed: 15.5195	Device ID: b279
+-
+Event 20:
+Time start: 12/8/2023 1:18:58 PM	Latitude: 38.03370413337778	Longitude: -78.51706343982222	Speed: 14.215333	Device ID: b279
+Time end: 12/8/2023 1:18:58 PM		Latitude: 38.033703502622224	Longitude: -78.51706361617778	Speed: 14.204667	Device ID: b279
+-
+Event 20:
+Time start: 12/19/2023 2:57:09 PM	Latitude: 38.034846433	Longitude: -78.50121841100001	Speed: 13.135	Device ID: b279
+Time end: 12/19/2023 2:57:09 PM		Latitude: 38.0348550939	Longitude: -78.50121187463334	Speed: 13.5205	Device ID: b279
+-
+Event 20:
+Time start: 12/19/2023 3:04:30 PM	Latitude: 38.034936683333335	Longitude: -78.5012207	Speed: 14.841666	Device ID: b279
+Time end: 12/19/2023 3:04:31 PM		Latitude: 38.034934383	Longitude: -78.5012207	Speed: 14.8305	Device ID: b279
+-
+Event 20:
+Time start: 12/19/2023 4:16:47 PM	Latitude: 38.032560796233334	Longitude: -78.49984631413334	Speed: 16.212	Device ID: b279
+Time point 2: 12/19/2023 4:16:48 PM	Latitude: 38.0325623	Longitude: -78.4998398	Speed: 17	Device ID: b279
+Time end: 12/19/2023 4:16:48 PM		Latitude: 38.032558612222225	Longitude: -78.49983437444445	Speed: 17.1	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 1:16:56 PM	Latitude: 38.027086280037494	Longitude: -78.5208482108375	Speed: 30.291624	Device ID: b279
+Time end: 12/20/2023 1:16:57 PM		Latitude: 38.0270814402125	Longitude: -78.5208557414125	Speed: 30.185875	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 1:22:42 PM	Latitude: 38.0263176	Longitude: -78.52445753933333	Speed: 17.458889	Device ID: b279
+Time end: 12/20/2023 1:22:42 PM		Latitude: 38.0263176	Longitude: -78.524449384	Speed: 17.646667	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 1:23:35 PM	Latitude: 38.026520558	Longitude: -78.52367721799999	Speed: 15.42	Device ID: b279
+Time end: 12/20/2023 1:23:36 PM		Latitude: 38.02652186781667	Longitude: -78.52368206415	Speed: 15.196834	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 3:51:01 PM	Latitude: 38.0531731	Longitude: -78.50572730166667	Speed: 13.3	Device ID: b279
+Time end: 12/20/2023 3:51:01 PM		Latitude: 38.0531731	Longitude: -78.50572829603333	Speed: 13.346	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 3:59:03 PM	Latitude: 38.044730666999996	Longitude: -78.51087813925001	Speed: 19.9875	Device ID: b279
+Time end: 12/20/2023 3:59:03 PM		Latitude: 38.0447123277	Longitude: -78.51089127667501	Speed: 18.91125	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 5:56:34 PM	Latitude: 38.03649317404	Longitude: -78.51672278942999	Speed: 17.0846	Device ID: b279
+Time end: 12/20/2023 5:56:34 PM		Latitude: 38.0364930588	Longitude: -78.5167220021	Speed: 17.162	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 6:04:28 PM	Latitude: 38.03158166031275	Longitude: -78.49769993968725	Speed: 6.79024	Device ID: b279
+Time end: 12/20/2023 6:04:28 PM		Latitude: 38.03158232546059	Longitude: -78.49769927453941	Speed: 6.6594768	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 6:20:30 PM	Latitude: 38.03140257887273	Longitude: -78.49798233394546	Speed: 5.8884544	Device ID: b279
+Time end: 12/20/2023 6:20:30 PM		Latitude: 38.03140277309091	Longitude: -78.49798249418181	Speed: 5.9018183	Device ID: b279
+-
+Event 20:
+Time start: 12/20/2023 6:20:31 PM	Latitude: 38.03142033596364	Longitude: -78.49799698412727	Speed: 7.110273	Device ID: b279
+Time end: 12/20/2023 6:20:31 PM		Latitude: 38.031420613418184	Longitude: -78.49799721303636	Speed: 7.1293635	Device ID: b279
+-
+Event 20:
+Time start: 12/21/2023 2:43:12 PM	Latitude: 38.03551885192609	Longitude: -78.51032406616521	Speed: 15.386044	Device ID: b279
+Time end: 12/21/2023 2:43:12 PM		Latitude: 38.03551496266522	Longitude: -78.51032578451304	Speed: 15.425609	Device ID: b279
+-
+Event 20:
+Time start: 12/21/2023 2:43:13 PM	Latitude: 38.03548790452174	Longitude: -78.51033773930435	Speed: 15.70087	Device ID: b279
+Time end: 12/21/2023 2:43:13 PM		Latitude: 38.035487348913044	Longitude: -78.51033798478261	Speed: 15.706522	Device ID: b279
+-
+Event 20:
+Time start: 12/21/2023 3:28:59 PM	Latitude: 38.053165069975	Longitude: -78.505731367325	Speed: 14.406	Device ID: b279
+Time end: 12/21/2023 3:28:59 PM		Latitude: 38.053165003225004	Longitude: -78.505731825075	Speed: 14.426	Device ID: b279
+-
+Event 20:
+Time start: 12/21/2023 3:32:13 PM	Latitude: 38.04471384795	Longitude: -78.5109105082	Speed: 21.831	Device ID: b279
+Time end: 12/21/2023 3:32:13 PM		Latitude: 38.0447121525	Longitude: -78.51091729	Speed: 21.45	Device ID: b279
+-
+Event 20:
+Time start: 12/21/2023 3:42:36 PM	Latitude: 38.02646610422	Longitude: -78.52379360482	Speed: 12.1476	Device ID: b279
+Time end: 12/21/2023 3:42:36 PM		Latitude: 38.02646596538	Longitude: -78.52379507278	Speed: 12.2204	Device ID: b279
+-
+Event 20:
+Time start: 1/4/2024 2:19:01 PM	Latitude: 38.04656014533333	Longitude: -78.51314833066667	Speed: 21.92	Device ID: b279
+Time end: 1/4/2024 2:19:01 PM		Latitude: 38.04656304473333	Longitude: -78.51315079496666	Speed: 21.749	Device ID: b279
+-
+Event 20:
+Time start: 1/4/2024 2:28:41 PM	Latitude: 38.0542327762	Longitude: -78.5049175596	Speed: 21.804	Device ID: b279
+Time end: 1/4/2024 2:28:42 PM		Latitude: 38.05426314962	Longitude: -78.50496150196001	Speed: 22.8204	Device ID: b279
+-
+Event 20:
+Time start: 1/4/2024 3:40:55 PM	Latitude: 38.03403623163333	Longitude: -78.50880436058334	Speed: 21.265167	Device ID: b279
+Time end: 1/4/2024 3:40:55 PM		Latitude: 38.034040235999996	Longitude: -78.50880402	Speed: 21.12	Device ID: b279
+-
+Event 20:
+Time start: 1/5/2024 2:02:52 PM	Latitude: 38.0479864005	Longitude: -78.50828916005	Speed: 29.3835	Device ID: b279
+Time end: 1/5/2024 2:02:52 PM		Latitude: 38.0479954645	Longitude: -78.50827774644999	Speed: 29.4715	Device ID: b279
+-
+Event 20:
+Time start: 1/5/2024 2:57:46 PM	Latitude: 38.0344167616	Longitude: -78.510878732	Speed: 11.64	Device ID: b279
+Time end: 1/5/2024 2:57:46 PM		Latitude: 38.03441711404	Longitude: -78.5108789333	Speed: 11.541	Device ID: b279
+-
+Event 20:
+Time start: 1/8/2024 1:27:22 PM	Latitude: 38.0499707883	Longitude: -78.512824848325	Speed: 29.40525	Device ID: b279
+Time end: 1/8/2024 1:27:22 PM		Latitude: 38.0499935367	Longitude: -78.512845220425	Speed: 28.78225	Device ID: b279
+-
+Event 20:
+Time start: 1/8/2024 1:38:17 PM	Latitude: 38.044738348980005	Longitude: -78.5109144644	Speed: 20.4734	Device ID: b279
+Time point 2: 1/8/2024 1:38:18 PM	Latitude: 38.0447235	Longitude: -78.5109253	Speed: 20	Device ID: b279
+Time end: 1/8/2024 1:38:18 PM		Latitude: 38.04471825598	Longitude: -78.51094145233999	Speed: 20.0948	Device ID: b279
+-
+Event 20:
+Time start: 1/8/2024 1:49:34 PM	Latitude: 38.033338579725	Longitude: -78.4981005189	Speed: 22.4545	Device ID: b279
+Time end: 1/8/2024 1:49:34 PM		Latitude: 38.033335222525	Longitude: -78.4980870901	Speed: 22.1905	Device ID: b279
+-
+Event 20:
+Time start: 1/8/2024 2:53:57 PM	Latitude: 38.0264969	Longitude: -78.5237873215	Speed: 8.852	Device ID: b279
+Time end: 1/8/2024 2:53:57 PM		Latitude: 38.0264969	Longitude: -78.523787535	Speed: 8.88	Device ID: b279
+-
+Event 20:
+Time start: 1/8/2024 2:57:50 PM	Latitude: 38.02637808366667	Longitude: -78.52346558023334	Speed: 19.683	Device ID: b279
+Time end: 1/8/2024 2:57:51 PM		Latitude: 38.02640658033334	Longitude: -78.52345924456667	Speed: 18.853	Device ID: b279
+-
+Event 20:
+Time start: 1/8/2024 2:57:58 PM	Latitude: 38.026526790525	Longitude: -78.52369893267499	Speed: 16.0825	Device ID: b279
+Time end: 1/8/2024 2:58:00 PM		Latitude: 38.026554258525	Longitude: -78.52374288867499	Speed: 12.4825	Device ID: b279
+-
+Event 20:
+Time start: 1/8/2024 6:38:15 PM	Latitude: 38.033333887275	Longitude: -78.498081314475	Speed: 18.1425	Device ID: b279
+Time point 2: 1/8/2024 6:38:16 PM	Latitude: 38.0333328	Longitude: -78.4980774	Speed: 18	Device ID: b279
+Time end: 1/8/2024 6:38:16 PM		Latitude: 38.033324330999996	Longitude: -78.498095025	Speed: 18.39	Device ID: b279
+-
+Event 20:
+Time start: 1/10/2024 6:30:51 PM	Latitude: 38.04641999995	Longitude: -78.50983989701668	Speed: 20.490168	Device ID: b279
+Time point 2: 1/10/2024 6:30:52 PM	Latitude: 38.0464134	Longitude: -78.5098267	Speed: 20	Device ID: b279
+Time end: 1/10/2024 6:30:52 PM		Latitude: 38.04640993112931	Longitude: -78.5098281991223	Speed: 20.098303	Device ID: b279
+-
+Event 20:
+Time start: 1/17/2024 6:41:20 PM	Latitude: 38.028444803000006	Longitude: -78.522080471	Speed: 24.81	Device ID: b279
+Time end: 1/17/2024 6:41:20 PM		Latitude: 38.028444556025	Longitude: -78.522083505925	Speed: 24.72675	Device ID: b279
+-
+Event 20:
+Time start: 1/17/2024 6:52:34 PM	Latitude: 38.026507646666666	Longitude: -78.52376187	Speed: 16.266666	Device ID: b279
+Time end: 1/17/2024 6:52:35 PM		Latitude: 38.0265216504	Longitude: -78.52377694660001	Speed: 14.008	Device ID: b279
+-
+Event 20:
+Time start: 1/19/2024 2:21:09 PM	Latitude: 38.049835941833734	Longitude: -78.50210115816627	Speed: 6.932843	Device ID: b279
+Time end: 1/19/2024 2:21:09 PM		Latitude: 38.04983671245542	Longitude: -78.50210038754459	Speed: 6.934386	Device ID: b279
+-
+Event 20:
+Time start: 1/26/2024 1:41:09 PM	Latitude: 38.036882759	Longitude: -78.5145988835	Speed: 24.07	Device ID: b279
+Time end: 1/26/2024 1:41:09 PM		Latitude: 38.036865794966666	Longitude: -78.51463535728332	Speed: 24.292334	Device ID: b279
+-

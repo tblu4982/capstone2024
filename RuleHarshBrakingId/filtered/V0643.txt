@@ -1,0 +1,58 @@
+Vehicle: V0643
+Time start: 12/5/2019 2:25:04 PM	Latitude: 38.035257020100005	Longitude: -78.50538022565	Speed: 10.2255	Device ID: bEC
+Time end: 12/5/2019 2:25:05 PM		Latitude: 38.035250879100005	Longitude: -78.50538285915	Speed: 8.2705	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 2/6/2020 1:21:50 PM	Latitude: 38.036693615314285	Longitude: -78.51468303085714	Speed: 10.102715	Device ID: bEC
+Time end: 2/6/2020 1:21:50 PM		Latitude: 38.03669432388571	Longitude: -78.51467714514285	Speed: 9.631286	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 5/1/2020 2:55:29 PM	Latitude: 38.0358968541	Longitude: -78.5140335401	Speed: 28.399	Device ID: bEC
+Time end: 5/1/2020 2:55:29 PM		Latitude: 38.0359224909	Longitude: -78.5140361049	Speed: 25.151	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 9/11/2020 1:51:39 PM	Latitude: 38.036021070000004	Longitude: -78.50152857	Speed: 11.45	Device ID: bEC
+Time end: 9/11/2020 1:51:39 PM		Latitude: 38.0360200554	Longitude: -78.5015275554	Speed: 11.659	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 10/5/2020 1:05:36 PM	Latitude: 38.0321808	Longitude: -78.5070195078	Speed: 47.723	Device ID: bEC
+Time end: 10/5/2020 1:05:36 PM		Latitude: 38.0321808	Longitude: -78.5070308002	Speed: 47.057	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 11/6/2020 7:51:30 PM	Latitude: 38.033803917233335	Longitude: -78.50879011243333	Speed: 33.630333	Device ID: bEC
+Time end: 11/6/2020 7:51:31 PM		Latitude: 38.033831909	Longitude: -78.50878502100001	Speed: 24.07	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 11/19/2020 1:02:26 PM	Latitude: 38.032820990619996	Longitude: -78.49956970146	Speed: 26.123	Device ID: bEC
+Time point 2: 11/19/2020 1:02:27 PM	Latitude: 38.0328178	Longitude: -78.4995804	Speed: 26	Device ID: bEC
+Time end: 11/19/2020 1:02:27 PM		Latitude: 38.0328155542	Longitude: -78.49958565989999	Speed: 23.439	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 1/13/2021 1:24:24 PM	Latitude: 38.031932411250004	Longitude: -78.509768910625	Speed: 23.925	Device ID: bEC
+Time end: 1/13/2021 1:24:24 PM		Latitude: 38.031935862775	Longitude: -78.5097639912875	Speed: 23.5015	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 3/31/2021 12:15:44 PM	Latitude: 38.0322695347	Longitude: -78.5089612691	Speed: 25.801	Device ID: bEC
+Time point 2: 3/31/2021 12:15:45 PM	Latitude: 38.0322571	Longitude: -78.5090027	Speed: 22	Device ID: bEC
+Time end: 3/31/2021 12:15:45 PM		Latitude: 38.0322571	Longitude: -78.5090116365	Speed: 16.14	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 4/22/2021 7:21:27 PM	Latitude: 38.032248022000005	Longitude: -78.50910494200001	Speed: 17.5	Device ID: bEC
+Time end: 4/22/2021 7:21:27 PM		Latitude: 38.032247755	Longitude: -78.509105705	Speed: 17.25	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 3/21/2022 5:01:43 PM	Latitude: 38.034926701675005	Longitude: -78.51332159832499	Speed: 0.6115	Device ID: bEC
+Time end: 3/21/2022 5:01:43 PM		Latitude: 38.034926415425005	Longitude: -78.51332188457499	Speed: 0.5865	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 9/29/2022 10:13:57 AM	Latitude: 38.03202243714286	Longitude: -78.50408306857142	Speed: 32.114285	Device ID: bEC
+Time end: 9/29/2022 10:13:57 AM		Latitude: 38.032022525471426	Longitude: -78.50407991998571	Speed: 32.064144	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 10/12/2022 6:09:01 PM	Latitude: 38.032120277775	Longitude: -78.50372469142499	Speed: 0.26675	Device ID: bEC
+Time end: 10/12/2022 6:09:01 PM		Latitude: 38.032120544775	Longitude: -78.503724920425	Speed: 0.25675	Device ID: bEC
+-
+Vehicle: V0643
+Time start: 5/23/2023 6:06:51 PM	Latitude: 38.03848470875	Longitude: -78.5070724991	Speed: 33.865	Device ID: bEC
+Time end: 5/23/2023 6:06:51 PM		Latitude: 38.038484937499994	Longitude: -78.50707241900001	Speed: 33.85	Device ID: bEC
+-

@@ -1,0 +1,68 @@
+Event 256:
+Time start: 6/2/2022 12:27:23 PM	Latitude: 38.0876851541	Longitude: -78.47049658659999	Speed: 46.86	Device ID: b145
+Time end: 6/2/2022 12:27:23 PM		Latitude: 38.0876962939	Longitude: -78.4704854614	Speed: 43.94	Device ID: b145
+-
+Event 256:
+Time start: 6/10/2022 4:18:48 PM	Latitude: 38.07942167065	Longitude: -78.47621866015	Speed: 73.2435	Device ID: b145
+Time end: 6/10/2022 4:18:48 PM		Latitude: 38.07940553665	Longitude: -78.47623330615	Speed: 72.5835	Device ID: b145
+-
+Event 256:
+Time start: 6/16/2022 6:20:15 PM	Latitude: 38.0583175145	Longitude: -78.4943826672	Speed: 45.3335	Device ID: b145
+Time end: 6/16/2022 6:20:15 PM		Latitude: 38.058335899999996	Longitude: -78.49436496	Speed: 39.8	Device ID: b145
+-
+Event 256:
+Time start: 6/21/2022 5:55:17 PM	Latitude: 38.0520653401	Longitude: -78.5110245	Speed: 8.03	Device ID: b145
+Time end: 6/21/2022 5:55:17 PM		Latitude: 38.052062857	Longitude: -78.5110245	Speed: 7.1	Device ID: b145
+-
+Event 256:
+Time start: 11/10/2022 9:19:11 PM	Latitude: 38.0360981408	Longitude: -78.5016382396	Speed: 12.78	Device ID: b145
+Time point 2: 11/10/2022 9:19:12 PM	Latitude: 38.0360947	Longitude: -78.5016327	Speed: 13	Device ID: b145
+Time end: 11/10/2022 9:19:12 PM		Latitude: 38.03609363515	Longitude: -78.50163163515	Speed: 12.3955	Device ID: b145
+-
+Event 256:
+Time start: 11/18/2022 6:58:18 PM	Latitude: 38.0330799984875	Longitude: -78.4950011483125	Speed: 11.542125	Device ID: b145
+Time end: 11/18/2022 6:58:18 PM		Latitude: 38.0330765290125	Longitude: -78.4950019641875	Speed: 11.782875	Device ID: b145
+-
+Event 256:
+Time start: 2/1/2023 4:23:35 PM	Latitude: 38.0345095889	Longitude: -78.50014602175	Speed: 23.196	Device ID: b145
+Time end: 2/1/2023 4:23:35 PM		Latitude: 38.034526223	Longitude: -78.5001555225	Speed: 15.72	Device ID: b145
+-
+Event 256:
+Time start: 5/3/2023 6:04:32 PM	Latitude: 38.0424655421	Longitude: -78.5114480213	Speed: 16.98	Device ID: b145
+Time end: 5/3/2023 6:04:32 PM		Latitude: 38.0424641681	Longitude: -78.5114525993	Speed: 15.78	Device ID: b145
+-
+Event 256:
+Time start: 6/30/2023 12:57:00 PM	Latitude: 38.025854665	Longitude: -78.51673013999999	Speed: 42.4	Device ID: b145
+Time end: 6/30/2023 12:57:00 PM		Latitude: 38.025855287999995	Longitude: -78.51671999466667	Speed: 42.213333	Device ID: b145
+-
+Event 256:
+Time start: 7/28/2023 4:06:03 PM	Latitude: 38.03199873922	Longitude: -78.5030197584	Speed: 38.8966	Device ID: b145
+Time end: 7/28/2023 4:06:03 PM		Latitude: 38.03200124902	Longitude: -78.5029656144	Speed: 38.9906	Device ID: b145
+-
+Event 256:
+Time start: 7/31/2023 2:30:06 PM	Latitude: 38.0469975378	Longitude: -78.5041518029	Speed: 65.591	Device ID: b145
+Time point 2: 7/31/2023 2:30:07 PM	Latitude: 38.0470276	Longitude: -78.5041428	Speed: 65	Device ID: b145
+Time end: 7/31/2023 2:30:07 PM		Latitude: 38.047039437766664	Longitude: -78.50413817403333	Speed: 63.680332	Device ID: b145
+-
+Event 256:
+Time start: 8/4/2023 1:59:59 PM	Latitude: 38.059161877	Longitude: -78.49396107	Speed: 60.435	Device ID: b145
+Time end: 8/4/2023 1:59:59 PM		Latitude: 38.059158893900005	Longitude: -78.493963439	Speed: 60.3545	Device ID: b145
+-
+Event 256:
+Time start: 9/27/2023 3:13:54 PM	Latitude: 38.032797841	Longitude: -78.50900826116667	Speed: 41.182335	Device ID: b145
+Time point 2: 9/27/2023 3:13:55 PM	Latitude: 38.0327415	Longitude: -78.5090027	Speed: 41	Device ID: b145
+Time end: 9/27/2023 3:13:55 PM		Latitude: 38.03273223	Longitude: -78.50900063899999	Speed: 37.94	Device ID: b145
+-
+Event 256:
+Time start: 10/10/2023 11:50:11 AM	Latitude: 38.03325409285	Longitude: -78.4980184286	Speed: 6.791333	Device ID: b145
+Time end: 10/10/2023 11:50:11 AM		Latitude: 38.03325293585	Longitude: -78.4980230566	Speed: 6.964667	Device ID: b145
+-
+Event 256:
+Time start: 1/16/2024 7:05:12 PM	Latitude: 38.032106072000005	Longitude: -78.507155689	Speed: 31.41	Device ID: b145
+Time end: 1/16/2024 7:05:12 PM		Latitude: 38.032105576	Longitude: -78.507158512	Speed: 31.28	Device ID: b145
+-
+Event 256:
+Time start: 1/16/2024 7:06:18 PM	Latitude: 38.031697611999995	Longitude: -78.510050312	Speed: 39.22	Device ID: b145
+Time point 2: 1/16/2024 7:06:19 PM	Latitude: 38.0316925	Longitude: -78.5100555	Speed: 39	Device ID: b145
+Time end: 1/16/2024 7:06:19 PM		Latitude: 38.031691964924995	Longitude: -78.510056051225	Speed: 38.85125	Device ID: b145
+-

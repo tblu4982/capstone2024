@@ -1,0 +1,46 @@
+Vehicle: V1043
+Time start: 9/30/2022 3:00:36 PM	Latitude: 38.04014030399524	Longitude: -78.50442592339525	Speed: 9.556477	Device ID: b224
+Time end: 9/30/2022 3:00:36 PM		Latitude: 38.04014078047619	Longitude: -78.50442572047619	Speed: 9.552381	Device ID: b224
+-
+Vehicle: V1043
+Time start: 3/17/2023 4:18:51 PM	Latitude: 38.03258999	Longitude: -78.500248748	Speed: 24.18	Device ID: b224
+Time point 2: 3/17/2023 4:18:52 PM	Latitude: 38.032589	Longitude: -78.5002518	Speed: 24	Device ID: b224
+Time end: 3/17/2023 4:18:52 PM		Latitude: 38.032589	Longitude: -78.50025323955	Speed: 23.244	Device ID: b224
+-
+Vehicle: V1043
+Time start: 3/24/2023 12:46:48 PM	Latitude: 38.03680794135	Longitude: -78.5032869021	Speed: 8.652	Device ID: b224
+Time end: 3/24/2023 12:46:48 PM		Latitude: 38.03680874285	Longitude: -78.5032887711	Speed: 8.932	Device ID: b224
+-
+Vehicle: V1043
+Time start: 4/3/2023 7:04:34 PM	Latitude: 38.03743412595	Longitude: -78.5029850129	Speed: 25.3375	Device ID: b224
+Time end: 4/3/2023 7:04:34 PM		Latitude: 38.03743679645	Longitude: -78.5029831439	Speed: 24.4625	Device ID: b224
+-
+Vehicle: V1043
+Time start: 6/23/2023 12:56:52 PM	Latitude: 38.0297994035	Longitude: -78.5042725	Speed: 9.845	Device ID: b224
+Time end: 6/23/2023 12:56:52 PM		Latitude: 38.029803181549994	Longitude: -78.5042725	Speed: 8.2885	Device ID: b224
+-
+Vehicle: V1043
+Time start: 6/30/2023 6:54:18 PM	Latitude: 38.03668776	Longitude: -78.50320127875	Speed: 27.9125	Device ID: b224
+Time end: 6/30/2023 6:54:18 PM		Latitude: 38.036691604000005	Longitude: -78.5032107415	Speed: 25.665	Device ID: b224
+-
+Vehicle: V1043
+Time start: 8/9/2023 7:13:41 PM	Latitude: 38.03600594594783	Longitude: -78.50806625523478	Speed: 41	Device ID: b224
+Time end: 8/9/2023 7:13:41 PM		Latitude: 38.035977293426086	Longitude: -78.5080764715826	Speed: 41	Device ID: b224
+-
+Vehicle: V1043
+Time start: 8/17/2023 5:03:48 PM	Latitude: 38.034412421199995	Longitude: -78.50864135319999	Speed: 35	Device ID: b224
+Time point 2: 8/17/2023 5:03:49 PM	Latitude: 38.0344048	Longitude: -78.5086441	Speed: 35	Device ID: b224
+Time end: 8/17/2023 5:03:49 PM		Latitude: 38.034397284449994	Longitude: -78.50864710425	Speed: 32.3405	Device ID: b224
+-
+Vehicle: V1043
+Time start: 9/20/2023 7:22:14 PM	Latitude: 38.0337677	Longitude: -78.50934973055	Speed: 15.624	Device ID: b224
+Time end: 9/20/2023 7:22:14 PM		Latitude: 38.0337677	Longitude: -78.5093570935	Speed: 14.08	Device ID: b224
+-
+Vehicle: V1043
+Time start: 11/17/2023 8:13:00 PM	Latitude: 38.032645561799995	Longitude: -78.50827667089999	Speed: 17.676	Device ID: b224
+Time end: 11/17/2023 8:13:00 PM		Latitude: 38.032646767799996	Longitude: -78.5082790739	Speed: 16.596	Device ID: b224
+-
+Vehicle: V1043
+Time start: 12/22/2023 4:33:09 PM	Latitude: 38.0319481	Longitude: -78.5026779	Speed: 4	Device ID: b224
+Time end: 12/22/2023 4:33:09 PM		Latitude: 38.0319481	Longitude: -78.5026779	Speed: 3.668	Device ID: b224
+-

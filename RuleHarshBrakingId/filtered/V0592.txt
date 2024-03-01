@@ -1,0 +1,36 @@
+Vehicle: V0592
+Time start: 12/3/2019 7:42:29 PM	Latitude: 38.051325604666665	Longitude: -78.54704336	Speed: 34.84667	Device ID: bD1
+Time point 2: 12/3/2019 7:42:30 PM	Latitude: 38.0513268	Longitude: -78.5470428	Speed: 35	Device ID: bD1
+-
+Time end: 12/3/2019 7:42:30 PM		Latitude: 38.051328858	Longitude: -78.547041886	Speed: 34.3	Device ID: bD1
+-
+Vehicle: V0592
+Time start: 5/27/2020 6:43:29 PM	Latitude: 38.0512505	Longitude: -78.54721799227501	Speed: 6.3135	Device ID: bD1
+Time end: 5/27/2020 6:43:29 PM		Latitude: 38.0512505	Longitude: -78.547210015725	Speed: 5.2065	Device ID: bD1
+-
+Vehicle: V0592
+Time start: 12/8/2020 12:09:56 PM	Latitude: 38.051902402857145	Longitude: -78.54967451371428	Speed: 1.5142857	Device ID: bD1
+Time end: 12/8/2020 12:09:56 PM		Latitude: 38.051903182714284	Longitude: -78.54967491802857	Speed: 1.4385715	Device ID: bD1
+-
+Vehicle: V0592
+Time start: 1/6/2021 4:56:03 PM	Latitude: 38.05027084138	Longitude: -78.52770359444	Speed: 34.801	Device ID: bD1
+Time end: 1/6/2021 4:56:03 PM		Latitude: 38.050267547	Longitude: -78.527694486	Speed: 33.15	Device ID: bD1
+-
+Vehicle: V0592
+Time start: 5/10/2021 11:07:44 AM	Latitude: 38.051896381666666	Longitude: -78.54966747	Speed: 3.6833334	Device ID: bD1
+Time end: 5/10/2021 11:07:44 AM		Latitude: 38.05189685218333	Longitude: -78.5496677993	Speed: 3.6031666	Device ID: bD1
+-
+Vehicle: V0592
+Time start: 7/2/2021 5:04:40 PM	Latitude: 38.01992266792	Longitude: -78.43011129938	Speed: 65.9742	Device ID: bD1
+Time point 2: 7/2/2021 5:04:41 PM	Latitude: 38.0199165	Longitude: -78.4301071	Speed: 66	Device ID: bD1
+Time end: 7/2/2021 5:04:42 PM		Latitude: 38.019769305333334	Longitude: -78.43000892733333	Speed: 29.973333	Device ID: bD1
+-
+Vehicle: V0592
+Time start: 10/18/2022 1:14:50 PM	Latitude: 37.25410397786	Longitude: -79.18612481775999	Speed: 81.2436	Device ID: bD1
+Time end: 10/18/2022 1:14:50 PM		Latitude: 37.25408440814	Longitude: -79.18613775824	Speed: 81.1164	Device ID: bD1
+-
+Vehicle: V0592
+Time start: 7/11/2023 3:24:24 PM	Latitude: 38.0594756316	Longitude: -78.9449281728	Speed: 65.7	Device ID: bD1
+Time point 2: 7/11/2023 3:24:25 PM	Latitude: 38.0594673	Longitude: -78.9449463	Speed: 66	Device ID: bD1
+Time end: 7/11/2023 3:24:25 PM		Latitude: 38.0594258691	Longitude: -78.9450457233	Speed: 63.285	Device ID: bD1
+-

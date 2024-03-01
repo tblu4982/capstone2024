@@ -1,0 +1,661 @@
+Event 228:
+Time start: 4/2/2019 1:40:56 PM	Latitude: 38.0468409404	Longitude: -78.50431040633333	Speed: 24.832333	Device ID: b32
+Time end: 4/2/2019 1:40:56 PM		Latitude: 38.046824156	Longitude: -78.50431717	Speed: 24.11	Device ID: b32
+-
+Event 228:
+Time start: 4/19/2019 10:42:20 AM	Latitude: 38.04662654405	Longitude: -78.5095296353	Speed: 21.652	Device ID: b32
+Time end: 4/19/2019 10:42:20 AM		Latitude: 38.04662677295	Longitude: -78.5095294067	Speed: 21.628	Device ID: b32
+-
+Event 228:
+Time start: 5/6/2019 10:50:37 AM	Latitude: 38.04663774916666	Longitude: -78.50943955416666	Speed: 21.683332	Device ID: b32
+-
+Event 228:
+Time start: 5/14/2019 10:33:45 AM	Latitude: 38.046653189314284	Longitude: -78.50949028197144	Speed: 18.247429	Device ID: b32
+Time end: 5/14/2019 10:33:45 AM		Latitude: 38.04665428474286	Longitude: -78.5094887451143	Speed: 18.230286	Device ID: b32
+-
+Event 228:
+Time start: 5/22/2019 10:56:39 AM	Latitude: 38.03402540325	Longitude: -78.50890635105	Speed: 10.98	Device ID: b32
+Time end: 5/22/2019 10:56:39 AM		Latitude: 38.034023305	Longitude: -78.508906477	Speed: 11.2	Device ID: b32
+-
+Event 228:
+Time start: 5/23/2019 5:31:45 PM	Latitude: 38.04994045628	Longitude: -78.5127660501	Speed: 32.2304	Device ID: b32
+Time end: 5/23/2019 5:31:45 PM		Latitude: 38.04994453828	Longitude: -78.5127698651	Speed: 31.9904	Device ID: b32
+-
+Event 228:
+Time start: 5/24/2019 2:32:25 PM	Latitude: 38.046646677249996	Longitude: -78.509470755	Speed: 21.4975	Device ID: b32
+Time end: 5/24/2019 2:32:25 PM		Latitude: 38.046650625775	Longitude: -78.5094600945	Speed: 21.13525	Device ID: b32
+-
+Event 228:
+Time start: 5/28/2019 10:52:05 AM	Latitude: 38.0466483746375	Longitude: -78.50952602745	Speed: 18.830376	Device ID: b32
+Time end: 5/28/2019 10:52:05 AM		Latitude: 38.046654104875	Longitude: -78.5095153205	Speed: 18.60875	Device ID: b32
+-
+Event 228:
+Time start: 5/29/2019 10:53:43 AM	Latitude: 38.04668299605	Longitude: -78.50948080395	Speed: 18.1655	Device ID: b32
+Time end: 5/29/2019 10:53:43 AM		Latitude: 38.04668375905	Longitude: -78.50948004095001	Speed: 18.0955	Device ID: b32
+-
+Event 228:
+Time start: 6/12/2019 6:26:51 PM	Latitude: 38.0498831486	Longitude: -78.51271610175	Speed: 32.0825	Device ID: b32
+Time end: 6/12/2019 6:26:51 PM		Latitude: 38.049884597933335	Longitude: -78.51271737341666	Speed: 32.0325	Device ID: b32
+-
+Event 228:
+Time start: 6/14/2019 10:52:02 AM	Latitude: 38.046458091539996	Longitude: -78.50994497239999	Speed: 27.7292	Device ID: b32
+Time end: 6/14/2019 10:52:02 AM		Latitude: 38.04644225166	Longitude: -78.50990801959999	Speed: 26.2068	Device ID: b32
+-
+Event 228:
+Time start: 6/19/2019 6:39:59 PM	Latitude: 38.042155533199995	Longitude: -78.50575590616666	Speed: 24.322779	Device ID: b32
+Time end: 6/19/2019 6:39:59 PM		Latitude: 38.0421601148	Longitude: -78.50575407383333	Speed: 24.143888	Device ID: b32
+-
+Event 228:
+Time start: 7/9/2019 4:42:34 PM	Latitude: 38.032261677885714	Longitude: -78.50862458795714	Speed: 26.994429	Device ID: b32
+Time end: 7/9/2019 4:42:34 PM		Latitude: 38.03226715502857	Longitude: -78.50863995438571	Speed: 26.630142	Device ID: b32
+-
+Event 228:
+Time start: 10/4/2019 6:40:58 PM	Latitude: 38.03402075956	Longitude: -78.50876199401999	Speed: 21.7804	Device ID: b32
+Time end: 10/4/2019 6:40:58 PM		Latitude: 38.03406407844	Longitude: -78.50875277697999	Speed: 18.6396	Device ID: b32
+-
+Event 228:
+Time start: 10/6/2019 1:01:31 AM	Latitude: 38.04666272814	Longitude: -78.50952163228	Speed: 22.0548	Device ID: b32
+Time point 2: 10/6/2019 1:01:32 AM	Latitude: 38.046669	Longitude: -78.5095139	Speed: 22	Device ID: b32
+Time end: 10/6/2019 1:01:32 AM		Latitude: 38.0466720752	Longitude: -78.5094916668	Speed: 22.372	Device ID: b32
+-
+Event 228:
+Time start: 10/21/2019 5:08:11 PM	Latitude: 38.04233663885	Longitude: -78.5115335166591	Speed: 25.561636	Device ID: b32
+Time end: 10/21/2019 5:08:11 PM		Latitude: 38.04233758315	Longitude: -78.51153240970454	Speed: 25.543818	Device ID: b32
+-
+Event 228:
+Time start: 12/5/2019 5:51:47 PM	Latitude: 38.04630061	Longitude: -78.50975675666666	Speed: 31.366667	Device ID: b32
+Time point 2: 12/5/2019 5:51:48 PM	Latitude: 38.0463104	Longitude: -78.5097504	Speed: 31	Device ID: b32
+Time end: 12/5/2019 5:51:48 PM		Latitude: 38.046314165300004	Longitude: -78.50975296200001	Speed: 30.958	Device ID: b32
+-
+Event 228:
+Time start: 1/6/2020 3:31:34 PM	Latitude: 38.04793719631429	Longitude: -78.50407582558572	Speed: 26.741858	Device ID: b32
+Time end: 1/6/2020 3:31:34 PM		Latitude: 38.04791598768571	Longitude: -78.50404830641428	Speed: 25.618143	Device ID: b32
+-
+Event 228:
+Time start: 3/9/2020 10:56:07 AM	Latitude: 38.04666453645	Longitude: -78.50949754615	Speed: 20.039	Device ID: b32
+Time point 2: 3/9/2020 10:56:08 AM	Latitude: 38.046669	Longitude: -78.509491	Speed: 20	Device ID: b32
+Time end: 3/9/2020 10:56:08 AM		Latitude: 38.046669178	Longitude: -78.509488762	Speed: 20.013334	Device ID: b32
+-
+Event 228:
+Time start: 3/19/2020 4:10:09 PM	Latitude: 38.04247201681112	Longitude: -78.51142510353334	Speed: 22.307	Device ID: b32
+Time end: 3/19/2020 4:10:09 PM		Latitude: 38.04247453481111	Longitude: -78.51143685153333	Speed: 22.487	Device ID: b32
+-
+Event 228:
+Time start: 3/20/2020 12:30:10 PM	Latitude: 38.03851723033333	Longitude: -78.5072435666	Speed: 16.838333	Device ID: b32
+Time end: 3/20/2020 12:30:10 PM		Latitude: 38.03850727366667	Longitude: -78.5072384046	Speed: 17.321667	Device ID: b32
+-
+Event 228:
+Time start: 3/20/2020 12:32:23 PM	Latitude: 38.033896902980004	Longitude: -78.51421776756	Speed: 22.9584	Device ID: b32
+Time end: 3/20/2020 12:32:24 PM		Latitude: 38.03382862782	Longitude: -78.51422723003999	Speed: 18.7056	Device ID: b32
+-
+Event 228:
+Time start: 5/6/2020 9:21:52 PM	Latitude: 38.046669	Longitude: -78.50918479879999	Speed: 21.98	Device ID: b32
+Time end: 5/6/2020 9:21:53 PM		Latitude: 38.046669	Longitude: -78.50918391684	Speed: 22.014	Device ID: b32
+-
+Event 228:
+Time start: 7/17/2020 5:53:25 PM	Latitude: 38.04211918666667	Longitude: -78.50573490666666	Speed: 25.293333	Device ID: b32
+Time end: 7/17/2020 5:53:25 PM		Latitude: 38.042121040666665	Longitude: -78.50573397966666	Speed: 25.207834	Device ID: b32
+-
+Event 228:
+Time start: 8/6/2020 9:21:06 PM	Latitude: 38.0465921709	Longitude: -78.507852848125	Speed: 26.79225	Device ID: b32
+Time end: 8/6/2020 9:21:06 PM		Latitude: 38.0466165869	Longitude: -78.507840648125	Speed: 25.43225	Device ID: b32
+-
+Event 228:
+Time start: 9/1/2020 4:08:37 PM	Latitude: 38.03309952775	Longitude: -78.5159912	Speed: 12.9175	Device ID: b32
+Time end: 9/1/2020 4:08:37 PM		Latitude: 38.033099584975	Longitude: -78.5159912	Speed: 12.92575	Device ID: b32
+-
+Event 228:
+Time start: 9/2/2020 1:46:07 PM	Latitude: 38.04206563318182	Longitude: -78.50570185227274	Speed: 20.581818	Device ID: b32
+Time end: 9/2/2020 1:46:07 PM		Latitude: 38.04206565017273	Longitude: -78.5057014784091	Speed: 20.576727	Device ID: b32
+-
+Event 228:
+Time start: 9/2/2020 6:02:17 PM	Latitude: 38.0422099615	Longitude: -78.505692584	Speed: 24.765	Device ID: b32
+Time end: 9/2/2020 6:02:17 PM		Latitude: 38.04221442505	Longitude: -78.5056867808	Speed: 24.3555	Device ID: b32
+-
+Event 228:
+Time start: 2/3/2021 5:04:51 PM	Latitude: 38.0331268	Longitude: -78.5158691	Speed: 0	Device ID: b32
+Time end: 2/3/2021 5:04:52 PM		Latitude: 38.0331268	Longitude: -78.5158691	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/8/2021 4:13:38 PM	Latitude: 38.0332031	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 2/8/2021 4:13:39 PM		Latitude: 38.0332031	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/8/2021 7:56:59 PM	Latitude: 38.02985	Longitude: -78.51964893456105	Speed: 0	Device ID: b32
+Time end: 2/8/2021 7:57:00 PM		Latitude: 38.02985	Longitude: -78.51964893180201	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/15/2021 4:27:12 PM	Latitude: 38.0332298	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 2/15/2021 4:27:13 PM		Latitude: 38.0332298	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/17/2021 4:25:05 PM	Latitude: 38.0305405	Longitude: -78.51954550125926	Speed: 0	Device ID: b32
+Time end: 2/17/2021 4:25:06 PM		Latitude: 38.0305405	Longitude: -78.5195457475185	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/22/2021 6:09:25 PM	Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 2/22/2021 6:09:26 PM		Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 3/10/2021 6:56:56 PM	Latitude: 38.0354042	Longitude: -78.5103836	Speed: 0	Device ID: b32
+Time end: 3/10/2021 6:56:56 PM		Latitude: 38.0354042	Longitude: -78.5103836	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 3/10/2021 6:56:56 PM	Latitude: 38.0354042	Longitude: -78.5103836	Speed: 0	Device ID: b32
+Time end: 3/10/2021 6:56:58 PM		Latitude: 38.0354042	Longitude: -78.5103836	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 3/30/2021 10:32:44 AM	Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 3/30/2021 10:32:46 AM		Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 3/30/2021 5:02:36 PM	Latitude: 38.03400510025	Longitude: -78.5087085016	Speed: 21.266	Device ID: b32
+Time end: 3/30/2021 5:02:37 PM		Latitude: 38.03402482475	Longitude: -78.5087274984	Speed: 19.734	Device ID: b32
+-
+Event 228:
+Time start: 3/31/2021 10:25:46 AM	Latitude: 38.0332031	Longitude: -78.5158691	Speed: 0	Device ID: b32
+Time end: 3/31/2021 10:25:47 AM		Latitude: 38.0332031	Longitude: -78.5158691	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/7/2021 2:27:54 PM	Latitude: 38.049202	Longitude: -78.51260751358821	Speed: 0	Device ID: b32
+Time end: 4/7/2021 2:27:55 PM		Latitude: 38.049202	Longitude: -78.51260749441889	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/13/2021 10:15:59 AM	Latitude: 38.033176238951285	Longitude: -78.51583822445409	Speed: 0	Device ID: b32
+Time end: 4/13/2021 10:16:00 AM		Latitude: 38.03317623735548	Longitude: -78.51583822073285	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/14/2021 6:17:15 PM	Latitude: 38.0471306	Longitude: -78.5097733	Speed: 0	Device ID: b32
+Time end: 4/14/2021 6:17:15 PM		Latitude: 38.0471306	Longitude: -78.5097733	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/20/2021 6:54:10 PM	Latitude: 38.046666711	Longitude: -78.509470389	Speed: 17.33	Device ID: b32
+Time point 2: 4/20/2021 6:54:11 PM	Latitude: 38.046669	Longitude: -78.5094681	Speed: 17	Device ID: b32
+Time end: 4/20/2021 6:54:11 PM		Latitude: 38.04666885582	Longitude: -78.50946682290001	Speed: 16.9892	Device ID: b32
+-
+Event 228:
+Time start: 4/22/2021 10:33:28 AM	Latitude: 38.0332031	Longitude: -78.5158157	Speed: 0	Device ID: b32
+Time end: 4/22/2021 10:33:29 AM		Latitude: 38.0332031	Longitude: -78.5158157	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/23/2021 12:35:27 PM	Latitude: 38.0332031	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 4/23/2021 12:35:28 PM		Latitude: 38.0332031	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/26/2021 10:20:45 AM	Latitude: 38.0331764	Longitude: -78.5158157	Speed: 0	Device ID: b32
+Time end: 4/26/2021 10:20:46 AM		Latitude: 38.0331764	Longitude: -78.5158157	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/28/2021 3:10:24 PM	Latitude: 38.0423698	Longitude: -78.5042953	Speed: 0	Device ID: b32
+Time end: 4/28/2021 3:10:24 PM		Latitude: 38.0423698	Longitude: -78.5042953	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 5/6/2021 10:20:31 AM	Latitude: 38.03322845864484	Longitude: -78.5158691	Speed: 0	Device ID: b32
+Time end: 5/6/2021 10:20:33 AM		Latitude: 38.03322842888547	Longitude: -78.5158691	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 5/13/2021 12:23:01 PM	Latitude: 38.0331535	Longitude: -78.5158691	Speed: 0	Device ID: b32
+Time end: 5/13/2021 12:23:02 PM		Latitude: 38.0331535	Longitude: -78.5158691	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 5/24/2021 10:25:16 AM	Latitude: 38.0332298	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 5/24/2021 10:25:17 AM		Latitude: 38.0332298	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 5/24/2021 7:48:57 PM	Latitude: 38.0466589611	Longitude: -78.50948382717144	Speed: 18.175428	Device ID: b32
+Time point 2: 5/24/2021 7:48:58 PM	Latitude: 38.046669	Longitude: -78.5094681	Speed: 18	Device ID: b32
+Time end: 5/24/2021 7:48:58 PM		Latitude: 38.046668112225	Longitude: -78.50946201192501	Speed: 17.8005	Device ID: b32
+-
+Event 228:
+Time start: 5/28/2021 3:15:07 PM	Latitude: 38.0498695	Longitude: -78.51038114144598	Speed: 0	Device ID: b32
+Time end: 5/28/2021 3:15:08 PM		Latitude: 38.0498695	Longitude: -78.51038114016369	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/1/2021 8:01:09 PM	Latitude: 38.0474358	Longitude: -78.5084381	Speed: 0	Device ID: b32
+Time end: 6/1/2021 8:01:09 PM		Latitude: 38.0474358	Longitude: -78.5084381	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/3/2021 10:14:32 AM	Latitude: 38.03315323796403	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 6/3/2021 10:14:33 AM		Latitude: 38.03315323539521	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/7/2021 4:56:17 PM	Latitude: 38.0491791	Longitude: -78.5125885	Speed: 0	Device ID: b32
+Time end: 6/7/2021 4:56:17 PM		Latitude: 38.0491791	Longitude: -78.5125885	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/8/2021 2:42:42 PM	Latitude: 38.0491257	Longitude: -78.5124588	Speed: 0	Device ID: b32
+Time end: 6/8/2021 2:42:43 PM		Latitude: 38.0491257	Longitude: -78.5124588	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/8/2021 2:42:44 PM	Latitude: 38.0491257	Longitude: -78.5124588	Speed: 0	Device ID: b32
+Time end: 6/8/2021 2:42:45 PM		Latitude: 38.0491257	Longitude: -78.5124588	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/16/2021 7:42:09 PM	Latitude: 38.03638930255434	Longitude: -78.5171204	Speed: 0	Device ID: b32
+Time end: 6/16/2021 7:42:11 PM		Latitude: 38.03638909570583	Longitude: -78.5171204	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/21/2021 4:41:19 PM	Latitude: 38.0298233	Longitude: -78.5049362	Speed: 0	Device ID: b32
+Time end: 6/21/2021 4:41:20 PM		Latitude: 38.0298233	Longitude: -78.5049362	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/24/2021 4:37:10 PM	Latitude: 38.0332031	Longitude: -78.5157866016859	Speed: 0	Device ID: b32
+Time end: 6/24/2021 4:37:11 PM		Latitude: 38.0332031	Longitude: -78.51578660471888	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/25/2021 2:02:50 PM	Latitude: 38.0334091	Longitude: -78.5150757	Speed: 0	Device ID: b32
+Time end: 6/25/2021 2:02:50 PM		Latitude: 38.0334091	Longitude: -78.5150757	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 6/29/2021 7:15:07 PM	Latitude: 38.0492554	Longitude: -78.5126648	Speed: 0	Device ID: b32
+Time end: 6/29/2021 7:15:08 PM		Latitude: 38.0492554	Longitude: -78.5126648	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 7/7/2021 6:49:04 PM	Latitude: 38.04252679816667	Longitude: -78.50494785175556	Speed: 25.48911	Device ID: b32
+Time end: 7/7/2021 6:49:04 PM		Latitude: 38.04252270683334	Longitude: -78.50495004224445	Speed: 25.37089	Device ID: b32
+-
+Event 228:
+Time start: 7/12/2021 2:34:54 PM	Latitude: 38.0344048	Longitude: -78.5109787	Speed: 0	Device ID: b32
+Time end: 7/12/2021 2:34:56 PM		Latitude: 38.0344048	Longitude: -78.5109787	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 7/20/2021 5:04:56 PM	Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 7/20/2021 5:04:56 PM		Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 7/28/2021 3:14:37 PM	Latitude: 38.0343552	Longitude: -78.5109024	Speed: 0	Device ID: b32
+Time end: 7/28/2021 3:14:38 PM		Latitude: 38.0343552	Longitude: -78.5109024	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 7/28/2021 6:06:49 PM	Latitude: 38.03899	Longitude: -78.5079269	Speed: 0	Device ID: b32
+Time end: 7/28/2021 6:06:51 PM		Latitude: 38.03899	Longitude: -78.5079269	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/11/2021 6:43:54 PM	Latitude: 38.0287247	Longitude: -78.5188065	Speed: 0	Device ID: b32
+Time end: 8/11/2021 6:43:55 PM		Latitude: 38.0287247	Longitude: -78.5188065	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/18/2021 4:56:39 PM	Latitude: 38.0329742	Longitude: -78.5160675	Speed: 0	Device ID: b32
+Time end: 8/18/2021 4:56:40 PM		Latitude: 38.0329742	Longitude: -78.5160675	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/21/2021 7:45:47 PM	Latitude: 38.04932940344464	Longitude: -78.5132313697048	Speed: 0	Device ID: b32
+Time end: 8/21/2021 7:45:47 PM		Latitude: 38.04932939380231	Longitude: -78.5132313779748	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/22/2021 2:34:05 PM	Latitude: 38.0352249	Longitude: -78.5076218	Speed: 0	Device ID: b32
+Time end: 8/22/2021 2:34:05 PM		Latitude: 38.0352249	Longitude: -78.5076218	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/25/2021 11:27:40 AM	Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 8/25/2021 11:27:41 AM		Latitude: 38.0331764	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/25/2021 4:23:39 PM	Latitude: 38.0331535	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 8/25/2021 4:23:40 PM		Latitude: 38.0331535	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/26/2021 4:12:23 PM	Latitude: 38.0331764	Longitude: -78.515892	Speed: 0	Device ID: b32
+Time end: 8/26/2021 4:12:24 PM		Latitude: 38.0331764	Longitude: -78.515892	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/26/2021 8:47:52 PM	Latitude: 38.0395279	Longitude: -78.50770150749372	Speed: 0	Device ID: b32
+Time end: 8/26/2021 8:47:55 PM		Latitude: 38.0395279	Longitude: -78.50770161110175	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/26/2021 9:02:50 PM	Latitude: 38.0390129	Longitude: -78.5079269	Speed: 0	Device ID: b32
+Time end: 8/26/2021 9:02:50 PM		Latitude: 38.0390129	Longitude: -78.5079269	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/30/2021 4:27:07 PM	Latitude: 38.0329971	Longitude: -78.5160446	Speed: 0	Device ID: b32
+Time end: 8/30/2021 4:27:10 PM		Latitude: 38.0329971	Longitude: -78.5160446	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 8/30/2021 6:02:29 PM	Latitude: 38.0444408853	Longitude: -78.50529485265	Speed: 26.0093	Device ID: b32
+Time end: 8/30/2021 6:02:29 PM		Latitude: 38.0443775257	Longitude: -78.50530545285	Speed: 27.8817	Device ID: b32
+-
+Event 228:
+Time start: 9/1/2021 6:02:36 PM	Latitude: 38.02985	Longitude: -78.504982	Speed: 0	Device ID: b32
+Time end: 9/1/2021 6:02:37 PM		Latitude: 38.02985	Longitude: -78.504982	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 9/3/2021 8:00:44 PM	Latitude: 38.0424115947	Longitude: -78.51146871413333	Speed: 18.723667	Device ID: b32
+Time end: 9/3/2021 8:00:44 PM		Latitude: 38.042410589	Longitude: -78.51146009600001	Speed: 19.59	Device ID: b32
+-
+Event 228:
+Time start: 9/16/2021 9:55:25 AM	Latitude: 38.0475121	Longitude: -78.5083389	Speed: 0	Device ID: b32
+Time end: 9/16/2021 9:55:26 AM		Latitude: 38.0475121	Longitude: -78.5083389	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 9/16/2021 9:55:27 AM	Latitude: 38.0475121	Longitude: -78.5083389	Speed: 0	Device ID: b32
+Time end: 9/16/2021 9:55:28 AM		Latitude: 38.0475121	Longitude: -78.5083389	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 3:00:00 PM	Latitude: 38.0369202886	Longitude: -78.5145937662	Speed: 27.749	Device ID: b32
+Time end: 9/18/2021 3:00:00 PM		Latitude: 38.0369157106	Longitude: -78.5145951402	Speed: 27.479	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 3:11:19 PM	Latitude: 38.0308431643	Longitude: -78.50464950948	Speed: 20.4684	Device ID: b32
+Time end: 9/18/2021 3:11:20 PM		Latitude: 38.0308424713	Longitude: -78.50465303468	Speed: 20.3844	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 3:50:25 PM	Latitude: 38.0285139438	Longitude: -78.52005498356	Speed: 23.8026	Device ID: b32
+Time end: 9/18/2021 3:50:26 PM		Latitude: 38.0285302178	Longitude: -78.52011164236	Speed: 20.8006	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 3:50:54 PM	Latitude: 38.029537235	Longitude: -78.5203435235	Speed: 29.21	Device ID: b32
+Time point 2: 9/18/2021 3:50:57 PM	Latitude: 38.0295944	Longitude: -78.5205002	Speed: 17	Device ID: b32
+Time end: 9/18/2021 3:50:57 PM		Latitude: 38.029594981325	Longitude: -78.5204989496625	Speed: 17.025875	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 3:51:13 PM	Latitude: 38.0297966	Longitude: -78.519989	Speed: 16.58775	Device ID: b32
+Time end: 9/18/2021 3:51:13 PM		Latitude: 38.0297966	Longitude: -78.519989	Speed: 13.7275	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 5:37:15 PM	Latitude: 38.04639508767143	Longitude: -78.50989874464285	Speed: 25.241428	Device ID: b32
+Time end: 9/18/2021 5:37:16 PM		Latitude: 38.04636350975714	Longitude: -78.50984284821429	Speed: 22.387142	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 5:40:13 PM	Latitude: 38.036904175225	Longitude: -78.5145823406375	Speed: 18.3925	Device ID: b32
+Time end: 9/18/2021 5:40:13 PM		Latitude: 38.036898643475	Longitude: -78.51460750901249	Speed: 19.1175	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 6:02:03 PM	Latitude: 38.0295421188	Longitude: -78.5203427931	Speed: 25.441	Device ID: b32
+Time end: 9/18/2021 6:02:04 PM		Latitude: 38.0295445492	Longitude: -78.52035774790001	Speed: 24.069	Device ID: b32
+-
+Event 228:
+Time start: 9/18/2021 6:28:58 PM	Latitude: 38.046562856224995	Longitude: -78.50951057095	Speed: 22.513	Device ID: b32
+Time point 2: 9/18/2021 6:28:59 PM	Latitude: 38.0465927	Longitude: -78.509491	Speed: 22	Device ID: b32
+Time end: 9/18/2021 6:28:59 PM		Latitude: 38.046596985516665	Longitude: -78.50947085863334	Speed: 22.224667	Device ID: b32
+-
+Event 228:
+Time start: 9/19/2021 3:38:53 PM	Latitude: 38.046600784	Longitude: -78.509503208	Speed: 22.32	Device ID: b32
+Time point 2: 9/19/2021 3:38:54 PM	Latitude: 38.0466194	Longitude: -78.509491	Speed: 22	Device ID: b32
+Time end: 9/19/2021 3:38:55 PM		Latitude: 38.0466285829	Longitude: -78.5094206245	Speed: 19.995	Device ID: b32
+-
+Event 228:
+Time start: 9/19/2021 3:38:58 PM	Latitude: 38.046664194	Longitude: -78.509240429	Speed: 20.69	Device ID: b32
+Time end: 9/19/2021 3:38:58 PM		Latitude: 38.0466755326	Longitude: -78.50920155076666	Speed: 22.601	Device ID: b32
+-
+Event 228:
+Time start: 9/20/2021 4:28:33 PM	Latitude: 38.0332031	Longitude: -78.5158386	Speed: 0	Device ID: b32
+Time end: 9/20/2021 4:28:34 PM		Latitude: 38.0332031	Longitude: -78.5158386	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 9/20/2021 5:01:05 PM	Latitude: 38.04918803248702	Longitude: -78.5126419	Speed: 0	Device ID: b32
+Time end: 9/20/2021 5:01:06 PM		Latitude: 38.049188022970135	Longitude: -78.5126419	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 9/20/2021 6:44:42 PM	Latitude: 38.03859339112941	Longitude: -78.50715855095882	Speed: 20.213	Device ID: b32
+Time point 2: 9/20/2021 6:44:43 PM	Latitude: 38.038578	Longitude: -78.507164	Speed: 20	Device ID: b32
+Time end: 9/20/2021 6:44:43 PM		Latitude: 38.03858060666667	Longitude: -78.50717544333334	Speed: 19.9	Device ID: b32
+-
+Event 228:
+Time start: 9/21/2021 2:32:14 PM	Latitude: 38.048121394	Longitude: -78.51204966450001	Speed: 25.18	Device ID: b32
+Time end: 9/21/2021 2:32:15 PM		Latitude: 38.048135812	Longitude: -78.51205824600001	Speed: 24.64	Device ID: b32
+-
+Event 228:
+Time start: 9/22/2021 11:48:06 AM	Latitude: 38.033174874000004	Longitude: -78.5159912	Speed: 10.84	Device ID: b32
+Time point 2: 9/22/2021 11:48:07 AM	Latitude: 38.0331764	Longitude: -78.5159912	Speed: 11	Device ID: b32
+Time end: 9/22/2021 11:48:07 AM		Latitude: 38.03317655257143	Longitude: -78.515990328	Speed: 10.937143	Device ID: b32
+-
+Event 228:
+Time start: 9/23/2021 2:01:44 PM	Latitude: 38.0463501782	Longitude: -78.5098222564	Speed: 19.432667	Device ID: b32
+Time end: 9/23/2021 2:01:44 PM		Latitude: 38.046342638	Longitude: -78.509807176	Speed: 18.606667	Device ID: b32
+-
+Event 228:
+Time start: 9/23/2021 6:14:08 PM	Latitude: 38.0321751044875	Longitude: -78.50868671845	Speed: 25.9175	Device ID: b32
+Time end: 9/23/2021 6:14:09 PM		Latitude: 38.0322012172375	Longitude: -78.50875305945	Speed: 24.0675	Device ID: b32
+-
+Event 228:
+Time start: 9/23/2021 6:20:21 PM	Latitude: 38.0337957984	Longitude: -78.51424865429999	Speed: 16.9655	Device ID: b32
+Time end: 9/23/2021 6:20:22 PM		Latitude: 38.033787788	Longitude: -78.51425605099999	Speed: 15.835	Device ID: b32
+-
+Event 228:
+Time start: 9/23/2021 8:20:17 PM	Latitude: 38.04655722171429	Longitude: -78.50939674014286	Speed: 22.99	Device ID: b32
+Time end: 9/23/2021 8:20:17 PM		Latitude: 38.04655831714286	Longitude: -78.50939530142857	Speed: 22.9	Device ID: b32
+-
+Event 228:
+Time start: 9/24/2021 12:01:38 PM	Latitude: 38.0466400773	Longitude: -78.5094725454	Speed: 23.561	Device ID: b32
+Time end: 9/24/2021 12:01:39 PM		Latitude: 38.046669758	Longitude: -78.509413184	Speed: 20.06	Device ID: b32
+-
+Event 228:
+Time start: 9/24/2021 12:36:53 PM	Latitude: 38.029582202	Longitude: -78.520475636	Speed: 17.52	Device ID: b32
+Time end: 9/24/2021 12:36:53 PM		Latitude: 38.02959153603333	Longitude: -78.5204821686	Speed: 16.052	Device ID: b32
+-
+Event 228:
+Time start: 9/24/2021 2:19:37 PM	Latitude: 38.0421371	Longitude: -78.50571971622222	Speed: 21.582222	Device ID: b32
+Time end: 9/24/2021 2:19:38 PM		Latitude: 38.0421371	Longitude: -78.50571615555556	Speed: 21.555555	Device ID: b32
+-
+Event 228:
+Time start: 9/24/2021 2:19:45 PM	Latitude: 38.0421371	Longitude: -78.50527065681112	Speed: 18.21911	Device ID: b32
+Time point 2: 9/24/2021 2:19:46 PM	Latitude: 38.0421371	Longitude: -78.5052414	Speed: 18	Device ID: b32
+Time end: 9/24/2021 2:19:46 PM		Latitude: 38.0421384848	Longitude: -78.50524055310001	Speed: 18.018	Device ID: b32
+-
+Event 228:
+Time start: 9/24/2021 4:47:09 PM	Latitude: 38.049452318810005	Longitude: -78.5085041786	Speed: 19.9799	Device ID: b32
+Time end: 9/24/2021 4:47:10 PM		Latitude: 38.0494936615	Longitude: -78.50857049	Speed: 18.585	Device ID: b32
+-
+Event 228:
+Time start: 9/27/2021 11:33:35 AM	Latitude: 38.0466623784	Longitude: -78.5094050432	Speed: 19.068	Device ID: b32
+Time end: 9/27/2021 11:33:35 AM		Latitude: 38.046663792000004	Longitude: -78.509402216	Speed: 18.84	Device ID: b32
+-
+Event 228:
+Time start: 9/27/2021 1:45:02 PM	Latitude: 38.042220115199996	Longitude: -78.5051334532	Speed: 14.732	Device ID: b32
+Time end: 9/27/2021 1:45:03 PM		Latitude: 38.04220659032	Longitude: -78.50514105362	Speed: 14.5562	Device ID: b32
+-
+Event 228:
+Time start: 9/28/2021 3:35:01 PM	Latitude: 38.03384723512	Longitude: -78.5141521767	Speed: 15.212	Device ID: b32
+Time end: 9/28/2021 3:35:01 PM		Latitude: 38.033847052	Longitude: -78.514152195	Speed: 15.2	Device ID: b32
+-
+Event 228:
+Time start: 9/29/2021 6:38:19 PM	Latitude: 38.029583813	Longitude: -78.52043056549999	Speed: 41.1675	Device ID: b32
+Time end: 9/29/2021 6:38:19 PM		Latitude: 38.0295993407	Longitude: -78.52045235045	Speed: 41.22825	Device ID: b32
+-
+Event 228:
+Time start: 9/29/2021 8:19:53 PM	Latitude: 38.04656951333333	Longitude: -78.50946913733333	Speed: 25.186666	Device ID: b32
+Time end: 9/29/2021 8:19:55 PM		Latitude: 38.04661071333334	Longitude: -78.50940809733333	Speed: 19.986666	Device ID: b32
+-
+Event 228:
+Time start: 9/30/2021 2:07:25 PM	Latitude: 38.03379757145	Longitude: -78.5142078939	Speed: 17.132	Device ID: b32
+Time end: 9/30/2021 2:07:25 PM		Latitude: 38.033775597049996	Longitude: -78.5142232731	Speed: 14.828	Device ID: b32
+-
+Event 228:
+Time start: 9/30/2021 4:50:26 PM	Latitude: 38.048136596125	Longitude: -78.5119978345875	Speed: 28.61675	Device ID: b32
+Time end: 9/30/2021 4:50:27 PM		Latitude: 38.048150132375	Longitude: -78.5120061029625	Speed: 28.23425	Device ID: b32
+-
+Event 228:
+Time start: 9/30/2021 6:59:25 PM	Latitude: 38.046365106457145	Longitude: -78.50980083572857	Speed: 22.219143	Device ID: b32
+Time end: 9/30/2021 6:59:25 PM		Latitude: 38.04636824668572	Longitude: -78.50980649084286	Speed: 22.243713	Device ID: b32
+-
+Event 228:
+Time start: 10/1/2021 5:23:36 PM	Latitude: 38.029902051111115	Longitude: -78.51966600666667	Speed: 8.8	Device ID: b32
+Time end: 10/1/2021 5:23:36 PM		Latitude: 38.029902673866665	Longitude: -78.5196631327	Speed: 8.574	Device ID: b32
+-
+Event 228:
+Time start: 10/1/2021 8:20:43 PM	Latitude: 38.04669823424	Longitude: -78.50919393842	Speed: 23.894	Device ID: b32
+Time end: 10/1/2021 8:20:44 PM		Latitude: 38.0466990576	Longitude: -78.5091883658	Speed: 24.06	Device ID: b32
+-
+Event 228:
+Time start: 10/4/2021 12:09:52 PM	Latitude: 38.033816968100005	Longitude: -78.5141989943	Speed: 17.007	Device ID: b32
+Time end: 10/4/2021 12:09:52 PM		Latitude: 38.03380971736154	Longitude: -78.51421416208461	Speed: 17.159924	Device ID: b32
+-
+Event 228:
+Time start: 10/4/2021 2:33:17 PM	Latitude: 38.042124711142854	Longitude: -78.50521169914286	Speed: 20.222857	Device ID: b32
+Time end: 10/4/2021 2:33:17 PM		Latitude: 38.04212949987143	Longitude: -78.50520942347143	Speed: 20.297428	Device ID: b32
+-
+Event 228:
+Time start: 10/4/2021 4:16:06 PM	Latitude: 38.04659793	Longitude: -78.509466594	Speed: 26.66	Device ID: b32
+Time end: 10/4/2021 4:16:08 PM		Latitude: 38.04663672666667	Longitude: -78.50940911466667	Speed: 21.386667	Device ID: b32
+-
+Event 228:
+Time start: 10/4/2021 4:16:11 PM	Latitude: 38.04671238418	Longitude: -78.50918776328	Speed: 23.2546	Device ID: b32
+Time end: 10/4/2021 4:16:11 PM		Latitude: 38.04671473422	Longitude: -78.50917836312	Speed: 23.5934	Device ID: b32
+-
+Event 228:
+Time start: 10/5/2021 11:09:41 AM	Latitude: 38.0466162125	Longitude: -78.509466875	Speed: 24.6625	Device ID: b32
+Time end: 10/5/2021 11:09:41 AM		Latitude: 38.04661654725	Longitude: -78.5094662055	Speed: 24.62025	Device ID: b32
+-
+Event 228:
+Time start: 10/6/2021 5:05:14 PM	Latitude: 38.0340233	Longitude: -78.508873	Speed: 3.9506667	Device ID: b32
+Time point 2: 10/6/2021 5:05:15 PM	Latitude: 38.0340233	Longitude: -78.508873	Speed: 4	Device ID: b32
+Time end: 10/6/2021 5:05:15 PM		Latitude: 38.03402274683334	Longitude: -78.50887308899999	Speed: 4.055	Device ID: b32
+-
+Event 228:
+Time start: 10/6/2021 11:07:48 PM	Latitude: 38.0467015624	Longitude: -78.5094258752	Speed: 17.4045	Device ID: b32
+Time end: 10/6/2021 11:07:48 PM		Latitude: 38.0467023064	Longitude: -78.5094243872	Speed: 17.2995	Device ID: b32
+-
+Event 228:
+Time start: 10/11/2021 4:52:33 PM	Latitude: 38.0330734	Longitude: -78.51604886606991	Speed: 0	Device ID: b32
+Time end: 10/11/2021 4:52:33 PM		Latitude: 38.0330734	Longitude: -78.51604888519029	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 10/14/2021 2:09:56 PM	Latitude: 38.04774662796025	Longitude: -78.5095444	Speed: 0	Device ID: b32
+Time end: 10/14/2021 2:09:58 PM		Latitude: 38.04774666837032	Longitude: -78.5095444	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 10/14/2021 6:31:36 PM	Latitude: 38.049305	Longitude: -78.5126114	Speed: 0	Device ID: b32
+Time end: 10/14/2021 6:31:38 PM		Latitude: 38.049305	Longitude: -78.5126114	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 10/18/2021 3:14:30 PM	Latitude: 38.0419312	Longitude: -78.5036316	Speed: 0	Device ID: b32
+Time end: 10/18/2021 3:14:30 PM		Latitude: 38.0419312	Longitude: -78.5036316	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 10/29/2021 4:26:57 PM	Latitude: 38.0270348	Longitude: -78.5156326	Speed: 0	Device ID: b32
+Time end: 10/29/2021 4:26:58 PM		Latitude: 38.0270348	Longitude: -78.5156326	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 10/31/2021 4:29:19 PM	Latitude: 38.04671097	Longitude: -78.509421185	Speed: 20.3	Device ID: b32
+Time point 2: 10/31/2021 4:29:20 PM	Latitude: 38.0467186	Longitude: -78.5094147	Speed: 20	Device ID: b32
+Time end: 10/31/2021 4:29:20 PM		Latitude: 38.04671893642	Longitude: -78.50941047018	Speed: 20.0756	Device ID: b32
+-
+Event 228:
+Time start: 11/8/2021 9:16:55 PM	Latitude: 38.0365067	Longitude: -78.5169678	Speed: 0	Device ID: b32
+Time end: 11/8/2021 9:16:57 PM		Latitude: 38.0365067	Longitude: -78.5169678	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 11/15/2021 7:45:15 PM	Latitude: 38.0463118418	Longitude: -78.5097342738	Speed: 20.838	Device ID: b32
+Time end: 11/15/2021 7:45:15 PM		Latitude: 38.0463177158	Longitude: -78.5097309078	Speed: 20.178	Device ID: b32
+-
+Event 228:
+Time start: 11/16/2021 4:33:41 PM	Latitude: 38.0354805	Longitude: -78.5176315	Speed: 0	Device ID: b32
+Time end: 11/16/2021 4:33:41 PM		Latitude: 38.0354805	Longitude: -78.5176315	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 11/29/2021 6:38:26 PM	Latitude: 38.033801499566664	Longitude: -78.51777150336666	Speed: 8.754	Device ID: b32
+Time end: 11/29/2021 6:38:26 PM		Latitude: 38.033797116677775	Longitude: -78.51776945247778	Speed: 8.314	Device ID: b32
+-
+Event 228:
+Time start: 12/13/2021 12:31:05 PM	Latitude: 38.0331535	Longitude: -78.5158691	Speed: 0	Device ID: b32
+Time end: 12/13/2021 12:31:07 PM		Latitude: 38.0331535	Longitude: -78.5158691	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 12/14/2021 7:03:47 PM	Latitude: 38.0492783	Longitude: -78.5126114	Speed: 0	Device ID: b32
+Time end: 12/14/2021 7:03:51 PM		Latitude: 38.0492783	Longitude: -78.5126114	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 12/23/2021 5:56:01 PM	Latitude: 38.0350723	Longitude: -78.5126419	Speed: 0	Device ID: b32
+Time end: 12/23/2021 5:56:01 PM		Latitude: 38.0350723	Longitude: -78.5126419	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 1/9/2022 6:05:07 AM	Latitude: 38.0474358	Longitude: -78.5081863	Speed: 0	Device ID: b32
+Time end: 1/9/2022 6:05:08 AM		Latitude: 38.0474358	Longitude: -78.5081863	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 1/24/2022 3:52:02 PM	Latitude: 38.0491791	Longitude: -78.51261784134749	Speed: 0	Device ID: b32
+Time end: 1/24/2022 3:52:02 PM		Latitude: 38.0491791	Longitude: -78.51261785776035	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 1/25/2022 5:01:45 PM	Latitude: 38.047821	Longitude: -78.5092316	Speed: 0	Device ID: b32
+Time end: 1/25/2022 5:01:46 PM		Latitude: 38.047821	Longitude: -78.5092316	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/10/2022 11:20:06 AM	Latitude: 38.0363503	Longitude: -78.5170975	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/15/2022 11:27:33 AM	Latitude: 38.03640403559426	Longitude: -78.51712068657487	Speed: 0	Device ID: b32
+Time end: 2/15/2022 11:27:33 AM		Latitude: 38.03640403418335	Longitude: -78.51712068537005	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 2/21/2022 6:10:56 PM	Latitude: 38.0331764	Longitude: -78.5158157	Speed: 0	Device ID: b32
+Time end: 2/21/2022 6:10:56 PM		Latitude: 38.0331764	Longitude: -78.5158157	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 3/17/2022 5:07:05 PM	Latitude: 38.0305055546	Longitude: -78.520480525	Speed: 17.01	Device ID: b32
+Time end: 3/17/2022 5:07:05 PM		Latitude: 38.03050712638	Longitude: -78.52047649083333	Speed: 16.769667	Device ID: b32
+-
+Event 228:
+Time start: 3/30/2022 7:52:53 PM	Latitude: 38.03630095610204	Longitude: -78.5173264	Speed: 0	Device ID: b32
+Time end: 3/30/2022 7:52:53 PM		Latitude: 38.03630095555714	Longitude: -78.5173264	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 3/30/2022 7:52:53 PM	Latitude: 38.03630095463082	Longitude: -78.5173264	Speed: 0	Device ID: b32
+Time end: 3/30/2022 7:52:53 PM		Latitude: 38.03630095408592	Longitude: -78.5173264	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/12/2022 5:25:51 PM	Latitude: 38.0390129	Longitude: -78.5078506	Speed: 0	Device ID: b32
+Time end: 4/12/2022 5:25:51 PM		Latitude: 38.0390129	Longitude: -78.5078506	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 4/27/2022 10:27:32 AM	Latitude: 38.0472832	Longitude: -78.5076981	Speed: 0	Device ID: b32
+Time end: 4/27/2022 10:27:32 AM		Latitude: 38.0472832	Longitude: -78.5076981	Speed: 0	Device ID: b32
+-
+Event 228:
+Time start: 7/7/2022 6:52:21 PM	Latitude: 38.0466720924	Longitude: -78.5094917076	Speed: 22	Device ID: b32
+Time end: 7/7/2022 6:52:21 PM		Latitude: 38.0466906324	Longitude: -78.5094731676	Speed: 22	Device ID: b32
+-
+Event 228:
+Time start: 7/12/2022 7:37:03 PM	Latitude: 38.04669780325	Longitude: -78.509223187	Speed: 24.1525	Device ID: b32
+Time end: 7/12/2022 7:37:03 PM		Latitude: 38.046699081275	Longitude: -78.5092180749	Speed: 24.33675	Device ID: b32
+-
+Event 228:
+Time start: 7/13/2022 5:54:05 PM	Latitude: 38.0306909548	Longitude: -78.485234602525	Speed: 20.173	Device ID: b32
+Time end: 7/13/2022 5:54:05 PM		Latitude: 38.0306907068	Longitude: -78.485236071025	Speed: 20.193	Device ID: b32
+-
+Event 228:
+Time start: 7/28/2022 1:54:52 PM	Latitude: 38.034590062225	Longitude: -78.459490493275	Speed: 10.778	Device ID: b32
+Time end: 7/28/2022 1:54:52 PM		Latitude: 38.034575665525004	Longitude: -78.459482023975	Speed: 13.442	Device ID: b32
+-
+Event 228:
+Time start: 7/28/2022 1:54:57 PM	Latitude: 38.0344006748	Longitude: -78.4593814004	Speed: 23.192	Device ID: b32
+Time end: 7/28/2022 1:54:58 PM		Latitude: 38.03436052574	Longitude: -78.45935865102	Speed: 22.1396	Device ID: b32
+-
+Event 228:
+Time start: 7/28/2022 2:08:43 PM	Latitude: 38.086741545975	Longitude: -78.476265773375	Speed: 34.96825	Device ID: b32
+Time end: 7/28/2022 2:08:43 PM		Latitude: 38.086762159525	Longitude: -78.47625638412501	Speed: 33.41675	Device ID: b32
+-
+Event 228:
+Time start: 8/1/2022 7:52:41 PM	Latitude: 38.04664360314286	Longitude: -78.50951231025715	Speed: 23.75343	Device ID: b32
+Time point 2: 8/1/2022 7:52:42 PM	Latitude: 38.046669	Longitude: -78.5094681	Speed: 24	Device ID: b32
+Time end: 8/1/2022 7:52:42 PM		Latitude: 38.046669754275	Longitude: -78.5094592634	Speed: 24.113	Device ID: b32
+-
+Event 228:
+Time start: 8/23/2022 8:28:52 PM	Latitude: 38.046564665	Longitude: -78.50941737	Speed: 24.2	Device ID: b32
+Time end: 8/23/2022 8:28:53 PM		Latitude: 38.046568403	Longitude: -78.509409894	Speed: 23.64	Device ID: b32
+-
+Event 228:
+Time start: 8/24/2022 4:45:21 PM	Latitude: 38.04476694266667	Longitude: -78.50484872933333	Speed: 17.546667	Device ID: b32
+Time end: 8/24/2022 4:45:21 PM		Latitude: 38.044795476666664	Longitude: -78.50483194333334	Speed: 14.466666	Device ID: b32
+-
+Event 228:
+Time start: 8/25/2022 2:45:36 PM	Latitude: 38.044749282225	Longitude: -78.504865942975	Speed: 18.66275	Device ID: b32
+Time end: 8/25/2022 2:45:37 PM		Latitude: 38.044755109475	Longitude: -78.504861727725	Speed: 18.24025	Device ID: b32
+-
+Event 228:
+Time start: 10/24/2022 2:49:13 PM	Latitude: 38.08582855955	Longitude: -78.47175226921667	Speed: 30.866833	Device ID: b32
+Time point 2: 10/24/2022 2:49:14 PM	Latitude: 38.0857849	Longitude: -78.4717789	Speed: 29	Device ID: b32
+Time end: 10/24/2022 2:49:14 PM		Latitude: 38.085786010111114	Longitude: -78.47178860215556	Speed: 29.064667	Device ID: b32
+-
+Event 228:
+Time start: 10/27/2022 3:02:59 PM	Latitude: 38.046919144549996	Longitude: -78.50427958565	Speed: 27.571	Device ID: b32
+Time end: 10/27/2022 3:02:59 PM		Latitude: 38.046894461499996	Longitude: -78.50431164449999	Speed: 25.63	Device ID: b32
+-
+Event 228:
+Time start: 2/16/2023 5:59:55 PM	Latitude: 38.045831910625004	Longitude: -78.50820844635001	Speed: 22.32575	Device ID: b32
+Time end: 2/16/2023 5:59:55 PM		Latitude: 38.045832901875	Longitude: -78.50821028065	Speed: 22.18925	Device ID: b32
+-
+Event 228:
+Time start: 8/26/2023 11:00:09 PM	Latitude: 38.046643169999996	Longitude: -78.509492933	Speed: 22.61	Device ID: b32
+Time end: 8/26/2023 11:00:09 PM		Latitude: 38.0466439425	Longitude: -78.50949144575	Speed: 22.5275	Device ID: b32
+-

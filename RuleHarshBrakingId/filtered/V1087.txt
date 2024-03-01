@@ -1,0 +1,23 @@
+Vehicle: V1087
+Time start: 8/4/2023 4:58:09 PM	Latitude: 38.0510253944	Longitude: -78.50439683325	Speed: 10.306	Device ID: b26A
+Time point 2: 8/4/2023 4:58:10 PM	Latitude: 38.0510216	Longitude: -78.5043945	Speed: 10	Device ID: b26A
+-
+Time end: 8/4/2023 4:58:10 PM		Latitude: 38.0510216	Longitude: -78.5043945	Speed: 9.9	Device ID: b26A
+-
+Vehicle: V1087
+Time start: 12/5/2023 7:53:24 PM	Latitude: 38.047449776975	Longitude: -78.5084851416	Speed: 16.16575	Device ID: b26A
+Time end: 12/5/2023 7:53:24 PM		Latitude: 38.047449529	Longitude: -78.508485464	Speed: 16.13	Device ID: b26A
+-
+Vehicle: V1087
+Time start: 12/21/2023 2:48:34 PM	Latitude: 38.0320244	Longitude: -78.502579997	Speed: 36.75	Device ID: b26A
+Time end: 12/21/2023 2:48:34 PM		Latitude: 38.0320244	Longitude: -78.50262234405	Speed: 28.5875	Device ID: b26A
+-
+Vehicle: V1087
+Time start: 1/3/2024 4:44:17 PM	Latitude: 38.0365798117	Longitude: -78.5156921766	Speed: 6.5373335	Device ID: b26A
+Time end: 1/3/2024 4:44:17 PM		Latitude: 38.0365805593	Longitude: -78.5156906814	Speed: 6.6493335	Device ID: b26A
+-
+Vehicle: V1087
+Time start: 1/26/2024 6:29:51 PM	Latitude: 38.03183482664	Longitude: -78.5017710697	Speed: 27.1108	Device ID: b26A
+Time point 2: 1/26/2024 6:29:52 PM	Latitude: 38.0318222	Longitude: -78.5017624	Speed: 28	Device ID: b26A
+Time end: 1/26/2024 6:29:52 PM		Latitude: 38.031821666	Longitude: -78.50176179	Speed: 27.5	Device ID: b26A
+-

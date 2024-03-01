@@ -1,0 +1,21 @@
+Vehicle: V0648
+Time start: 3/9/2020 7:34:55 PM	Latitude: 38.07352982239	Longitude: -78.48111177582	Speed: 62.5567	Device ID: b67
+Time end: 3/9/2020 7:34:55 PM		Latitude: 38.073560146510005	Longitude: -78.48108419238	Speed: 62.8603	Device ID: b67
+-
+Vehicle: V0648
+Time start: 7/7/2020 11:07:15 AM	Latitude: 38.03644360525	Longitude: -78.51886893154999	Speed: 4.2643332	Device ID: b67
+Time end: 7/7/2020 11:07:15 AM		Latitude: 38.036443712499995	Longitude: -78.5188694275	Speed: 4.2166667	Device ID: b67
+-
+Vehicle: V0648
+Time start: 1/7/2021 2:15:25 PM	Latitude: 38.04695514043333	Longitude: -78.52517001126667	Speed: 72.893	Device ID: b67
+Time end: 1/7/2021 2:15:26 PM		Latitude: 38.04701022776667	Longitude: -78.52515068193333	Speed: 68.713	Device ID: b67
+-
+Vehicle: V0648
+Time start: 12/7/2022 2:01:01 PM	Latitude: 38.0343732096	Longitude: -78.5000549504	Speed: 30.83	Device ID: b67
+Time point 2: 12/7/2022 2:01:02 PM	Latitude: 38.0343819	Longitude: -78.5000687	Speed: 31	Device ID: b67
+Time end: 12/7/2022 2:01:02 PM		Latitude: 38.0343819744	Longitude: -78.5000687801	Speed: 30.9535	Device ID: b67
+-
+Vehicle: V0648
+Time start: 12/7/2022 2:01:02 PM	Latitude: 38.0343856944	Longitude: -78.5000727851	Speed: 28.6285	Device ID: b67
+Time end: 12/7/2022 2:01:02 PM		Latitude: 38.034403153599996	Longitude: -78.5000915819	Speed: 17.7165	Device ID: b67
+-

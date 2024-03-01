@@ -1,0 +1,61 @@
+Vehicle: V0700
+Time start: 10/16/2020 12:09:51 PM	Latitude: 38.0473732089875	Longitude: -78.5041581582	Speed: 52.516376	Device ID: bD9
+Time end: 10/16/2020 12:09:51 PM		Latitude: 38.0473599047375	Longitude: -78.5041633062	Speed: 51.683876	Device ID: bD9
+-
+Vehicle: V0700
+Time start: 5/4/2021 1:45:25 PM	Latitude: 38.029876222161725	Longitude: -78.50093894584522	Speed: 0	Device ID: bD9
+Time end: 5/4/2021 1:45:26 PM		Latitude: 38.02987622005305	Longitude: -78.500938948254	Speed: 0	Device ID: bD9
+-
+Vehicle: V0700
+Time start: 8/23/2021 11:33:48 AM	Latitude: 38.03566192357785	Longitude: -78.51642852580991	Speed: 0	Device ID: bD9
+Time end: 8/23/2021 11:33:49 AM		Latitude: 38.03566192468476	Longitude: -78.51642852707435	Speed: 0	Device ID: bD9
+-
+Vehicle: V0700
+Time start: 12/9/2022 8:06:01 PM	Latitude: 38.0467453	Longitude: -78.506012	Speed: 1	Device ID: bD9
+Time point 2: 12/9/2022 8:06:08 PM	Latitude: 38.0467186	Longitude: -78.5059357	Speed: 4	Device ID: bD9
+Time end: 12/9/2022 8:06:09 PM		Latitude: 38.0467186	Longitude: -78.5059357	Speed: 0	Device ID: bD9
+-
+Vehicle: V0700
+Time start: 12/9/2022 8:06:15 PM	Latitude: 38.0467186	Longitude: -78.5059357	Speed: 2	Device ID: bD9
+Time point 2: 12/9/2022 8:06:18 PM	Latitude: 38.046772	Longitude: -78.5059586	Speed: 12	Device ID: bD9
+Time point 3: 12/9/2022 8:06:29 PM	Latitude: 38.0470276	Longitude: -78.5063705	Speed: 18	Device ID: bD9
+Time point 4: 12/9/2022 8:06:37 PM	Latitude: 38.0472069	Longitude: -78.5067749	Speed: 22	Device ID: bD9
+Time point 5: 12/9/2022 8:06:44 PM	Latitude: 38.0473099	Longitude: -78.5070343	Speed: 6	Device ID: bD9
+Time point 6: 12/9/2022 8:06:50 PM	Latitude: 38.0474358	Longitude: -78.5073166	Speed: 24	Device ID: bD9
+Time point 7: 12/9/2022 8:06:55 PM	Latitude: 38.0475922	Longitude: -78.5076447	Speed: 22	Device ID: bD9
+Time point 8: 12/9/2022 8:07:07 PM	Latitude: 38.0478477	Longitude: -78.5081635	Speed: 7	Device ID: bD9
+Time point 9: 12/9/2022 8:07:10 PM	Latitude: 38.0478973	Longitude: -78.5082626	Speed: 14	Device ID: bD9
+Time point 10: 12/9/2022 8:07:15 PM	Latitude: 38.0478706	Longitude: -78.5084915	Speed: 16	Device ID: bD9
+Time point 11: 12/9/2022 8:07:30 PM	Latitude: 38.0470009	Longitude: -78.5091553	Speed: 33	Device ID: bD9
+Time point 12: 12/9/2022 8:07:35 PM	Latitude: 38.0466957	Longitude: -78.5093918	Speed: 26	Device ID: bD9
+Time end: 12/9/2022 8:07:42 PM		Latitude: 38.0465164	Longitude: -78.5095139	Speed: 0	Device ID: bD9
+-
+Vehicle: V0700
+Time start: 12/9/2022 8:08:06 PM	Latitude: 38.0465164	Longitude: -78.5095444	Speed: 4	Device ID: bD9
+Time point 2: 12/9/2022 8:08:09 PM	Latitude: 38.0464134	Longitude: -78.5095901	Speed: 18	Device ID: bD9
+Time point 3: 12/9/2022 8:08:15 PM	Latitude: 38.0460548	Longitude: -78.5098724	Speed: 33	Device ID: bD9
+Time point 4: 12/9/2022 8:08:32 PM	Latitude: 38.0446701	Longitude: -78.5107956	Speed: 41	Device ID: bD9
+Time point 5: 12/9/2022 8:08:50 PM	Latitude: 38.042984	Longitude: -78.5109482	Speed: 35	Device ID: bD9
+Time point 6: 12/9/2022 8:09:22 PM	Latitude: 38.0405769	Longitude: -78.5135651	Speed: 48	Device ID: bD9
+Time point 7: 12/9/2022 8:09:32 PM	Latitude: 38.0396538	Longitude: -78.5144577	Speed: 48	Device ID: bD9
+Time point 8: 12/9/2022 8:09:44 PM	Latitude: 38.0387573	Longitude: -78.5152512	Speed: 29	Device ID: bD9
+Time point 9: 12/9/2022 8:09:56 PM	Latitude: 38.037632	Longitude: -78.5149155	Speed: 44	Device ID: bD9
+Time point 10: 12/9/2022 8:10:05 PM	Latitude: 38.0369148	Longitude: -78.5145569	Speed: 22	Device ID: bD9
+Time point 11: 12/9/2022 8:10:07 PM	Latitude: 38.0368385	Longitude: -78.5145569	Speed: 10	Device ID: bD9
+Time point 12: 12/9/2022 8:10:11 PM	Latitude: 38.0367889	Longitude: -78.5147171	Speed: 16	Device ID: bD9
+Time point 13: 12/9/2022 8:10:32 PM	Latitude: 38.0366096	Longitude: -78.5159454	Speed: 16	Device ID: bD9
+Time point 14: 12/9/2022 8:10:39 PM	Latitude: 38.0365562	Longitude: -78.5162277	Speed: 7	Device ID: bD9
+Time point 15: 12/9/2022 8:10:44 PM	Latitude: 38.0365295	Longitude: -78.5163803	Speed: 13	Device ID: bD9
+Time point 16: 12/9/2022 8:10:58 PM	Latitude: 38.0365562	Longitude: -78.5168381	Speed: 7	Device ID: bD9
+Time point 17: 12/9/2022 8:11:06 PM	Latitude: 38.0364799	Longitude: -78.516861	Speed: 5	Device ID: bD9
+Time end: 12/9/2022 8:11:24 PM		Latitude: 38.0364304	Longitude: -78.5165787	Speed: 0	Device ID: bD9
+-
+Vehicle: V0700
+Time start: 8/4/2023 2:17:07 PM	Latitude: 38.086020911333335	Longitude: -78.473723617	Speed: 11.146667	Device ID: bD9
+Time end: 8/4/2023 2:17:08 PM		Latitude: 38.08604703136667	Longitude: -78.47376279705	Speed: 13.885333	Device ID: bD9
+-
+Vehicle: V0700
+Time start: 8/4/2023 2:17:21 PM	Latitude: 38.0862452095	Longitude: -78.47450194666666	Speed: 14.386666	Device ID: bD9
+Time point 2: 8/4/2023 2:17:22 PM	Latitude: 38.0862465	Longitude: -78.4745178	Speed: 14	Device ID: bD9
+Time end: 8/4/2023 2:17:22 PM		Latitude: 38.086243092000004	Longitude: -78.47451749466667	Speed: 14.053333	Device ID: bD9
+-

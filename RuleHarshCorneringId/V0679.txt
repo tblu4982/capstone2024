@@ -1,0 +1,49 @@
+Event 123:
+Time start: 9/30/2021 5:18:34 PM	Latitude: 38.0236991699	Longitude: -78.48545905025715	Speed: 18.093143	Device ID: b134
+Time point 2: 9/30/2021 5:18:35 PM	Latitude: 38.0237045	Longitude: -78.4854507	Speed: 18	Device ID: b134
+Time end: 9/30/2021 5:18:35 PM		Latitude: 38.02370244	Longitude: -78.48544261400001	Speed: 18.08	Device ID: b134
+-
+Event 123:
+Time start: 11/9/2021 6:27:49 PM	Latitude: 38.031105	Longitude: -78.500351	Speed: 0.9686469	Device ID: b134
+Time end: 11/9/2021 6:27:52 PM		Latitude: 38.031105	Longitude: -78.500351	Speed: 0.9667283	Device ID: b134
+-
+Event 123:
+Time start: 1/12/2022 10:55:21 AM	Latitude: 38.0309486	Longitude: -78.5003738	Speed: 0	Device ID: b134
+Time end: 1/12/2022 10:55:22 AM		Latitude: 38.0309486	Longitude: -78.5003738	Speed: 0	Device ID: b134
+-
+Event 123:
+Time start: 1/21/2022 5:16:31 PM	Latitude: 38.031105	Longitude: -78.500351	Speed: 0	Device ID: b134
+Time end: 1/21/2022 5:16:32 PM		Latitude: 38.031105	Longitude: -78.500351	Speed: 0	Device ID: b134
+-
+Event 123:
+Time start: 4/4/2022 9:26:47 AM	Latitude: 38.0363007	Longitude: -78.5161438	Speed: 0	Device ID: b134
+Time end: 4/4/2022 9:26:47 AM		Latitude: 38.0363007	Longitude: -78.5161438	Speed: 0	Device ID: b134
+-
+Event 123:
+Time start: 4/29/2022 9:26:50 AM	Latitude: 38.0364304	Longitude: -78.515686	Speed: 0	Device ID: b134
+-
+Event 123:
+Time start: 6/14/2022 4:56:11 PM	Latitude: 38.02368492905	Longitude: -78.48545039505001	Speed: 16.7695	Device ID: b134
+Time end: 6/14/2022 4:56:11 PM		Latitude: 38.02369088045	Longitude: -78.48544355445	Speed: 16.5355	Device ID: b134
+-
+Event 123:
+Time start: 9/1/2023 9:55:59 AM	Latitude: 38.033660945009096	Longitude: -78.50769487942728	Speed: 2.8593636	Device ID: b134
+Time end: 9/1/2023 9:55:59 AM		Latitude: 38.03366105180909	Longitude: -78.50769497102728	Speed: 2.8633637	Device ID: b134
+-
+Event 123:
+Time start: 9/5/2023 2:08:18 PM	Latitude: 38.032552545399994	Longitude: -78.49490191815714	Speed: 15.603	Device ID: b134
+Time end: 9/5/2023 2:08:18 PM		Latitude: 38.032552044	Longitude: -78.49490081514286	Speed: 15.58	Device ID: b134
+-
+Event 123:
+Time start: 10/31/2023 2:11:42 PM	Latitude: 38.03453553642	Longitude: -78.51698832161999	Speed: 7.1582	Device ID: b134
+Time end: 10/31/2023 2:11:42 PM		Latitude: 38.03453540168667	Longitude: -78.51698810288666	Speed: 7.1642	Device ID: b134
+-
+Event 123:
+Time start: 11/3/2023 5:03:36 PM	Latitude: 38.02364450637778	Longitude: -78.48545513291111	Speed: 17.394333	Device ID: b134
+Time end: 11/3/2023 5:03:36 PM		Latitude: 38.02364585466667	Longitude: -78.48545331066667	Speed: 17.38	Device ID: b134
+-
+Event 123:
+Time start: 11/15/2023 3:17:59 PM	Latitude: 38.032584536	Longitude: -78.50004350100001	Speed: 18	Device ID: b134
+Time point 2: 11/15/2023 3:18:00 PM	Latitude: 38.032589	Longitude: -78.5000229	Speed: 18	Device ID: b134
+Time end: 11/15/2023 3:18:00 PM		Latitude: 38.03258484615714	Longitude: -78.50001762345715	Speed: 18.117714	Device ID: b134
+-

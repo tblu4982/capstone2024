@@ -1,0 +1,101 @@
+Vehicle: V0898
+Time start: 9/17/2019 11:59:49 AM	Latitude: 38.03403183328572	Longitude: -78.51417510557143	Speed: 33.102856	Device ID: b94
+Time end: 9/17/2019 11:59:49 AM		Latitude: 38.034024248142856	Longitude: -78.51417536728572	Speed: 33.01143	Device ID: b94
+-
+Vehicle: V0898
+Time start: 11/18/2019 2:30:21 PM	Latitude: 38.03630974285714	Longitude: -78.50210291714285	Speed: 38.657143	Device ID: b94
+Time end: 11/18/2019 2:30:21 PM		Latitude: 38.036310625714286	Longitude: -78.50210496628571	Speed: 38.674286	Device ID: b94
+-
+Vehicle: V0898
+Time start: 2/5/2020 1:07:14 PM	Latitude: 38.03591354275556	Longitude: -78.51448084066666	Speed: 22	Device ID: b94
+Time end: 2/5/2020 1:07:14 PM		Latitude: 38.035913746666665	Longitude: -78.5144783	Speed: 22	Device ID: b94
+-
+Vehicle: V0898
+Time start: 10/1/2020 4:38:37 PM	Latitude: 38.03369178014	Longitude: -78.50875761303999	Speed: 22.1162	Device ID: b94
+Time point 2: 10/1/2020 4:38:38 PM	Latitude: 38.0336914	Longitude: -78.5087509	Speed: 22	Device ID: b94
+Time end: 10/1/2020 4:38:38 PM		Latitude: 38.0336914	Longitude: -78.508744495	Speed: 17.38	Device ID: b94
+-
+Vehicle: V0898
+Time start: 3/8/2021 7:56:40 PM	Latitude: 38.037088759999996	Longitude: -78.50459592	Speed: 10	Device ID: b94
+Time point 2: 3/8/2021 7:56:41 PM	Latitude: 38.0370941	Longitude: -78.5046005	Speed: 11	Device ID: b94
+Time end: 3/8/2021 7:56:41 PM		Latitude: 38.037094820899995	Longitude: -78.5046005	Speed: 10.703	Device ID: b94
+-
+Vehicle: V0898
+Time start: 3/9/2021 6:52:13 PM	Latitude: 38.04255094705	Longitude: -78.5116717719	Speed: 3.5955	Device ID: b94
+Time end: 3/9/2021 6:52:13 PM		Latitude: 38.04255064	Longitude: -78.51167142	Speed: 3.4	Device ID: b94
+-
+Vehicle: V0898
+Time start: 9/14/2021 2:09:50 PM	Latitude: 38.085692329025	Longitude: -78.4738005751	Speed: 20.882	Device ID: b94
+Time end: 9/14/2021 2:09:51 PM		Latitude: 38.085689391475	Longitude: -78.4738046869	Speed: 19.958	Device ID: b94
+-
+Vehicle: V0898
+Time start: 9/28/2021 3:36:34 PM	Latitude: 38.02602719866666	Longitude: -78.519442145	Speed: 31.266666	Device ID: b94
+Time end: 9/28/2021 3:36:34 PM		Latitude: 38.026029728266664	Longitude: -78.5194604285	Speed: 30.246666	Device ID: b94
+-
+Vehicle: V0898
+Time start: 10/1/2021 5:42:58 PM	Latitude: 38.033571372	Longitude: -78.5142042475	Speed: 20.93	Device ID: b94
+Time end: 10/1/2021 5:42:58 PM		Latitude: 38.033574273599996	Longitude: -78.51420603175	Speed: 19.409	Device ID: b94
+-
+Vehicle: V0898
+Time start: 10/26/2021 3:34:04 PM	Latitude: 38.049130381400005	Longitude: -78.525814731	Speed: 47.9505	Device ID: b94
+Time end: 10/26/2021 3:34:04 PM		Latitude: 38.049113646600006	Longitude: -78.525792689	Speed: 46.5595	Device ID: b94
+-
+Vehicle: V0898
+Time start: 10/27/2021 5:22:05 PM	Latitude: 38.0356865	Longitude: -78.5165570534828	Speed: 0	Device ID: b94
+Time end: 10/27/2021 5:22:05 PM		Latitude: 38.0356865	Longitude: -78.5165570533385	Speed: 0	Device ID: b94
+-
+Vehicle: V0898
+Time start: 10/29/2021 4:15:25 PM	Latitude: 38.05055973105	Longitude: -78.501327786125	Speed: 41.00675	Device ID: b94
+Time point 2: 10/29/2021 4:15:26 PM	Latitude: 38.05056	Longitude: -78.5013275	Speed: 41	Device ID: b94
+Time end: 10/29/2021 4:15:26 PM		Latitude: 38.05056011445	Longitude: -78.5013273398	Speed: 40.9565	Device ID: b94
+-
+Vehicle: V0898
+Time start: 11/8/2021 6:19:36 PM	Latitude: 38.0424029955	Longitude: -78.511640928	Speed: 32.765	Device ID: b94
+Time end: 11/8/2021 6:19:37 PM		Latitude: 38.04237617605	Longitude: -78.5116757968	Speed: 22.5715	Device ID: b94
+-
+Vehicle: V0898
+Time start: 12/6/2021 6:30:59 PM	Latitude: 38.0400391	Longitude: -78.5171738	Speed: 3.76	Device ID: b94
+Time end: 12/6/2021 6:30:59 PM		Latitude: 38.0400391	Longitude: -78.5171738	Speed: 3.096	Device ID: b94
+-
+Vehicle: V0898
+Time start: 12/6/2021 6:32:28 PM	Latitude: 38.039601916	Longitude: -78.516975128	Speed: 28.24	Device ID: b94
+Time point 2: 12/6/2021 6:32:29 PM	Latitude: 38.0395775	Longitude: -78.5169678	Speed: 26	Device ID: b94
+Time end: 12/6/2021 6:32:29 PM		Latitude: 38.039564150000004	Longitude: -78.5169678	Speed: 15	Device ID: b94
+-
+Vehicle: V0898
+Time start: 12/14/2021 1:51:16 PM	Latitude: 38.08582365505	Longitude: -78.4721857202	Speed: 17.261	Device ID: b94
+Time end: 12/14/2021 1:51:16 PM		Latitude: 38.08582458955	Longitude: -78.4721894582	Speed: 16.351	Device ID: b94
+-
+Vehicle: V0898
+Time start: 1/18/2022 7:41:41 PM	Latitude: 38.0315995926	Longitude: -78.5111743852	Speed: 20.787	Device ID: b94
+Time end: 1/18/2022 7:41:41 PM		Latitude: 38.031605110600005	Longitude: -78.5111854212	Speed: 19.030333	Device ID: b94
+-
+Vehicle: V0898
+Time start: 4/25/2022 3:06:18 PM	Latitude: 38.04951057666667	Longitude: -78.505857024	Speed: 33.886665	Device ID: b94
+Time end: 4/25/2022 3:06:19 PM		Latitude: 38.04949728966667	Longitude: -78.50587080119999	Speed: 27.952667	Device ID: b94
+-
+Vehicle: V0898
+Time start: 5/4/2022 2:39:23 PM	Latitude: 38.036143052999996	Longitude: -78.4623224839	Speed: 50.991	Device ID: b94
+Time end: 5/4/2022 2:39:23 PM		Latitude: 38.03613838366667	Longitude: -78.4623121071	Speed: 49.13233	Device ID: b94
+-
+Vehicle: V0898
+Time start: 5/6/2022 12:05:19 PM	Latitude: 38.07180556785	Longitude: -78.482951561	Speed: 56.239	Device ID: b94
+Time end: 5/6/2022 12:05:19 PM		Latitude: 38.07180098985	Longitude: -78.48295568099999	Speed: 56.119	Device ID: b94
+-
+Vehicle: V0898
+Time start: 6/22/2022 11:11:06 AM	Latitude: 38.0366859	Longitude: -78.5165024	Speed: 8.753333	Device ID: b94
+Time end: 6/22/2022 11:11:07 AM		Latitude: 38.0366859	Longitude: -78.5165024	Speed: 8.610333	Device ID: b94
+-
+Vehicle: V0898
+Time start: 8/9/2022 2:10:46 PM	Latitude: 38.0320511	Longitude: -78.503363389	Speed: 18.37	Device ID: b94
+Time end: 8/9/2022 2:10:46 PM		Latitude: 38.0320511	Longitude: -78.5033510269	Speed: 13.277	Device ID: b94
+-
+Vehicle: V0898
+Time start: 10/12/2022 2:17:10 PM	Latitude: 38.03098701205	Longitude: -78.50303298485	Speed: 17.851	Device ID: b94
+Time end: 10/12/2022 2:17:10 PM		Latitude: 38.0309955195	Longitude: -78.5030304315	Speed: 16.29	Device ID: b94
+-
+Vehicle: V0898
+Time start: 10/11/2023 3:04:50 PM	Latitude: 38.03515760793636	Longitude: -78.514122	Speed: 28.010637	Device ID: b94
+Time point 2: 10/11/2023 3:04:51 PM	Latitude: 38.0351486	Longitude: -78.514122	Speed: 28	Device ID: b94
+Time end: 10/11/2023 3:04:51 PM		Latitude: 38.0351417304	Longitude: -78.514122	Speed: 24.399	Device ID: b94
+-

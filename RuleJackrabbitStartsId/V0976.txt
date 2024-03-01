@@ -1,0 +1,777 @@
+Event 257:
+Time start: 6/28/2021 3:04:35 PM	Latitude: 38.0502281	Longitude: -78.52699733166666	Speed: 16.2	Device ID: b164
+Time end: 6/28/2021 3:04:35 PM		Latitude: 38.0502281	Longitude: -78.52700483876667	Speed: 15.708	Device ID: b164
+-
+Event 257:
+Time start: 7/14/2021 11:52:34 AM	Latitude: 38.06559260145	Longitude: -78.4881668	Speed: 1.461	Device ID: b164
+Time end: 7/14/2021 11:52:35 AM		Latitude: 38.06559989055	Longitude: -78.4881668	Speed: 3.099	Device ID: b164
+-
+Event 257:
+Time start: 7/20/2021 3:26:06 PM	Latitude: 38.0971882536	Longitude: -78.9662976391	Speed: 19.33875	Device ID: b164
+Time end: 7/20/2021 3:26:06 PM		Latitude: 38.097189741600005	Longitude: -78.9663022171	Speed: 19.56375	Device ID: b164
+-
+Event 257:
+Time start: 7/27/2021 3:28:29 PM	Latitude: 38.044832916	Longitude: -78.505082092	Speed: 13.72	Device ID: b164
+Time end: 7/27/2021 3:28:29 PM		Latitude: 38.04482743965	Longitude: -78.50508423205	Speed: 13.753	Device ID: b164
+-
+Event 257:
+Time start: 7/27/2021 3:31:38 PM	Latitude: 38.0476151	Longitude: -78.5236969	Speed: 1.89	Device ID: b164
+Time end: 7/27/2021 3:31:38 PM		Latitude: 38.0476151	Longitude: -78.5236969	Speed: 1.943	Device ID: b164
+-
+Event 257:
+Time start: 7/28/2021 3:02:17 PM	Latitude: 38.0666351	Longitude: -78.496254	Speed: 3.6141334	Device ID: b164
+Time end: 7/28/2021 3:02:17 PM		Latitude: 38.0666351	Longitude: -78.496254	Speed: 3.6872	Device ID: b164
+-
+Event 257:
+Time start: 7/28/2021 3:03:03 PM	Latitude: 38.071011607180004	Longitude: -78.4989166	Speed: 0	Device ID: b164
+Time point 2: 7/28/2021 3:03:04 PM	Latitude: 38.0710144	Longitude: -78.4989166	Speed: 0	Device ID: b164
+Time end: 7/28/2021 3:03:04 PM		Latitude: 38.0710144	Longitude: -78.4989166	Speed: 0.904	Device ID: b164
+-
+Event 257:
+Time start: 7/28/2021 3:31:26 PM	Latitude: 38.06156203105	Longitude: -78.5081863	Speed: 1.3425	Device ID: b164
+Time end: 7/28/2021 3:31:26 PM		Latitude: 38.061556117	Longitude: -78.5081863	Speed: 2.45	Device ID: b164
+-
+Event 257:
+Time start: 8/11/2021 6:26:09 PM	Latitude: 38.05258436023333	Longitude: -78.53967070414444	Speed: 1.8082222	Device ID: b164
+Time end: 8/11/2021 6:26:09 PM		Latitude: 38.0525829659	Longitude: -78.53967190003333	Speed: 1.9126667	Device ID: b164
+-
+Event 257:
+Time start: 8/12/2021 3:29:01 PM	Latitude: 38.075367	Longitude: -78.49758533325	Speed: 2.8645	Device ID: b164
+Time end: 8/12/2021 3:29:01 PM		Latitude: 38.075367	Longitude: -78.49758807825	Speed: 2.2345	Device ID: b164
+-
+Event 257:
+Time start: 8/19/2021 11:41:38 AM	Latitude: 38.05672270652222	Longitude: -78.48947719004444	Speed: 9.261111	Device ID: b164
+Time end: 8/19/2021 11:41:38 AM		Latitude: 38.05672228685555	Longitude: -78.48947368071111	Speed: 9.427778	Device ID: b164
+-
+Event 257:
+Time start: 8/19/2021 3:47:51 PM	Latitude: 38.0296707	Longitude: -78.8068619	Speed: 3	Device ID: b164
+Time end: 8/19/2021 3:47:51 PM		Latitude: 38.0296707	Longitude: -78.8068619	Speed: 3	Device ID: b164
+-
+Event 257:
+Time start: 8/25/2021 2:25:26 PM	Latitude: 38.071065199725	Longitude: -78.499220670575	Speed: 7.15725	Device ID: b164
+Time end: 8/25/2021 2:25:26 PM		Latitude: 38.071066496725	Longitude: -78.499219449575	Speed: 7.32725	Device ID: b164
+-
+Event 257:
+Time start: 8/30/2021 3:40:36 PM	Latitude: 38.0424194	Longitude: -78.5112076	Speed: 0	Device ID: b164
+Time end: 8/30/2021 3:40:36 PM		Latitude: 38.0424194	Longitude: -78.5112076	Speed: 0	Device ID: b164
+-
+Event 257:
+Time start: 8/31/2021 6:02:58 PM	Latitude: 38.05014592525	Longitude: -78.52742368349999	Speed: 2.8925	Device ID: b164
+Time end: 8/31/2021 6:02:58 PM		Latitude: 38.050135015	Longitude: -78.52740211	Speed: 4.55	Device ID: b164
+-
+Event 257:
+Time start: 8/31/2021 6:03:41 PM	Latitude: 38.0489464	Longitude: -78.52549102	Speed: 0.96	Device ID: b164
+Time end: 8/31/2021 6:03:41 PM		Latitude: 38.0489464	Longitude: -78.52549087552632	Speed: 0.9647368	Device ID: b164
+-
+Event 257:
+Time start: 9/14/2021 1:37:19 PM	Latitude: 38.05018746762	Longitude: -78.52742261510001	Speed: 8.3824	Device ID: b164
+Time end: 9/14/2021 1:37:20 PM		Latitude: 38.050185377	Longitude: -78.527416135	Speed: 9.04	Device ID: b164
+-
+Event 257:
+Time start: 9/14/2021 1:58:18 PM	Latitude: 38.0370674	Longitude: -78.4835843386	Speed: 5.443412	Device ID: b164
+Time end: 9/14/2021 1:58:18 PM		Latitude: 38.0370674	Longitude: -78.483583948	Speed: 5.52	Device ID: b164
+-
+Event 257:
+Time start: 9/21/2021 12:23:19 PM	Latitude: 38.03842513718333	Longitude: -78.48564528966666	Speed: 12.299666	Device ID: b164
+Time end: 9/21/2021 12:23:19 PM		Latitude: 38.038423191683336	Longitude: -78.48564219966666	Speed: 11.909667	Device ID: b164
+-
+Event 257:
+Time start: 9/21/2021 4:11:27 PM	Latitude: 38.2608147	Longitude: -78.1173987413	Speed: 0.206	Device ID: b164
+Time end: 9/21/2021 4:11:27 PM		Latitude: 38.2608147	Longitude: -78.1173874287	Speed: 1.194	Device ID: b164
+-
+Event 257:
+Time start: 9/21/2021 4:13:57 PM	Latitude: 38.247448	Longitude: -78.1121521	Speed: 2.6762307	Device ID: b164
+Time end: 9/21/2021 4:13:58 PM		Latitude: 38.247448	Longitude: -78.1121521	Speed: 2.7791538	Device ID: b164
+-
+Event 257:
+Time start: 9/21/2021 5:21:17 PM	Latitude: 38.033838706725	Longitude: -78.4520622009	Speed: 30.3615	Device ID: b164
+Time end: 9/21/2021 5:21:17 PM		Latitude: 38.033842644975	Longitude: -78.4521263339	Speed: 27.1165	Device ID: b164
+-
+Event 257:
+Time start: 9/27/2021 7:45:24 PM	Latitude: 38.0501258413822	Longitude: -78.52669381445891	Speed: 5.8333974	Device ID: b164
+Time end: 9/27/2021 7:45:25 PM		Latitude: 38.05012581321918	Longitude: -78.52669387089041	Speed: 5.839726	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 3:55:10 PM	Latitude: 38.091158331225	Longitude: -78.98827128605	Speed: 10.51975	Device ID: b164
+Time point 2: 9/28/2021 3:55:11 PM	Latitude: 38.0911598	Longitude: -78.988266	Speed: 10	Device ID: b164
+Time end: 9/28/2021 3:55:11 PM		Latitude: 38.0911598	Longitude: -78.98826151134999	Speed: 10.2675	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 3:56:48 PM	Latitude: 38.08381529400769	Longitude: -78.98749317517692	Speed: 4.5142307	Device ID: b164
+Time end: 9/28/2021 3:56:49 PM		Latitude: 38.08381410277693	Longitude: -78.98749419686924	Speed: 4.7373075	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 4:09:13 PM	Latitude: 38.082045968211105	Longitude: -78.99023386821112	Speed: 0.9767778	Device ID: b164
+Time end: 9/28/2021 4:09:13 PM		Latitude: 38.08204639567777	Longitude: -78.99023429567778	Speed: 0.9954444	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 4:10:27 PM	Latitude: 38.0869904	Longitude: -78.9819641	Speed: 0.96552175	Device ID: b164
+Time end: 9/28/2021 4:10:27 PM		Latitude: 38.0869904	Longitude: -78.9819641	Speed: 0.99508697	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 4:53:00 PM	Latitude: 38.0911685265	Longitude: -78.98830339795	Speed: 15.188	Device ID: b164
+Time end: 9/28/2021 4:53:01 PM		Latitude: 38.091170655166664	Longitude: -78.98829535655	Speed: 14.692	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 5:04:19 PM	Latitude: 38.058936749666664	Longitude: -78.94621200583333	Speed: 20.906666	Device ID: b164
+Time point 2: 9/28/2021 5:04:20 PM	Latitude: 38.0589294	Longitude: -78.946228	Speed: 20	Device ID: b164
+Time end: 9/28/2021 5:04:20 PM		Latitude: 38.058925335359994	Longitude: -78.94623512918001	Speed: 20.5402	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 5:05:07 PM	Latitude: 38.0562935	Longitude: -78.95293225274	Speed: 0.9106	Device ID: b164
+Time end: 9/28/2021 5:05:07 PM		Latitude: 38.0562935	Longitude: -78.95293286646	Speed: 0.9374	Device ID: b164
+-
+Event 257:
+Time start: 9/28/2021 5:34:47 PM	Latitude: 38.0439796	Longitude: -78.7272415	Speed: 2.64	Device ID: b164
+Time end: 9/28/2021 5:34:47 PM		Latitude: 38.0439796	Longitude: -78.7272415	Speed: 5.244	Device ID: b164
+-
+Event 257:
+Time start: 9/30/2021 5:45:07 PM	Latitude: 38.034119996579996	Longitude: -78.4575554769	Speed: 20.729	Device ID: b164
+Time end: 9/30/2021 5:45:07 PM		Latitude: 38.03412508082	Longitude: -78.4575695301	Speed: 20.141	Device ID: b164
+-
+Event 257:
+Time start: 9/30/2021 5:52:05 PM	Latitude: 38.0502317428	Longitude: -78.52700648795	Speed: 20.464874	Device ID: b164
+Time end: 9/30/2021 5:52:05 PM		Latitude: 38.050233677200005	Longitude: -78.52701660455	Speed: 20.016375	Device ID: b164
+-
+Event 257:
+Time start: 10/4/2021 1:40:37 PM	Latitude: 38.04497179563333	Longitude: -78.47966521153333	Speed: 17.326	Device ID: b164
+Time end: 10/4/2021 1:40:38 PM		Latitude: 38.044937053700004	Longitude: -78.4796860658	Speed: 14.594	Device ID: b164
+-
+Event 257:
+Time start: 10/4/2021 2:03:02 PM	Latitude: 38.0649969214	Longitude: -78.488816844	Speed: 13.432	Device ID: b164
+Time end: 10/4/2021 2:03:03 PM		Latitude: 38.06501582854	Longitude: -78.48879982839999	Speed: 16.0752	Device ID: b164
+-
+Event 257:
+Time start: 10/4/2021 2:07:01 PM	Latitude: 38.0877318267	Longitude: -78.4704281634	Speed: 8.132	Device ID: b164
+Time end: 10/4/2021 2:07:02 PM		Latitude: 38.087797844	Longitude: -78.470412588	Speed: 14.24	Device ID: b164
+-
+Event 257:
+Time start: 10/4/2021 2:35:10 PM	Latitude: 38.061516265429546	Longitude: -78.5082397	Speed: 1.9651364	Device ID: b164
+Time end: 10/4/2021 2:35:10 PM		Latitude: 38.06151613799773	Longitude: -78.5082397	Speed: 1.9746819	Device ID: b164
+-
+Event 257:
+Time start: 10/4/2021 2:37:38 PM	Latitude: 38.050247565	Longitude: -78.527080125	Speed: 7.55	Device ID: b164
+Time end: 10/4/2021 2:37:38 PM		Latitude: 38.050246494425004	Longitude: -78.527088329625	Speed: 8.34475	Device ID: b164
+-
+Event 257:
+Time start: 10/4/2021 3:37:32 PM	Latitude: 38.042469	Longitude: -78.51130630938485	Speed: 0	Device ID: b164
+Time end: 10/4/2021 3:37:32 PM		Latitude: 38.042469	Longitude: -78.5113064599697	Speed: 0	Device ID: b164
+-
+Event 257:
+Time start: 10/4/2021 3:38:07 PM	Latitude: 38.0441812045125	Longitude: -78.5139185789375	Speed: 3.3415	Device ID: b164
+Time end: 10/4/2021 3:38:08 PM		Latitude: 38.044183630875	Longitude: -78.513921350625	Speed: 3.705	Device ID: b164
+-
+Event 257:
+Time start: 10/5/2021 2:10:14 PM	Latitude: 38.04638137335	Longitude: -78.52158046855	Speed: 4.0025	Device ID: b164
+Time end: 10/5/2021 2:10:15 PM		Latitude: 38.04638517365	Longitude: -78.52157720911667	Speed: 4.7141666	Device ID: b164
+-
+Event 257:
+Time start: 10/5/2021 3:34:25 PM	Latitude: 38.0442886	Longitude: -78.51427756285713	Speed: 0	Device ID: b164
+Time point 2: 10/5/2021 3:34:26 PM	Latitude: 38.0442886	Longitude: -78.5142746	Speed: 0	Device ID: b164
+Time point 3: 10/5/2021 3:34:27 PM	Latitude: 38.0442886	Longitude: -78.5142746	Speed: 7	Device ID: b164
+Time end: 10/5/2021 3:34:27 PM		Latitude: 38.044280654285714	Longitude: -78.51426145485713	Speed: 8.337143	Device ID: b164
+-
+Event 257:
+Time start: 10/12/2021 6:27:09 PM	Latitude: 38.023509838933336	Longitude: -78.43478962381666	Speed: 20.698833	Device ID: b164
+Time end: 10/12/2021 6:27:10 PM		Latitude: 38.023517580000004	Longitude: -78.434775945	Speed: 19.65	Device ID: b164
+-
+Event 257:
+Time start: 10/13/2021 3:49:40 PM	Latitude: 38.042469	Longitude: -78.511261	Speed: 4.7944446	Device ID: b164
+Time end: 10/13/2021 3:49:40 PM		Latitude: 38.042469	Longitude: -78.511261	Speed: 4.8115277	Device ID: b164
+-
+Event 257:
+Time start: 10/20/2021 3:02:43 PM	Latitude: 38.0439796	Longitude: -78.7272415	Speed: 3.786	Device ID: b164
+Time end: 10/20/2021 3:02:44 PM		Latitude: 38.0439796	Longitude: -78.7272415	Speed: 5.9	Device ID: b164
+-
+Event 257:
+Time start: 10/20/2021 3:12:08 PM	Latitude: 38.05742456596666	Longitude: -78.59815653476666	Speed: 16.656666	Device ID: b164
+Time end: 10/20/2021 3:12:08 PM		Latitude: 38.05742337063333	Longitude: -78.59815434743334	Speed: 16.723333	Device ID: b164
+-
+Event 257:
+Time start: 10/27/2021 1:52:51 PM	Latitude: 38.05263940215	Longitude: -78.5395868011	Speed: 7.468	Device ID: b164
+Time end: 10/27/2021 1:52:51 PM		Latitude: 38.05263837165	Longitude: -78.5395892041	Speed: 7.108	Device ID: b164
+-
+Event 257:
+Time start: 11/4/2021 1:49:17 PM	Latitude: 38.0450058	Longitude: -78.4797069671	Speed: 13.387	Device ID: b164
+Time end: 11/4/2021 1:49:17 PM		Latitude: 38.0450058	Longitude: -78.47971604509999	Speed: 13.047	Device ID: b164
+-
+Event 257:
+Time start: 11/11/2021 1:39:52 PM	Latitude: 38.0567818	Longitude: -78.4888306	Speed: 1.9656191	Device ID: b164
+Time end: 11/11/2021 1:39:53 PM		Latitude: 38.0567818	Longitude: -78.4888306	Speed: 1.9700634	Device ID: b164
+-
+Event 257:
+Time start: 12/9/2021 4:01:44 PM	Latitude: 38.07100122253	Longitude: -78.49932026520999	Speed: 2.3029	Device ID: b164
+Time point 2: 12/9/2021 4:01:45 PM	Latitude: 38.0710144	Longitude: -78.4993057	Speed: 1	Device ID: b164
+Time end: 12/9/2021 4:01:45 PM		Latitude: 38.0710183427	Longitude: -78.4992978146	Speed: 4.987	Device ID: b164
+-
+Event 257:
+Time start: 12/14/2021 12:36:44 PM	Latitude: 38.0194817	Longitude: -78.4298782	Speed: 1.3835	Device ID: b164
+Time end: 12/14/2021 12:36:45 PM		Latitude: 38.0194817	Longitude: -78.4298782	Speed: 1.9885	Device ID: b164
+-
+Event 257:
+Time start: 12/14/2021 2:20:22 PM	Latitude: 38.2423058	Longitude: -78.1131287	Speed: 4.035	Device ID: b164
+Time end: 12/14/2021 2:20:22 PM		Latitude: 38.2423058	Longitude: -78.1131287	Speed: 5.5585	Device ID: b164
+-
+Event 257:
+Time start: 12/14/2021 3:56:46 PM	Latitude: 38.007639531433334	Longitude: -78.51037531465556	Speed: 11.332778	Device ID: b164
+Time end: 12/14/2021 3:56:46 PM		Latitude: 38.00763357176667	Longitude: -78.51035324721111	Speed: 9.960556	Device ID: b164
+-
+Event 257:
+Time start: 12/21/2021 1:03:11 PM	Latitude: 38.0198669	Longitude: -78.5384216	Speed: 1.8626153	Device ID: b164
+Time end: 12/21/2021 1:03:11 PM		Latitude: 38.0198669	Longitude: -78.5384216	Speed: 1.8866154	Device ID: b164
+-
+Event 257:
+Time start: 12/22/2021 1:50:43 PM	Latitude: 38.0502281	Longitude: -78.527153	Speed: 6.093	Device ID: b164
+Time end: 12/22/2021 1:50:43 PM		Latitude: 38.0502281	Longitude: -78.527153	Speed: 8.937	Device ID: b164
+-
+Event 257:
+Time start: 1/5/2022 1:26:31 PM	Latitude: 38.1210632	Longitude: -78.4475174	Speed: 1.3136667	Device ID: b164
+Time point 2: 1/5/2022 1:26:32 PM	Latitude: 38.1210632	Longitude: -78.4475174	Speed: 0	Device ID: b164
+Time point 3: 1/5/2022 1:26:33 PM	Latitude: 38.1210861	Longitude: -78.4475174	Speed: 6	Device ID: b164
+Time end: 1/5/2022 1:26:33 PM		Latitude: 38.121088102499996	Longitude: -78.4475153025	Speed: 6.55	Device ID: b164
+-
+Event 257:
+Time start: 1/5/2022 1:37:58 PM	Latitude: 38.2330894	Longitude: -78.3693085	Speed: 1.6548	Device ID: b164
+Time end: 1/5/2022 1:37:58 PM		Latitude: 38.2330894	Longitude: -78.3693085	Speed: 1.764	Device ID: b164
+-
+Event 257:
+Time start: 1/7/2022 3:57:55 PM	Latitude: 38.045027784000006	Longitude: -78.4796448	Speed: 4.24	Device ID: b164
+Time point 2: 1/7/2022 3:57:56 PM	Latitude: 38.0450058	Longitude: -78.4796448	Speed: 10	Device ID: b164
+Time point 3: 1/7/2022 3:57:58 PM	Latitude: 38.0449791	Longitude: -78.4797974	Speed: 16	Device ID: b164
+Time point 4: 1/7/2022 3:57:59 PM	Latitude: 38.0449791	Longitude: -78.4797974	Speed: 31	Device ID: b164
+Time point 5: 1/7/2022 3:58:03 PM	Latitude: 38.0450287	Longitude: -78.4804077	Speed: 44	Device ID: b164
+Time point 6: 1/7/2022 3:58:06 PM	Latitude: 38.0451088	Longitude: -78.480896	Speed: 52	Device ID: b164
+Time point 7: 1/7/2022 3:58:15 PM	Latitude: 38.0452347	Longitude: -78.4822769	Speed: 46	Device ID: b164
+Time end: 1/7/2022 3:58:17 PM		Latitude: 38.045262304	Longitude: -78.4825304548	Speed: 37.692	Device ID: b164
+-
+Event 257:
+Time start: 1/7/2022 4:49:53 PM	Latitude: 38.047419777	Longitude: -78.523743423	Speed: 14.94	Device ID: b164
+Time point 2: 1/7/2022 4:49:54 PM	Latitude: 38.0474358	Longitude: -78.5237274	Speed: 12	Device ID: b164
+Time end: 1/7/2022 4:49:54 PM		Latitude: 38.04742911103334	Longitude: -78.52371134823333	Speed: 13.052	Device ID: b164
+-
+Event 257:
+Time start: 1/19/2022 4:02:47 PM	Latitude: 38.1487835084	Longitude: -78.4245020632	Speed: 17.768	Device ID: b164
+Time end: 1/19/2022 4:02:47 PM		Latitude: 38.14878074934	Longitude: -78.42450349431999	Speed: 18.1968	Device ID: b164
+-
+Event 257:
+Time start: 1/19/2022 4:13:08 PM	Latitude: 38.0979195	Longitude: -78.4655838	Speed: 0	Device ID: b164
+Time end: 1/19/2022 4:13:08 PM		Latitude: 38.0979195	Longitude: -78.4655838	Speed: 0	Device ID: b164
+-
+Event 257:
+Time start: 1/20/2022 2:55:39 PM	Latitude: 38.0476913	Longitude: -78.52403464955	Speed: 5.463	Device ID: b164
+Time end: 1/20/2022 2:55:39 PM		Latitude: 38.0476913	Longitude: -78.52403450833333	Speed: 5.5	Device ID: b164
+-
+Event 257:
+Time start: 1/20/2022 3:09:56 PM	Latitude: 38.0466194	Longitude: -78.4931335	Speed: 3.607	Device ID: b164
+Time point 2: 1/20/2022 3:09:57 PM	Latitude: 38.0466194	Longitude: -78.4931335	Speed: 4	Device ID: b164
+Time end: 1/20/2022 3:09:57 PM		Latitude: 38.04661751765	Longitude: -78.4931335	Speed: 4.329	Device ID: b164
+-
+Event 257:
+Time start: 1/20/2022 4:01:17 PM	Latitude: 38.0835363625	Longitude: -78.9874624875	Speed: 20.4375	Device ID: b164
+Time end: 1/20/2022 4:01:17 PM		Latitude: 38.08354905385	Longitude: -78.98746861515	Speed: 18.94575	Device ID: b164
+-
+Event 257:
+Time start: 1/27/2022 2:32:37 PM	Latitude: 38.0489121185	Longitude: -78.52550596815	Speed: 6.3095	Device ID: b164
+Time end: 1/27/2022 2:32:38 PM		Latitude: 38.04890375833333	Longitude: -78.52549544083332	Speed: 9.475	Device ID: b164
+-
+Event 257:
+Time start: 2/1/2022 7:06:35 PM	Latitude: 38.075393933946664	Longitude: -78.49779484813	Speed: 2.98585	Device ID: b164
+Time end: 2/1/2022 7:06:35 PM		Latitude: 38.07539392568	Longitude: -78.49779485703	Speed: 2.98635	Device ID: b164
+-
+Event 257:
+Time start: 2/25/2022 4:16:17 PM	Latitude: 38.047718	Longitude: -78.52406780166666	Speed: 2.9833333	Device ID: b164
+Time end: 2/25/2022 4:16:18 PM		Latitude: 38.047718	Longitude: -78.5240601055	Speed: 4.245	Device ID: b164
+-
+Event 257:
+Time start: 2/25/2022 4:36:04 PM	Latitude: 38.0525823907375	Longitude: -78.53969519555	Speed: 1.95575	Device ID: b164
+Time point 2: 2/25/2022 4:36:05 PM	Latitude: 38.0525818	Longitude: -78.5396957	Speed: 2	Device ID: b164
+Time end: 2/25/2022 4:36:05 PM		Latitude: 38.052580378224995	Longitude: -78.539700173	Speed: 3.86375	Device ID: b164
+-
+Event 257:
+Time start: 2/28/2022 3:31:22 PM	Latitude: 38.0123700216	Longitude: -78.502449	Speed: 3.76	Device ID: b164
+Time end: 2/28/2022 3:31:23 PM		Latitude: 38.01236560542	Longitude: -78.502449	Speed: 4.587	Device ID: b164
+-
+Event 257:
+Time start: 3/1/2022 4:34:56 PM	Latitude: 38.0476418	Longitude: -78.52390607433333	Speed: 1.8811111	Device ID: b164
+Time end: 3/1/2022 4:34:57 PM		Latitude: 38.0476418	Longitude: -78.52390497666666	Speed: 1.9222223	Device ID: b164
+-
+Event 257:
+Time start: 3/8/2022 6:59:57 PM	Latitude: 38.050046402	Longitude: -78.52689640714286	Speed: 0.47142857	Device ID: b164
+Time end: 3/8/2022 6:59:57 PM		Latitude: 38.0500483967	Longitude: -78.52690039392857	Speed: 0.07928571	Device ID: b164
+-
+Event 257:
+Time start: 3/15/2022 4:14:01 PM	Latitude: 38.0501226614	Longitude: -78.5265670417	Speed: 14	Device ID: b164
+Time end: 3/15/2022 4:14:01 PM		Latitude: 38.050119226	Longitude: -78.526585203	Speed: 14	Device ID: b164
+-
+Event 257:
+Time start: 3/17/2022 1:36:38 PM	Latitude: 38.019846060649996	Longitude: -78.53843947345	Speed: 3.9025	Device ID: b164
+Time end: 3/17/2022 1:36:39 PM		Latitude: 38.01984383565	Longitude: -78.53844138178333	Speed: 4.3191667	Device ID: b164
+-
+Event 257:
+Time start: 3/17/2022 3:34:15 PM	Latitude: 38.0123634	Longitude: -78.50244721354545	Speed: 1.9218181	Device ID: b164
+Time end: 3/17/2022 3:34:15 PM		Latitude: 38.0123634	Longitude: -78.50244747735908	Speed: 1.9333637	Device ID: b164
+-
+Event 257:
+Time start: 3/21/2022 2:04:58 PM	Latitude: 38.0450554	Longitude: -78.4796917285	Speed: 9.926	Device ID: b164
+Time end: 3/21/2022 2:04:58 PM		Latitude: 38.0450554	Longitude: -78.4797163115	Speed: 8.314	Device ID: b164
+-
+Event 257:
+Time start: 3/21/2022 2:26:46 PM	Latitude: 38.056655152	Longitude: -78.48809109999999	Speed: 13.44	Device ID: b164
+Time end: 3/21/2022 2:26:46 PM		Latitude: 38.05665655083333	Longitude: -78.48810187083333	Speed: 14.1	Device ID: b164
+-
+Event 257:
+Time start: 3/22/2022 11:28:47 AM	Latitude: 38.045090311975	Longitude: -78.47970944545	Speed: 15.8015	Device ID: b164
+Time end: 3/22/2022 11:28:47 AM		Latitude: 38.045063281750004	Longitude: -78.4797145585	Speed: 13.695	Device ID: b164
+-
+Event 257:
+Time start: 3/31/2022 1:41:00 PM	Latitude: 38.0502014	Longitude: -78.5274129496	Speed: 4.88	Device ID: b164
+Time end: 3/31/2022 1:41:00 PM		Latitude: 38.0502014	Longitude: -78.52741289693	Speed: 4.8915	Device ID: b164
+-
+Event 257:
+Time start: 3/31/2022 3:04:36 PM	Latitude: 38.07303152156666	Longitude: -78.48887998741111	Speed: 4.9486666	Device ID: b164
+Time end: 3/31/2022 3:04:36 PM		Latitude: 38.073032352233334	Longitude: -78.48888069985556	Speed: 5.1353335	Device ID: b164
+-
+Event 257:
+Time start: 3/31/2022 5:08:55 PM	Latitude: 38.04881791980909	Longitude: -78.52528158702727	Speed: 2.7100909	Device ID: b164
+Time end: 3/31/2022 5:08:56 PM		Latitude: 38.04881982036363	Longitude: -78.5252832170909	Speed: 2.9236364	Device ID: b164
+-
+Event 257:
+Time start: 4/5/2022 3:32:34 PM	Latitude: 38.0507889	Longitude: -78.5490189	Speed: 0.77566665	Device ID: b164
+Time end: 4/5/2022 3:32:34 PM		Latitude: 38.0507889	Longitude: -78.5490189	Speed: 0.959	Device ID: b164
+-
+Event 257:
+Time start: 4/14/2022 12:52:46 PM	Latitude: 38.14898855931428	Longitude: -78.42411737257143	Speed: 15.670857	Device ID: b164
+Time end: 4/14/2022 12:52:46 PM		Latitude: 38.14898860182857	Longitude: -78.42411738564286	Speed: 15.677714	Device ID: b164
+-
+Event 257:
+Time start: 4/18/2022 3:04:53 PM	Latitude: 38.0199165	Longitude: -78.53836171014	Speed: 3.583	Device ID: b164
+Time end: 4/18/2022 3:04:54 PM		Latitude: 38.0199165	Longitude: -78.53836381693999	Speed: 4.043	Device ID: b164
+-
+Event 257:
+Time start: 4/26/2022 2:55:25 PM	Latitude: 38.071039072	Longitude: -78.499303351625	Speed: 4.5375	Device ID: b164
+Time end: 4/26/2022 2:55:25 PM		Latitude: 38.0710455776	Longitude: -78.4992960047375	Speed: 4.13625	Device ID: b164
+-
+Event 257:
+Time start: 5/10/2022 2:06:13 PM	Latitude: 38.045109308775004	Longitude: -78.47968364985	Speed: 17.249	Device ID: b164
+Time end: 5/10/2022 2:06:13 PM		Latitude: 38.045092992475	Longitude: -78.47968781765	Speed: 14.701	Device ID: b164
+-
+Event 257:
+Time start: 5/19/2022 4:30:19 PM	Latitude: 38.0089850326	Longitude: -78.50816890866666	Speed: 12.443334	Device ID: b164
+Time end: 5/19/2022 4:30:19 PM		Latitude: 38.008975954600004	Longitude: -78.50818964866666	Speed: 14.143333	Device ID: b164
+-
+Event 257:
+Time start: 6/7/2022 2:09:27 PM	Latitude: 38.05664581975	Longitude: -78.50337955295	Speed: 12.965	Device ID: b164
+Time end: 6/7/2022 2:09:27 PM		Latitude: 38.0566354425	Longitude: -78.5033641785	Speed: 10.95	Device ID: b164
+-
+Event 257:
+Time start: 6/7/2022 3:35:15 PM	Latitude: 38.05023722565	Longitude: -78.5269190508	Speed: 12.797	Device ID: b164
+Time end: 6/7/2022 3:35:15 PM		Latitude: 38.05023940115	Longitude: -78.5269487668	Speed: 12.987	Device ID: b164
+-
+Event 257:
+Time start: 7/22/2022 3:32:35 PM	Latitude: 38.04881355542	Longitude: -78.52519933648999	Speed: 2.7257	Device ID: b164
+Time point 2: 7/22/2022 3:32:36 PM	Latitude: 38.0488205	Longitude: -78.5252075	Speed: 2	Device ID: b164
+Time end: 7/22/2022 3:32:36 PM		Latitude: 38.048845923159995	Longitude: -78.52523800446	Speed: 6.8314	Device ID: b164
+-
+Event 257:
+Time start: 8/3/2022 2:00:04 PM	Latitude: 38.045087017600004	Longitude: -78.47971255440001	Speed: 15.024	Device ID: b164
+Time end: 8/3/2022 2:00:04 PM		Latitude: 38.04507047482	Longitude: -78.47971702558	Speed: 13.4418	Device ID: b164
+-
+Event 257:
+Time start: 8/3/2022 3:03:15 PM	Latitude: 38.0701584594	Longitude: -78.48470515056667	Speed: 7.6963334	Device ID: b164
+Time end: 8/3/2022 3:03:15 PM		Latitude: 38.0701562166	Longitude: -78.48470418876666	Speed: 7.9903336	Device ID: b164
+-
+Event 257:
+Time start: 8/4/2022 2:02:02 PM	Latitude: 38.0450771071	Longitude: -78.47969345175	Speed: 17.3455	Device ID: b164
+Time end: 8/4/2022 2:02:02 PM		Latitude: 38.045076573100005	Longitude: -78.47969375675	Speed: 17.2755	Device ID: b164
+-
+Event 257:
+Time start: 8/9/2022 2:40:58 PM	Latitude: 37.956721281175	Longitude: -78.6590729	Speed: 9.74825	Device ID: b164
+Time point 2: 8/9/2022 2:40:59 PM	Latitude: 37.9567108	Longitude: -78.6590729	Speed: 8	Device ID: b164
+Time end: 8/9/2022 2:41:00 PM		Latitude: 37.956674235	Longitude: -78.6589726835	Speed: 17.585	Device ID: b164
+-
+Event 257:
+Time start: 8/15/2022 2:10:03 PM	Latitude: 38.03352388826667	Longitude: -78.4841461	Speed: 2.713	Device ID: b164
+Time end: 8/15/2022 2:10:03 PM		Latitude: 38.03351777093334	Longitude: -78.4841461	Speed: 2.343	Device ID: b164
+-
+Event 257:
+Time start: 8/17/2022 2:39:35 PM	Latitude: 38.0326157	Longitude: -78.50002295725001	Speed: 0.0025	Device ID: b164
+Time end: 8/17/2022 2:39:36 PM		Latitude: 38.0326157	Longitude: -78.5000229	Speed: 0	Device ID: b164
+-
+Event 257:
+Time start: 8/18/2022 3:12:55 PM	Latitude: 38.067436403033334	Longitude: -78.48665219696666	Speed: 12.733666	Device ID: b164
+Time end: 8/18/2022 3:12:55 PM		Latitude: 38.06745402833333	Longitude: -78.48663457166666	Speed: 11.116667	Device ID: b164
+-
+Event 257:
+Time start: 9/8/2022 5:00:50 PM	Latitude: 38.045027689025005	Longitude: -78.479616726075	Speed: 9.14575	Device ID: b164
+Time end: 9/8/2022 5:00:50 PM		Latitude: 38.04501439375	Longitude: -78.47964863125	Speed: 11.0625	Device ID: b164
+-
+Event 257:
+Time start: 9/16/2022 2:11:18 PM	Latitude: 38.129562513124995	Longitude: -78.43809256526251	Speed: 7.40725	Device ID: b164
+Time point 2: 9/16/2022 2:11:19 PM	Latitude: 38.1295891	Longitude: -78.4380646	Speed: 4	Device ID: b164
+Time end: 9/16/2022 2:11:20 PM		Latitude: 38.1296747086	Longitude: -78.43797256795	Speed: 16.342	Device ID: b164
+-
+Event 257:
+Time start: 10/10/2022 11:27:23 AM	Latitude: 38.0451219288	Longitude: -78.4796966085	Speed: 11.379	Device ID: b164
+Time point 2: 10/10/2022 11:27:24 AM	Latitude: 38.0450821	Longitude: -78.4797211	Speed: 17	Device ID: b164
+Time end: 10/10/2022 11:27:24 AM		Latitude: 38.045075662500004	Longitude: -78.47973540625	Speed: 17.75	Device ID: b164
+-
+Event 257:
+Time start: 10/11/2022 11:41:55 AM	Latitude: 38.0450554	Longitude: -78.4796448	Speed: 26.298	Device ID: b164
+Time point 2: 10/11/2022 11:41:56 AM	Latitude: 38.0450554	Longitude: -78.4796448	Speed: 15	Device ID: b164
+Time end: 10/11/2022 11:41:56 AM		Latitude: 38.045047007	Longitude: -78.47964731900001	Speed: 15.77	Device ID: b164
+-
+Event 257:
+Time start: 10/25/2022 3:51:38 PM	Latitude: 38.04754929496	Longitude: -78.52364497548	Speed: 15.9164	Device ID: b164
+Time point 2: 10/25/2022 3:51:39 PM	Latitude: 38.0475655	Longitude: -78.523674	Speed: 13	Device ID: b164
+Time end: 10/25/2022 3:51:39 PM		Latitude: 38.04757984	Longitude: -78.523693532	Speed: 14.76	Device ID: b164
+-
+Event 257:
+Time start: 10/31/2022 2:37:35 PM	Latitude: 38.05021981585714	Longitude: -78.52707222965715	Speed: 17.206429	Device ID: b164
+Time end: 10/31/2022 2:37:35 PM		Latitude: 38.05022187585714	Longitude: -78.52708092565715	Speed: 16.90643	Device ID: b164
+-
+Event 257:
+Time start: 11/3/2022 3:00:28 PM	Latitude: 38.0709779536	Longitude: -78.4993146997	Speed: 6.7685	Device ID: b164
+Time end: 11/3/2022 3:00:28 PM		Latitude: 38.07097902	Longitude: -78.499313715	Speed: 6.575	Device ID: b164
+-
+Event 257:
+Time start: 11/3/2022 6:38:08 PM	Latitude: 38.0836284623	Longitude: -78.987442	Speed: 9.582429	Device ID: b164
+Time point 2: 11/3/2022 6:38:09 PM	Latitude: 38.0836334	Longitude: -78.987442	Speed: 9	Device ID: b164
+Time end: 11/3/2022 6:38:09 PM		Latitude: 38.0836528643	Longitude: -78.9874290238	Speed: 13.131	Device ID: b164
+-
+Event 257:
+Time start: 11/9/2022 2:47:22 PM	Latitude: 38.04262000158571	Longitude: -78.47525355941428	Speed: 9.377286	Device ID: b164
+Time point 2: 11/9/2022 2:47:23 PM	Latitude: 38.0425987	Longitude: -78.475235	Speed: 7	Device ID: b164
+Time end: 11/9/2022 2:47:23 PM		Latitude: 38.042595713	Longitude: -78.475235	Speed: 7.493	Device ID: b164
+-
+Event 257:
+Time start: 11/17/2022 1:00:47 PM	Latitude: 38.07648825495	Longitude: -78.47844276935001	Speed: 0.909	Device ID: b164
+Time end: 11/17/2022 1:00:48 PM		Latitude: 38.0764923	Longitude: -78.4784393	Speed: 0	Device ID: b164
+-
+Event 257:
+Time start: 11/17/2022 1:00:49 PM	Latitude: 38.0764923	Longitude: -78.4784393	Speed: 4	Device ID: b164
+Time end: 11/17/2022 1:00:49 PM		Latitude: 38.076538649999996	Longitude: -78.47839810250001	Speed: 12.325	Device ID: b164
+-
+Event 257:
+Time start: 11/17/2022 3:37:19 PM	Latitude: 38.1271561544	Longitude: -78.43735814239999	Speed: 10.056	Device ID: b164
+Time point 2: 11/17/2022 3:37:20 PM	Latitude: 38.1271553	Longitude: -78.4373474	Speed: 9	Device ID: b164
+Time end: 11/17/2022 3:37:20 PM		Latitude: 38.127158593	Longitude: -78.43732575499999	Speed: 10.11	Device ID: b164
+-
+Event 257:
+Time start: 11/17/2022 3:41:18 PM	Latitude: 38.1028366	Longitude: -78.4600601	Speed: 2.074	Device ID: b164
+Time point 2: 11/17/2022 3:41:19 PM	Latitude: 38.1028366	Longitude: -78.4600601	Speed: 3	Device ID: b164
+Time end: 11/17/2022 3:41:20 PM		Latitude: 38.1027496474	Longitude: -78.46013095652	Speed: 16.2258	Device ID: b164
+-
+Event 257:
+Time start: 11/21/2022 2:41:08 PM	Latitude: 38.0512772	Longitude: -78.69863041442	Speed: 2.5209	Device ID: b164
+Time end: 11/21/2022 2:41:08 PM		Latitude: 38.0512772	Longitude: -78.69863563282	Speed: 2.7889	Device ID: b164
+-
+Event 257:
+Time start: 11/30/2022 3:52:50 PM	Latitude: 38.0647926	Longitude: -78.4943848	Speed: 1	Device ID: b164
+Time end: 11/30/2022 3:52:50 PM		Latitude: 38.0647790898	Longitude: -78.49436426790001	Speed: 2.633	Device ID: b164
+-
+Event 257:
+Time start: 12/12/2022 3:31:43 PM	Latitude: 38.028435778571435	Longitude: -78.48149879642858	Speed: 1.8642857	Device ID: b164
+Time end: 12/12/2022 3:31:44 PM		Latitude: 38.0284424	Longitude: -78.481514	Speed: 0	Device ID: b164
+-
+Event 257:
+Time start: 1/10/2023 3:03:40 PM	Latitude: 38.125618	Longitude: -78.4425201	Speed: 8	Device ID: b164
+Time end: 1/10/2023 3:03:40 PM		Latitude: 38.12563193933334	Longitude: -78.44250538926666	Speed: 9.7255	Device ID: b164
+-
+Event 257:
+Time start: 1/10/2023 6:41:14 PM	Latitude: 38.0287938665	Longitude: -78.473353677	Speed: 6.035	Device ID: b164
+Time point 2: 1/10/2023 6:41:15 PM	Latitude: 38.028801	Longitude: -78.4733734	Speed: 4	Device ID: b164
+Time end: 1/10/2023 6:41:15 PM		Latitude: 38.02880378235	Longitude: -78.4733789647	Speed: 5.3365	Device ID: b164
+-
+Event 257:
+Time start: 1/12/2023 4:33:16 PM	Latitude: 38.0505104	Longitude: -78.7079391	Speed: 2.395	Device ID: b164
+Time point 2: 1/12/2023 4:33:17 PM	Latitude: 38.0505104	Longitude: -78.7079391	Speed: 1	Device ID: b164
+Time end: 1/12/2023 4:33:17 PM		Latitude: 38.05051365038	Longitude: -78.70792285236	Speed: 2.7466	Device ID: b164
+-
+Event 257:
+Time start: 1/12/2023 4:45:32 PM	Latitude: 38.051644958225	Longitude: -78.54883883640001	Speed: 15.58825	Device ID: b164
+Time end: 1/12/2023 4:45:32 PM		Latitude: 38.051646226475	Longitude: -78.5488497044	Speed: 16.49075	Device ID: b164
+-
+Event 257:
+Time start: 1/12/2023 4:45:32 PM	Latitude: 38.051648963225	Longitude: -78.5488731564	Speed: 18.43825	Device ID: b164
+Time end: 1/12/2023 4:45:33 PM		Latitude: 38.05165232075	Longitude: -78.548901928	Speed: 20.8275	Device ID: b164
+-
+Event 257:
+Time start: 2/2/2023 3:38:08 PM	Latitude: 38.05023980572857	Longitude: -78.52712003665714	Speed: 16.350286	Device ID: b164
+Time end: 2/2/2023 3:38:08 PM		Latitude: 38.050242187857144	Longitude: -78.52712885571428	Speed: 16.828571	Device ID: b164
+-
+Event 257:
+Time start: 2/3/2023 3:36:25 PM	Latitude: 38.0511189663	Longitude: -78.5553900354	Speed: 19.1695	Device ID: b164
+Time end: 2/3/2023 3:36:25 PM		Latitude: 38.0511234163	Longitude: -78.55544980206666	Speed: 15.086166	Device ID: b164
+-
+Event 257:
+Time start: 2/7/2023 4:33:03 PM	Latitude: 38.01448558909091	Longitude: -78.50011238923636	Speed: 7.9313636	Device ID: b164
+Time end: 2/7/2023 4:33:03 PM		Latitude: 38.01447348	Longitude: -78.5001261216	Speed: 8.995	Device ID: b164
+-
+Event 257:
+Time start: 2/7/2023 4:34:02 PM	Latitude: 38.0089874	Longitude: -78.5082092	Speed: 7	Device ID: b164
+Time end: 2/7/2023 4:34:02 PM		Latitude: 38.00898345524445	Longitude: -78.50824537875555	Speed: 8.639444	Device ID: b164
+-
+Event 257:
+Time start: 2/14/2023 3:30:15 PM	Latitude: 38.0450554	Longitude: -78.4797211	Speed: 2	Device ID: b164
+Time end: 2/14/2023 3:30:15 PM		Latitude: 38.045054866	Longitude: -78.47972155800001	Speed: 2.2	Device ID: b164
+-
+Event 257:
+Time start: 2/16/2023 2:36:30 PM	Latitude: 38.057907815166665	Longitude: -78.49468754616667	Speed: 5.2433333	Device ID: b164
+Time point 2: 2/16/2023 2:36:31 PM	Latitude: 38.0579338	Longitude: -78.4946671	Speed: 1	Device ID: b164
+Time end: 2/16/2023 2:36:31 PM		Latitude: 38.0579694807	Longitude: -78.49463901115	Speed: 5.6765	Device ID: b164
+-
+Event 257:
+Time start: 2/16/2023 4:39:19 PM	Latitude: 38.12710575954	Longitude: -78.43737883236	Speed: 5.1066	Device ID: b164
+Time point 2: 2/16/2023 4:39:20 PM	Latitude: 38.1271057	Longitude: -78.4373779	Speed: 5	Device ID: b164
+Time end: 2/16/2023 4:39:20 PM		Latitude: 38.1271057	Longitude: -78.4373779	Speed: 5	Device ID: b164
+-
+Event 257:
+Time start: 2/21/2023 4:28:56 PM	Latitude: 38.04892023	Longitude: -78.52558987833334	Speed: 5.775	Device ID: b164
+Time end: 2/21/2023 4:28:57 PM		Latitude: 38.0488968	Longitude: -78.5255661	Speed: 0	Device ID: b164
+-
+Event 257:
+Time start: 2/22/2023 12:52:45 PM	Latitude: 38.03766690225	Longitude: -78.48279137875	Speed: 3.6125	Device ID: b164
+Time end: 2/22/2023 12:52:45 PM		Latitude: 38.03767033575	Longitude: -78.48279275124999	Speed: 4.2875	Device ID: b164
+-
+Event 257:
+Time start: 2/27/2023 4:35:26 PM	Latitude: 38.048936806633336	Longitude: -78.52557231386666	Speed: 10.951333	Device ID: b164
+Time end: 2/27/2023 4:35:26 PM		Latitude: 38.048925209033335	Longitude: -78.52555723546666	Speed: 11.255333	Device ID: b164
+-
+Event 257:
+Time start: 2/28/2023 1:04:37 PM	Latitude: 38.047786543600004	Longitude: -78.524127461225	Speed: 21.841	Device ID: b164
+Time point 2: 2/28/2023 1:04:38 PM	Latitude: 38.0477715	Longitude: -78.5241089	Speed: 20	Device ID: b164
+Time end: 2/28/2023 1:04:38 PM		Latitude: 38.04775592615	Longitude: -78.524086961	Speed: 21.5265	Device ID: b164
+-
+Event 257:
+Time start: 2/28/2023 1:14:19 PM	Latitude: 38.045352725125	Longitude: -78.48393773182501	Speed: 15.522125	Device ID: b164
+Time end: 2/28/2023 1:14:19 PM		Latitude: 38.045352158625	Longitude: -78.48393408092501	Speed: 15.351625	Device ID: b164
+-
+Event 257:
+Time start: 2/28/2023 1:31:12 PM	Latitude: 38.046477848066665	Longitude: -78.47825179871667	Speed: 29.490334	Device ID: b164
+Time end: 2/28/2023 1:31:12 PM		Latitude: 38.04651447206667	Longitude: -78.47831862671667	Speed: 32.610332	Device ID: b164
+-
+Event 257:
+Time start: 2/28/2023 1:35:19 PM	Latitude: 38.051078769557144	Longitude: -78.52447067822857	Speed: 37.064857	Device ID: b164
+Time end: 2/28/2023 1:35:19 PM		Latitude: 38.05107249141429	Longitude: -78.52448156565714	Speed: 37.347713	Device ID: b164
+-
+Event 257:
+Time start: 3/7/2023 3:16:20 PM	Latitude: 38.066571775	Longitude: -78.49630053300001	Speed: 5.07	Device ID: b164
+Time point 2: 3/7/2023 3:16:21 PM	Latitude: 38.0665855	Longitude: -78.4963074	Speed: 3	Device ID: b164
+Time end: 3/7/2023 3:16:21 PM		Latitude: 38.066623917425005	Longitude: -78.4963250576625	Speed: 6.35675	Device ID: b164
+-
+Event 257:
+Time start: 3/16/2023 11:23:27 AM	Latitude: 38.056762041999995	Longitude: -78.48957836	Speed: 20.94	Device ID: b164
+Time point 2: 3/16/2023 11:23:28 AM	Latitude: 38.0567551	Longitude: -78.4895248	Speed: 16	Device ID: b164
+Time end: 3/16/2023 11:23:28 AM		Latitude: 38.056750599409995	Longitude: -78.48948217799	Speed: 17.4227	Device ID: b164
+-
+Event 257:
+Time start: 3/20/2023 3:33:01 PM	Latitude: 38.0476151	Longitude: -78.5237274	Speed: 1	Device ID: b164
+Time end: 3/20/2023 3:33:01 PM		Latitude: 38.0476192919	Longitude: -78.5237309953	Speed: 2.727	Device ID: b164
+-
+Event 257:
+Time start: 3/21/2023 12:18:22 PM	Latitude: 38.0698624	Longitude: -78.4844055	Speed: 4	Device ID: b164
+Time end: 3/21/2023 12:18:22 PM		Latitude: 38.069864803449995	Longitude: -78.48440309655	Speed: 4.7875	Device ID: b164
+-
+Event 257:
+Time start: 3/21/2023 12:21:20 PM	Latitude: 38.0966911	Longitude: -78.4646378	Speed: 5.46	Device ID: b164
+Time end: 3/21/2023 12:21:20 PM		Latitude: 38.0966911	Longitude: -78.4646378	Speed: 5.754	Device ID: b164
+-
+Event 257:
+Time start: 3/21/2023 3:05:16 PM	Latitude: 38.1488780067	Longitude: -78.42442231255	Speed: 31.577	Device ID: b164
+Time end: 3/21/2023 3:05:16 PM		Latitude: 38.148870081300004	Longitude: -78.42442711945	Speed: 31.703	Device ID: b164
+-
+Event 257:
+Time start: 3/28/2023 1:33:44 PM	Latitude: 38.05115546995	Longitude: -78.55551226435	Speed: 6.209	Device ID: b164
+Time point 2: 3/28/2023 1:33:45 PM	Latitude: 38.0511475	Longitude: -78.5555191	Speed: 8	Device ID: b164
+Time end: 3/28/2023 1:33:45 PM		Latitude: 38.051150704	Longitude: -78.555546568	Speed: 11.24	Device ID: b164
+-
+Event 257:
+Time start: 3/30/2023 2:51:28 PM	Latitude: 38.050220649455554	Longitude: -78.52707170507779	Speed: 5.182889	Device ID: b164
+Time point 2: 3/30/2023 2:51:29 PM	Latitude: 38.0502281	Longitude: -78.5271072	Speed: 3	Device ID: b164
+Time end: 3/30/2023 2:51:29 PM		Latitude: 38.0502281	Longitude: -78.5271363466	Speed: 7.011	Device ID: b164
+-
+Event 257:
+Time start: 4/6/2023 2:44:02 PM	Latitude: 38.019529517	Longitude: -78.5388304098	Speed: 3.578	Device ID: b164
+Time point 2: 4/6/2023 2:44:03 PM	Latitude: 38.0195312	Longitude: -78.538826	Speed: 3	Device ID: b164
+Time end: 4/6/2023 2:44:03 PM		Latitude: 38.01953293412858	Longitude: -78.53882285977143	Speed: 3.3194287	Device ID: b164
+-
+Event 257:
+Time start: 4/7/2023 12:15:14 PM	Latitude: 38.050256474	Longitude: -78.52707516400001	Speed: 14.4	Device ID: b164
+Time end: 4/7/2023 12:15:15 PM		Latitude: 38.050290543133336	Longitude: -78.52720812946667	Speed: 23.113333	Device ID: b164
+-
+Event 257:
+Time start: 4/11/2023 1:27:26 PM	Latitude: 38.0873718	Longitude: -78.4705811	Speed: 14.742	Device ID: b164
+Time end: 4/11/2023 1:27:27 PM		Latitude: 38.0873718	Longitude: -78.4705811	Speed: 17.022	Device ID: b164
+-
+Event 257:
+Time start: 4/27/2023 3:03:40 PM	Latitude: 38.0294737176	Longitude: -78.80697197325	Speed: 13.713	Device ID: b164
+Time end: 4/27/2023 3:03:40 PM		Latitude: 38.029479992	Longitude: -78.806968115	Speed: 13.46	Device ID: b164
+-
+Event 257:
+Time start: 5/4/2023 1:35:53 PM	Latitude: 38.04257668745	Longitude: -78.475200206275	Speed: 5.039	Device ID: b164
+Time end: 5/4/2023 1:35:53 PM		Latitude: 38.0425693245	Longitude: -78.47520388775	Speed: 6.39	Device ID: b164
+-
+Event 257:
+Time start: 5/4/2023 2:21:02 PM	Latitude: 38.064602031599996	Longitude: -78.493804041075	Speed: 23.4775	Device ID: b164
+Time point 2: 5/4/2023 2:21:03 PM	Latitude: 38.0646133	Longitude: -78.4938202	Speed: 22	Device ID: b164
+Time end: 5/4/2023 2:21:03 PM		Latitude: 38.064615153999995	Longitude: -78.493822855	Speed: 22.168	Device ID: b164
+-
+Event 257:
+Time start: 5/10/2023 3:16:36 PM	Latitude: 38.04251631471429	Longitude: -78.51126663912856	Speed: 5.202286	Device ID: b164
+Time end: 5/10/2023 3:16:36 PM		Latitude: 38.04252571714286	Longitude: -78.5112831222857	Speed: 6.662857	Device ID: b164
+-
+Event 257:
+Time start: 5/17/2023 12:14:15 PM	Latitude: 38.069757080309095	Longitude: -78.48445487404545	Speed: 12.235364	Device ID: b164
+Time point 2: 5/17/2023 12:14:16 PM	Latitude: 38.0697861	Longitude: -78.4844284	Speed: 10	Device ID: b164
+Time end: 5/17/2023 12:14:16 PM		Latitude: 38.06984303066667	Longitude: -78.48437758666667	Speed: 15.796667	Device ID: b164
+-
+Event 257:
+Time start: 7/7/2023 1:45:00 PM	Latitude: 37.956729523	Longitude: -78.6590729	Speed: 10.882	Device ID: b164
+Time end: 7/7/2023 1:45:00 PM		Latitude: 37.956718536333334	Longitude: -78.6590729	Speed: 10.668667	Device ID: b164
+-
+Event 257:
+Time start: 7/27/2023 2:08:22 PM	Latitude: 38.049042842333336	Longitude: -78.71298074203334	Speed: 0.12733333	Device ID: b164
+Time end: 7/27/2023 2:08:22 PM		Latitude: 38.049043414555555	Longitude: -78.71298086925556	Speed: 0.116222225	Device ID: b164
+-
+Event 257:
+Time start: 8/7/2023 2:04:01 PM	Latitude: 38.02674080566667	Longitude: -78.52964470366666	Speed: 9.966666	Device ID: b164
+Time point 2: 8/7/2023 2:04:02 PM	Latitude: 38.0267258	Longitude: -78.5296402	Speed: 8	Device ID: b164
+Time end: 8/7/2023 2:04:02 PM		Latitude: 38.026715626666665	Longitude: -78.52963002666667	Speed: 9.2	Device ID: b164
+-
+Event 257:
+Time start: 8/7/2023 2:57:47 PM	Latitude: 38.03114179366667	Longitude: -78.51063243386666	Speed: 10.486667	Device ID: b164
+Time end: 8/7/2023 2:57:47 PM		Latitude: 38.031143167	Longitude: -78.5106311112	Speed: 10.22	Device ID: b164
+-
+Event 257:
+Time start: 8/7/2023 3:08:56 PM	Latitude: 38.0475922	Longitude: -78.5237503	Speed: 6	Device ID: b164
+Time end: 8/7/2023 3:08:56 PM		Latitude: 38.04759399305	Longitude: -78.52375209305	Speed: 6.5405	Device ID: b164
+-
+Event 257:
+Time start: 8/8/2023 2:07:52 PM	Latitude: 38.06322777745	Longitude: -78.506297787725	Speed: 11.22625	Device ID: b164
+Time end: 8/8/2023 2:07:52 PM		Latitude: 38.063222135500006	Longitude: -78.50630392775001	Speed: 11.9875	Device ID: b164
+-
+Event 257:
+Time start: 8/10/2023 11:32:54 AM	Latitude: 38.04907324638	Longitude: -78.7150487681	Speed: 2.496	Device ID: b164
+Time end: 8/10/2023 11:32:54 AM		Latitude: 38.04906958398	Longitude: -78.7150670801	Speed: 4.416	Device ID: b164
+-
+Event 257:
+Time start: 8/16/2023 12:20:21 PM	Latitude: 38.08729633963333	Longitude: -78.47056974016667	Speed: 6.185	Device ID: b164
+Time end: 8/16/2023 12:20:21 PM		Latitude: 38.08729677196666	Longitude: -78.47056956183333	Speed: 6.235	Device ID: b164
+-
+Event 257:
+Time start: 8/18/2023 2:57:45 PM	Latitude: 38.029571172000004	Longitude: -78.806858162	Speed: 4.19	Device ID: b164
+Time point 2: 8/18/2023 2:57:47 PM	Latitude: 38.0296173	Longitude: -78.8068085	Speed: 20	Device ID: b164
+Time end: 8/18/2023 2:57:47 PM		Latitude: 38.02962036516	Longitude: -78.80677039788	Speed: 22.3534	Device ID: b164
+-
+Event 257:
+Time start: 8/22/2023 3:35:10 PM	Latitude: 38.051893036980005	Longitude: -78.54136545562001	Speed: 21.344	Device ID: b164
+Time end: 8/22/2023 3:35:10 PM		Latitude: 38.05187582418	Longitude: -78.54141233242001	Speed: 17.504	Device ID: b164
+-
+Event 257:
+Time start: 9/6/2023 11:21:02 AM	Latitude: 38.0450478422	Longitude: -78.47980993822	Speed: 12.315	Device ID: b164
+Time end: 9/6/2023 11:21:02 AM		Latitude: 38.0450473478	Longitude: -78.47981056078	Speed: 12.435	Device ID: b164
+-
+Event 257:
+Time start: 9/14/2023 12:15:11 PM	Latitude: 38.046772759999996	Longitude: -78.52519528	Speed: 9	Device ID: b164
+Time point 2: 9/14/2023 12:15:12 PM	Latitude: 38.0467987	Longitude: -78.5251846	Speed: 7	Device ID: b164
+Time end: 9/14/2023 12:15:12 PM		Latitude: 38.046800148399996	Longitude: -78.52518411002222	Speed: 7.1265554	Device ID: b164
+-
+Event 257:
+Time start: 9/14/2023 1:12:47 PM	Latitude: 38.0570588908125	Longitude: -78.4885933356125	Speed: 15.78075	Device ID: b164
+Time end: 9/14/2023 1:12:47 PM		Latitude: 38.057066779375	Longitude: -78.488595691375	Speed: 15.8425	Device ID: b164
+-
+Event 257:
+Time start: 9/14/2023 1:14:52 PM	Latitude: 38.0653761214	Longitude: -78.48835007859999	Speed: 9.311	Device ID: b164
+Time end: 9/14/2023 1:14:52 PM		Latitude: 38.0653832414	Longitude: -78.4883429586	Speed: 8.111	Device ID: b164
+-
+Event 257:
+Time start: 9/14/2023 3:31:44 PM	Latitude: 38.0708603553	Longitude: -78.4837469246	Speed: 14.007	Device ID: b164
+Time end: 9/14/2023 3:31:44 PM		Latitude: 38.07085526863333	Longitude: -78.4837504846	Speed: 14.207	Device ID: b164
+-
+Event 257:
+Time start: 10/24/2023 7:11:06 PM	Latitude: 38.0521202	Longitude: -78.681572	Speed: 0.866	Device ID: b164
+Time end: 10/24/2023 7:11:06 PM		Latitude: 38.0521202	Longitude: -78.681572	Speed: 0.78	Device ID: b164
+-
+Event 257:
+Time start: 10/31/2023 12:36:22 PM	Latitude: 38.067979954319995	Longitude: -78.48648535182	Speed: 6.953	Device ID: b164
+Time end: 10/31/2023 12:36:23 PM		Latitude: 38.067897184079996	Longitude: -78.48656191158	Speed: 19.157	Device ID: b164
+-
+Event 257:
+Time start: 11/8/2023 1:01:20 PM	Latitude: 38.05640621607143	Longitude: -78.50285122785714	Speed: 21.953571	Device ID: b164
+Time end: 11/8/2023 1:01:21 PM		Latitude: 38.056424465	Longitude: -78.502874818	Speed: 20.87	Device ID: b164
+-
+Event 257:
+Time start: 11/14/2023 4:12:53 PM	Latitude: 38.0450988409	Longitude: -78.4796906	Speed: 9.643	Device ID: b164
+Time point 2: 11/14/2023 4:12:54 PM	Latitude: 38.0450821	Longitude: -78.4796906	Speed: 4	Device ID: b164
+Time point 3: 11/14/2023 4:12:55 PM	Latitude: 38.0450554	Longitude: -78.4797211	Speed: 7	Device ID: b164
+Time end: 11/14/2023 4:12:55 PM		Latitude: 38.045030653366666	Longitude: -78.47977798806667	Speed: 14.784	Device ID: b164
+-
+Event 257:
+Time start: 11/14/2023 4:25:19 PM	Latitude: 38.0396805	Longitude: -78.4856339	Speed: 1	Device ID: b164
+Time end: 11/14/2023 4:25:19 PM		Latitude: 38.039691029400004	Longitude: -78.4856254728	Speed: 2.748	Device ID: b164
+-
+Event 257:
+Time start: 11/14/2023 4:31:50 PM	Latitude: 38.05025058033333	Longitude: -78.52702917066667	Speed: 10.053333	Device ID: b164
+Time point 2: 11/14/2023 4:31:51 PM	Latitude: 38.050251	Longitude: -78.5270309	Speed: 10	Device ID: b164
+Time end: 11/14/2023 4:31:51 PM		Latitude: 38.050251	Longitude: -78.52703612485	Speed: 10.47725	Device ID: b164
+-
+Event 257:
+Time start: 11/16/2023 4:19:43 PM	Latitude: 38.057353550875	Longitude: -78.50472218899999	Speed: 31.978	Device ID: b164
+Time end: 11/16/2023 4:19:43 PM		Latitude: 38.057347163375006	Longitude: -78.50473248899999	Speed: 32.578	Device ID: b164
+-
+Event 257:
+Time start: 11/21/2023 2:42:53 PM	Latitude: 38.0567551	Longitude: -78.4892758931	Speed: 8.179	Device ID: b164
+Time point 2: 11/21/2023 2:42:54 PM	Latitude: 38.0567551	Longitude: -78.4892654	Speed: 7	Device ID: b164
+Time end: 11/21/2023 2:42:54 PM		Latitude: 38.0567551	Longitude: -78.48922850894999	Speed: 11.835	Device ID: b164
+-
+Event 257:
+Time start: 12/5/2023 3:11:57 PM	Latitude: 38.026758617333336	Longitude: -78.52966968599999	Speed: 8.603333	Device ID: b164
+Time end: 12/5/2023 3:11:57 PM		Latitude: 38.02675613733334	Longitude: -78.52966701599999	Speed: 7.9533334	Device ID: b164
+-
+Event 257:
+Time start: 12/14/2023 4:39:45 PM	Latitude: 38.10291238434	Longitude: -78.46001868358	Speed: 10.7817335	Device ID: b164
+Time point 2: 12/14/2023 4:39:46 PM	Latitude: 38.1028595	Longitude: -78.4600601	Speed: 8	Device ID: b164
+Time end: 12/14/2023 4:39:46 PM		Latitude: 38.1028466816	Longitude: -78.46007067560001	Speed: 9.596	Device ID: b164
+-
+Event 257:
+Time start: 12/20/2023 4:12:16 PM	Latitude: 38.029656050599996	Longitude: -78.80668745756667	Speed: 39.062	Device ID: b164
+Time end: 12/20/2023 4:12:17 PM		Latitude: 38.0296696854	Longitude: -78.8065764131	Speed: 43.658	Device ID: b164
+-
+Event 257:
+Time start: 12/21/2023 3:15:57 PM	Latitude: 37.956704604440006	Longitude: -78.65905400476	Speed: 16.1774	Device ID: b164
+Time end: 12/21/2023 3:15:57 PM		Latitude: 37.95669422764	Longitude: -78.65902235756	Speed: 18.1494	Device ID: b164
+-
+Event 257:
+Time start: 12/21/2023 4:39:14 PM	Latitude: 38.019516974075	Longitude: -78.53877619674999	Speed: 5.48675	Device ID: b164
+Time point 2: 12/21/2023 4:39:15 PM	Latitude: 38.0195312	Longitude: -78.5387497	Speed: 3	Device ID: b164
+Time point 3: 12/21/2023 4:39:16 PM	Latitude: 38.0195312	Longitude: -78.5387497	Speed: 5	Device ID: b164
+Time end: 12/21/2023 4:39:16 PM		Latitude: 38.0195574965	Longitude: -78.538705473	Speed: 9.23	Device ID: b164
+-
+Event 257:
+Time start: 1/8/2024 2:39:43 PM	Latitude: 38.0564232	Longitude: -78.503704848	Speed: 3.38	Device ID: b164
+Time end: 1/8/2024 2:39:43 PM		Latitude: 38.0564232	Longitude: -78.50370143993332	Speed: 3.8043334	Device ID: b164
+-
+Event 257:
+Time start: 1/22/2024 3:26:16 PM	Latitude: 38.045111505933335	Longitude: -78.4797243666	Speed: 11.735333	Device ID: b164
+Time end: 1/22/2024 3:26:17 PM		Latitude: 38.045092888733336	Longitude: -78.4797308814	Speed: 11.491333	Device ID: b164
+-
+Event 257:
+Time start: 1/23/2024 4:02:47 PM	Latitude: 37.8909187	Longitude: -78.8722458	Speed: 3.4354	Device ID: b164
+Time end: 1/23/2024 4:02:47 PM		Latitude: 37.8909187	Longitude: -78.8722458	Speed: 4.608	Device ID: b164
+-
+Event 257:
+Time start: 1/30/2024 12:59:05 PM	Latitude: 38.04669187574	Longitude: -78.52522957348	Speed: 26.2092	Device ID: b164
+Time end: 1/30/2024 12:59:05 PM		Latitude: 38.04674702106	Longitude: -78.52520926012001	Speed: 31.5348	Device ID: b164
+-
+Event 257:
+Time start: 1/30/2024 1:04:34 PM	Latitude: 38.045052129750005	Longitude: -78.47977503595	Speed: 7.9525	Device ID: b164
+Time end: 1/30/2024 1:04:34 PM		Latitude: 38.04504929725	Longitude: -78.47978216944999	Speed: 8.7775	Device ID: b164
+-
+Event 257:
+Time start: 1/30/2024 2:50:39 PM	Latitude: 38.04957294266667	Longitude: -78.52353979633334	Speed: 28.096666	Device ID: b164
+Time end: 1/30/2024 2:50:39 PM		Latitude: 38.04958668133334	Longitude: -78.52353804066666	Speed: 30.473333	Device ID: b164
+-
+Event 257:
+Time start: 1/30/2024 4:16:26 PM	Latitude: 38.07146578	Longitude: -78.499226072	Speed: 18.72	Device ID: b164
+Time end: 1/30/2024 4:16:26 PM		Latitude: 38.07146323933333	Longitude: -78.4992254134	Speed: 18.300667	Device ID: b164
+-

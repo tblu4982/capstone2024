@@ -1,0 +1,548 @@
+Event 193:
+Time start: 12/5/2019 1:02:08 PM	Latitude: 38.0327682	Longitude: -78.50109796395	Speed: 2.79625	Device ID: bCC
+Time end: 12/5/2019 1:02:08 PM		Latitude: 38.0327682	Longitude: -78.501095334	Speed: 2.55	Device ID: bCC
+-
+Event 193:
+Time start: 12/5/2019 5:26:51 PM	Latitude: 38.034119368625	Longitude: -78.5087746016125	Speed: 14.78675	Device ID: bCC
+Time end: 12/5/2019 5:26:51 PM		Latitude: 38.034122767625	Longitude: -78.5087771195125	Speed: 15.38075	Device ID: bCC
+-
+Event 193:
+Time start: 12/5/2019 5:26:52 PM	Latitude: 38.034130621375	Longitude: -78.50878293738751	Speed: 16.75325	Device ID: bCC
+Time end: 12/5/2019 5:26:52 PM		Latitude: 38.034133968875004	Longitude: -78.5087854171375	Speed: 17.33825	Device ID: bCC
+-
+Event 193:
+Time start: 3/3/2020 4:20:12 PM	Latitude: 38.0391640353	Longitude: -78.5057562846	Speed: 2.759	Device ID: bCC
+Time end: 3/3/2020 4:20:12 PM		Latitude: 38.039163017966665	Longitude: -78.5057569966	Speed: 2.9056666	Device ID: bCC
+-
+Event 193:
+Time start: 5/5/2020 6:19:34 PM	Latitude: 38.02418163158333	Longitude: -78.52405852293333	Speed: 17.968666	Device ID: bCC
+Time end: 5/5/2020 6:19:35 PM		Latitude: 38.02422711991667	Longitude: -78.52404232026666	Speed: 17.315332	Device ID: bCC
+-
+Event 193:
+Time start: 5/5/2020 6:24:32 PM	Latitude: 38.056523921	Longitude: -78.50331048	Speed: 36.59	Device ID: bCC
+Time end: 5/5/2020 6:24:32 PM		Latitude: 38.05654730695	Longitude: -78.503247341	Speed: 29.5405	Device ID: bCC
+-
+Event 193:
+Time start: 5/5/2020 6:30:10 PM	Latitude: 38.08675748735715	Longitude: -78.47625041085713	Speed: 33.832428	Device ID: bCC
+Time point 2: 5/5/2020 6:30:12 PM	Latitude: 38.0868874	Longitude: -78.4761887	Speed: 28	Device ID: bCC
+Time end: 5/5/2020 6:30:12 PM		Latitude: 38.0868874	Longitude: -78.47617781633333	Speed: 26.520666	Device ID: bCC
+-
+Event 193:
+Time start: 7/6/2020 11:10:02 AM	Latitude: 38.02402632395092	Longitude: -78.52390738754245	Speed: 10.588255	Device ID: bCC
+Time end: 7/6/2020 11:10:02 AM		Latitude: 38.02402719337132	Longitude: -78.52390769178263	Speed: 10.628137	Device ID: bCC
+-
+Event 193:
+Time start: 8/24/2020 7:28:40 PM	Latitude: 38.032871993600004	Longitude: -78.5010923424	Speed: 7.888	Device ID: bCC
+Time end: 8/24/2020 7:28:40 PM		Latitude: 38.03287132896	Longitude: -78.50109121814	Speed: 7.9818	Device ID: bCC
+-
+Event 193:
+Time start: 9/21/2020 11:50:16 AM	Latitude: 38.0268738983	Longitude: -78.5275667426	Speed: 32.121	Device ID: bCC
+Time point 2: 9/21/2020 11:50:17 AM	Latitude: 38.0268784	Longitude: -78.5275879	Speed: 31	Device ID: bCC
+Time end: 9/21/2020 11:50:17 AM		Latitude: 38.026890554	Longitude: -78.5275969034	Speed: 31.236	Device ID: bCC
+-
+Event 193:
+Time start: 11/9/2020 8:35:12 PM	Latitude: 38.02644457944286	Longitude: -78.52458794590001	Speed: 19.353144	Device ID: bCC
+Time end: 11/9/2020 8:35:12 PM		Latitude: 38.0264445413	Longitude: -78.5245882729	Speed: 19.376	Device ID: bCC
+-
+Event 193:
+Time start: 11/17/2020 11:03:44 AM	Latitude: 38.0328254629	Longitude: -78.5011291629	Speed: 8.852	Device ID: bCC
+Time end: 11/17/2020 11:03:44 AM		Latitude: 38.032825089099994	Longitude: -78.5011287891	Speed: 8.908	Device ID: bCC
+-
+Event 193:
+Time start: 11/17/2020 2:49:22 PM	Latitude: 38.03921492129375	Longitude: -78.50575072349687	Speed: 7.366125	Device ID: bCC
+Time end: 11/17/2020 2:49:22 PM		Latitude: 38.039214486393746	Longitude: -78.50575106684687	Speed: 7.360125	Device ID: bCC
+-
+Event 193:
+Time start: 11/23/2020 4:14:55 PM	Latitude: 38.030338080363634	Longitude: -78.5032425	Speed: 16	Device ID: bCC
+Time end: 11/23/2020 4:14:55 PM		Latitude: 38.03033845490909	Longitude: -78.5032425	Speed: 16	Device ID: bCC
+-
+Event 193:
+Time start: 1/8/2021 2:29:31 PM	Latitude: 38.049094188024995	Longitude: -78.502815544125	Speed: 17.5695	Device ID: bCC
+Time end: 1/8/2021 2:29:31 PM		Latitude: 38.049120455475	Longitude: -78.502789833375	Speed: 13.7605	Device ID: bCC
+-
+Event 193:
+Time start: 1/8/2021 7:28:47 PM	Latitude: 38.0327415	Longitude: -78.5009918	Speed: 8.3938	Device ID: bCC
+Time end: 1/8/2021 7:28:47 PM		Latitude: 38.0327415	Longitude: -78.5009918	Speed: 8.7298	Device ID: bCC
+-
+Event 193:
+Time start: 2/10/2021 1:35:07 PM	Latitude: 37.5642176479	Longitude: -77.4468533015	Speed: 18.188334	Device ID: bCC
+Time end: 2/10/2021 1:35:07 PM		Latitude: 37.5642187669	Longitude: -77.4468527165	Speed: 18.071667	Device ID: bCC
+-
+Event 193:
+Time start: 2/10/2021 1:35:07 PM	Latitude: 37.5642404009	Longitude: -77.4468414065	Speed: 15.816112	Device ID: bCC
+Time end: 2/10/2021 1:35:08 PM		Latitude: 37.5642450261	Longitude: -77.4468389885	Speed: 15.333889	Device ID: bCC
+-
+Event 193:
+Time start: 2/11/2021 1:57:56 PM	Latitude: 37.58473014978	Longitude: -77.44743323181001	Speed: 29.5471	Device ID: bCC
+Time end: 2/11/2021 1:57:56 PM		Latitude: 37.584689941019995	Longitude: -77.44742848479001	Speed: 28.5589	Device ID: bCC
+-
+Event 193:
+Time start: 3/17/2021 1:14:18 PM	Latitude: 38.03229803425	Longitude: -78.50096653625	Speed: 14.0075	Device ID: bCC
+Time end: 3/17/2021 1:14:18 PM		Latitude: 38.032298208775	Longitude: -78.500966513375	Speed: 14.01725	Device ID: bCC
+-
+Event 193:
+Time start: 3/24/2021 10:15:28 AM	Latitude: 38.032325763799996	Longitude: -78.50105174939999	Speed: 29.287	Device ID: bCC
+Time point 2: 3/24/2021 10:15:29 AM	Latitude: 38.0323334	Longitude: -78.5010452	Speed: 28	Device ID: bCC
+Time end: 3/24/2021 10:15:29 AM		Latitude: 38.0323424034	Longitude: -78.50103889879999	Speed: 27.882	Device ID: bCC
+-
+Event 193:
+Time start: 4/13/2021 5:13:48 PM	Latitude: 38.02655869873333	Longitude: -78.52776836523334	Speed: 43.587334	Device ID: bCC
+Time end: 4/13/2021 5:13:48 PM		Latitude: 38.02663830793333	Longitude: -78.52769779143334	Speed: 40.479332	Device ID: bCC
+-
+Event 193:
+Time start: 4/16/2021 10:10:34 AM	Latitude: 38.0324036	Longitude: -78.50099486	Speed: 26.4	Device ID: bCC
+Time end: 4/16/2021 10:10:34 AM		Latitude: 38.0324065355	Longitude: -78.5009920328	Speed: 26.172	Device ID: bCC
+-
+Event 193:
+Time start: 5/13/2021 6:30:13 PM	Latitude: 38.0853304289	Longitude: -78.4745625578	Speed: 21.068	Device ID: bCC
+Time point 2: 5/13/2021 6:30:14 PM	Latitude: 38.0853233	Longitude: -78.4745483	Speed: 20	Device ID: bCC
+Time end: 5/13/2021 6:30:14 PM		Latitude: 38.08529837533333	Longitude: -78.47456574399999	Speed: 19.346666	Device ID: bCC
+-
+Event 193:
+Time start: 5/13/2021 6:30:53 PM	Latitude: 38.0852737	Longitude: -78.4745589943	Speed: 6.396	Device ID: bCC
+Time end: 5/13/2021 6:30:53 PM		Latitude: 38.0852737	Longitude: -78.474553567	Speed: 9.24	Device ID: bCC
+-
+Event 193:
+Time start: 5/13/2021 8:30:43 PM	Latitude: 38.046922837320004	Longitude: -78.5043111844	Speed: 26.7476	Device ID: bCC
+Time end: 5/13/2021 8:30:43 PM		Latitude: 38.0468621788	Longitude: -78.504341796	Speed: 22.884	Device ID: bCC
+-
+Event 193:
+Time start: 5/13/2021 8:35:12 PM	Latitude: 38.036166021583334	Longitude: -78.51416138895	Speed: 23.009666	Device ID: bCC
+Time point 2: 5/13/2021 8:35:13 PM	Latitude: 38.0361481	Longitude: -78.5141525	Speed: 22	Device ID: bCC
+Time end: 5/13/2021 8:35:13 PM		Latitude: 38.0361026255	Longitude: -78.51418618644999	Speed: 22	Device ID: bCC
+-
+Event 193:
+Time start: 5/27/2021 10:10:27 AM	Latitude: 38.02501639263333	Longitude: -78.52447335476667	Speed: 13.909333	Device ID: bCC
+Time end: 5/27/2021 10:10:27 AM		Latitude: 38.0250182747	Longitude: -78.5244727899	Speed: 14.304	Device ID: bCC
+-
+Event 193:
+Time start: 6/8/2021 10:01:12 AM	Latitude: 38.031737157066665	Longitude: -78.5077779309	Speed: 38.735332	Device ID: bCC
+Time end: 6/8/2021 10:01:12 AM		Latitude: 38.03177244382222	Longitude: -78.5077601461	Speed: 37.43578	Device ID: bCC
+-
+Event 193:
+Time start: 6/10/2021 7:29:06 PM	Latitude: 38.027146701666666	Longitude: -78.520832095	Speed: 33.933334	Device ID: bCC
+Time end: 6/10/2021 7:29:06 PM		Latitude: 38.02714637103333	Longitude: -78.5208330869	Speed: 33.898666	Device ID: bCC
+-
+Event 193:
+Time start: 6/15/2021 11:52:22 AM	Latitude: 38.0328178	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+Time end: 6/15/2021 11:52:23 AM		Latitude: 38.0328178	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 6/25/2021 4:36:31 AM	Latitude: 38.0239105	Longitude: -78.52388	Speed: 0	Device ID: bCC
+Time end: 6/25/2021 4:36:33 AM		Latitude: 38.0239105	Longitude: -78.52388	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 7/2/2021 7:24:53 PM	Latitude: 38.032795	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+Time end: 7/2/2021 7:24:54 PM		Latitude: 38.032795	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 7/7/2021 10:18:53 AM	Latitude: 38.032341880333334	Longitude: -78.50113623253334	Speed: 6.729	Device ID: bCC
+Time end: 7/7/2021 10:18:53 AM		Latitude: 38.032342326666665	Longitude: -78.50113580266667	Speed: 6.82	Device ID: bCC
+-
+Event 193:
+Time start: 7/7/2021 1:21:11 PM	Latitude: 38.032407775425	Longitude: -78.50087979759999	Speed: 15.815	Device ID: bCC
+Time end: 7/7/2021 1:21:11 PM		Latitude: 38.032408404925	Longitude: -78.5008793016	Speed: 15.915	Device ID: bCC
+-
+Event 193:
+Time start: 7/27/2021 10:43:37 AM	Latitude: 38.0308495	Longitude: -78.50468394168	Speed: 19.3596	Device ID: bCC
+Time end: 7/27/2021 10:43:37 AM		Latitude: 38.0308495	Longitude: -78.50468858072	Speed: 19.2684	Device ID: bCC
+-
+Event 193:
+Time start: 8/6/2021 10:16:04 AM	Latitude: 38.03227263	Longitude: -78.5010745755	Speed: 25.54	Device ID: bCC
+Time end: 8/6/2021 10:16:04 AM		Latitude: 38.0322807155	Longitude: -78.50106559117499	Speed: 25.069	Device ID: bCC
+-
+Event 193:
+Time start: 8/9/2021 7:06:41 PM	Latitude: 38.03233449903333	Longitude: -78.50095254636668	Speed: 10.643666	Device ID: bCC
+Time end: 8/9/2021 7:06:41 PM		Latitude: 38.03233553663333	Longitude: -78.50095193596667	Speed: 10.779667	Device ID: bCC
+-
+Event 193:
+Time start: 8/30/2021 3:04:48 PM	Latitude: 38.0368118	Longitude: -78.5070877	Speed: 0	Device ID: bCC
+Time end: 8/30/2021 3:04:49 PM		Latitude: 38.0368118	Longitude: -78.5070877	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 9/15/2021 11:29:43 AM	Latitude: 38.05025000766667	Longitude: -78.50293300133333	Speed: 17.393333	Device ID: bCC
+Time end: 9/15/2021 11:29:43 AM		Latitude: 38.0502501069	Longitude: -78.5029334312	Speed: 17.454	Device ID: bCC
+-
+Event 193:
+Time start: 9/16/2021 8:01:45 PM	Latitude: 38.03285232075	Longitude: -78.50105676037501	Speed: 3.85875	Device ID: bCC
+Time end: 9/16/2021 8:01:46 PM		Latitude: 38.032844366475	Longitude: -78.5010527832375	Speed: 3.493875	Device ID: bCC
+-
+Event 193:
+Time start: 9/16/2021 8:08:21 PM	Latitude: 38.02419393478	Longitude: -78.52391987384	Speed: 27.479	Device ID: bCC
+Time end: 9/16/2021 8:08:21 PM		Latitude: 38.024174738380005	Longitude: -78.52389237464	Speed: 26.459	Device ID: bCC
+-
+Event 193:
+Time start: 9/20/2021 10:14:03 AM	Latitude: 38.02413467756667	Longitude: -78.52391141106668	Speed: 19.264555	Device ID: bCC
+Time end: 9/20/2021 10:14:03 AM		Latitude: 38.0241364341	Longitude: -78.52391207560001	Speed: 19.407667	Device ID: bCC
+-
+Event 193:
+Time start: 9/20/2021 10:18:27 AM	Latitude: 38.0323156895	Longitude: -78.5009988303	Speed: 23.307	Device ID: bCC
+Time end: 9/20/2021 10:18:27 AM		Latitude: 38.032331345500005	Longitude: -78.5009918687	Speed: 23.003	Device ID: bCC
+-
+Event 193:
+Time start: 9/20/2021 6:26:55 PM	Latitude: 38.0464133564	Longitude: -78.50995235315999	Speed: 22.7174	Device ID: bCC
+Time point 2: 9/20/2021 6:26:56 PM	Latitude: 38.0463867	Longitude: -78.509903	Speed: 20	Device ID: bCC
+Time end: 9/20/2021 6:26:56 PM		Latitude: 38.04638189325	Longitude: -78.50990568875	Speed: 20.195	Device ID: bCC
+-
+Event 193:
+Time start: 9/20/2021 7:36:03 PM	Latitude: 38.03192967464	Longitude: -78.50769276682	Speed: 14.3416	Device ID: bCC
+Time end: 9/20/2021 7:36:03 PM		Latitude: 38.03192762984	Longitude: -78.50769380442	Speed: 14.6296	Device ID: bCC
+-
+Event 193:
+Time start: 9/21/2021 10:18:26 AM	Latitude: 38.0323314947	Longitude: -78.50100249627499	Speed: 17.96325	Device ID: bCC
+Time end: 9/21/2021 10:18:26 AM		Latitude: 38.0323346227	Longitude: -78.500999902275	Speed: 18.14325	Device ID: bCC
+-
+Event 193:
+Time start: 9/21/2021 4:56:19 PM	Latitude: 38.03238498	Longitude: -78.501005524	Speed: 22.08	Device ID: bCC
+Time end: 9/21/2021 4:56:19 PM		Latitude: 38.03238772666667	Longitude: -78.50100145466666	Speed: 21.626667	Device ID: bCC
+-
+Event 193:
+Time start: 9/22/2021 10:10:55 AM	Latitude: 38.02498390155	Longitude: -78.5245209	Speed: 11.7775	Device ID: bCC
+Time end: 9/22/2021 10:10:55 AM		Latitude: 38.02499191305	Longitude: -78.5245209	Speed: 13.3525	Device ID: bCC
+-
+Event 193:
+Time start: 9/22/2021 10:14:53 AM	Latitude: 38.0319051681	Longitude: -78.5076249183	Speed: 20.839	Device ID: bCC
+Time end: 9/22/2021 10:14:54 AM		Latitude: 38.0319064271	Longitude: -78.50762415530001	Speed: 21.049	Device ID: bCC
+-
+Event 193:
+Time start: 9/22/2021 3:14:50 PM	Latitude: 38.04644538914285	Longitude: -78.50953528542857	Speed: 20.924286	Device ID: bCC
+Time end: 9/22/2021 3:14:50 PM		Latitude: 38.046450466742854	Longitude: -78.50953251562858	Speed: 21.177286	Device ID: bCC
+-
+Event 193:
+Time start: 9/22/2021 3:41:07 PM	Latitude: 38.038836530000005	Longitude: -78.51524450266668	Speed: 44	Device ID: bCC
+Time end: 9/22/2021 3:41:07 PM		Latitude: 38.0387943	Longitude: -78.51525806000001	Speed: 44	Device ID: bCC
+-
+Event 193:
+Time start: 9/22/2021 3:41:26 PM	Latitude: 38.0368796516	Longitude: -78.51460582645	Speed: 22.576	Device ID: bCC
+Time point 2: 9/22/2021 3:41:27 PM	Latitude: 38.0368385	Longitude: -78.5145874	Speed: 20	Device ID: bCC
+Time end: 9/22/2021 3:41:28 PM		Latitude: 38.03680399755714	Longitude: -78.51470045178571	Speed: 22.886429	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 10:15:38 AM	Latitude: 38.02399023355556	Longitude: -78.5238495	Speed: 10.331889	Device ID: bCC
+Time end: 9/23/2021 10:15:40 AM		Latitude: 38.02401737977778	Longitude: -78.5238495	Speed: 11.781445	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 10:20:25 AM	Latitude: 38.032324625499996	Longitude: -78.50098644900001	Speed: 19.3	Device ID: bCC
+Time end: 9/23/2021 10:20:25 AM		Latitude: 38.03232664745	Longitude: -78.5009824051	Speed: 18.77	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 2:11:47 PM	Latitude: 38.049241929666664	Longitude: -78.50277067756667	Speed: 12.365666	Device ID: bCC
+Time end: 9/23/2021 2:11:47 PM		Latitude: 38.04924217	Longitude: -78.502770731	Speed: 12.41	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 2:13:33 PM	Latitude: 38.04791376036667	Longitude: -78.50397996036666	Speed: 11.252334	Device ID: bCC
+Time point 2: 9/23/2021 2:13:35 PM	Latitude: 38.0478706	Longitude: -78.5039368	Speed: 22	Device ID: bCC
+Time end: 9/23/2021 2:13:35 PM		Latitude: 38.047866633000005	Longitude: -78.5039383255	Speed: 22.155	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 2:17:51 PM	Latitude: 38.0463492825	Longitude: -78.50982490325	Speed: 12.8275	Device ID: bCC
+Time end: 9/23/2021 2:17:51 PM		Latitude: 38.04633787525	Longitude: -78.50981645302501	Speed: 14.93175	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 2:18:13 PM	Latitude: 38.044712924820004	Longitude: -78.51092989824001	Speed: 19.4456	Device ID: bCC
+Time end: 9/23/2021 2:18:13 PM		Latitude: 38.044709964380004	Longitude: -78.51093759616	Speed: 19.2904	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 5:13:20 PM	Latitude: 38.0329536309875	Longitude: -78.5011102655375	Speed: 0.229625	Device ID: bCC
+Time end: 9/23/2021 5:13:20 PM		Latitude: 38.0329516385	Longitude: -78.50110400450001	Speed: 0.155	Device ID: bCC
+-
+Event 193:
+Time start: 9/23/2021 7:09:25 PM	Latitude: 38.0327415	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+Time end: 9/23/2021 7:09:26 PM		Latitude: 38.0327415	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 9/24/2021 10:14:33 AM	Latitude: 38.023998149625	Longitude: -78.523896402125	Speed: 16.60875	Device ID: bCC
+Time end: 9/24/2021 10:14:34 AM		Latitude: 38.0240155174125	Longitude: -78.52389813966249	Speed: 18.050375	Device ID: bCC
+-
+Event 193:
+Time start: 9/24/2021 5:25:45 PM	Latitude: 38.02513651035	Longitude: -78.52457595675	Speed: 15.751	Device ID: bCC
+Time end: 9/24/2021 5:25:45 PM		Latitude: 38.02512649785	Longitude: -78.52457214425	Speed: 17.501	Device ID: bCC
+-
+Event 193:
+Time start: 9/24/2021 5:25:50 PM	Latitude: 38.02490262933333	Longitude: -78.524676704	Speed: 22.746666	Device ID: bCC
+Time end: 9/24/2021 5:25:51 PM		Latitude: 38.0248205814	Longitude: -78.52471977110001	Speed: 23.822	Device ID: bCC
+-
+Event 193:
+Time start: 9/27/2021 10:27:15 AM	Latitude: 38.0239868	Longitude: -78.5239563	Speed: 16.10075	Device ID: bCC
+Time end: 9/27/2021 10:27:15 AM		Latitude: 38.0239868	Longitude: -78.5239563	Speed: 17.21675	Device ID: bCC
+-
+Event 193:
+Time start: 9/27/2021 7:28:21 PM	Latitude: 38.0327187	Longitude: -78.5010681	Speed: 1.507	Device ID: bCC
+Time end: 9/27/2021 7:28:22 PM		Latitude: 38.0327187	Longitude: -78.5010681	Speed: 0.903	Device ID: bCC
+-
+Event 193:
+Time start: 9/27/2021 7:33:59 PM	Latitude: 38.025116652	Longitude: -78.524534076	Speed: 11.512	Device ID: bCC
+Time end: 9/27/2021 7:34:00 PM		Latitude: 38.025068860000005	Longitude: -78.52456238	Speed: 14.76	Device ID: bCC
+-
+Event 193:
+Time start: 9/28/2021 10:10:58 AM	Latitude: 38.0239601	Longitude: -78.5239563	Speed: 18.557142	Device ID: bCC
+Time end: 9/28/2021 10:10:58 AM		Latitude: 38.0239601	Longitude: -78.5239563	Speed: 18.842142	Device ID: bCC
+-
+Event 193:
+Time start: 9/28/2021 1:52:49 PM	Latitude: 38.04642417345	Longitude: -78.50984513995	Speed: 7.772	Device ID: bCC
+Time point 2: 9/28/2021 1:52:50 PM	Latitude: 38.0464134	Longitude: -78.5098267	Speed: 11	Device ID: bCC
+Time end: 9/28/2021 1:52:50 PM		Latitude: 38.04640010715	Longitude: -78.50983354135	Speed: 11.897	Device ID: bCC
+-
+Event 193:
+Time start: 9/28/2021 5:00:54 PM	Latitude: 38.045821413300004	Longitude: -78.5192679859	Speed: 16.225	Device ID: bCC
+Time point 2: 9/28/2021 5:00:55 PM	Latitude: 38.0458221	Longitude: -78.5192719	Speed: 16	Device ID: bCC
+Time end: 9/28/2021 5:00:55 PM		Latitude: 38.04581896114286	Longitude: -78.5192727717143	Speed: 16.011429	Device ID: bCC
+-
+Event 193:
+Time start: 9/28/2021 6:32:05 PM	Latitude: 38.032795	Longitude: -78.501091	Speed: 0	Device ID: bCC
+Time end: 9/28/2021 6:32:06 PM		Latitude: 38.032795	Longitude: -78.501091	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 9/28/2021 6:41:32 PM	Latitude: 38.03407646	Longitude: -78.50873769333333	Speed: 11.066667	Device ID: bCC
+Time end: 9/28/2021 6:41:33 PM		Latitude: 38.0340894807	Longitude: -78.50880094370001	Speed: 14.968	Device ID: bCC
+-
+Event 193:
+Time start: 9/28/2021 7:37:08 PM	Latitude: 38.0251350967	Longitude: -78.5244808824	Speed: 13.75475	Device ID: bCC
+Time end: 9/28/2021 7:37:08 PM		Latitude: 38.0251257127	Longitude: -78.5244868344	Speed: 14.53475	Device ID: bCC
+-
+Event 193:
+Time start: 9/29/2021 10:09:04 AM	Latitude: 38.0239868	Longitude: -78.5239029	Speed: 10.458285	Device ID: bCC
+Time end: 9/29/2021 10:09:04 AM		Latitude: 38.0239868	Longitude: -78.5239029	Speed: 11.051429	Device ID: bCC
+-
+Event 193:
+Time start: 9/29/2021 10:13:15 AM	Latitude: 38.0323174833	Longitude: -78.5008868312	Speed: 23.688	Device ID: bCC
+Time end: 9/29/2021 10:13:15 AM		Latitude: 38.03232094196667	Longitude: -78.50088418586667	Speed: 23.474667	Device ID: bCC
+-
+Event 193:
+Time start: 9/29/2021 5:20:53 PM	Latitude: 38.03580959082949	Longitude: -78.50778194980151	Speed: 0	Device ID: bCC
+Time end: 9/29/2021 5:20:54 PM		Latitude: 38.0358095646081	Longitude: -78.5077819797548	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 9/30/2021 4:23:05 PM	Latitude: 38.0499219687	Longitude: -78.51274628005	Speed: 34.6185	Device ID: bCC
+Time end: 9/30/2021 4:23:06 PM		Latitude: 38.0500040163	Longitude: -78.51282954745	Speed: 27.5565	Device ID: bCC
+-
+Event 193:
+Time start: 9/30/2021 4:24:05 PM	Latitude: 38.052294510066666	Longitude: -78.50820178436668	Speed: 26.369	Device ID: bCC
+Time end: 9/30/2021 4:24:05 PM		Latitude: 38.0522970534	Longitude: -78.5081996227	Speed: 26.219	Device ID: bCC
+-
+Event 193:
+Time start: 10/1/2021 10:14:32 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 15.532643	Device ID: bCC
+Time end: 10/1/2021 10:14:32 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 16.452356	Device ID: bCC
+-
+Event 193:
+Time start: 10/1/2021 10:15:09 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 24.700142	Device ID: bCC
+Time end: 10/1/2021 10:15:09 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 25.578571	Device ID: bCC
+-
+Event 193:
+Time start: 10/1/2021 3:16:41 PM	Latitude: 38.032795	Longitude: -78.5011215	Speed: 7.755	Device ID: bCC
+Time point 2: 10/1/2021 3:16:42 PM	Latitude: 38.032795	Longitude: -78.5011215	Speed: 8	Device ID: bCC
+Time end: 10/1/2021 3:16:42 PM		Latitude: 38.032795	Longitude: -78.5011215	Speed: 6.5866666	Device ID: bCC
+-
+Event 193:
+Time start: 10/1/2021 3:39:18 PM	Latitude: 38.0340729	Longitude: -78.50885917800001	Speed: 12.3	Device ID: bCC
+Time point 2: 10/1/2021 3:39:19 PM	Latitude: 38.0340729	Longitude: -78.5088501	Speed: 14	Device ID: bCC
+Time end: 10/1/2021 3:39:19 PM		Latitude: 38.03406948777778	Longitude: -78.50885082055557	Speed: 14.15	Device ID: bCC
+-
+Event 193:
+Time start: 10/1/2021 3:39:19 PM	Latitude: 38.034046284666665	Longitude: -78.50885572033334	Speed: 15.17	Device ID: bCC
+Time end: 10/1/2021 3:39:19 PM		Latitude: 38.03402308155555	Longitude: -78.50886062011112	Speed: 16.19	Device ID: bCC
+-
+Event 193:
+Time start: 10/1/2021 3:39:20 PM	Latitude: 38.03399694393333	Longitude: -78.50886613956668	Speed: 17.339	Device ID: bCC
+Time end: 10/1/2021 3:39:20 PM		Latitude: 38.03399510133333	Longitude: -78.50886652866667	Speed: 17.42	Device ID: bCC
+-
+Event 193:
+Time start: 10/1/2021 7:28:22 PM	Latitude: 38.032795	Longitude: -78.501091	Speed: 6.892	Device ID: bCC
+Time end: 10/1/2021 7:28:23 PM		Latitude: 38.032795	Longitude: -78.501091	Speed: 2.652	Device ID: bCC
+-
+Event 193:
+Time start: 10/4/2021 10:07:28 AM	Latitude: 38.0240135	Longitude: -78.5239334	Speed: 15.308758	Device ID: bCC
+Time point 2: 10/4/2021 10:07:29 AM	Latitude: 38.0240135	Longitude: -78.5239334	Speed: 17	Device ID: bCC
+Time end: 10/4/2021 10:07:29 AM		Latitude: 38.0240135	Longitude: -78.5239334	Speed: 17.74383	Device ID: bCC
+-
+Event 193:
+Time start: 10/4/2021 10:11:59 AM	Latitude: 38.03223180166666	Longitude: -78.50102866833333	Speed: 27.75	Device ID: bCC
+Time end: 10/4/2021 10:11:59 AM		Latitude: 38.032233098666666	Longitude: -78.50102790533333	Speed: 27.6	Device ID: bCC
+-
+Event 193:
+Time start: 10/4/2021 7:33:55 PM	Latitude: 38.026512034125005	Longitude: -78.52445574215	Speed: 22.177	Device ID: bCC
+Time end: 10/4/2021 7:33:55 PM		Latitude: 38.026511156625006	Longitude: -78.52445700115	Speed: 22.197	Device ID: bCC
+-
+Event 193:
+Time start: 10/5/2021 9:26:18 AM	Latitude: 38.0240402	Longitude: -78.5239334	Speed: 21.716333	Device ID: bCC
+Time end: 10/5/2021 9:26:18 AM		Latitude: 38.0240402	Longitude: -78.5239334	Speed: 23.280333	Device ID: bCC
+-
+Event 193:
+Time start: 10/5/2021 4:39:13 PM	Latitude: 38.025098188950004	Longitude: -78.52460109497501	Speed: 17.301	Device ID: bCC
+Time end: 10/5/2021 4:39:13 PM		Latitude: 38.02509605255	Longitude: -78.524602910775	Speed: 17.469	Device ID: bCC
+-
+Event 193:
+Time start: 10/5/2021 4:39:32 PM	Latitude: 38.024224946375	Longitude: -78.5239029	Speed: 20.3225	Device ID: bCC
+Time end: 10/5/2021 4:39:33 PM		Latitude: 38.02419719225	Longitude: -78.5239029	Speed: 17.655	Device ID: bCC
+-
+Event 193:
+Time start: 10/5/2021 6:06:04 PM	Latitude: 38.026252293	Longitude: -78.524457581	Speed: 31.9	Device ID: bCC
+Time end: 10/5/2021 6:06:05 PM		Latitude: 38.02631179584286	Longitude: -78.5244296879	Speed: 30.681429	Device ID: bCC
+-
+Event 193:
+Time start: 10/5/2021 6:11:37 PM	Latitude: 38.0323967369	Longitude: -78.5009466967	Speed: 12.529	Device ID: bCC
+Time end: 10/5/2021 6:11:38 PM		Latitude: 38.03240848756666	Longitude: -78.50093957536667	Speed: 14.302333	Device ID: bCC
+-
+Event 193:
+Time start: 10/5/2021 8:29:46 PM	Latitude: 38.024955604333336	Longitude: -78.524591976	Speed: 20.923334	Device ID: bCC
+Time end: 10/5/2021 8:29:47 PM		Latitude: 38.02491928833334	Longitude: -78.52462188	Speed: 17.283333	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:03:52 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 0	Device ID: bCC
+Time end: 10/6/2021 9:03:53 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:27:24 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 16.6276	Device ID: bCC
+Time end: 10/6/2021 9:27:24 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 16.7764	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:27:32 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 13.738	Device ID: bCC
+Time end: 10/6/2021 9:27:32 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 14.278	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:27:33 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 16.978	Device ID: bCC
+Time end: 10/6/2021 9:27:33 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 17.518	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:27:40 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 21.4195	Device ID: bCC
+Time end: 10/6/2021 9:27:40 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 20.5355	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:27:44 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 25.12	Device ID: bCC
+Time point 2: 10/6/2021 9:27:47 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 17	Device ID: bCC
+Time end: 10/6/2021 9:27:47 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 17.053667	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:27:51 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 21.811586	Device ID: bCC
+Time end: 10/6/2021 9:27:52 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 21.19485	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:27:53 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 20.076067	Device ID: bCC
+Time end: 10/6/2021 9:27:54 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 18.68695	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:28:38 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 18.25325	Device ID: bCC
+Time end: 10/6/2021 9:28:38 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 19.10825	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 9:29:07 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 22.1	Device ID: bCC
+Time point 2: 10/6/2021 9:29:08 AM	Latitude: 38.0239105	Longitude: -78.5239029	Speed: 24	Device ID: bCC
+Time end: 10/6/2021 9:29:08 AM		Latitude: 38.0239105	Longitude: -78.5239029	Speed: 25.4392	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 8:02:38 PM	Latitude: 38.026157547025	Longitude: -78.5245081641	Speed: 39.569	Device ID: bCC
+Time end: 10/6/2021 8:02:38 PM		Latitude: 38.02612604875	Longitude: -78.524516895	Speed: 40.55	Device ID: bCC
+-
+Event 193:
+Time start: 10/6/2021 8:03:24 PM	Latitude: 38.024203410700004	Longitude: -78.5237124855	Speed: 12.022	Device ID: bCC
+Time end: 10/6/2021 8:03:24 PM		Latitude: 38.0242005113	Longitude: -78.5237136445	Speed: 12.098	Device ID: bCC
+-
+Event 193:
+Time start: 10/7/2021 9:26:31 AM	Latitude: 38.0241394	Longitude: -78.523674	Speed: 10.64225	Device ID: bCC
+Time end: 10/7/2021 9:26:32 AM		Latitude: 38.0241394	Longitude: -78.523674	Speed: 11.36475	Device ID: bCC
+-
+Event 193:
+Time start: 10/7/2021 4:34:50 PM	Latitude: 38.03400016445	Longitude: -78.5087809289	Speed: 13.2645	Device ID: bCC
+Time point 2: 10/7/2021 4:34:51 PM	Latitude: 38.0339966	Longitude: -78.5087738	Speed: 15	Device ID: bCC
+Time end: 10/7/2021 4:34:51 PM		Latitude: 38.033993014	Longitude: -78.508774792	Speed: 15.27	Device ID: bCC
+-
+Event 193:
+Time start: 10/7/2021 4:34:51 PM	Latitude: 38.0339521336	Longitude: -78.5087861008	Speed: 18.348	Device ID: bCC
+Time end: 10/7/2021 4:34:51 PM		Latitude: 38.033944244400004	Longitude: -78.5087882832	Speed: 18.942	Device ID: bCC
+-
+Event 193:
+Time start: 10/13/2021 6:22:42 PM	Latitude: 38.034009496100005	Longitude: -78.5088611607	Speed: 11.585	Device ID: bCC
+Time end: 10/13/2021 6:22:42 PM		Latitude: 38.034006212	Longitude: -78.508858344	Speed: 12.2	Device ID: bCC
+-
+Event 193:
+Time start: 10/14/2021 2:27:25 PM	Latitude: 38.03382712244	Longitude: -78.51423289568001	Speed: 24.4424	Device ID: bCC
+Time end: 10/14/2021 2:27:25 PM		Latitude: 38.03381705084	Longitude: -78.51425354048	Speed: 24.7064	Device ID: bCC
+-
+Event 193:
+Time start: 10/18/2021 6:35:43 PM	Latitude: 38.034017639775	Longitude: -78.50875538267499	Speed: 22.698	Device ID: bCC
+Time end: 10/18/2021 6:35:43 PM		Latitude: 38.034067042275	Longitude: -78.508751375175	Speed: 18.498	Device ID: bCC
+-
+Event 193:
+Time start: 10/18/2021 6:35:44 PM	Latitude: 38.0340888399	Longitude: -78.5087782426	Speed: 16.806	Device ID: bCC
+Time end: 10/18/2021 6:35:44 PM		Latitude: 38.034098265	Longitude: -78.50879441000001	Speed: 16.1	Device ID: bCC
+-
+Event 193:
+Time start: 10/20/2021 7:26:40 PM	Latitude: 38.02408069208889	Longitude: -78.52385015266667	Speed: 18.647888	Device ID: bCC
+Time end: 10/20/2021 7:26:40 PM		Latitude: 38.024081410133334	Longitude: -78.52385111400001	Speed: 18.674334	Device ID: bCC
+-
+Event 193:
+Time start: 10/20/2021 8:30:46 PM	Latitude: 38.0250666424	Longitude: -78.52449288575	Speed: 15.1035	Device ID: bCC
+Time point 2: 10/20/2021 8:30:47 PM	Latitude: 38.0250626	Longitude: -78.5244904	Speed: 16	Device ID: bCC
+Time end: 10/20/2021 8:30:47 PM		Latitude: 38.025057221	Longitude: -78.52449497500001	Speed: 16.24	Device ID: bCC
+-
+Event 193:
+Time start: 10/25/2021 7:34:45 PM	Latitude: 38.025059849975	Longitude: -78.524511703225	Speed: 13.79225	Device ID: bCC
+Time end: 10/25/2021 7:34:45 PM		Latitude: 38.0250543365	Longitude: -78.5245156915	Speed: 14.315	Device ID: bCC
+-
+Event 193:
+Time start: 11/10/2021 12:09:38 PM	Latitude: 38.02629954733333	Longitude: -78.52458552666667	Speed: 34.886665	Device ID: bCC
+Time end: 11/10/2021 12:09:39 PM		Latitude: 38.02636806473333	Longitude: -78.52449303266667	Speed: 33.988667	Device ID: bCC
+-
+Event 193:
+Time start: 11/10/2021 4:07:02 PM	Latitude: 38.0423200528625	Longitude: -78.51086459427499	Speed: 14.281875	Device ID: bCC
+Time end: 11/10/2021 4:07:02 PM		Latitude: 38.042322408625	Longitude: -78.51085988275	Speed: 13.81875	Device ID: bCC
+-
+Event 193:
+Time start: 11/17/2021 8:34:14 PM	Latitude: 38.02527373655	Longitude: -78.527495118275	Speed: 19.68975	Device ID: bCC
+Time end: 11/17/2021 8:34:14 PM		Latitude: 38.02525962105	Longitude: -78.527488060525	Speed: 19.04225	Device ID: bCC
+-
+Event 193:
+Time start: 11/19/2021 2:33:17 PM	Latitude: 38.032795	Longitude: -78.5011749	Speed: 22.793875	Device ID: bCC
+Time end: 11/19/2021 2:33:18 PM		Latitude: 38.032795	Longitude: -78.5011749	Speed: 22.728874	Device ID: bCC
+-
+Event 193:
+Time start: 12/14/2021 8:35:26 PM	Latitude: 38.026285254633336	Longitude: -78.52458665933334	Speed: 30.675333	Device ID: bCC
+Time end: 12/14/2021 8:35:26 PM		Latitude: 38.02628724336667	Longitude: -78.52458350066668	Speed: 30.644667	Device ID: bCC
+-
+Event 193:
+Time start: 3/21/2022 7:26:53 PM	Latitude: 38.0328445	Longitude: -78.5010681	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 4/2/2022 9:49:43 AM	Latitude: 38.032795	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+Time end: 4/2/2022 9:49:43 AM		Latitude: 38.032795	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 4/2/2022 9:49:43 AM	Latitude: 38.032795	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+Time end: 4/2/2022 9:49:43 AM		Latitude: 38.032795	Longitude: -78.5011215	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 4/4/2022 7:26:41 PM	Latitude: 38.0327415	Longitude: -78.5011749	Speed: 0	Device ID: bCC
+Time end: 4/4/2022 7:26:41 PM		Latitude: 38.0327415	Longitude: -78.5011749	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 4/14/2022 12:49:35 PM	Latitude: 38.085453	Longitude: -78.4740067	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 4/15/2022 3:42:13 PM	Latitude: 38.0850945	Longitude: -78.4742889	Speed: 0	Device ID: bCC
+Time end: 4/15/2022 3:42:13 PM		Latitude: 38.0850945	Longitude: -78.4742889	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 5/10/2022 7:27:53 PM	Latitude: 38.0328178	Longitude: -78.5011749	Speed: 0	Device ID: bCC
+Time end: 5/10/2022 7:27:53 PM		Latitude: 38.0328178	Longitude: -78.5011749	Speed: 0	Device ID: bCC
+-
+Event 193:
+Time start: 6/7/2022 9:25:10 AM	Latitude: 38.0247536	Longitude: -78.5279007	Speed: 9.75	Device ID: bCC
+Time end: 6/7/2022 9:25:10 AM		Latitude: 38.0247536	Longitude: -78.5279007	Speed: 10.52	Device ID: bCC
+-
+Event 193:
+Time start: 6/7/2022 8:00:13 PM	Latitude: 38.025856	Longitude: -78.5274658	Speed: 17.2115	Device ID: bCC
+Time end: 6/7/2022 8:00:13 PM		Latitude: 38.025856	Longitude: -78.5274658	Speed: 17.0515	Device ID: bCC
+-
+Event 193:
+Time start: 6/16/2022 4:40:43 PM	Latitude: 38.0327682	Longitude: -78.5011749	Speed: 7.24	Device ID: bCC
+Time end: 6/16/2022 4:40:43 PM		Latitude: 38.0327682	Longitude: -78.5011749	Speed: 7.2	Device ID: bCC
+-
+Event 193:
+Time start: 6/21/2022 12:07:46 PM	Latitude: 38.0444568415	Longitude: -78.505279981	Speed: 25.366667	Device ID: bCC
+Time end: 6/21/2022 12:07:46 PM		Latitude: 38.04445176755	Longitude: -78.5052674657	Speed: 24.923334	Device ID: bCC
+-
+Event 193:
+Time start: 6/21/2022 7:27:27 PM	Latitude: 38.032795	Longitude: -78.501091	Speed: 7.7802	Device ID: bCC
+Time point 2: 6/21/2022 7:27:28 PM	Latitude: 38.032795	Longitude: -78.501091	Speed: 8	Device ID: bCC
+Time end: 6/21/2022 7:27:28 PM		Latitude: 38.032795	Longitude: -78.501091	Speed: 7.092	Device ID: bCC
+-

@@ -1,0 +1,24 @@
+Vehicle: V0819
+Time start: 8/25/2021 8:54:35 PM	Latitude: 38.08591547626667	Longitude: -78.47468069593333	Speed: 23.629	Device ID: b143
+Time point 2: 8/25/2021 8:54:36 PM	Latitude: 38.0859146	Longitude: -78.474678	Speed: 24	Device ID: b143
+-
+Time end: 8/25/2021 8:54:36 PM		Latitude: 38.08591446116	Longitude: -78.47467758348	Speed: 23.9428	Device ID: b143
+-
+Vehicle: V0819
+Time start: 9/27/2021 5:48:51 PM	Latitude: 38.0386438707	Longitude: -78.505566476525	Speed: 47.18425	Device ID: b143
+Time end: 9/27/2021 5:48:51 PM		Latitude: 38.038653264000004	Longitude: -78.505571243	Speed: 45.31	Device ID: b143
+-
+Vehicle: V0819
+Time start: 1/19/2022 3:06:54 PM	Latitude: 38.04672670625	Longitude: -78.5183162625	Speed: 14.5	Device ID: b143
+Time point 2: 1/19/2022 3:06:55 PM	Latitude: 38.0467186	Longitude: -78.5183258	Speed: 14	Device ID: b143
+Time end: 1/19/2022 3:06:55 PM		Latitude: 38.0467184397	Longitude: -78.5183258	Speed: 13.916	Device ID: b143
+-
+Vehicle: V0819
+Time start: 6/6/2023 2:47:39 PM	Latitude: 38.0268555	Longitude: -78.47772285533334	Speed: 13.9	Device ID: b143
+Time end: 6/6/2023 2:47:39 PM		Latitude: 38.0268555	Longitude: -78.47771174436667	Speed: 12.615	Device ID: b143
+-
+Vehicle: V0819
+Time start: 11/9/2023 2:08:37 PM	Latitude: 38.0363007	Longitude: -78.516304	Speed: 11.61	Device ID: b143
+Time point 2: 11/9/2023 2:08:38 PM	Latitude: 38.0363007	Longitude: -78.516304	Speed: 3	Device ID: b143
+Time end: 11/9/2023 2:08:38 PM		Latitude: 38.0363007	Longitude: -78.516304	Speed: 3	Device ID: b143
+-

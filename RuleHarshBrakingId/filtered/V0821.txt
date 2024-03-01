@@ -1,0 +1,21 @@
+Vehicle: V0821
+Time start: 1/5/2022 7:33:12 PM	Latitude: 38.0422668	Longitude: -78.5041885	Speed: 24.74425	Device ID: b5D
+Time end: 1/5/2022 7:33:13 PM		Latitude: 38.0422668	Longitude: -78.5041885	Speed: 20.9525	Device ID: b5D
+-
+Vehicle: V0821
+Time start: 1/6/2022 1:17:18 PM	Latitude: 38.0320778	Longitude: -78.51003641421981	Speed: 0	Device ID: b5D
+Time end: 1/6/2022 1:17:20 PM		Latitude: 38.0320778	Longitude: -78.51003648811232	Speed: 0	Device ID: b5D
+-
+Vehicle: V0821
+Time start: 4/12/2022 3:20:02 PM	Latitude: 38.0235519	Longitude: -78.5337237842846	Speed: 0	Device ID: b5D
+Time end: 4/12/2022 3:20:02 PM		Latitude: 38.0235519	Longitude: -78.53372378412591	Speed: 0	Device ID: b5D
+-
+Vehicle: V0821
+Time start: 8/29/2022 12:57:32 PM	Latitude: 38.03911899	Longitude: -78.50588436	Speed: 36.98	Device ID: b5D
+Time end: 8/29/2022 12:57:32 PM		Latitude: 38.03911844925	Longitude: -78.5058839995	Speed: 36.9835	Device ID: b5D
+-
+Vehicle: V0821
+Time start: 5/1/2023 2:11:09 PM	Latitude: 38.02661081	Longitude: -78.52090812371428	Speed: 25.748571	Device ID: b5D
+Time point 2: 5/1/2023 2:11:10 PM	Latitude: 38.0266228	Longitude: -78.5209122	Speed: 26	Device ID: b5D
+Time end: 5/1/2023 2:11:10 PM		Latitude: 38.0266242151	Longitude: -78.5209134137	Speed: 25.205	Device ID: b5D
+-

@@ -1,0 +1,105 @@
+Vehicle: V0981
+Time start: 1/18/2022 8:01:24 PM	Latitude: 38.0300026	Longitude: -78.5124359	Speed: 12.510312	Device ID: b20A
+Time point 2: 1/18/2022 8:01:25 PM	Latitude: 38.0300026	Longitude: -78.5124359	Speed: 12	Device ID: b20A
+-
+Time end: 1/18/2022 8:01:25 PM		Latitude: 38.0300026	Longitude: -78.5124359	Speed: 10.44	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 3/2/2022 8:23:09 PM	Latitude: 38.0991249	Longitude: -78.46379849027427	Speed: 0	Device ID: b20A
+Time end: 3/2/2022 8:23:09 PM		Latitude: 38.0991249	Longitude: -78.46379849027291	Speed: 0	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 3/4/2022 2:58:56 PM	Latitude: 38.044196360099996	Longitude: -78.5137634	Speed: 4.433	Device ID: b20A
+Time end: 3/4/2022 2:58:56 PM		Latitude: 38.0441939571	Longitude: -78.5137634	Speed: 3.443	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 3/15/2022 7:20:45 PM	Latitude: 38.837069355699995	Longitude: -77.44739016206667	Speed: 61.380665	Device ID: b20A
+Time end: 3/15/2022 7:20:46 PM		Latitude: 38.8370445133	Longitude: -77.44741298926667	Speed: 57.33267	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 3/15/2022 9:13:09 PM	Latitude: 38.044040257999995	Longitude: -78.47671682871429	Speed: 40.528572	Device ID: b20A
+Time end: 3/15/2022 9:13:09 PM		Latitude: 38.04404168	Longitude: -78.47671944428572	Speed: 40.57143	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 4/6/2022 1:10:02 PM	Latitude: 38.0542717	Longitude: -78.50508746392121	Speed: 0	Device ID: b20A
+Time end: 4/6/2022 1:10:02 PM		Latitude: 38.0542717	Longitude: -78.50508745690908	Speed: 0	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/9/2022 3:03:50 PM	Latitude: 38.0363811945	Longitude: -78.51563593212501	Speed: 25.92425	Device ID: b20A
+Time point 2: 6/9/2022 3:03:51 PM	Latitude: 38.0364037	Longitude: -78.5156326	Speed: 28	Device ID: b20A
+Time end: 6/9/2022 3:03:51 PM		Latitude: 38.03641416925	Longitude: -78.5156326	Speed: 22.501	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/9/2022 3:04:04 PM	Latitude: 38.036627233000004	Longitude: -78.51483484399999	Speed: 48	Device ID: b20A
+Time point 2: 6/9/2022 3:04:05 PM	Latitude: 38.0366325	Longitude: -78.5147629	Speed: 48	Device ID: b20A
+Time end: 6/9/2022 3:04:05 PM		Latitude: 38.03664442155	Longitude: -78.5146947641	Speed: 31.4795	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/9/2022 3:05:39 PM	Latitude: 38.036326322725	Longitude: -78.51739715455	Speed: 10.85625	Device ID: b20A
+Time end: 6/9/2022 3:05:39 PM		Latitude: 38.036331034250004	Longitude: -78.5173877315	Speed: 9.3125	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/9/2022 3:05:44 PM	Latitude: 38.03632892285	Longitude: -78.51727645775	Speed: 16.5345	Device ID: b20A
+Time end: 6/9/2022 3:05:44 PM		Latitude: 38.0363284305	Longitude: -78.5172753075	Speed: 16.685	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 9/22/2022 4:56:42 PM	Latitude: 38.05828651202857	Longitude: -78.49446563434286	Speed: 43.83314	Device ID: b20A
+Time point 2: 9/22/2022 4:56:43 PM	Latitude: 38.0582924	Longitude: -78.4944611	Speed: 44	Device ID: b20A
+Time end: 9/22/2022 4:56:43 PM		Latitude: 38.0583143905	Longitude: -78.49443992079999	Speed: 38.022	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 10/14/2022 8:52:19 PM	Latitude: 38.38265163333333	Longitude: -78.24890025466667	Speed: 100.613335	Device ID: b20A
+Time end: 10/14/2022 8:52:19 PM		Latitude: 38.3826480775	Longitude: -78.24890321635	Speed: 100.5935	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 10/14/2022 8:52:19 PM	Latitude: 38.382629252499996	Longitude: -78.24891889585	Speed: 100.4885	Device ID: b20A
+Time end: 10/14/2022 8:52:19 PM		Latitude: 38.382625069166664	Longitude: -78.24892238018333	Speed: 100.465164	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/14/2023 5:13:07 PM	Latitude: 38.10067456880342	Longitude: -79.07844171111111	Speed: 85.16239	Device ID: b20A
+Time end: 6/14/2023 5:13:08 PM		Latitude: 38.10067734017094	Longitude: -79.07843665555556	Speed: 85.11966	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/14/2023 5:13:10 PM	Latitude: 38.100986512	Longitude: -79.07782655439999	Speed: 81.592	Device ID: b20A
+Time end: 6/14/2023 5:13:10 PM		Latitude: 38.100987542	Longitude: -79.0778242654	Speed: 81.572	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/14/2023 5:13:11 PM	Latitude: 38.1010645999	Longitude: -79.077683198	Speed: 81	Device ID: b20A
+Time end: 6/14/2023 5:13:11 PM		Latitude: 38.101066286	Longitude: -79.07768052	Speed: 81	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/14/2023 5:13:11 PM	Latitude: 38.101072381899996	Longitude: -79.077670838	Speed: 81	Device ID: b20A
+Time end: 6/14/2023 5:13:11 PM		Latitude: 38.101080553	Longitude: -79.07765786	Speed: 81	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/14/2023 5:13:15 PM	Latitude: 38.10152701	Longitude: -79.076818699	Speed: 79.12	Device ID: b20A
+Time end: 6/14/2023 5:13:15 PM		Latitude: 38.10152907	Longitude: -79.076814733	Speed: 79.04	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 6/14/2023 5:13:17 PM	Latitude: 38.10175242905983	Longitude: -79.07636674529914	Speed: 74.63248	Device ID: b20A
+Time end: 6/14/2023 5:13:17 PM		Latitude: 38.10175348888889	Longitude: -79.07636454444444	Speed: 74.611115	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 11/28/2023 6:47:53 PM	Latitude: 38.0358391	Longitude: -78.515718512	Speed: 29.18	Device ID: b20A
+Time end: 11/28/2023 6:47:53 PM		Latitude: 38.0358391	Longitude: -78.515716376	Speed: 29.14	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 11/28/2023 6:47:54 PM	Latitude: 38.03584371729323	Longitude: -78.51569570526317	Speed: 28.135338	Device ID: b20A
+Time end: 11/28/2023 6:47:54 PM		Latitude: 38.03584447011278	Longitude: -78.51569355394737	Speed: 27.99436	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 11/28/2023 6:48:57 PM	Latitude: 38.0367889	Longitude: -78.5146078436	Speed: 16.954	Device ID: b20A
+Time end: 11/28/2023 6:48:57 PM		Latitude: 38.0367889	Longitude: -78.5146090718	Speed: 16.977	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 11/28/2023 6:49:01 PM	Latitude: 38.0367622	Longitude: -78.5147796676	Speed: 13.314	Device ID: b20A
+Time end: 11/28/2023 6:49:01 PM		Latitude: 38.0367622	Longitude: -78.5147802016	Speed: 13.324	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 11/28/2023 6:49:01 PM	Latitude: 38.0367622	Longitude: -78.514780522	Speed: 13.33	Device ID: b20A
+Time end: 11/28/2023 6:49:01 PM		Latitude: 38.0367622	Longitude: -78.5147830318	Speed: 13.377	Device ID: b20A
+-
+Vehicle: V0981
+Time start: 11/28/2023 6:49:01 PM	Latitude: 38.0367622	Longitude: -78.51478426	Speed: 13.4	Device ID: b20A
+Time end: 11/28/2023 6:49:01 PM		Latitude: 38.0367622	Longitude: -78.5147878378	Speed: 13.467	Device ID: b20A
+-

@@ -1,0 +1,91 @@
+Vehicle: V0709
+Time start: 9/24/2019 11:01:43 AM	Latitude: 38.036274	Longitude: -78.5159683	Speed: 0.6557143	Device ID: b85
+Time end: 9/24/2019 11:01:43 AM		Latitude: 38.036274	Longitude: -78.5159683	Speed: 0.65592855	Device ID: b85
+-
+Vehicle: V0709
+Time start: 9/24/2019 11:01:43 AM	Latitude: 38.036274	Longitude: -78.5159683	Speed: 0.6585714	Device ID: b85
+Time end: 9/24/2019 11:01:43 AM		Latitude: 38.036274	Longitude: -78.5159683	Speed: 0.6595	Device ID: b85
+-
+Vehicle: V0709
+Time start: 9/26/2019 10:44:06 AM	Latitude: 38.03628047553529	Longitude: -78.5159683	Speed: 1.5149412	Device ID: b85
+Time end: 9/26/2019 10:44:06 AM		Latitude: 38.03628045982941	Longitude: -78.5159683	Speed: 1.5161177	Device ID: b85
+-
+Vehicle: V0709
+Time start: 9/26/2019 10:44:06 AM	Latitude: 38.03628039700588	Longitude: -78.5159683	Speed: 1.5208235	Device ID: b85
+Time end: 9/26/2019 10:44:06 AM		Latitude: 38.03628038758235	Longitude: -78.5159683	Speed: 1.5215294	Device ID: b85
+-
+Vehicle: V0709
+Time start: 10/3/2019 6:21:38 PM	Latitude: 38.033288925224994	Longitude: -78.50559343915	Speed: 1.07025	Device ID: b85
+Time end: 10/3/2019 6:21:38 PM		Latitude: 38.033288678249995	Longitude: -78.5055930155	Speed: 1.0425	Device ID: b85
+-
+Vehicle: V0709
+Time start: 10/17/2019 7:43:03 PM	Latitude: 38.03614809309786	Longitude: -78.51619720394223	Speed: 0	Device ID: b85
+Time end: 10/17/2019 7:43:03 PM		Latitude: 38.036148092996726	Longitude: -78.516197204	Speed: 0	Device ID: b85
+-
+Vehicle: V0709
+Time start: 10/18/2019 6:36:25 PM	Latitude: 38.03640071851803	Longitude: -78.5164261	Speed: 0	Device ID: b85
+Time end: 10/18/2019 6:36:25 PM		Latitude: 38.03640071815777	Longitude: -78.5164261	Speed: 0	Device ID: b85
+-
+Vehicle: V0709
+Time start: 10/23/2019 2:42:35 PM	Latitude: 38.03368355963695	Longitude: -78.50757462973839	Speed: 15.706353	Device ID: b85
+Time point 2: 10/23/2019 2:42:36 PM	Latitude: 38.0336914	Longitude: -78.5075455	Speed: 16	Device ID: b85
+Time end: 10/23/2019 2:42:36 PM		Latitude: 38.0336914	Longitude: -78.50754519085001	Speed: 15.784	Device ID: b85
+-
+Vehicle: V0709
+Time start: 12/16/2019 9:41:42 PM	Latitude: 38.08591251657778	Longitude: -78.47528063040001	Speed: 26.828556	Device ID: b85
+Time end: 12/16/2019 9:41:43 PM		Latitude: 38.08591432386666	Longitude: -78.4752865376	Speed: 26.470333	Device ID: b85
+-
+Vehicle: V0709
+Time start: 7/15/2020 10:52:55 AM	Latitude: 38.03333550865	Longitude: -78.50560460435	Speed: 10.645	Device ID: b85
+Time end: 7/15/2020 10:52:55 AM		Latitude: 38.03333403351667	Longitude: -78.50560209681667	Speed: 10.838333	Device ID: b85
+-
+Vehicle: V0709
+Time start: 11/12/2020 6:32:48 PM	Latitude: 38.0401917	Longitude: -78.50736412228814	Speed: 0.38542372	Device ID: b85
+Time end: 11/12/2020 6:32:50 PM		Latitude: 38.0401917	Longitude: -78.50736325381355	Speed: 0.4423729	Device ID: b85
+-
+Vehicle: V0709
+Time start: 3/18/2021 11:28:30 AM	Latitude: 38.0332646883	Longitude: -78.5055110821	Speed: 3.592	Device ID: b85
+Time end: 3/18/2021 11:28:30 AM		Latitude: 38.0332644747	Longitude: -78.5055108989	Speed: 3.528	Device ID: b85
+-
+Vehicle: V0709
+Time start: 5/13/2021 1:38:10 PM	Latitude: 38.08579701247569	Longitude: -78.4742537963075	Speed: 0	Device ID: b85
+Time end: 5/13/2021 1:38:10 PM		Latitude: 38.08579700858432	Longitude: -78.47425379955926	Speed: 0	Device ID: b85
+-
+Vehicle: V0709
+Time start: 6/9/2021 12:45:02 PM	Latitude: 38.039263696436365	Longitude: -78.50532630356363	Speed: 20.93259	Device ID: b85
+Time end: 6/9/2021 12:45:02 PM		Latitude: 38.03926411607273	Longitude: -78.50532588392727	Speed: 20.936682	Device ID: b85
+-
+Vehicle: V0709
+Time start: 6/9/2021 12:45:02 PM	Latitude: 38.039266508000004	Longitude: -78.505323492	Speed: 20.96	Device ID: b85
+Time end: 6/9/2021 12:45:02 PM		Latitude: 38.03926889992727	Longitude: -78.50532110007273	Speed: 20.983318	Device ID: b85
+-
+Vehicle: V0709
+Time start: 8/23/2021 1:59:38 PM	Latitude: 38.0328178	Longitude: -78.501091	Speed: 0.7853403	Device ID: b85
+Time end: 8/23/2021 1:59:38 PM		Latitude: 38.0328178	Longitude: -78.501091	Speed: 0.9249564	Device ID: b85
+-
+Vehicle: V0709
+Time start: 9/14/2021 3:21:46 PM	Latitude: 38.032954554281815	Longitude: -78.50606263707273	Speed: 0.18490909	Device ID: b85
+Time end: 9/14/2021 3:21:46 PM		Latitude: 38.032954505727275	Longitude: -78.50606260309091	Speed: 0.18363637	Device ID: b85
+-
+Vehicle: V0709
+Time start: 9/28/2021 3:55:26 PM	Latitude: 38.0333105589	Longitude: -78.5085983	Speed: 22.392334	Device ID: b85
+Time end: 9/28/2021 3:55:27 PM		Latitude: 38.0333025489	Longitude: -78.5085983	Speed: 19.292334	Device ID: b85
+-
+Vehicle: V0709
+Time start: 12/10/2021 12:36:36 PM	Latitude: 38.03263510275	Longitude: -78.50818321929286	Speed: 16.730215	Device ID: b85
+Time end: 12/10/2021 12:36:36 PM		Latitude: 38.032635832749996	Longitude: -78.50818520300714	Speed: 16.698786	Device ID: b85
+-
+Vehicle: V0709
+Time start: 3/29/2022 1:01:41 PM	Latitude: 38.08576817245	Longitude: -78.47210668785	Speed: 32.1445	Device ID: b85
+Time end: 3/29/2022 1:01:41 PM		Latitude: 38.0857690135	Longitude: -78.4721124555	Speed: 31.735	Device ID: b85
+-
+Vehicle: V0709
+Time start: 9/6/2023 3:50:52 PM	Latitude: 38.0401150189875	Longitude: -78.50444817561251	Speed: 16.993626	Device ID: b85
+Time point 2: 9/6/2023 3:50:53 PM	Latitude: 38.0401154	Longitude: -78.5044479	Speed: 17	Device ID: b85
+Time end: 9/6/2023 3:50:53 PM		Latitude: 38.0401154	Longitude: -78.5044479	Speed: 12.95	Device ID: b85
+-
+Vehicle: V0709
+Time start: 9/27/2023 12:50:57 PM	Latitude: 38.0325127	Longitude: -78.50726242530769	Speed: 15.972308	Device ID: b85
+Time point 2: 9/27/2023 12:50:58 PM	Latitude: 38.0325127	Longitude: -78.5072632	Speed: 16	Device ID: b85
+Time end: 9/27/2023 12:50:58 PM		Latitude: 38.0325127	Longitude: -78.5072648821	Speed: 15.559	Device ID: b85
+-

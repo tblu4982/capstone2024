@@ -1,0 +1,41 @@
+Vehicle: V3045
+Time start: 3/29/2019 5:11:41 PM	Latitude: 38.03069046364597	Longitude: -78.51656194765526	Speed: 0	Device ID: b2E
+Time end: 3/29/2019 5:11:41 PM		Latitude: 38.030690439459235	Longitude: -78.51656200405577	Speed: 0	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 3/29/2019 5:11:41 PM	Latitude: 38.03069039955112	Longitude: -78.5165620971166	Speed: 0	Device ID: b2E
+Time end: 3/29/2019 5:11:41 PM		Latitude: 38.03069039592311	Longitude: -78.51656210557668	Speed: 0	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 4/12/2019 1:33:37 PM	Latitude: 38.049201995288385	Longitude: -78.51264189710274	Speed: 0	Device ID: b2E
+Time end: 4/12/2019 1:33:37 PM		Latitude: 38.049201995134744	Longitude: -78.51264189700827	Speed: 0	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 5/21/2019 1:05:09 PM	Latitude: 38.02931212294876	Longitude: -78.51670844589752	Speed: 0	Device ID: b2E
+Time end: 5/21/2019 1:05:09 PM		Latitude: 38.02931212326596	Longitude: -78.51670844653192	Speed: 0	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 6/16/2020 6:26:34 PM	Latitude: 38.029483550799995	Longitude: -78.519906578175	Speed: 26	Device ID: b2E
+Time end: 6/16/2020 6:26:34 PM		Latitude: 38.0294841212	Longitude: -78.519910351325	Speed: 26	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 8/13/2020 11:29:12 AM	Latitude: 38.0302353	Longitude: -78.50307601115	Speed: 4.852	Device ID: b2E
+Time end: 8/13/2020 11:29:12 AM		Latitude: 38.0302353	Longitude: -78.503077076	Speed: 4.48	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 9/28/2020 6:56:44 PM	Latitude: 38.08576368889524	Longitude: -78.47500529631905	Speed: 0.035095237	Device ID: b2E
+Time end: 9/28/2020 6:56:44 PM		Latitude: 38.08576391232381	Longitude: -78.47500526360476	Speed: 0.036523808	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 9/29/2020 12:30:11 PM	Latitude: 38.0861435	Longitude: -78.4741135	Speed: 0.1205	Device ID: b2E
+Time end: 9/29/2020 12:30:11 PM		Latitude: 38.0861435	Longitude: -78.4741135	Speed: 0.12142857	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 9/29/2020 12:30:11 PM	Latitude: 38.0861435	Longitude: -78.4741135	Speed: 0.12978572	Device ID: b2E
+Time end: 9/29/2020 12:30:11 PM		Latitude: 38.0861435	Longitude: -78.4741135	Speed: 0.13092858	Device ID: b2E
+-
+Vehicle: V3045
+Time start: 10/8/2020 6:48:56 PM	Latitude: 38.086040042	Longitude: -78.474317362	Speed: 21.78	Device ID: b2E
+Time point 2: 10/8/2020 6:48:57 PM	Latitude: 38.0860405	Longitude: -78.4743195	Speed: 22	Device ID: b2E
+Time end: 10/8/2020 6:48:57 PM		Latitude: 38.086050472450005	Longitude: -78.4743280158	Speed: 13.783	Device ID: b2E
+-

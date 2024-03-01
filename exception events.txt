@@ -1,0 +1,12 @@
+RuleSeatbeltId
+RuleHarshCorneringId
+RulePostedSpeedingId
+RuleLightsLeftOnId
+RuleJackrabbitStartsId
+RuleAccidentId
+RuleIdlingId
+RuleEngineAbuseId
+RuleHarshBrakingId
+RuleEngineLightOnId
+RuleUnauthorizedDeviceRemovalId
+RuleApplicationExceptionId

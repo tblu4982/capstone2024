@@ -1,0 +1,26 @@
+Vehicle: V1065
+Time start: 6/26/2023 11:49:16 AM	Latitude: 38.03317438624	Longitude: -78.49750010032	Speed: 20	Device ID: b268
+Time end: 6/26/2023 11:49:16 AM		Latitude: 38.033176171840005	Longitude: -78.49751136111999	Speed: 20	Device ID: b268
+-
+Vehicle: V1065
+Time start: 6/30/2023 12:44:49 PM	Latitude: 38.0345101229	Longitude: -78.50014632675	Speed: 21.043	Device ID: b268
+Time end: 6/30/2023 12:44:49 PM		Latitude: 38.034517412	Longitude: -78.50015049	Speed: 18.04	Device ID: b268
+-
+Vehicle: V1065
+Time start: 7/5/2023 1:16:45 PM	Latitude: 38.04281347502778	Longitude: -78.51199172117776	Speed: 50.062946	Device ID: b268
+Time point 2: 7/5/2023 1:16:46 PM	Latitude: 38.0428047	Longitude: -78.5119781	Speed: 50	Device ID: b268
+Time end: 7/5/2023 1:16:46 PM		Latitude: 38.04280161	Longitude: -78.511973066	Speed: 49.25	Device ID: b268
+-
+Vehicle: V1065
+Time start: 9/18/2023 3:38:46 PM	Latitude: 38.05034793315	Longitude: -78.52782626135	Speed: 61.91775	Device ID: b268
+Time point 2: 9/18/2023 3:38:47 PM	Latitude: 38.0503311	Longitude: -78.527771	Speed: 63	Device ID: b268
+Time end: 9/18/2023 3:38:47 PM		Latitude: 38.0503228497	Longitude: -78.5277552822	Speed: 62.176	Device ID: b268
+-
+Vehicle: V1065
+Time start: 10/19/2023 5:35:13 PM	Latitude: 38.024071031	Longitude: -78.50670192896668	Speed: 37.231	Device ID: b268
+Time end: 10/19/2023 5:35:13 PM		Latitude: 38.024067941	Longitude: -78.50670063196668	Speed: 37.141	Device ID: b268
+-
+Vehicle: V1065
+Time start: 12/8/2023 3:02:26 PM	Latitude: 38.05142727836667	Longitude: -78.55040218923332	Speed: 31.834667	Device ID: b268
+Time end: 12/8/2023 3:02:26 PM		Latitude: 38.051416186333334	Longitude: -78.55040109766666	Speed: 31.453333	Device ID: b268
+-

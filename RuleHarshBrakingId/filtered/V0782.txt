@@ -1,0 +1,81 @@
+Vehicle: V0782
+Time start: 11/21/2019 10:39:01 PM	Latitude: 38.04474881347143	Longitude: -78.79471331682858	Speed: 12.693857	Device ID: bBB
+Time end: 11/21/2019 10:39:01 PM		Latitude: 38.044744830671426	Longitude: -78.79472402802858	Speed: 11.721857	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 6/16/2020 3:20:12 PM	Latitude: 38.0854797	Longitude: -78.474365129253	Speed: 0	Device ID: bBB
+Time end: 6/16/2020 3:20:13 PM		Latitude: 38.0854797	Longitude: -78.47436512797213	Speed: 0	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 4/15/2021 12:04:06 PM	Latitude: 37.9751663	Longitude: -78.21419381516866	Speed: 0	Device ID: bBB
+Time end: 4/15/2021 12:04:07 PM		Latitude: 37.9751663	Longitude: -78.21419380924856	Speed: 0	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 5/4/2021 6:35:04 PM	Latitude: 38.0512238	Longitude: -78.54743327541884	Speed: 0	Device ID: bBB
+Time end: 5/4/2021 6:35:05 PM		Latitude: 38.0512238	Longitude: -78.5474332896072	Speed: 0	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 7/15/2021 1:06:05 PM	Latitude: 37.3512947806	Longitude: -78.98773357959999	Speed: 85.033	Device ID: bBB
+Time point 2: 7/15/2021 1:06:06 PM	Latitude: 37.3512955	Longitude: -78.9877243	Speed: 85	Device ID: bBB
+Time end: 7/15/2021 1:06:06 PM		Latitude: 37.351295993949996	Longitude: -78.98771724225	Speed: 84.2045	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 7:45:39 PM	Latitude: 38.0856323	Longitude: -78.4742889	Speed: 0.78466666	Device ID: bBB
+Time end: 9/9/2021 7:45:39 PM		Latitude: 38.0856323	Longitude: -78.4742889	Speed: 0.84	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 7:45:39 PM	Latitude: 38.0856323	Longitude: -78.4742889	Speed: 0.90466666	Device ID: bBB
+Time end: 9/9/2021 7:45:39 PM		Latitude: 38.0856323	Longitude: -78.4742889	Speed: 0.9113333	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 7:45:50 PM	Latitude: 38.0856056	Longitude: -78.4742889	Speed: 0.5946	Device ID: bBB
+Time end: 9/9/2021 7:45:52 PM		Latitude: 38.0856056	Longitude: -78.4742889	Speed: 0.1566	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 7:45:53 PM	Latitude: 38.085622874900004	Longitude: -78.4742889	Speed: 0.647	Device ID: bBB
+Time end: 9/9/2021 7:45:53 PM		Latitude: 38.0856319529	Longitude: -78.4742889	Speed: 0.987	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 7:45:54 PM	Latitude: 38.0856323	Longitude: -78.4743080862	Speed: 0.373	Device ID: bBB
+Time end: 9/9/2021 7:45:54 PM		Latitude: 38.0856323	Longitude: -78.4743122478	Speed: 0.237	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 7:47:02 PM	Latitude: 38.08559538966265	Longitude: -78.47427862040963	Speed: 0	Device ID: bBB
+Time end: 9/9/2021 7:47:03 PM		Latitude: 38.08559529412169	Longitude: -78.47427823788794	Speed: 0	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 8:01:12 PM	Latitude: 38.085453	Longitude: -78.47432079308571	Speed: 0.9432857	Device ID: bBB
+Time point 2: 9/9/2021 8:01:13 PM	Latitude: 38.085453	Longitude: -78.4743195	Speed: 1	Device ID: bBB
+Time end: 9/9/2021 8:01:13 PM		Latitude: 38.085453	Longitude: -78.4743195	Speed: 0.5635	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 9/9/2021 8:01:14 PM	Latitude: 38.085453	Longitude: -78.4743195	Speed: 0.4715	Device ID: bBB
+Time point 2: 9/9/2021 8:01:15 PM	Latitude: 38.085453	Longitude: -78.4743195	Speed: 0	Device ID: bBB
+Time end: 9/9/2021 8:01:18 PM		Latitude: 38.08544672194	Longitude: -78.47431230491999	Speed: 0.23513333	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 1/11/2022 2:03:41 PM	Latitude: 38.061771339474994	Longitude: -78.491665157725	Speed: 32.686626	Device ID: bBB
+Time end: 1/11/2022 2:03:41 PM		Latitude: 38.06177523925	Longitude: -78.49166233675	Speed: 33.02375	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 6/23/2022 6:01:09 PM	Latitude: 38.058176108125	Longitude: -78.494800769875	Speed: 40.8175	Device ID: bBB
+Time point 2: 6/23/2022 6:01:10 PM	Latitude: 38.0581131	Longitude: -78.4948502	Speed: 41	Device ID: bBB
+Time end: 6/23/2022 6:01:10 PM		Latitude: 38.05810634745	Longitude: -78.49485695255001	Speed: 38.0795	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 7/5/2022 5:25:23 PM	Latitude: 38.53397935773334	Longitude: -78.61140957296666	Speed: 80.333	Device ID: bBB
+Time end: 7/5/2022 5:25:24 PM		Latitude: 38.533927204	Longitude: -78.611401358	Speed: 76.78	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 10/14/2022 2:59:01 PM	Latitude: 37.401285207254546	Longitude: -79.152018398	Speed: 51.989635	Device ID: bBB
+Time point 2: 10/14/2022 2:59:02 PM	Latitude: 37.4012909	Longitude: -79.1520233	Speed: 52	Device ID: bBB
+Time end: 10/14/2022 2:59:02 PM		Latitude: 37.40129178626667	Longitude: -79.15202416473333	Speed: 51.767666	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 1/24/2023 6:48:24 PM	Latitude: 38.2783590237875	Longitude: -78.41440816650001	Speed: 92.09075	Device ID: bBB
+Time end: 1/24/2023 6:48:24 PM		Latitude: 38.278352912337496	Longitude: -78.4144011285	Speed: 92.08175	Device ID: bBB
+-
+Vehicle: V0782
+Time start: 12/18/2023 2:27:34 PM	Latitude: 38.440511704	Longitude: -78.84695776666668	Speed: 101.90667	Device ID: bBB
+Time end: 12/18/2023 2:27:34 PM		Latitude: 38.4405614461	Longitude: -78.84691017916667	Speed: 101.582664	Device ID: bBB
+-

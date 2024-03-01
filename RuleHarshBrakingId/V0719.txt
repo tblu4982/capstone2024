@@ -1,0 +1,84 @@
+Event 316:
+Time start: 12/13/2018 12:49:18 PM	Latitude: 38.0366592	Longitude: -78.516098	Speed: 0.136	Device ID: b19
+Time end: 12/13/2018 12:49:18 PM		Latitude: 38.0366592	Longitude: -78.516098	Speed: 0.024	Device ID: b19
+-
+Event 316:
+Time start: 12/13/2018 12:49:23 PM	Latitude: 38.0366592	Longitude: -78.516098	Speed: 1.3825	Device ID: b19
+Time end: 12/13/2018 12:49:23 PM		Latitude: 38.0366592	Longitude: -78.516098	Speed: 1.375	Device ID: b19
+-
+Event 316:
+Time start: 1/13/2019 9:01:55 PM	Latitude: 38.0538101	Longitude: -78.5064926	Speed: 0	Device ID: b19
+Time end: 1/13/2019 9:01:55 PM		Latitude: 38.0538101	Longitude: -78.5064926	Speed: 0	Device ID: b19
+-
+Event 316:
+Time start: 1/16/2019 3:54:01 PM	Latitude: 38.03665702395	Longitude: -78.516098	Speed: 6.4295	Device ID: b19
+Time end: 1/16/2019 3:54:01 PM		Latitude: 38.03665670355	Longitude: -78.516098	Speed: 6.3455	Device ID: b19
+-
+Event 316:
+Time start: 2/20/2019 10:32:48 AM	Latitude: 38.040494226787494	Longitude: -78.5135938616375	Speed: 40.73075	Device ID: b19
+Time end: 2/20/2019 10:32:48 AM		Latitude: 38.0404953014625	Longitude: -78.5135927936125	Speed: 40.73425	Device ID: b19
+-
+Event 316:
+Time start: 6/7/2019 12:40:56 PM	Latitude: 38.060974598499996	Longitude: -78.49230920849999	Speed: 28.738333	Device ID: b19
+Time end: 6/7/2019 12:40:56 PM		Latitude: 38.0609837515	Longitude: -78.4923023415	Speed: 29.428333	Device ID: b19
+-
+Event 316:
+Time start: 9/29/2020 4:09:27 PM	Latitude: 38.029439092512504	Longitude: -78.5248252046625	Speed: 8.937375	Device ID: b19
+Time point 2: 9/29/2020 4:09:28 PM	Latitude: 38.0294418	Longitude: -78.524826	Speed: 9	Device ID: b19
+Time end: 9/29/2020 4:09:28 PM		Latitude: 38.0294418	Longitude: -78.52482608015	Speed: 8.9685	Device ID: b19
+-
+Event 316:
+Time start: 9/29/2020 4:11:10 PM	Latitude: 38.02932219703333	Longitude: -78.52482751521667	Speed: 14.272166	Device ID: b19
+Time end: 9/29/2020 4:11:10 PM		Latitude: 38.029314389	Longitude: -78.52482634350001	Speed: 14.835	Device ID: b19
+-
+Event 316:
+Time start: 1/31/2021 4:28:51 PM	Latitude: 38.04572422531666	Longitude: -78.5091408194	Speed: 5.054	Device ID: b19
+Time end: 1/31/2021 4:28:51 PM		Latitude: 38.04572262568333	Longitude: -78.5091421366	Speed: 4.906	Device ID: b19
+-
+Event 316:
+Time start: 1/31/2021 10:15:25 PM	Latitude: 38.0504872216	Longitude: -78.50056069850001	Speed: 8.361	Device ID: b19
+Time end: 1/31/2021 10:15:25 PM		Latitude: 38.05048728773333	Longitude: -78.50056076983334	Speed: 8.349	Device ID: b19
+-
+Event 316:
+Time start: 2/12/2021 2:45:18 PM	Latitude: 38.026482763474995	Longitude: -78.52466886477501	Speed: 21.69625	Device ID: b19
+Time point 2: 2/12/2021 2:45:19 PM	Latitude: 38.0264969	Longitude: -78.5246735	Speed: 22	Device ID: b19
+Time end: 2/12/2021 2:45:19 PM		Latitude: 38.02649789615	Longitude: -78.52467449615	Speed: 21.043	Device ID: b19
+-
+Event 316:
+Time start: 2/16/2021 7:32:17 PM	Latitude: 38.036629294693945	Longitude: -78.51616682561819	Speed: 0	Device ID: b19
+Time end: 2/16/2021 7:32:17 PM		Latitude: 38.03662929238081	Longitude: -78.51616682022424	Speed: 0	Device ID: b19
+-
+Event 316:
+Time start: 2/18/2021 4:00:58 PM	Latitude: 38.03415063376	Longitude: -78.51124402885999	Speed: 9.1692	Device ID: b19
+Time end: 2/18/2021 4:00:58 PM		Latitude: 38.03415077264	Longitude: -78.51124454154	Speed: 9.1188	Device ID: b19
+-
+Event 316:
+Time start: 1/10/2022 2:50:15 PM	Latitude: 38.03658346697931	Longitude: -78.5161438	Speed: 2.9657068	Device ID: b19
+Time end: 1/10/2022 2:50:15 PM		Latitude: 38.036583458427586	Longitude: -78.5161438	Speed: 2.9662242	Device ID: b19
+-
+Event 316:
+Time start: 1/17/2022 2:48:18 PM	Latitude: 38.0443153	Longitude: -78.50637090456667	Speed: 5.894	Device ID: b19
+Time point 2: 1/17/2022 2:48:19 PM	Latitude: 38.0443153	Longitude: -78.5063705	Speed: 6	Device ID: b19
+Time end: 1/17/2022 2:48:19 PM		Latitude: 38.0443153	Longitude: -78.50636932575	Speed: 5.769	Device ID: b19
+-
+Event 316:
+Time start: 1/17/2022 2:54:59 PM	Latitude: 38.04493434335	Longitude: -78.50685765074999	Speed: 8.6735	Device ID: b19
+Time end: 1/17/2022 2:54:59 PM		Latitude: 38.04493457235	Longitude: -78.50685795575	Speed: 8.5635	Device ID: b19
+-
+Event 316:
+Time start: 12/23/2022 12:56:44 PM	Latitude: 38.03085237625	Longitude: -78.51154351075	Speed: 7	Device ID: b19
+Time end: 12/23/2022 12:56:44 PM		Latitude: 38.030852005	Longitude: -78.511544083	Speed: 7	Device ID: b19
+-
+Event 316:
+Time start: 12/23/2022 12:56:46 PM	Latitude: 38.030831549125004	Longitude: -78.511575613975	Speed: 7	Device ID: b19
+Time end: 12/23/2022 12:56:46 PM		Latitude: 38.030831425375005	Longitude: -78.511575804725	Speed: 7	Device ID: b19
+-
+Event 316:
+Time start: 12/23/2022 2:46:07 PM	Latitude: 38.0443775291	Longitude: -78.5060829582	Speed: 14.797	Device ID: b19
+Time point 2: 12/23/2022 2:46:08 PM	Latitude: 38.0443649	Longitude: -78.5060577	Speed: 20	Device ID: b19
+Time end: 12/23/2022 2:46:08 PM		Latitude: 38.04436312445	Longitude: -78.50605466095	Speed: 18.67	Device ID: b19
+-
+Event 316:
+Time start: 6/1/2023 4:26:55 PM	Latitude: 38.028904	Longitude: -78.5245972	Speed: 4.698	Device ID: b19
+Time end: 6/1/2023 4:26:55 PM		Latitude: 38.028904	Longitude: -78.5245972	Speed: 4.38	Device ID: b19
+-

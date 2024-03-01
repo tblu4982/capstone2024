@@ -1,0 +1,35 @@
+Vehicle: V0921
+Time start: 9/23/2021 3:57:52 PM	Latitude: 38.0547864404875	Longitude: -78.4975330092625	Speed: 52.981438	Device ID: b148
+Time point 2: 9/23/2021 3:57:53 PM	Latitude: 38.0547829	Longitude: -78.4975357	Speed: 53	Device ID: b148
+-
+Time end: 9/23/2021 3:57:53 PM		Latitude: 38.0547680752	Longitude: -78.497547648	Speed: 50.1	Device ID: b148
+-
+Vehicle: V0921
+Time start: 12/15/2021 2:29:06 PM	Latitude: 38.038925604	Longitude: -78.503077084	Speed: 2.4	Device ID: b148
+Time end: 12/15/2021 2:29:06 PM		Latitude: 38.03892537584	Longitude: -78.50307732964	Speed: 2.354	Device ID: b148
+-
+Vehicle: V0921
+Time start: 1/16/2022 6:49:29 PM	Latitude: 38.031096456	Longitude: -78.500524308	Speed: 3.84	Device ID: b148
+Time end: 1/16/2022 6:49:29 PM		Latitude: 38.03109694995	Longitude: -78.5005248741	Speed: 3.618	Device ID: b148
+-
+Vehicle: V0921
+Time start: 1/17/2022 7:02:34 AM	Latitude: 38.029644320399996	Longitude: -78.4961129874	Speed: 6.072	Device ID: b148
+Time end: 1/17/2022 7:02:34 AM		Latitude: 38.02964424564	Longitude: -78.49611295534001	Speed: 6.0552	Device ID: b148
+-
+Vehicle: V0921
+Time start: 1/17/2022 2:18:48 PM	Latitude: 38.046774856899994	Longitude: -78.50888661825	Speed: 4.465	Device ID: b148
+Time end: 1/17/2022 2:18:48 PM		Latitude: 38.046779395899996	Longitude: -78.50888402574999	Speed: 3.615	Device ID: b148
+-
+Vehicle: V0921
+Time start: 1/17/2022 4:19:44 PM	Latitude: 38.045569706933335	Longitude: -78.5084940006	Speed: 7.135	Device ID: b148
+Time end: 1/17/2022 4:19:44 PM		Latitude: 38.04557015333334	Longitude: -78.50849352	Speed: 7	Device ID: b148
+-
+Vehicle: V0921
+Time start: 7/12/2022 1:09:00 PM	Latitude: 38.04870724241875	Longitude: -78.51353971163749	Speed: 10.09825	Device ID: b148
+Time end: 7/12/2022 1:09:00 PM		Latitude: 38.04870698275	Longitude: -78.5135396015	Speed: 10.09	Device ID: b148
+-
+Vehicle: V0921
+Time start: 3/3/2023 6:13:24 PM	Latitude: 38.03102882366	Longitude: -78.51857801202	Speed: 10.9514	Device ID: b148
+Time point 2: 3/3/2023 6:13:25 PM	Latitude: 38.0310287	Longitude: -78.5185776	Speed: 11	Device ID: b148
+Time end: 3/3/2023 6:13:25 PM		Latitude: 38.0310287	Longitude: -78.5185776	Speed: 10.9835	Device ID: b148
+-

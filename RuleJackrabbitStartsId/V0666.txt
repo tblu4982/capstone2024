@@ -1,0 +1,714 @@
+Event 1:
+Time start: 7/2/2021 3:15:02 PM	Latitude: 38.031869682674994	Longitude: -78.50772881182499	Speed: 11.2405	Device ID: b1FF
+Time point 2: 7/2/2021 3:15:03 PM	Latitude: 38.0318718	Longitude: -78.5077286	Speed: 11	Device ID: b1FF
+Time end: 7/2/2021 3:15:03 PM		Latitude: 38.03187832333333	Longitude: -78.50772183599999	Speed: 11.823334	Device ID: b1FF
+-
+Event 1:
+Time start: 7/7/2021 3:02:10 PM	Latitude: 38.0351982	Longitude: -78.48549141035	Speed: 3.0905	Device ID: b1FF
+Time end: 7/7/2021 3:02:10 PM		Latitude: 38.0351982	Longitude: -78.4854919485	Speed: 3.255	Device ID: b1FF
+-
+Event 1:
+Time start: 7/8/2021 1:07:59 PM	Latitude: 38.061325273	Longitude: -78.50802214790001	Speed: 12.417	Device ID: b1FF
+Time point 2: 7/8/2021 1:08:00 PM	Latitude: 38.0613365	Longitude: -78.5080338	Speed: 11	Device ID: b1FF
+Time end: 7/8/2021 1:08:00 PM		Latitude: 38.061347180000006	Longitude: -78.50804904	Speed: 12.8	Device ID: b1FF
+-
+Event 1:
+Time start: 7/8/2021 1:10:28 PM	Latitude: 38.075186098	Longitude: -78.4981537	Speed: 3.76	Device ID: b1FF
+Time end: 7/8/2021 1:10:28 PM		Latitude: 38.0751866587	Longitude: -78.4981537	Speed: 3.844	Device ID: b1FF
+-
+Event 1:
+Time start: 7/8/2021 1:56:34 PM	Latitude: 38.0713882215	Longitude: -78.4992247365	Speed: 9.715	Device ID: b1FF
+Time point 2: 7/8/2021 1:56:35 PM	Latitude: 38.071373	Longitude: -78.4992218	Speed: 8	Device ID: b1FF
+Time point 3: 7/8/2021 1:56:39 PM	Latitude: 38.071167	Longitude: -78.4992523	Speed: 28	Device ID: b1FF
+Time point 4: 7/8/2021 1:56:46 PM	Latitude: 38.0705528	Longitude: -78.4999161	Speed: 61	Device ID: b1FF
+Time end: 7/8/2021 1:56:48 PM		Latitude: 38.070270624820004	Longitude: -78.50019827518	Speed: 61.745667	Device ID: b1FF
+-
+Event 1:
+Time start: 7/12/2021 12:35:25 PM	Latitude: 38.0267525	Longitude: -78.5296402	Speed: 2.714	Device ID: b1FF
+Time point 2: 7/12/2021 12:35:26 PM	Latitude: 38.0267525	Longitude: -78.5296402	Speed: 3	Device ID: b1FF
+Time end: 7/12/2021 12:35:26 PM		Latitude: 38.02674742725	Longitude: -78.52963381227501	Speed: 3.93575	Device ID: b1FF
+-
+Event 1:
+Time start: 7/21/2021 5:27:55 PM	Latitude: 38.048022060499996	Longitude: -78.5216044425	Speed: 8.15	Device ID: b1FF
+Time end: 7/21/2021 5:27:55 PM		Latitude: 38.04801494495	Longitude: -78.52161257075001	Speed: 5.485	Device ID: b1FF
+-
+Event 1:
+Time start: 8/6/2021 12:58:28 PM	Latitude: 38.026728603500004	Longitude: -78.5296426045	Speed: 8.42	Device ID: b1FF
+Time point 2: 8/6/2021 12:58:29 PM	Latitude: 38.0267258	Longitude: -78.5296402	Speed: 8	Device ID: b1FF
+Time end: 8/6/2021 12:58:29 PM		Latitude: 38.0267170691	Longitude: -78.5296302265	Speed: 10.616	Device ID: b1FF
+-
+Event 1:
+Time start: 8/13/2021 1:36:02 PM	Latitude: 38.088932496400005	Longitude: -78.47221752649999	Speed: 2.27	Device ID: b1FF
+Time end: 8/13/2021 1:36:02 PM		Latitude: 38.088928932	Longitude: -78.47221347	Speed: 3.6	Device ID: b1FF
+-
+Event 1:
+Time start: 8/26/2021 3:28:14 PM	Latitude: 38.0196251749	Longitude: -78.5106307057	Speed: 14.251	Device ID: b1FF
+Time end: 8/26/2021 3:28:14 PM		Latitude: 38.0196333011	Longitude: -78.5106369623	Speed: 14.989	Device ID: b1FF
+-
+Event 1:
+Time start: 9/2/2021 2:28:46 PM	Latitude: 38.03105231944	Longitude: -78.50010084956	Speed: 13.1012	Device ID: b1FF
+Time point 2: 9/2/2021 2:28:47 PM	Latitude: 38.0310516	Longitude: -78.5000992	Speed: 13	Device ID: b1FF
+Time end: 9/2/2021 2:28:47 PM		Latitude: 38.031049874749996	Longitude: -78.500094471475	Speed: 13.268	Device ID: b1FF
+-
+Event 1:
+Time start: 9/21/2021 11:52:39 AM	Latitude: 38.02780224315	Longitude: -78.47952359473334	Speed: 7.6123333	Device ID: b1FF
+Time point 2: 9/21/2021 11:52:40 AM	Latitude: 38.0278015	Longitude: -78.4795151	Speed: 7	Device ID: b1FF
+Time end: 9/21/2021 11:52:40 AM		Latitude: 38.027802851020006	Longitude: -78.4795046764	Speed: 7.4554	Device ID: b1FF
+-
+Event 1:
+Time start: 9/21/2021 12:26:26 PM	Latitude: 38.03207766882174	Longitude: -78.50752233764348	Speed: 2.985261	Device ID: b1FF
+Time point 2: 9/21/2021 12:26:27 PM	Latitude: 38.0320778	Longitude: -78.5075226	Speed: 3	Device ID: b1FF
+Time end: 9/21/2021 12:26:27 PM		Latitude: 38.03207583755	Longitude: -78.50752820805	Speed: 4.3965	Device ID: b1FF
+-
+Event 1:
+Time start: 9/23/2021 2:36:29 PM	Latitude: 38.02620249125	Longitude: -78.52457660125	Speed: 10.9125	Device ID: b1FF
+Time end: 9/23/2021 2:36:29 PM		Latitude: 38.026210370525	Longitude: -78.52456547792501	Speed: 11.94525	Device ID: b1FF
+-
+Event 1:
+Time start: 9/23/2021 2:53:19 PM	Latitude: 38.0320511	Longitude: -78.5075536753	Speed: 3.213	Device ID: b1FF
+Time end: 9/23/2021 2:53:19 PM		Latitude: 38.0320511	Longitude: -78.5075577973	Speed: 4.833	Device ID: b1FF
+-
+Event 1:
+Time start: 9/23/2021 2:57:42 PM	Latitude: 38.0255241	Longitude: -78.5196533	Speed: 0	Device ID: b1FF
+Time end: 9/23/2021 2:57:43 PM		Latitude: 38.0255241	Longitude: -78.5196533	Speed: 0	Device ID: b1FF
+-
+Event 1:
+Time start: 9/27/2021 6:39:56 PM	Latitude: 38.0350723	Longitude: -78.5165329	Speed: 5.95525	Device ID: b1FF
+Time end: 9/27/2021 6:39:56 PM		Latitude: 38.0350723	Longitude: -78.5165329	Speed: 6.46975	Device ID: b1FF
+-
+Event 1:
+Time start: 9/27/2021 6:44:56 PM	Latitude: 38.02646231566666	Longitude: -78.52440854449999	Speed: 2.86	Device ID: b1FF
+Time end: 9/27/2021 6:44:56 PM		Latitude: 38.02646147636666	Longitude: -78.52441039085	Speed: 3.058	Device ID: b1FF
+-
+Event 1:
+Time start: 10/4/2021 11:52:54 AM	Latitude: 38.026311617	Longitude: -78.524560354	Speed: 19.1	Device ID: b1FF
+Time end: 10/4/2021 11:52:54 AM		Latitude: 38.026321344025	Longitude: -78.52455745705001	Speed: 18.5575	Device ID: b1FF
+-
+Event 1:
+Time start: 10/4/2021 11:56:24 AM	Latitude: 38.03187960803333	Longitude: -78.50772547883332	Speed: 12.511666	Device ID: b1FF
+Time end: 10/4/2021 11:56:24 AM		Latitude: 38.03188077796666	Longitude: -78.50772501116666	Speed: 12.588333	Device ID: b1FF
+-
+Event 1:
+Time start: 10/5/2021 12:32:34 PM	Latitude: 38.0242424	Longitude: -78.5276224533	Speed: 0.823	Device ID: b1FF
+Time end: 10/5/2021 12:32:34 PM		Latitude: 38.0242424	Longitude: -78.5276216747	Speed: 0.857	Device ID: b1FF
+-
+Event 1:
+Time start: 10/5/2021 3:42:40 PM	Latitude: 38.0275955	Longitude: -78.511308881625	Speed: 4.65875	Device ID: b1FF
+Time end: 10/5/2021 3:42:40 PM		Latitude: 38.0275955	Longitude: -78.511307737875	Speed: 4.84625	Device ID: b1FF
+-
+Event 1:
+Time start: 10/5/2021 3:43:31 PM	Latitude: 38.031892915	Longitude: -78.5077114005	Speed: 8.46	Device ID: b1FF
+Time end: 10/5/2021 3:43:32 PM		Latitude: 38.031908879999996	Longitude: -78.507698396	Speed: 10.32	Device ID: b1FF
+-
+Event 1:
+Time start: 10/5/2021 3:46:02 PM	Latitude: 38.03045210422	Longitude: -78.5022204956	Speed: 16.6756	Device ID: b1FF
+Time end: 10/5/2021 3:46:02 PM		Latitude: 38.030450029019995	Longitude: -78.50221719960001	Speed: 16.5796	Device ID: b1FF
+-
+Event 1:
+Time start: 10/5/2021 4:47:59 PM	Latitude: 38.0264969	Longitude: -78.52437899430001	Speed: 3.269	Device ID: b1FF
+Time end: 10/5/2021 4:47:59 PM		Latitude: 38.0264969	Longitude: -78.524387994	Speed: 6.02	Device ID: b1FF
+-
+Event 1:
+Time start: 10/6/2021 12:21:24 PM	Latitude: 38.027772091840006	Longitude: -78.47905136530001	Speed: 0.1638	Device ID: b1FF
+Time end: 10/6/2021 12:21:24 PM		Latitude: 38.027772518400006	Longitude: -78.479051103	Speed: 0.138	Device ID: b1FF
+-
+Event 1:
+Time start: 10/6/2021 1:44:02 PM	Latitude: 38.0259056	Longitude: -78.51530880214999	Speed: 5.899	Device ID: b1FF
+Time end: 10/6/2021 1:44:02 PM		Latitude: 38.0259056	Longitude: -78.51530680984999	Speed: 6.421	Device ID: b1FF
+-
+Event 1:
+Time start: 10/11/2021 12:12:41 PM	Latitude: 38.02650396465	Longitude: -78.52443763855	Speed: 12.5425	Device ID: b1FF
+Time end: 10/11/2021 12:12:42 PM		Latitude: 38.02651525435	Longitude: -78.52447525445001	Speed: 15.0075	Device ID: b1FF
+-
+Event 1:
+Time start: 10/25/2021 4:45:42 PM	Latitude: 38.0235669321	Longitude: -78.5068383073	Speed: 3.941	Device ID: b1FF
+Time end: 10/25/2021 4:45:42 PM		Latitude: 38.023568454	Longitude: -78.506837002	Speed: 4.34	Device ID: b1FF
+-
+Event 1:
+Time start: 10/26/2021 2:10:34 PM	Latitude: 38.05419976033333	Longitude: -78.50060587456666	Speed: 3.016	Device ID: b1FF
+Time end: 10/26/2021 2:10:36 PM		Latitude: 38.054285353333334	Longitude: -78.50051704066667	Speed: 22.96	Device ID: b1FF
+-
+Event 1:
+Time start: 10/26/2021 2:17:32 PM	Latitude: 38.090102615999996	Longitude: -78.474124099	Speed: 16.805	Device ID: b1FF
+Time end: 10/26/2021 2:17:32 PM		Latitude: 38.0901005948	Longitude: -78.47411352845	Speed: 17.49775	Device ID: b1FF
+-
+Event 1:
+Time start: 10/26/2021 7:24:01 PM	Latitude: 38.048564488000004	Longitude: -78.521304363	Speed: 10.48	Device ID: b1FF
+Time end: 10/26/2021 7:24:01 PM		Latitude: 38.0485654056	Longitude: -78.52130393935	Speed: 10.776	Device ID: b1FF
+-
+Event 1:
+Time start: 10/27/2021 11:28:23 AM	Latitude: 38.0877304	Longitude: -78.4703979	Speed: 0.8	Device ID: b1FF
+Time point 2: 10/27/2021 11:28:24 AM	Latitude: 38.0877304	Longitude: -78.4703979	Speed: 1	Device ID: b1FF
+Time point 3: 10/27/2021 11:28:26 AM	Latitude: 38.0877838	Longitude: -78.4703522	Speed: 18	Device ID: b1FF
+Time end: 10/27/2021 11:28:26 AM		Latitude: 38.087821453	Longitude: -78.470361797	Speed: 21.15	Device ID: b1FF
+-
+Event 1:
+Time start: 11/5/2021 11:38:58 AM	Latitude: 38.02738408655	Longitude: -78.51152868003001	Speed: 8.0023	Device ID: b1FF
+Time end: 11/5/2021 11:38:58 AM		Latitude: 38.027392583	Longitude: -78.5115140358	Speed: 7.078	Device ID: b1FF
+-
+Event 1:
+Time start: 11/5/2021 12:04:18 PM	Latitude: 38.0146179	Longitude: -78.5003188351	Speed: 8.694	Device ID: b1FF
+Time point 2: 11/5/2021 12:04:19 PM	Latitude: 38.0146179	Longitude: -78.5003281	Speed: 8	Device ID: b1FF
+Time end: 11/5/2021 12:04:19 PM		Latitude: 38.01462063832222	Longitude: -78.5003620508889	Speed: 9.579111	Device ID: b1FF
+-
+Event 1:
+Time start: 11/22/2021 1:57:05 PM	Latitude: 38.02882187305	Longitude: -78.51651388325	Speed: 15.247	Device ID: b1FF
+Time end: 11/22/2021 1:57:05 PM		Latitude: 38.02882019445	Longitude: -78.51651455425	Speed: 15.203	Device ID: b1FF
+-
+Event 1:
+Time start: 12/14/2021 6:16:18 PM	Latitude: 38.0265465	Longitude: -78.52433008269999	Speed: 3.978	Device ID: b1FF
+Time end: 12/14/2021 6:16:18 PM		Latitude: 38.0265465	Longitude: -78.524336884	Speed: 5.76	Device ID: b1FF
+-
+Event 1:
+Time start: 12/23/2021 2:37:20 PM	Latitude: 38.0409584	Longitude: -78.50872081785	Speed: 5.9178	Device ID: b1FF
+Time point 2: 12/23/2021 2:37:21 PM	Latitude: 38.0409584	Longitude: -78.5087204	Speed: 6	Device ID: b1FF
+Time end: 12/23/2021 2:37:21 PM		Latitude: 38.0409542584	Longitude: -78.50871402895	Speed: 7.503	Device ID: b1FF
+-
+Event 1:
+Time start: 12/30/2021 6:15:04 PM	Latitude: 38.0538959275	Longitude: -78.5011426775	Speed: 12.475	Device ID: b1FF
+Time end: 12/30/2021 6:15:05 PM		Latitude: 38.053905712975	Longitude: -78.501126043475	Speed: 15.93775	Device ID: b1FF
+-
+Event 1:
+Time start: 12/30/2021 6:15:40 PM	Latitude: 38.055770195019996	Longitude: -78.5020309684	Speed: 10.628	Device ID: b1FF
+Time end: 12/30/2021 6:15:40 PM		Latitude: 38.05578310462	Longitude: -78.5020458004	Speed: 12.068	Device ID: b1FF
+-
+Event 1:
+Time start: 12/30/2021 6:15:42 PM	Latitude: 38.05583639258	Longitude: -78.5021070236	Speed: 18.012	Device ID: b1FF
+Time end: 12/30/2021 6:15:43 PM		Latitude: 38.055864255799996	Longitude: -78.502139036	Speed: 21.12	Device ID: b1FF
+-
+Event 1:
+Time start: 1/25/2022 3:47:11 PM	Latitude: 38.050932834950004	Longitude: -78.55038918585	Speed: 10.343	Device ID: b1FF
+Time end: 1/25/2022 3:47:11 PM		Latitude: 38.05093245345	Longitude: -78.55038907135	Speed: 10.433	Device ID: b1FF
+-
+Event 1:
+Time start: 1/31/2022 12:19:51 AM	Latitude: 38.0244484	Longitude: -78.5279236	Speed: 0	Device ID: b1FF
+Time end: 1/31/2022 12:19:52 AM		Latitude: 38.0244484	Longitude: -78.5279236	Speed: 0	Device ID: b1FF
+-
+Event 1:
+Time start: 2/9/2022 12:37:27 PM	Latitude: 38.032248983799995	Longitude: -78.50113300008333	Speed: 12.5945	Device ID: b1FF
+Time end: 2/9/2022 12:37:27 PM		Latitude: 38.0322519658	Longitude: -78.50113024091667	Speed: 12.6995	Device ID: b1FF
+-
+Event 1:
+Time start: 2/15/2022 4:02:07 PM	Latitude: 38.01116917066667	Longitude: -78.504211348	Speed: 5.0533333	Device ID: b1FF
+Time end: 2/15/2022 4:02:07 PM		Latitude: 38.01116848396667	Longitude: -78.5042110726	Speed: 5.1973333	Device ID: b1FF
+-
+Event 1:
+Time start: 2/21/2022 1:06:13 PM	Latitude: 38.02617083454	Longitude: -78.52464722512	Speed: 14.5824	Device ID: b1FF
+Time end: 2/21/2022 1:06:13 PM		Latitude: 38.02617827354	Longitude: -78.52464081712	Speed: 14.4224	Device ID: b1FF
+-
+Event 1:
+Time start: 3/3/2022 6:37:54 PM	Latitude: 38.0195312	Longitude: -78.43023730595	Speed: 5.8155	Device ID: b1FF
+Time end: 3/3/2022 6:37:54 PM		Latitude: 38.0195312	Longitude: -78.43022929445	Speed: 7.1805	Device ID: b1FF
+-
+Event 1:
+Time start: 3/3/2022 6:46:55 PM	Latitude: 38.0302086	Longitude: -78.44331358651444	Speed: 0.9994111	Device ID: b1FF
+Time end: 3/3/2022 6:46:55 PM		Latitude: 38.0302086	Longitude: -78.44331359414777	Speed: 0.9997444	Device ID: b1FF
+-
+Event 1:
+Time start: 3/3/2022 7:48:07 PM	Latitude: 38.03017564936667	Longitude: -78.4436408806	Speed: 7.153333	Device ID: b1FF
+Time end: 3/3/2022 7:48:07 PM		Latitude: 38.03018602536667	Longitude: -78.4436366086	Speed: 8.753333	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:34:39 PM	Latitude: 38.048009376799996	Longitude: -78.52159460930001	Speed: 16	Device ID: b1FF
+Time point 2: 3/10/2022 4:34:40 PM	Latitude: 38.0480003	Longitude: -78.5215988	Speed: 16	Device ID: b1FF
+Time end: 3/10/2022 4:34:40 PM		Latitude: 38.0480003	Longitude: -78.52160296325	Speed: 13.816	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:35:03 PM	Latitude: 38.048021037	Longitude: -78.521587826	Speed: 10.873333	Device ID: b1FF
+Time end: 3/10/2022 4:35:04 PM		Latitude: 38.048016319999995	Longitude: -78.52159726000001	Speed: 8.4	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:35:42 PM	Latitude: 38.0480003	Longitude: -78.5215988	Speed: 5.63	Device ID: b1FF
+Time end: 3/10/2022 4:35:42 PM		Latitude: 38.0480003	Longitude: -78.5215988	Speed: 1	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:36:02 PM	Latitude: 38.0480003	Longitude: -78.5215988	Speed: 8.91	Device ID: b1FF
+Time end: 3/10/2022 4:36:02 PM		Latitude: 38.0480003	Longitude: -78.5215988	Speed: 3.113	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:36:21 PM	Latitude: 38.04800759936666	Longitude: -78.52159150063333	Speed: 14.947667	Device ID: b1FF
+Time point 2: 3/10/2022 4:36:22 PM	Latitude: 38.0480003	Longitude: -78.5215988	Speed: 16	Device ID: b1FF
+Time end: 3/10/2022 4:36:22 PM		Latitude: 38.0480003	Longitude: -78.5215988	Speed: 8.32	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:41:12 PM	Latitude: 38.0479918895	Longitude: -78.5216365135	Speed: 8.905	Device ID: b1FF
+Time end: 3/10/2022 4:41:13 PM		Latitude: 38.04798397295	Longitude: -78.52164330335	Speed: 5.0505	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:41:33 PM	Latitude: 38.0480003	Longitude: -78.521604595	Speed: 11.1	Device ID: b1FF
+Time end: 3/10/2022 4:41:33 PM		Latitude: 38.0480003	Longitude: -78.5216203635	Speed: 5.93	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:41:34 PM	Latitude: 38.0480003	Longitude: -78.5216293	Speed: 1.8495	Device ID: b1FF
+Time end: 3/10/2022 4:41:34 PM		Latitude: 38.0480003	Longitude: -78.5216293	Speed: 1.6845	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:41:45 PM	Latitude: 38.048001448099996	Longitude: -78.52159781530001	Speed: 14.484	Device ID: b1FF
+Time end: 3/10/2022 4:41:45 PM		Latitude: 38.048001101	Longitude: -78.52159811300001	Speed: 14.64	Device ID: b1FF
+-
+Event 1:
+Time start: 3/10/2022 4:41:46 PM	Latitude: 38.0480003	Longitude: -78.52160271925001	Speed: 13.0725	Device ID: b1FF
+Time end: 3/10/2022 4:41:46 PM		Latitude: 38.0480003	Longitude: -78.52161374500001	Speed: 7.65	Device ID: b1FF
+-
+Event 1:
+Time start: 3/18/2022 3:06:51 PM	Latitude: 38.0509521544	Longitude: -78.550394312875	Speed: 6.823	Device ID: b1FF
+Time end: 3/18/2022 3:06:52 PM		Latitude: 38.05094092	Longitude: -78.5503744375	Speed: 10.9	Device ID: b1FF
+-
+Event 1:
+Time start: 3/22/2022 3:09:23 PM	Latitude: 38.029697050920355	Longitude: -78.44433161168071	Speed: 6.2353344	Device ID: b1FF
+Time end: 3/22/2022 3:09:23 PM		Latitude: 38.02969602205402	Longitude: -78.44431897242387	Speed: 6.928952	Device ID: b1FF
+-
+Event 1:
+Time start: 3/22/2022 3:12:08 PM	Latitude: 38.0239184131	Longitude: -78.43495121046666	Speed: 9.628166	Device ID: b1FF
+Time end: 3/22/2022 3:12:08 PM		Latitude: 38.023915953	Longitude: -78.43494712733333	Speed: 10.078333	Device ID: b1FF
+-
+Event 1:
+Time start: 4/7/2022 3:08:23 PM	Latitude: 38.02483703	Longitude: -78.527974221	Speed: 15.91	Device ID: b1FF
+Time end: 4/7/2022 3:08:23 PM		Latitude: 38.02483977666667	Longitude: -78.52797086366667	Speed: 16.203333	Device ID: b1FF
+-
+Event 1:
+Time start: 4/7/2022 3:12:52 PM	Latitude: 38.023919661	Longitude: -78.506647398	Speed: 13.66	Device ID: b1FF
+Time end: 4/7/2022 3:12:52 PM		Latitude: 38.023913480699996	Longitude: -78.5066430726	Speed: 15.442	Device ID: b1FF
+-
+Event 1:
+Time start: 4/7/2022 4:13:26 PM	Latitude: 38.025412048700005	Longitude: -78.4805374	Speed: 4.661	Device ID: b1FF
+Time end: 4/7/2022 4:13:27 PM		Latitude: 38.0254127607	Longitude: -78.4805374	Speed: 4.687667	Device ID: b1FF
+-
+Event 1:
+Time start: 4/9/2022 2:08:30 PM	Latitude: 38.0424194	Longitude: -78.5112839	Speed: 1.88	Device ID: b1FF
+Time end: 4/9/2022 2:08:30 PM		Latitude: 38.0424194	Longitude: -78.5112839	Speed: 1.98	Device ID: b1FF
+-
+Event 1:
+Time start: 4/9/2022 2:13:23 PM	Latitude: 38.02646713188571	Longitude: -78.52430617862856	Speed: 5.6598573	Device ID: b1FF
+Time point 2: 4/9/2022 2:13:24 PM	Latitude: 38.0264702	Longitude: -78.5243378	Speed: 3	Device ID: b1FF
+Time end: 4/9/2022 2:13:24 PM		Latitude: 38.0264702	Longitude: -78.52434588463333	Speed: 3.935	Device ID: b1FF
+-
+Event 1:
+Time start: 4/14/2022 2:58:23 PM	Latitude: 38.0242958	Longitude: -78.5276682443	Speed: 0.2652	Device ID: b1FF
+Time end: 4/14/2022 2:58:23 PM		Latitude: 38.0242958	Longitude: -78.52766814670001	Speed: 0.2588	Device ID: b1FF
+-
+Event 1:
+Time start: 4/14/2022 3:27:14 PM	Latitude: 38.025650981225	Longitude: -78.52629170840001	Speed: 12.62475	Device ID: b1FF
+Time point 2: 4/14/2022 3:27:15 PM	Latitude: 38.02565	Longitude: -78.5262833	Speed: 12	Device ID: b1FF
+Time end: 4/14/2022 3:27:15 PM		Latitude: 38.02564987023333	Longitude: -78.5262820029	Speed: 12.079333	Device ID: b1FF
+-
+Event 1:
+Time start: 4/19/2022 6:08:04 PM	Latitude: 38.0255188935	Longitude: -78.525264456	Speed: 15.145	Device ID: b1FF
+Time end: 4/19/2022 6:08:04 PM		Latitude: 38.02551572955	Longitude: -78.5252527008	Speed: 16.4485	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 1:34:44 PM	Latitude: 38.025200110899995	Longitude: -78.52739017126667	Speed: 16.185	Device ID: b1FF
+Time end: 4/28/2022 1:34:44 PM		Latitude: 38.025204124	Longitude: -78.52739612266667	Speed: 15.6	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 1:35:26 PM	Latitude: 38.02554673665	Longitude: -78.52520662254999	Speed: 4.161	Device ID: b1FF
+Time end: 4/28/2022 1:35:26 PM		Latitude: 38.025544252	Longitude: -78.52519834399999	Speed: 5.68	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 1:35:55 PM	Latitude: 38.0262146	Longitude: -78.52456765104544	Speed: 3.8752728	Device ID: b1FF
+Time end: 4/28/2022 1:35:55 PM		Latitude: 38.0262146	Longitude: -78.52456733772726	Speed: 3.9163637	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 1:38:07 PM	Latitude: 38.046913519499995	Longitude: -78.5240097	Speed: 5	Device ID: b1FF
+Time end: 4/28/2022 1:38:07 PM		Latitude: 38.046920594999996	Longitude: -78.5240097	Speed: 5	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 1:47:42 PM	Latitude: 38.049408	Longitude: -78.523468	Speed: 4.736	Device ID: b1FF
+Time end: 4/28/2022 1:47:42 PM		Latitude: 38.049408	Longitude: -78.523468	Speed: 7.72	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 2:02:26 PM	Latitude: 38.0267884504	Longitude: -78.529688844125	Speed: 11.34725	Device ID: b1FF
+Time end: 4/28/2022 2:02:26 PM		Latitude: 38.026782176	Longitude: -78.529686915	Speed: 11.79	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 2:04:22 PM	Latitude: 38.025527689575	Longitude: -78.52516803035	Speed: 12.8215	Device ID: b1FF
+Time end: 4/28/2022 2:04:22 PM		Latitude: 38.025528491075	Longitude: -78.52515921735	Speed: 13.4515	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 2:04:41 PM	Latitude: 38.0263044369	Longitude: -78.5244904	Speed: 4.056	Device ID: b1FF
+Time point 2: 4/28/2022 2:04:42 PM	Latitude: 38.0263176	Longitude: -78.5244904	Speed: 8	Device ID: b1FF
+Time end: 4/28/2022 2:04:42 PM		Latitude: 38.02632413636667	Longitude: -78.52447536550001	Speed: 9.799	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 2:36:15 PM	Latitude: 38.0272141	Longitude: -78.482277119025	Speed: 3.67375	Device ID: b1FF
+Time end: 4/28/2022 2:36:15 PM		Latitude: 38.0272141	Longitude: -78.4822779945	Speed: 3.775	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 2:37:14 PM	Latitude: 38.0286713	Longitude: -78.48586249280952	Speed: 4.954762	Device ID: b1FF
+Time point 2: 4/28/2022 2:37:15 PM	Latitude: 38.0286713	Longitude: -78.4858627	Speed: 5	Device ID: b1FF
+Time end: 4/28/2022 2:37:15 PM		Latitude: 38.0286713	Longitude: -78.48587375379999	Speed: 7.691	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 2:38:05 PM	Latitude: 38.025960264355554	Longitude: -78.48882614905555	Speed: 11.265667	Device ID: b1FF
+Time end: 4/28/2022 2:38:05 PM		Latitude: 38.025950160444445	Longitude: -78.48884301444444	Speed: 12.513333	Device ID: b1FF
+-
+Event 1:
+Time start: 4/28/2022 2:40:14 PM	Latitude: 38.0123986246	Longitude: -78.502450568	Speed: 11.45	Device ID: b1FF
+Time end: 4/28/2022 2:40:14 PM		Latitude: 38.012395192285716	Longitude: -78.50245451142857	Speed: 11.928572	Device ID: b1FF
+-
+Event 1:
+Time start: 5/12/2022 1:33:37 PM	Latitude: 38.0252120209	Longitude: -78.5274321408	Speed: 9.184	Device ID: b1FF
+Time end: 5/12/2022 1:33:37 PM		Latitude: 38.025219816766665	Longitude: -78.52743994453334	Speed: 10.442667	Device ID: b1FF
+-
+Event 1:
+Time start: 5/12/2022 1:34:27 PM	Latitude: 38.025543582175004	Longitude: -78.5252072545	Speed: 6.43275	Device ID: b1FF
+Time end: 5/12/2022 1:34:28 PM		Latitude: 38.025540605175	Longitude: -78.5251804745	Speed: 9.42275	Device ID: b1FF
+-
+Event 1:
+Time start: 5/13/2022 12:22:04 PM	Latitude: 38.025547	Longitude: -78.52520922933333	Speed: 6.24	Device ID: b1FF
+Time point 2: 5/13/2022 12:22:05 PM	Latitude: 38.025547	Longitude: -78.5252075	Speed: 6	Device ID: b1FF
+Time end: 5/13/2022 12:22:05 PM		Latitude: 38.025546599250006	Longitude: -78.52520349425	Speed: 6.35	Device ID: b1FF
+-
+Event 1:
+Time start: 5/13/2022 12:23:05 PM	Latitude: 38.026302688975	Longitude: -78.524600204775	Speed: 4.51225	Device ID: b1FF
+Time end: 5/13/2022 12:23:05 PM		Latitude: 38.026306588749996	Longitude: -78.52460119875	Speed: 5.0125	Device ID: b1FF
+-
+Event 1:
+Time start: 5/13/2022 7:09:29 PM	Latitude: 38.0596237	Longitude: -78.4898695835	Speed: 4.923	Device ID: b1FF
+Time end: 5/13/2022 7:09:29 PM		Latitude: 38.0596237	Longitude: -78.48987181	Speed: 5.58	Device ID: b1FF
+-
+Event 1:
+Time start: 5/14/2022 12:48:22 AM	Latitude: 38.0424052846	Longitude: -78.51130727813333	Speed: 6.713333	Device ID: b1FF
+Time end: 5/14/2022 12:48:22 AM		Latitude: 38.042407118	Longitude: -78.511310684	Speed: 7.4	Device ID: b1FF
+-
+Event 1:
+Time start: 5/17/2022 1:04:11 PM	Latitude: 38.03535979687778	Longitude: -78.51661283713334	Speed: 0.13622223	Device ID: b1FF
+Time end: 5/17/2022 1:04:11 PM		Latitude: 38.03535618534444	Longitude: -78.51661030953333	Speed: 0.041555557	Device ID: b1FF
+-
+Event 1:
+Time start: 5/27/2022 6:32:14 PM	Latitude: 38.0738831	Longitude: -78.4800797	Speed: 0.42	Device ID: b1FF
+Time end: 5/27/2022 6:32:14 PM		Latitude: 38.0738831	Longitude: -78.4800797	Speed: 0.333	Device ID: b1FF
+-
+Event 1:
+Time start: 6/10/2022 3:17:03 PM	Latitude: 38.03278212399999	Longitude: -78.499644472	Speed: 13	Device ID: b1FF
+Time end: 6/10/2022 3:17:03 PM		Latitude: 38.03277997683333	Longitude: -78.49965108466667	Speed: 13.541667	Device ID: b1FF
+-
+Event 1:
+Time start: 6/16/2022 12:01:30 PM	Latitude: 38.0242958	Longitude: -78.5276947	Speed: 14.833	Device ID: b1FF
+Time end: 6/16/2022 12:01:30 PM		Latitude: 38.0242958	Longitude: -78.5276947	Speed: 14.937	Device ID: b1FF
+-
+Event 1:
+Time start: 6/16/2022 1:43:26 PM	Latitude: 38.0258293	Longitude: -78.5241318	Speed: 19.313334	Device ID: b1FF
+Time end: 6/16/2022 1:43:26 PM		Latitude: 38.0258293	Longitude: -78.5241318	Speed: 19.913334	Device ID: b1FF
+-
+Event 1:
+Time start: 6/16/2022 1:43:52 PM	Latitude: 38.0258293	Longitude: -78.5241318	Speed: 18.193666	Device ID: b1FF
+Time end: 6/16/2022 1:43:52 PM		Latitude: 38.0258293	Longitude: -78.5241318	Speed: 20.877	Device ID: b1FF
+-
+Event 1:
+Time start: 6/16/2022 1:44:27 PM	Latitude: 38.0258293	Longitude: -78.5241318	Speed: 21.6145	Device ID: b1FF
+Time end: 6/16/2022 1:44:27 PM		Latitude: 38.0258293	Longitude: -78.5241318	Speed: 21.975	Device ID: b1FF
+-
+Event 1:
+Time start: 6/16/2022 5:54:30 PM	Latitude: 38.044374602779996	Longitude: -78.51423022886	Speed: 8.1804	Device ID: b1FF
+Time end: 6/16/2022 5:54:30 PM		Latitude: 38.04437522222	Longitude: -78.51422739613999	Speed: 8.3196	Device ID: b1FF
+-
+Event 1:
+Time start: 6/16/2022 5:56:22 PM	Latitude: 38.04920623195	Longitude: -78.52294109265	Speed: 8.7435	Device ID: b1FF
+Time end: 6/16/2022 5:56:22 PM		Latitude: 38.04921437545	Longitude: -78.52291086715	Speed: 12.0985	Device ID: b1FF
+-
+Event 1:
+Time start: 6/16/2022 6:06:22 PM	Latitude: 38.02678082775	Longitude: -78.5296667579	Speed: 13.05475	Device ID: b1FF
+Time end: 6/16/2022 6:06:23 PM		Latitude: 38.02677567775	Longitude: -78.5296614179	Speed: 13.70475	Device ID: b1FF
+-
+Event 1:
+Time start: 6/22/2022 3:39:46 PM	Latitude: 38.02896687150617	Longitude: -78.49526410286946	Speed: 14.592785	Device ID: b1FF
+Time end: 6/22/2022 3:39:46 PM		Latitude: 38.02896276517093	Longitude: -78.49526113164669	Speed: 14.718781	Device ID: b1FF
+-
+Event 1:
+Time start: 6/22/2022 4:35:09 PM	Latitude: 38.03665672	Longitude: -78.479384255	Speed: 5.05	Device ID: b1FF
+Time point 2: 6/22/2022 4:35:10 PM	Latitude: 38.0366592	Longitude: -78.4793854	Speed: 5	Device ID: b1FF
+Time end: 6/22/2022 4:35:10 PM		Latitude: 38.036661664300006	Longitude: -78.4793854	Speed: 5.494	Device ID: b1FF
+-
+Event 1:
+Time start: 7/7/2022 1:47:19 PM	Latitude: 38.031814047285714	Longitude: -78.507753353	Speed: 10.437143	Device ID: b1FF
+Time point 2: 7/7/2022 1:47:20 PM	Latitude: 38.0318222	Longitude: -78.5077515	Speed: 10	Device ID: b1FF
+Time end: 7/7/2022 1:47:20 PM		Latitude: 38.0318528032	Longitude: -78.5077350261	Speed: 14.319	Device ID: b1FF
+-
+Event 1:
+Time start: 7/28/2022 12:56:08 PM	Latitude: 38.025515378	Longitude: -78.52515765066666	Speed: 13.92	Device ID: b1FF
+Time end: 7/28/2022 12:56:09 PM		Latitude: 38.025514728299996	Longitude: -78.52515393739999	Speed: 14.212	Device ID: b1FF
+-
+Event 1:
+Time start: 7/28/2022 1:30:58 PM	Latitude: 38.12540326024	Longitude: -78.44273336058001	Speed: 7.1606	Device ID: b1FF
+Time end: 7/28/2022 1:30:58 PM		Latitude: 38.12542677544	Longitude: -78.44270738898001	Speed: 10.7486	Device ID: b1FF
+-
+Event 1:
+Time start: 7/28/2022 1:34:03 PM	Latitude: 38.1377854	Longitude: -78.4469757	Speed: 7.375	Device ID: b1FF
+Time end: 7/28/2022 1:34:03 PM		Latitude: 38.1377909304	Longitude: -78.4469757	Speed: 8.6015	Device ID: b1FF
+-
+Event 1:
+Time start: 7/28/2022 4:20:11 PM	Latitude: 38.02643693762	Longitude: -78.52499507670001	Speed: 2.8784	Device ID: b1FF
+Time end: 7/28/2022 4:20:11 PM		Latitude: 38.02643500118	Longitude: -78.5249931813	Speed: 3.1376	Device ID: b1FF
+-
+Event 1:
+Time start: 7/28/2022 4:25:48 PM	Latitude: 38.02425058355	Longitude: -78.5275421	Speed: 0.6935	Device ID: b1FF
+Time end: 7/28/2022 4:25:48 PM		Latitude: 38.02425111755	Longitude: -78.5275421	Speed: 0.6735	Device ID: b1FF
+-
+Event 1:
+Time start: 7/28/2022 4:25:52 PM	Latitude: 38.0242691	Longitude: -78.5275421	Speed: 0.6685	Device ID: b1FF
+Time end: 7/28/2022 4:25:52 PM		Latitude: 38.0242691	Longitude: -78.5275421	Speed: 0.6485	Device ID: b1FF
+-
+Event 1:
+Time start: 8/2/2022 11:58:51 AM	Latitude: 38.02553226766667	Longitude: -78.524963292	Speed: 14.866667	Device ID: b1FF
+Time end: 8/2/2022 11:58:52 AM		Latitude: 38.02552669533333	Longitude: -78.524937304	Speed: 19.733334	Device ID: b1FF
+-
+Event 1:
+Time start: 8/2/2022 1:34:09 PM	Latitude: 38.008934	Longitude: -78.5081787076	Speed: 7.999	Device ID: b1FF
+Time point 2: 8/2/2022 1:34:10 PM	Latitude: 38.008934	Longitude: -78.5081863	Speed: 7	Device ID: b1FF
+Time end: 8/2/2022 1:34:10 PM		Latitude: 38.0089090889	Longitude: -78.5082361222	Speed: 17.263	Device ID: b1FF
+-
+Event 1:
+Time start: 8/2/2022 2:31:27 PM	Latitude: 38.0256483054	Longitude: -78.5262533744	Speed: 14.48	Device ID: b1FF
+Time end: 8/2/2022 2:31:27 PM		Latitude: 38.02564778786	Longitude: -78.52624423496	Speed: 14.932	Device ID: b1FF
+-
+Event 1:
+Time start: 8/5/2022 4:41:06 PM	Latitude: 38.0333279268	Longitude: -78.4840934054	Speed: 15.636	Device ID: b1FF
+Time end: 8/5/2022 4:41:06 PM		Latitude: 38.033332596360005	Longitude: -78.48408943658	Speed: 15.6972	Device ID: b1FF
+-
+Event 1:
+Time start: 8/5/2022 5:14:50 PM	Latitude: 38.0501765423	Longitude: -78.5260046846	Speed: 3.759	Device ID: b1FF
+Time end: 8/5/2022 5:14:50 PM		Latitude: 38.050179239	Longitude: -78.526010078	Speed: 4.87	Device ID: b1FF
+-
+Event 1:
+Time start: 8/5/2022 5:18:47 PM	Latitude: 38.0500488	Longitude: -78.5130997	Speed: 1	Device ID: b1FF
+Time end: 8/5/2022 5:18:47 PM		Latitude: 38.0500488	Longitude: -78.51309943295	Speed: 1.0455	Device ID: b1FF
+-
+Event 1:
+Time start: 8/5/2022 5:46:14 PM	Latitude: 38.028783579233334	Longitude: -78.5165024	Speed: 18.676666	Device ID: b1FF
+Time end: 8/5/2022 5:46:14 PM		Latitude: 38.0287739269	Longitude: -78.5165024	Speed: 17.91	Device ID: b1FF
+-
+Event 1:
+Time start: 8/10/2022 1:25:44 PM	Latitude: 38.014472905333335	Longitude: -78.50028639933333	Speed: 9.3	Device ID: b1FF
+Time end: 8/10/2022 1:25:44 PM		Latitude: 38.01446849093333	Longitude: -78.50027960863333	Speed: 7.965	Device ID: b1FF
+-
+Event 1:
+Time start: 8/12/2022 11:57:07 AM	Latitude: 38.026802593949995	Longitude: -78.52964062365	Speed: 7.0925	Device ID: b1FF
+Time point 2: 8/12/2022 11:57:08 AM	Latitude: 38.0268021	Longitude: -78.5296402	Speed: 7	Device ID: b1FF
+Time end: 8/12/2022 11:57:08 AM		Latitude: 38.0267974457	Longitude: -78.52963228830001	Speed: 8.037	Device ID: b1FF
+-
+Event 1:
+Time start: 8/18/2022 5:48:00 PM	Latitude: 38.0242691	Longitude: -78.5277176	Speed: 0.96975	Device ID: b1FF
+Time end: 8/18/2022 5:48:00 PM		Latitude: 38.0242691	Longitude: -78.5277176	Speed: 0.86775	Device ID: b1FF
+-
+Event 1:
+Time start: 8/29/2022 2:03:07 PM	Latitude: 38.0263070802	Longitude: -78.5245276198	Speed: 17.03	Device ID: b1FF
+Time end: 8/29/2022 2:03:07 PM		Latitude: 38.026322245799996	Longitude: -78.5245124542	Speed: 19.87	Device ID: b1FF
+-
+Event 1:
+Time start: 9/8/2022 6:08:23 PM	Latitude: 38.033532772933334	Longitude: -78.52178879573333	Speed: 6.7093334	Device ID: b1FF
+Time end: 9/8/2022 6:08:23 PM		Latitude: 38.033530776726664	Longitude: -78.52178769130667	Speed: 6.6202664	Device ID: b1FF
+-
+Event 1:
+Time start: 9/12/2022 3:16:11 PM	Latitude: 38.0312467865	Longitude: -78.4967194	Speed: 5.025	Device ID: b1FF
+Time end: 9/12/2022 3:16:11 PM		Latitude: 38.03124647945	Longitude: -78.4967194	Speed: 5.0825	Device ID: b1FF
+-
+Event 1:
+Time start: 9/20/2022 11:49:18 AM	Latitude: 38.023956068816666	Longitude: -78.52699515893333	Speed: 10.5245	Device ID: b1FF
+Time end: 9/20/2022 11:49:18 AM		Latitude: 38.02395657748333	Longitude: -78.52699582026668	Speed: 10.5845	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2022 11:27:46 AM	Latitude: 38.026263774	Longitude: -78.524543889	Speed: 7.035	Device ID: b1FF
+Time point 2: 10/20/2022 11:27:47 AM	Latitude: 38.0262642	Longitude: -78.5245438	Speed: 7	Device ID: b1FF
+Time end: 10/20/2022 11:27:47 AM		Latitude: 38.026264621525	Longitude: -78.5245431305	Speed: 7.06825	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2022 12:18:32 PM	Latitude: 38.02771060275	Longitude: -78.511322244	Speed: 19.2825	Device ID: b1FF
+Time end: 10/20/2022 12:18:32 PM		Latitude: 38.02770880975	Longitude: -78.511319956	Speed: 19.0925	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2022 6:40:37 PM	Latitude: 38.032650329571425	Longitude: -78.49960385914285	Speed: 12.837143	Device ID: b1FF
+Time end: 10/20/2022 6:40:37 PM		Latitude: 38.032652238014286	Longitude: -78.49960767602857	Speed: 12.925428	Device ID: b1FF
+-
+Event 1:
+Time start: 10/25/2022 3:13:00 PM	Latitude: 38.048014718	Longitude: -78.50832653399999	Speed: 12.7	Device ID: b1FF
+Time end: 10/25/2022 3:13:00 PM		Latitude: 38.048001448099996	Longitude: -78.5083379153	Speed: 10.215	Device ID: b1FF
+-
+Event 1:
+Time start: 11/9/2022 10:00:36 PM	Latitude: 38.0314865	Longitude: -78.4459677865	Speed: 10.65	Device ID: b1FF
+Time end: 11/9/2022 10:00:37 PM		Latitude: 38.0314865	Longitude: -78.4459610745	Speed: 11.45	Device ID: b1FF
+-
+Event 1:
+Time start: 11/29/2022 2:28:39 PM	Latitude: 38.02555396488572	Longitude: -78.52531463657144	Speed: 13.826	Device ID: b1FF
+Time end: 11/29/2022 2:28:39 PM		Latitude: 38.02555391911429	Longitude: -78.52531428342857	Speed: 13.814	Device ID: b1FF
+-
+Event 1:
+Time start: 12/9/2022 6:01:37 PM	Latitude: 38.05398515282	Longitude: -78.49813241684	Speed: 5.8328	Device ID: b1FF
+Time end: 12/9/2022 6:01:37 PM		Latitude: 38.05398106478	Longitude: -78.49813363435999	Speed: 6.4712	Device ID: b1FF
+-
+Event 1:
+Time start: 12/15/2022 4:28:23 PM	Latitude: 38.025218986	Longitude: -78.5273556795	Speed: 17.1	Device ID: b1FF
+Time end: 12/15/2022 4:28:23 PM		Latitude: 38.025219830199994	Longitude: -78.52735495815	Speed: 16.47	Device ID: b1FF
+-
+Event 1:
+Time start: 12/16/2022 6:13:17 PM	Latitude: 38.0242691	Longitude: -78.527771	Speed: 1.9567262	Device ID: b1FF
+Time end: 12/16/2022 6:13:17 PM		Latitude: 38.0242691	Longitude: -78.527771	Speed: 1.8814676	Device ID: b1FF
+-
+Event 1:
+Time start: 12/16/2022 6:13:21 PM	Latitude: 38.0242691	Longitude: -78.5277939	Speed: 0.62	Device ID: b1FF
+Time end: 12/16/2022 6:13:21 PM		Latitude: 38.0242691	Longitude: -78.5277939	Speed: 0.57	Device ID: b1FF
+-
+Event 1:
+Time start: 12/16/2022 7:12:39 PM	Latitude: 38.076286126275	Longitude: -78.47877855795001	Speed: 5.8165	Device ID: b1FF
+Time end: 12/16/2022 7:12:39 PM		Latitude: 38.076300918525	Longitude: -78.47876596845	Speed: 8.9515	Device ID: b1FF
+-
+Event 1:
+Time start: 12/20/2022 7:53:17 PM	Latitude: 38.0262304275	Longitude: -78.5245699425	Speed: 18.325	Device ID: b1FF
+Time end: 12/20/2022 7:53:17 PM		Latitude: 38.026234776500004	Longitude: -78.5245686455	Speed: 18.195	Device ID: b1FF
+-
+Event 1:
+Time start: 2/21/2023 5:31:28 PM	Latitude: 38.00749444301667	Longitude: -78.50979709126666	Speed: 20.428667	Device ID: b1FF
+Time end: 2/21/2023 5:31:28 PM		Latitude: 38.007493883483335	Longitude: -78.50979390273334	Speed: 20.751333	Device ID: b1FF
+-
+Event 1:
+Time start: 3/16/2023 3:59:45 PM	Latitude: 38.028771091625	Longitude: -78.5164795	Speed: 7.0825	Device ID: b1FF
+Time end: 3/16/2023 3:59:45 PM		Latitude: 38.0287629736375	Longitude: -78.5164795	Speed: 7.64775	Device ID: b1FF
+-
+Event 1:
+Time start: 3/16/2023 4:01:44 PM	Latitude: 38.0264969	Longitude: -78.5244141	Speed: 3	Device ID: b1FF
+Time end: 3/16/2023 4:01:44 PM		Latitude: 38.0265008617	Longitude: -78.5244193765	Speed: 4.903	Device ID: b1FF
+-
+Event 1:
+Time start: 3/21/2023 6:14:45 PM	Latitude: 38.02502017915	Longitude: -78.52437547915001	Speed: 8.389	Device ID: b1FF
+Time end: 3/21/2023 6:14:45 PM		Latitude: 38.02502315615	Longitude: -78.52437845615	Speed: 10.209	Device ID: b1FF
+-
+Event 1:
+Time start: 4/18/2023 6:28:40 PM	Latitude: 38.04098172245	Longitude: -78.5266418	Speed: 7.6205	Device ID: b1FF
+Time point 2: 4/18/2023 6:28:41 PM	Latitude: 38.0409851	Longitude: -78.5266418	Speed: 8	Device ID: b1FF
+Time end: 4/18/2023 6:28:41 PM		Latitude: 38.0409974717	Longitude: -78.52664391139999	Speed: 9.725	Device ID: b1FF
+-
+Event 1:
+Time start: 6/2/2023 6:28:35 PM	Latitude: 38.025719984925004	Longitude: -78.515078829225	Speed: 32.33675	Device ID: b1FF
+Time end: 6/2/2023 6:28:35 PM		Latitude: 38.025704219675	Longitude: -78.515075204975	Speed: 33.80925	Device ID: b1FF
+-
+Event 1:
+Time start: 6/23/2023 1:48:48 PM	Latitude: 38.02896485405	Longitude: -78.4952545	Speed: 4.5785	Device ID: b1FF
+Time end: 6/23/2023 1:48:48 PM		Latitude: 38.0289540005	Longitude: -78.4952545	Speed: 4.985	Device ID: b1FF
+-
+Event 1:
+Time start: 6/23/2023 5:16:43 PM	Latitude: 38.026197431899995	Longitude: -78.5245342681	Speed: 11.785	Device ID: b1FF
+Time end: 6/23/2023 5:16:43 PM		Latitude: 38.026197511999996	Longitude: -78.524534188	Speed: 11.8	Device ID: b1FF
+-
+Event 1:
+Time start: 6/29/2023 12:44:52 PM	Latitude: 38.014513742666665	Longitude: -78.50021845100001	Speed: 1.5366666	Device ID: b1FF
+Time end: 6/29/2023 12:44:52 PM		Latitude: 38.01450514533333	Longitude: -78.500197287	Speed: 5.5233335	Device ID: b1FF
+-
+Event 1:
+Time start: 7/6/2023 1:04:30 PM	Latitude: 38.1256657475	Longitude: -78.51697632444001	Speed: 18.7216	Device ID: b1FF
+Time end: 7/6/2023 1:04:30 PM		Latitude: 38.1256617525	Longitude: -78.51697751716	Speed: 19.1024	Device ID: b1FF
+-
+Event 1:
+Time start: 7/13/2023 5:47:29 PM	Latitude: 38.03350772	Longitude: -78.48363763	Speed: 25.65	Device ID: b1FF
+Time end: 7/13/2023 5:47:29 PM		Latitude: 38.0335316768	Longitude: -78.4837223482	Speed: 33.861	Device ID: b1FF
+-
+Event 1:
+Time start: 7/24/2023 2:46:34 PM	Latitude: 38.0987499978	Longitude: -78.46344874536666	Speed: 8.735	Device ID: b1FF
+Time end: 7/24/2023 2:46:34 PM		Latitude: 38.0987476122	Longitude: -78.46345016963333	Speed: 9.015	Device ID: b1FF
+-
+Event 1:
+Time start: 7/24/2023 5:32:04 PM	Latitude: 38.467373197549996	Longitude: -78.8565979	Speed: 4.829	Device ID: b1FF
+Time end: 7/24/2023 5:32:04 PM		Latitude: 38.46736897895	Longitude: -78.8565979	Speed: 7.041	Device ID: b1FF
+-
+Event 1:
+Time start: 7/25/2023 7:27:02 PM	Latitude: 38.02400535879	Longitude: -78.52691595879	Speed: 0.1067	Device ID: b1FF
+Time end: 7/25/2023 7:27:03 PM		Latitude: 38.02400706791	Longitude: -78.52691766791	Speed: 0.0843	Device ID: b1FF
+-
+Event 1:
+Time start: 7/25/2023 8:16:24 PM	Latitude: 38.085153777527275	Longitude: -78.47755105713637	Speed: 10.677818	Device ID: b1FF
+Time end: 7/25/2023 8:16:24 PM		Latitude: 38.08515310610909	Longitude: -78.47755023604546	Speed: 10.631272	Device ID: b1FF
+-
+Event 1:
+Time start: 7/26/2023 11:12:28 AM	Latitude: 38.02624515865	Longitude: -78.5245667	Speed: 3.685	Device ID: b1FF
+Time end: 7/26/2023 11:12:28 AM		Latitude: 38.02624614335	Longitude: -78.5245667	Speed: 4.115	Device ID: b1FF
+-
+Event 1:
+Time start: 8/19/2023 4:15:05 PM	Latitude: 38.0247803	Longitude: -78.5244141	Speed: 3	Device ID: b1FF
+Time point 2: 8/19/2023 4:15:06 PM	Latitude: 38.0247803	Longitude: -78.5244141	Speed: 20	Device ID: b1FF
+Time end: 8/19/2023 4:15:06 PM		Latitude: 38.0247803	Longitude: -78.5244141	Speed: 21.228	Device ID: b1FF
+-
+Event 1:
+Time start: 8/19/2023 4:15:10 PM	Latitude: 38.0247803	Longitude: -78.5244141	Speed: 22.4225	Device ID: b1FF
+Time end: 8/19/2023 4:15:10 PM		Latitude: 38.0247803	Longitude: -78.5244141	Speed: 22.475	Device ID: b1FF
+-
+Event 1:
+Time start: 9/1/2023 4:50:29 PM	Latitude: 38.036009623074996	Longitude: -78.514204059725	Speed: 10.75475	Device ID: b1FF
+Time end: 9/1/2023 4:50:30 PM		Latitude: 38.036035527	Longitude: -78.514188361	Speed: 16.31	Device ID: b1FF
+-
+Event 1:
+Time start: 9/8/2023 2:04:34 PM	Latitude: 38.040249104000004	Longitude: -78.47796419666668	Speed: 15	Device ID: b1FF
+Time end: 9/8/2023 2:04:34 PM		Latitude: 38.0402433382	Longitude: -78.47796824483333	Speed: 15	Device ID: b1FF
+-
+Event 1:
+Time start: 9/20/2023 7:04:45 PM	Latitude: 38.03216675385714	Longitude: -78.50853401971429	Speed: 12.964286	Device ID: b1FF
+Time end: 9/20/2023 7:04:45 PM		Latitude: 38.03217211167143	Longitude: -78.50853980854286	Speed: 13.367857	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2023 1:07:55 PM	Latitude: 38.024807861250004	Longitude: -78.52706514750001	Speed: 6.7375	Device ID: b1FF
+Time end: 10/20/2023 1:07:56 PM		Latitude: 38.024814119275	Longitude: -78.52706772405	Speed: 8.04025	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2023 1:19:49 PM	Latitude: 38.050779553061226	Longitude: -78.5467682	Speed: 6.4489794	Device ID: b1FF
+Time end: 10/20/2023 1:19:49 PM		Latitude: 38.05076892599823	Longitude: -78.5467682	Speed: 9.233363	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2023 1:21:54 PM	Latitude: 38.05038515083333	Longitude: -78.52796163166667	Speed: 7.1666665	Device ID: b1FF
+Time point 2: 10/20/2023 1:21:55 PM	Latitude: 38.0503807	Longitude: -78.5279465	Speed: 6	Device ID: b1FF
+Time end: 10/20/2023 1:21:55 PM		Latitude: 38.05038062275	Longitude: -78.52794631115	Speed: 6.02175	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2023 1:23:45 PM	Latitude: 38.0443153	Longitude: -78.5143051	Speed: 2	Device ID: b1FF
+Time end: 10/20/2023 1:23:45 PM		Latitude: 38.0443048764	Longitude: -78.5142857961	Speed: 4.3276	Device ID: b1FF
+-
+Event 1:
+Time start: 10/20/2023 1:28:51 PM	Latitude: 38.035475097959996	Longitude: -78.50104141928	Speed: 1.8142	Device ID: b1FF
+Time end: 10/20/2023 1:28:51 PM		Latitude: 38.035461363959996	Longitude: -78.50103180727999	Speed: 3.8842	Device ID: b1FF
+-
+Event 1:
+Time start: 10/23/2023 4:39:56 PM	Latitude: 38.028668381866666	Longitude: -78.51635832288333	Speed: 5.7651668	Device ID: b1FF
+Time end: 10/23/2023 4:39:56 PM		Latitude: 38.0286653728	Longitude: -78.51639072495	Speed: 8.6165	Device ID: b1FF
+-
+Event 1:
+Time start: 10/25/2023 4:16:40 PM	Latitude: 38.050504306	Longitude: -78.507792042	Speed: 9.053333	Device ID: b1FF
+Time end: 10/25/2023 4:16:40 PM		Latitude: 38.05050098695	Longitude: -78.50778794865	Speed: 9.517333	Device ID: b1FF
+-
+Event 1:
+Time start: 10/30/2023 6:04:30 PM	Latitude: 38.02626539763333	Longitude: -78.5247726	Speed: 25.813667	Device ID: b1FF
+Time end: 10/30/2023 6:04:31 PM		Latitude: 38.026238482	Longitude: -78.5247726	Speed: 27.78	Device ID: b1FF
+-
+Event 1:
+Time start: 12/4/2023 7:37:18 PM	Latitude: 38.0267601629	Longitude: -78.52963952346666	Speed: 13.713	Device ID: b1FF
+Time end: 12/4/2023 7:37:18 PM		Latitude: 38.0267597891	Longitude: -78.52963906053333	Speed: 13.727	Device ID: b1FF
+-
+Event 1:
+Time start: 12/4/2023 7:37:23 PM	Latitude: 38.02671203882	Longitude: -78.52931617248	Speed: 33.9302	Device ID: b1FF
+Time end: 12/4/2023 7:37:24 PM		Latitude: 38.026718324	Longitude: -78.529195836	Speed: 42.64	Device ID: b1FF
+-
+Event 1:
+Time start: 12/29/2023 12:15:06 PM	Latitude: 38.0256071253	Longitude: -78.52378756104287	Speed: 7.2644286	Device ID: b1FF
+Time end: 12/29/2023 12:15:06 PM		Latitude: 38.025605555700004	Longitude: -78.52379132767143	Speed: 7.2027144	Device ID: b1FF
+-
+Event 1:
+Time start: 12/29/2023 12:15:07 PM	Latitude: 38.02558058966667	Longitude: -78.52382864563333	Speed: 10.269667	Device ID: b1FF
+Time end: 12/29/2023 12:15:07 PM		Latitude: 38.02557852966667	Longitude: -78.52383123963334	Speed: 10.609667	Device ID: b1FF
+-
+Event 1:
+Time start: 1/3/2024 7:16:06 PM	Latitude: 38.02424200462727	Longitude: -78.52777151403636	Speed: 3.0051818	Device ID: b1FF
+Time point 2: 1/3/2024 7:16:07 PM	Latitude: 38.0242424	Longitude: -78.527771	Speed: 3	Device ID: b1FF
+Time end: 1/3/2024 7:16:07 PM		Latitude: 38.0242552961	Longitude: -78.52776363425	Speed: 5.6565	Device ID: b1FF
+-
+Event 1:
+Time start: 1/22/2024 6:55:47 PM	Latitude: 38.04208045	Longitude: -78.52651669000001	Speed: 13.15	Device ID: b1FF
+Time end: 1/22/2024 6:55:48 PM		Latitude: 38.04218805925	Longitude: -78.52652734645	Speed: 27.42825	Device ID: b1FF
+-
+Event 1:
+Time start: 1/24/2024 3:26:14 PM	Latitude: 38.02421319557273	Longitude: -78.52770554887273	Speed: 0.10936364	Device ID: b1FF
+Time end: 1/24/2024 3:26:14 PM		Latitude: 38.024213299663636	Longitude: -78.52770509796363	Speed: 0.10481818	Device ID: b1FF
+-
+Event 1:
+Time start: 1/29/2024 5:17:44 PM	Latitude: 38.025650049585714	Longitude: -78.52628420665715	Speed: 15.020429	Device ID: b1FF
+Time end: 1/29/2024 5:17:45 PM		Latitude: 38.02565	Longitude: -78.5262833	Speed: 15	Device ID: b1FF
+-
+Event 1:
+Time start: 1/29/2024 9:55:08 PM	Latitude: 38.0512995034	Longitude: -78.50081378883333	Speed: 2.9056666	Device ID: b1FF
+Time end: 1/29/2024 9:55:08 PM		Latitude: 38.0512961214	Longitude: -78.50081185716667	Speed: 3.6023333	Device ID: b1FF
+-

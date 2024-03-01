@@ -1,0 +1,45 @@
+Vehicle: V0703
+Time start: 7/2/2021 9:13:39 AM	Latitude: 38.046441461200004	Longitude: -78.522027766425	Speed: 3.90825	Device ID: b8B
+Time end: 7/2/2021 9:13:39 AM		Latitude: 38.04644254	Longitude: -78.52202959125	Speed: 3.7125	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 9/14/2021 12:54:53 PM	Latitude: 38.0352249	Longitude: -78.5142990391	Speed: 15.957	Device ID: b8B
+Time end: 9/14/2021 12:54:53 PM		Latitude: 38.0352249	Longitude: -78.5142979711	Speed: 15.597	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 11/16/2021 1:37:52 PM	Latitude: 38.038738595690006	Longitude: -78.51534635575999	Speed: 29.1222	Device ID: b8B
+Time end: 11/16/2021 1:37:52 PM		Latitude: 38.03873734591	Longitude: -78.51534753064	Speed: 29.0858	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 1/7/2022 12:34:32 PM	Latitude: 38.047875592900006	Longitude: -78.52107193405	Speed: 21.1585	Device ID: b8B
+Time end: 1/7/2022 12:34:32 PM		Latitude: 38.0478758599	Longitude: -78.52107231555	Speed: 21.1135	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 2/2/2022 12:36:53 PM	Latitude: 38.0355218963	Longitude: -78.5140991	Speed: 30.46725	Device ID: b8B
+Time end: 2/2/2022 12:36:53 PM		Latitude: 38.035508876	Longitude: -78.5140991	Speed: 27.72	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 2/15/2022 5:00:06 PM	Latitude: 38.04231218133333	Longitude: -78.51167341866667	Speed: 34.72	Device ID: b8B
+Time end: 2/15/2022 5:00:06 PM		Latitude: 38.042316504666665	Longitude: -78.51166909533335	Speed: 33.32	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 3/22/2022 5:40:49 PM	Latitude: 38.0354022904	Longitude: -78.514122	Speed: 26.922	Device ID: b8B
+Time end: 3/22/2022 5:40:49 PM		Latitude: 38.0353817064	Longitude: -78.514122	Speed: 15.302	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 7/28/2022 12:57:57 PM	Latitude: 38.035828611250004	Longitude: -78.5140228	Speed: 20.5064	Device ID: b8B
+Time end: 7/28/2022 12:57:57 PM		Latitude: 38.03584423875	Longitude: -78.5140228	Speed: 20.2936	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 7/28/2022 1:00:09 PM	Latitude: 38.035567213	Longitude: -78.5140991	Speed: 30.74	Device ID: b8B
+Time point 2: 7/28/2022 1:00:10 PM	Latitude: 38.0355568	Longitude: -78.5140991	Speed: 31	Device ID: b8B
+Time end: 7/28/2022 1:00:10 PM		Latitude: 38.035532347200004	Longitude: -78.5140991	Speed: 24.098	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 3/6/2023 12:57:42 PM	Latitude: 38.041670253999996	Longitude: -78.51245466399999	Speed: 28.7	Device ID: b8B
+Time end: 3/6/2023 12:57:42 PM		Latitude: 38.04166998695	Longitude: -78.51245501119999	Speed: 28.6475	Device ID: b8B
+-
+Vehicle: V0703
+Time start: 3/15/2023 4:49:03 PM	Latitude: 38.04449906984286	Longitude: -78.51410207480001	Speed: 21.738857	Device ID: b8B
+Time end: 3/15/2023 4:49:03 PM		Latitude: 38.04450378828571	Longitude: -78.514107176	Speed: 21.805714	Device ID: b8B
+-

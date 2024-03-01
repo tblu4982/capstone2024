@@ -1,0 +1,17 @@
+Vehicle: V0781
+Time start: 9/24/2021 4:19:14 PM	Latitude: 38.0444412	Longitude: -78.52275719825	Speed: 2.891	Device ID: b144
+Time end: 9/24/2021 4:19:14 PM		Latitude: 38.0444412	Longitude: -78.52275658825	Speed: 2.611	Device ID: b144
+-
+Vehicle: V0781
+Time start: 7/20/2023 3:35:15 PM	Latitude: 38.04064445633333	Longitude: -78.50801155796667	Speed: 45.641666	Device ID: b144
+Time end: 7/20/2023 3:35:15 PM		Latitude: 38.04064528033334	Longitude: -78.50801299236667	Speed: 45.441666	Device ID: b144
+-
+Vehicle: V0781
+Time start: 10/3/2023 1:12:17 PM	Latitude: 38.0407785609	Longitude: -78.5083034856	Speed: 37.714	Device ID: b144
+Time point 2: 10/3/2023 1:12:18 PM	Latitude: 38.0408058	Longitude: -78.5083389	Speed: 37	Device ID: b144
+Time end: 10/3/2023 1:12:18 PM		Latitude: 38.040809538	Longitude: -78.508344241	Speed: 34.69	Device ID: b144
+-
+Vehicle: V0781
+Time start: 11/1/2023 5:36:15 PM	Latitude: 38.04133874	Longitude: -78.50619046	Speed: 14.8	Device ID: b144
+Time end: 11/1/2023 5:36:15 PM		Latitude: 38.0413294896	Longitude: -78.5061961669	Speed: 12.562	Device ID: b144
+-

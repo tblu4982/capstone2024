@@ -1,0 +1,575 @@
+Event 133:
+Time start: 3/18/2020 6:03:18 PM	Latitude: 38.05253810202857	Longitude: -78.4990791862	Speed: 22.559	Device ID: bEF
+Time end: 3/18/2020 6:03:18 PM		Latitude: 38.05253979257143	Longitude: -78.499077028	Speed: 22.46	Device ID: bEF
+-
+Event 133:
+Time start: 3/19/2020 12:45:44 PM	Latitude: 38.050655435	Longitude: -78.50334040833334	Speed: 20.966667	Device ID: bEF
+Time end: 3/19/2020 12:45:44 PM		Latitude: 38.05065840315	Longitude: -78.50338281841667	Speed: 19.410334	Device ID: bEF
+-
+Event 133:
+Time start: 3/19/2020 12:45:45 PM	Latitude: 38.050660775	Longitude: -78.50341670833333	Speed: 18.166666	Device ID: bEF
+Time end: 3/19/2020 12:45:45 PM		Latitude: 38.0506613535	Longitude: -78.50342497416668	Speed: 17.863333	Device ID: bEF
+-
+Event 133:
+Time start: 3/19/2020 12:48:43 PM	Latitude: 38.046391376675004	Longitude: -78.5099872317625	Speed: 27.736626	Device ID: bEF
+Time end: 3/19/2020 12:48:44 PM		Latitude: 38.046349179	Longitude: -78.5099154585	Speed: 23.705	Device ID: bEF
+-
+Event 133:
+Time start: 3/19/2020 12:50:25 PM	Latitude: 38.03701000045	Longitude: -78.5146778049875	Speed: 27.325874	Device ID: bEF
+Time end: 3/19/2020 12:50:26 PM		Latitude: 38.03689291755	Longitude: -78.5146317195125	Speed: 20.959126	Device ID: bEF
+-
+Event 133:
+Time start: 3/24/2020 12:34:00 PM	Latitude: 38.05199863608571	Longitude: -78.54937593427144	Speed: 12.776143	Device ID: bEF
+Time end: 3/24/2020 12:34:00 PM		Latitude: 38.05200181351429	Longitude: -78.54937389612857	Speed: 12.791857	Device ID: bEF
+-
+Event 133:
+Time start: 4/22/2020 3:48:54 PM	Latitude: 38.043216997	Longitude: -78.512413	Speed: 20.206	Device ID: bEF
+Time end: 4/22/2020 3:48:55 PM		Latitude: 38.04322166633333	Longitude: -78.512413	Speed: 19.934	Device ID: bEF
+-
+Event 133:
+Time start: 5/15/2020 3:43:40 PM	Latitude: 38.04284249826667	Longitude: -78.51187945253334	Speed: 15.922667	Device ID: bEF
+Time end: 5/15/2020 3:43:40 PM		Latitude: 38.04284308906	Longitude: -78.51187886772	Speed: 15.9196	Device ID: bEF
+-
+Event 133:
+Time start: 7/8/2020 5:30:15 PM	Latitude: 38.03284406191429	Longitude: -78.51131922937142	Speed: 6.150857	Device ID: bEF
+Time end: 7/8/2020 5:30:15 PM		Latitude: 38.03284427962857	Longitude: -78.51131894594286	Speed: 6.173714	Device ID: bEF
+-
+Event 133:
+Time start: 7/9/2020 5:07:39 PM	Latitude: 38.03277291975317	Longitude: -78.5113794973165	Speed: 6.118103	Device ID: bEF
+Time end: 7/9/2020 5:07:39 PM		Latitude: 38.0327724545311	Longitude: -78.5113799347277	Speed: 6.140059	Device ID: bEF
+-
+Event 133:
+Time start: 7/13/2020 2:48:22 PM	Latitude: 38.046548559652415	Longitude: -78.50959725788486	Speed: 26.024588	Device ID: bEF
+Time point 2: 7/13/2020 2:48:23 PM	Latitude: 38.0464897	Longitude: -78.5096436	Speed: 24	Device ID: bEF
+Time end: 7/13/2020 2:48:23 PM		Latitude: 38.04650477059307	Longitude: -78.50971168103838	Speed: 27.218962	Device ID: bEF
+-
+Event 133:
+Time start: 7/14/2020 5:52:33 PM	Latitude: 38.036939011777775	Longitude: -78.51459892977778	Speed: 18.906666	Device ID: bEF
+Time end: 7/14/2020 5:52:33 PM		Latitude: 38.036938299666666	Longitude: -78.51459859066667	Speed: 18.88	Device ID: bEF
+-
+Event 133:
+Time start: 7/27/2020 10:59:43 AM	Latitude: 38.04996824488333	Longitude: -78.51281978066667	Speed: 28.476667	Device ID: bEF
+Time end: 7/27/2020 10:59:43 AM		Latitude: 38.0500068785	Longitude: -78.51285638	Speed: 26.7	Device ID: bEF
+-
+Event 133:
+Time start: 7/28/2020 12:14:46 PM	Latitude: 38.03534960044	Longitude: -78.51415314807	Speed: 26.3113	Device ID: bEF
+Time end: 7/28/2020 12:14:47 PM		Latitude: 38.0353279	Longitude: -78.5141525	Speed: 26	Device ID: bEF
+-
+Event 133:
+Time start: 8/13/2020 4:04:30 PM	Latitude: 38.04788334257143	Longitude: -78.50397715608571	Speed: 22.94843	Device ID: bEF
+Time point 2: 8/13/2020 4:04:31 PM	Latitude: 38.0478706	Longitude: -78.5039597	Speed: 24	Device ID: bEF
+Time end: 8/13/2020 4:04:31 PM		Latitude: 38.04787000371667	Longitude: -78.50395991361667	Speed: 24.028	Device ID: bEF
+-
+Event 133:
+Time start: 8/14/2020 1:00:48 PM	Latitude: 38.036834483	Longitude: -78.5145520024	Speed: 22	Device ID: bEF
+Time end: 8/14/2020 1:00:48 PM		Latitude: 38.03682956842857	Longitude: -78.51457402731428	Speed: 22	Device ID: bEF
+-
+Event 133:
+Time start: 9/16/2020 11:22:38 AM	Latitude: 38.03327579775	Longitude: -78.49814031027499	Speed: 15.73925	Device ID: bEF
+Time end: 9/16/2020 11:22:38 AM		Latitude: 38.0332565625	Longitude: -78.49812606124999	Speed: 19.2875	Device ID: bEF
+-
+Event 133:
+Time start: 9/17/2020 3:10:45 PM	Latitude: 38.03533139772	Longitude: -78.5142819137	Speed: 24.0106	Device ID: bEF
+Time end: 9/17/2020 3:10:45 PM		Latitude: 38.0353296588	Longitude: -78.51428342300001	Speed: 24.174	Device ID: bEF
+-
+Event 133:
+Time start: 10/8/2020 11:22:44 AM	Latitude: 38.044403756183335	Longitude: -78.50501946601666	Speed: 17.164667	Device ID: bEF
+Time end: 10/8/2020 11:22:44 AM		Latitude: 38.044403547	Longitude: -78.505019377	Speed: 17.16	Device ID: bEF
+-
+Event 133:
+Time start: 10/16/2020 2:51:48 PM	Latitude: 38.0368658249	Longitude: -78.5145865807	Speed: 24	Device ID: bEF
+Time end: 10/16/2020 2:51:49 PM		Latitude: 38.03681408	Longitude: -78.51461794000001	Speed: 24	Device ID: bEF
+-
+Event 133:
+Time start: 10/27/2020 3:19:18 PM	Latitude: 38.03759913134546	Longitude: -78.48940019822727	Speed: 18.106909	Device ID: bEF
+Time end: 10/27/2020 3:19:18 PM		Latitude: 38.03758167447273	Longitude: -78.48941462586363	Speed: 18.409454	Device ID: bEF
+-
+Event 133:
+Time start: 10/29/2020 1:29:46 PM	Latitude: 38.037870692153845	Longitude: -78.48998886246923	Speed: 11.179231	Device ID: bEF
+Time end: 10/29/2020 1:29:46 PM		Latitude: 38.037870533692306	Longitude: -78.48998892116154	Speed: 11.171538	Device ID: bEF
+-
+Event 133:
+Time start: 11/4/2020 8:09:31 PM	Latitude: 38.03744499514286	Longitude: -78.490395482	Speed: 0.64428574	Device ID: bEF
+Time end: 11/4/2020 8:09:32 PM		Latitude: 38.03744507142857	Longitude: -78.4903957	Speed: 0.64285713	Device ID: bEF
+-
+Event 133:
+Time start: 11/6/2020 6:47:05 PM	Latitude: 38.0476279782	Longitude: -78.506038669	Speed: 52.678	Device ID: bEF
+Time end: 11/6/2020 6:47:06 PM		Latitude: 38.04764601578	Longitude: -78.5061184951	Speed: 52.3762	Device ID: bEF
+-
+Event 133:
+Time start: 11/9/2020 1:39:26 PM	Latitude: 38.03742665682	Longitude: -78.49042031547	Speed: 4.0984	Device ID: bEF
+Time end: 11/9/2020 1:39:26 PM		Latitude: 38.03742731898	Longitude: -78.49042315383001	Speed: 4.1976	Device ID: bEF
+-
+Event 133:
+Time start: 11/13/2020 11:30:58 AM	Latitude: 38.03780953335	Longitude: -78.49020846956667	Speed: 6.5368333	Device ID: bEF
+Time end: 11/13/2020 11:30:58 AM		Latitude: 38.03780897265	Longitude: -78.49020750776667	Speed: 6.3898335	Device ID: bEF
+-
+Event 133:
+Time start: 11/18/2020 11:26:03 AM	Latitude: 38.03762227888235	Longitude: -78.4902843422353	Speed: 7.5388236	Device ID: bEF
+Time end: 11/18/2020 11:26:04 AM		Latitude: 38.03762247884117	Longitude: -78.49028394231766	Speed: 7.513412	Device ID: bEF
+-
+Event 133:
+Time start: 11/20/2020 5:10:39 PM	Latitude: 38.03747906625	Longitude: -78.49041912125	Speed: 4.075	Device ID: bEF
+Time point 2: 11/20/2020 5:10:40 PM	Latitude: 38.0374794	Longitude: -78.4904175	Speed: 4	Device ID: bEF
+Time end: 11/20/2020 5:10:40 PM		Latitude: 38.0374789105	Longitude: -78.49041568133335	Speed: 4.11	Device ID: bEF
+-
+Event 133:
+Time start: 11/20/2020 5:10:40 PM	Latitude: 38.03747800715	Longitude: -78.49041232506667	Speed: 4.313	Device ID: bEF
+Time end: 11/20/2020 5:10:40 PM		Latitude: 38.03747718835	Longitude: -78.49040928293334	Speed: 4.497	Device ID: bEF
+-
+Event 133:
+Time start: 12/3/2020 1:57:34 PM	Latitude: 38.0328016256	Longitude: -78.494747040675	Speed: 29.50575	Device ID: bEF
+Time end: 12/3/2020 1:57:35 PM		Latitude: 38.032758304	Longitude: -78.494796817	Speed: 27.33	Device ID: bEF
+-
+Event 133:
+Time start: 12/3/2020 2:11:59 PM	Latitude: 38.03786742366667	Longitude: -78.48998149636667	Speed: 16.856667	Device ID: bEF
+Time end: 12/3/2020 2:11:59 PM		Latitude: 38.03786718333333	Longitude: -78.48998131833334	Speed: 16.833334	Device ID: bEF
+-
+Event 133:
+Time start: 1/19/2021 4:32:21 PM	Latitude: 38.050770266933334	Longitude: -78.5010147689	Speed: 15.005333	Device ID: bEF
+Time end: 1/19/2021 4:32:21 PM		Latitude: 38.05077038266666	Longitude: -78.50101448400001	Speed: 14.986667	Device ID: bEF
+-
+Event 133:
+Time start: 1/19/2021 6:26:25 PM	Latitude: 38.050794794	Longitude: -78.5009815619	Speed: 14.616	Device ID: bEF
+Time end: 1/19/2021 6:26:25 PM		Latitude: 38.05079470571429	Longitude: -78.50098142128572	Speed: 14.622857	Device ID: bEF
+-
+Event 133:
+Time start: 2/24/2021 7:15:06 PM	Latitude: 38.03435096934	Longitude: -78.48522566205	Speed: 33.1089	Device ID: bEF
+Time end: 2/24/2021 7:15:06 PM		Latitude: 38.0343411406	Longitude: -78.4852283345	Speed: 33.301	Device ID: bEF
+-
+Event 133:
+Time start: 3/4/2021 11:27:10 AM	Latitude: 38.0376053	Longitude: -78.49024246247973	Speed: 0	Device ID: bEF
+Time end: 3/4/2021 11:27:10 AM		Latitude: 38.0376053	Longitude: -78.49024246274415	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 3/18/2021 11:15:41 AM	Latitude: 38.03911338342072	Longitude: -78.5078278	Speed: 0	Device ID: bEF
+Time end: 3/18/2021 11:15:41 AM		Latitude: 38.039113382226496	Longitude: -78.5078278	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 3/22/2021 2:40:21 PM	Latitude: 38.036171	Longitude: -78.5177612	Speed: 0	Device ID: bEF
+Time end: 3/22/2021 2:40:22 PM		Latitude: 38.036171	Longitude: -78.5177612	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 3/26/2021 1:01:23 PM	Latitude: 38.0343285	Longitude: -78.5019379	Speed: 0	Device ID: bEF
+Time end: 3/26/2021 1:01:24 PM		Latitude: 38.0343285	Longitude: -78.5019379	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 4/7/2021 1:32:06 PM	Latitude: 38.0319214	Longitude: -78.5100784	Speed: 0	Device ID: bEF
+Time end: 4/7/2021 1:32:07 PM		Latitude: 38.0319214	Longitude: -78.5100784	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 4/8/2021 10:09:44 AM	Latitude: 38.0355339	Longitude: -78.5169907	Speed: 0	Device ID: bEF
+Time end: 4/8/2021 10:09:44 AM		Latitude: 38.0355339	Longitude: -78.5169907	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 4/9/2021 4:07:46 PM	Latitude: 38.05080354957143	Longitude: -78.500990809	Speed: 9.861428	Device ID: bEF
+Time end: 4/9/2021 4:07:46 PM		Latitude: 38.05080372942857	Longitude: -78.500990482	Speed: 9.848572	Device ID: bEF
+-
+Event 133:
+Time start: 4/21/2021 12:40:00 PM	Latitude: 38.0393715	Longitude: -78.5168152	Speed: 0	Device ID: bEF
+Time end: 4/21/2021 12:40:01 PM		Latitude: 38.0393715	Longitude: -78.5168152	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 5/12/2021 3:45:42 PM	Latitude: 38.0352516	Longitude: -78.5077515	Speed: 0	Device ID: bEF
+Time end: 5/12/2021 3:45:43 PM		Latitude: 38.0352516	Longitude: -78.5077515	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 5/20/2021 10:10:27 AM	Latitude: 38.03325138977042	Longitude: -78.5141754	Speed: 0	Device ID: bEF
+Time end: 5/20/2021 10:10:27 AM		Latitude: 38.033251387353424	Longitude: -78.5141754	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 5/25/2021 6:02:41 PM	Latitude: 38.0329496593625	Longitude: -78.5112224772	Speed: 6.433875	Device ID: bEF
+Time end: 5/25/2021 6:02:41 PM		Latitude: 38.032949669375	Longitude: -78.51122244	Speed: 6.43125	Device ID: bEF
+-
+Event 133:
+Time start: 5/26/2021 4:08:19 PM	Latitude: 38.0345612	Longitude: -78.5035019	Speed: 0	Device ID: bEF
+Time end: 5/26/2021 4:08:19 PM		Latitude: 38.0345612	Longitude: -78.5035019	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 6/2/2021 10:11:56 AM	Latitude: 38.0387344	Longitude: -78.5031662	Speed: 0	Device ID: bEF
+Time end: 6/2/2021 10:11:57 AM		Latitude: 38.0387344	Longitude: -78.5031662	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 6/3/2021 6:18:18 PM	Latitude: 38.036171	Longitude: -78.5177612	Speed: 0	Device ID: bEF
+Time end: 6/3/2021 6:18:18 PM		Latitude: 38.036171	Longitude: -78.5177612	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 6/3/2021 6:18:19 PM	Latitude: 38.036171	Longitude: -78.5177612	Speed: 0	Device ID: bEF
+Time end: 6/3/2021 6:18:20 PM		Latitude: 38.036171	Longitude: -78.5177612	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 6/6/2021 3:07:46 PM	Latitude: 38.0361481	Longitude: -78.5177307	Speed: 0	Device ID: bEF
+Time end: 6/6/2021 3:07:46 PM		Latitude: 38.0361481	Longitude: -78.5177307	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 6/10/2021 12:33:55 PM	Latitude: 38.034097585762495	Longitude: -78.508774020275	Speed: 16.12375	Device ID: bEF
+Time end: 6/10/2021 12:33:55 PM		Latitude: 38.034098806512496	Longitude: -78.508773886775	Speed: 16.04875	Device ID: bEF
+-
+Event 133:
+Time start: 6/10/2021 4:36:19 PM	Latitude: 38.0322991463	Longitude: -78.5088372491	Speed: 19.802	Device ID: bEF
+Time end: 6/10/2021 4:36:20 PM		Latitude: 38.03229901659	Longitude: -78.50883833863	Speed: 19.7986	Device ID: bEF
+-
+Event 133:
+Time start: 6/10/2021 5:29:22 PM	Latitude: 38.03895813961818	Longitude: -78.50263889290909	Speed: 6.773091	Device ID: bEF
+Time end: 6/10/2021 5:29:22 PM		Latitude: 38.03895805709091	Longitude: -78.50263857454546	Speed: 6.7854548	Device ID: bEF
+-
+Event 133:
+Time start: 6/16/2021 10:43:02 AM	Latitude: 38.0344849	Longitude: -78.5033722	Speed: 0	Device ID: bEF
+Time end: 6/16/2021 10:43:02 AM		Latitude: 38.0344849	Longitude: -78.5033722	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 6/23/2021 10:22:41 AM	Latitude: 38.0345612	Longitude: -78.50331938981161	Speed: 0	Device ID: bEF
+Time end: 6/23/2021 10:22:41 AM		Latitude: 38.0345612	Longitude: -78.50331939076823	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 7/1/2021 10:27:21 AM	Latitude: 38.0389366	Longitude: -78.5172195	Speed: 0	Device ID: bEF
+Time end: 7/1/2021 10:27:22 AM		Latitude: 38.0389366	Longitude: -78.5172195	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 7/6/2021 1:05:06 PM	Latitude: 38.0331268	Longitude: -78.5139999	Speed: 0	Device ID: bEF
+Time end: 7/6/2021 1:05:06 PM		Latitude: 38.0331268	Longitude: -78.5139999	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 8/4/2021 12:54:55 PM	Latitude: 38.0356865	Longitude: -78.5017853	Speed: 0	Device ID: bEF
+Time end: 8/4/2021 12:54:56 PM		Latitude: 38.0356865	Longitude: -78.5017853	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 8/5/2021 11:44:01 AM	Latitude: 38.0305405	Longitude: -78.5123596	Speed: 0	Device ID: bEF
+Time end: 8/5/2021 11:44:01 AM		Latitude: 38.0305405	Longitude: -78.5123596	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 9/28/2021 12:18:55 PM	Latitude: 38.0333824	Longitude: -78.5001755	Speed: 0.199	Device ID: bEF
+Time end: 9/28/2021 12:18:55 PM		Latitude: 38.0333824	Longitude: -78.5001755	Speed: 0.19666667	Device ID: bEF
+-
+Event 133:
+Time start: 9/29/2021 3:13:11 PM	Latitude: 38.03224441388889	Longitude: -78.508741885	Speed: 23.322222	Device ID: bEF
+Time end: 9/29/2021 3:13:12 PM		Latitude: 38.03224958161111	Longitude: -78.5087575997	Speed: 22.839777	Device ID: bEF
+-
+Event 133:
+Time start: 10/4/2021 12:04:49 PM	Latitude: 38.046243665275	Longitude: -78.509665166875	Speed: 11.0155	Device ID: bEF
+Time end: 10/4/2021 12:04:49 PM		Latitude: 38.04624471325	Longitude: -78.50965918125	Speed: 11.565	Device ID: bEF
+-
+Event 133:
+Time start: 10/4/2021 12:06:52 PM	Latitude: 38.0508423	Longitude: -78.501042168	Speed: 13.52	Device ID: bEF
+Time end: 10/4/2021 12:06:52 PM		Latitude: 38.0508423	Longitude: -78.50103480505	Speed: 12.8445	Device ID: bEF
+-
+Event 133:
+Time start: 10/4/2021 12:24:44 PM	Latitude: 38.0525514589	Longitude: -78.499066946	Speed: 22.636	Device ID: bEF
+Time end: 10/4/2021 12:24:45 PM		Latitude: 38.052544337	Longitude: -78.49900288	Speed: 23.88	Device ID: bEF
+-
+Event 133:
+Time start: 10/5/2021 3:12:00 PM	Latitude: 38.0317542453	Longitude: -78.5016713941	Speed: 22.414	Device ID: bEF
+Time end: 10/5/2021 3:12:02 PM		Latitude: 38.03169168753	Longitude: -78.50166252041001	Speed: 22.1814	Device ID: bEF
+-
+Event 133:
+Time start: 10/6/2021 5:33:43 PM	Latitude: 38.032189825462495	Longitude: -78.5089561459625	Speed: 16.541	Device ID: bEF
+Time end: 10/6/2021 5:33:44 PM		Latitude: 38.032189358875	Longitude: -78.50896407387499	Speed: 17.03	Device ID: bEF
+-
+Event 133:
+Time start: 10/14/2021 4:31:47 PM	Latitude: 38.033432	Longitude: -78.5001221	Speed: 0	Device ID: bEF
+Time end: 10/14/2021 4:31:47 PM		Latitude: 38.033432	Longitude: -78.5001221	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 10/22/2021 11:29:43 AM	Latitude: 38.0361481	Longitude: -78.5177841	Speed: 0	Device ID: bEF
+Time end: 10/22/2021 11:29:44 AM		Latitude: 38.0361481	Longitude: -78.5177841	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/1/2021 10:25:46 AM	Latitude: 38.042458088	Longitude: -78.511482896	Speed: 16.04	Device ID: bEF
+Time end: 11/1/2021 10:25:46 AM		Latitude: 38.04245924533333	Longitude: -78.51148040400001	Speed: 16.46	Device ID: bEF
+-
+Event 133:
+Time start: 11/3/2021 12:00:25 PM	Latitude: 38.034584	Longitude: -78.50342403159407	Speed: 0	Device ID: bEF
+Time end: 11/3/2021 12:00:26 PM		Latitude: 38.034584	Longitude: -78.50342403042042	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:05 AM	Latitude: 38.034818241714994	Longitude: -78.50335062229487	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:06 AM		Latitude: 38.034818256819186	Longitude: -78.5033506352494	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:06 AM	Latitude: 38.034818263687725	Longitude: -78.5033506411404	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:07 AM		Latitude: 38.03481827439408	Longitude: -78.50335065032301	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:07 AM	Latitude: 38.034818280093155	Longitude: -78.50335065521098	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:08 AM		Latitude: 38.034818296630355	Longitude: -78.50335066939456	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:09 AM	Latitude: 38.034818312442816	Longitude: -78.50335068295657	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:10 AM		Latitude: 38.034818313431096	Longitude: -78.50335068380419	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:10 AM	Latitude: 38.03481832907884	Longitude: -78.50335069722492	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:10 AM		Latitude: 38.0348183295071	Longitude: -78.50335069759223	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:10 AM	Latitude: 38.03481832957298	Longitude: -78.50335069764873	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:11 AM		Latitude: 38.03481833197779	Longitude: -78.50335069971129	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:11 AM	Latitude: 38.03481834597841	Longitude: -78.5033507117193	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:12 AM		Latitude: 38.03481835383523	Longitude: -78.50335071845792	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 11:32:17 AM	Latitude: 38.03481844108378	Longitude: -78.50335079328907	Speed: 0	Device ID: bEF
+Time end: 11/8/2021 11:32:18 AM		Latitude: 38.03481844607458	Longitude: -78.50335079756958	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/8/2021 12:05:30 PM	Latitude: 38.05079969609	Longitude: -78.50106663411	Speed: 15.6452	Device ID: bEF
+Time end: 11/8/2021 12:05:30 PM		Latitude: 38.0507989251	Longitude: -78.50106545290001	Speed: 15.628	Device ID: bEF
+-
+Event 133:
+Time start: 11/12/2021 4:00:13 PM	Latitude: 38.0546303	Longitude: -78.5071869	Speed: 0	Device ID: bEF
+Time end: 11/12/2021 4:00:14 PM		Latitude: 38.0546303	Longitude: -78.5071869	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/12/2021 5:30:13 PM	Latitude: 38.0546303	Longitude: -78.5071869	Speed: 0	Device ID: bEF
+Time end: 11/12/2021 5:30:13 PM		Latitude: 38.0546303	Longitude: -78.5071869	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/12/2021 5:30:14 PM	Latitude: 38.0546303	Longitude: -78.5071869	Speed: 0	Device ID: bEF
+Time end: 11/12/2021 5:30:15 PM		Latitude: 38.0546303	Longitude: -78.5071869	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/15/2021 7:16:42 PM	Latitude: 38.03614675851591	Longitude: -78.51773223240691	Speed: 0	Device ID: bEF
+Time end: 11/15/2021 7:16:43 PM		Latitude: 38.036146753934005	Longitude: -78.51773223764093	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 11/30/2021 3:01:26 PM	Latitude: 38.050781801	Longitude: -78.501044447	Speed: 17.83	Device ID: bEF
+Time end: 11/30/2021 3:01:26 PM		Latitude: 38.05078027815	Longitude: -78.50103937304999	Speed: 17.3645	Device ID: bEF
+-
+Event 133:
+Time start: 11/30/2021 4:50:33 PM	Latitude: 38.0337677	Longitude: -78.5000458	Speed: 0	Device ID: bEF
+Time end: 11/30/2021 4:50:34 PM		Latitude: 38.0337677	Longitude: -78.5000458	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 12/8/2021 12:24:46 PM	Latitude: 38.034584	Longitude: -78.5033188	Speed: 0	Device ID: bEF
+Time end: 12/8/2021 12:24:47 PM		Latitude: 38.034584	Longitude: -78.5033188	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 12/15/2021 3:41:16 PM	Latitude: 38.0507933767	Longitude: -78.50107436746667	Speed: 16.323334	Device ID: bEF
+-
+Event 133:
+Time start: 12/15/2021 6:37:03 PM	Latitude: 38.0503311	Longitude: -78.5005035	Speed: 0	Device ID: bEF
+Time end: 12/15/2021 6:37:04 PM		Latitude: 38.0503311	Longitude: -78.5005035	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 1/3/2022 11:48:02 AM	Latitude: 38.0508028795	Longitude: -78.501029303875	Speed: 19.04975	Device ID: bEF
+Time end: 1/3/2022 11:48:02 AM		Latitude: 38.0508064845	Longitude: -78.501025165125	Speed: 18.75225	Device ID: bEF
+-
+Event 133:
+Time start: 1/7/2022 3:17:01 PM	Latitude: 38.05078041616667	Longitude: -78.50103145685713	Speed: 11	Device ID: bEF
+Time end: 1/7/2022 3:17:01 PM		Latitude: 38.0507791445	Longitude: -78.50102939685713	Speed: 11	Device ID: bEF
+-
+Event 133:
+Time start: 1/13/2022 11:27:58 AM	Latitude: 38.0500984	Longitude: -78.5006104	Speed: 0	Device ID: bEF
+Time end: 1/13/2022 11:27:58 AM		Latitude: 38.0500984	Longitude: -78.5006104	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 1/13/2022 11:27:59 AM	Latitude: 38.0500984	Longitude: -78.5006104	Speed: 0	Device ID: bEF
+Time end: 1/13/2022 11:27:59 AM		Latitude: 38.0500984	Longitude: -78.5006104	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 2/1/2022 6:23:39 PM	Latitude: 38.0321274	Longitude: -78.5099792	Speed: 0	Device ID: bEF
+Time end: 2/1/2022 6:23:40 PM		Latitude: 38.0321274	Longitude: -78.5099792	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 2/4/2022 12:35:26 PM	Latitude: 38.050797444	Longitude: -78.501011024	Speed: 16.8	Device ID: bEF
+Time end: 2/4/2022 12:35:27 PM		Latitude: 38.0507980403	Longitude: -78.50100863879999	Speed: 16.576666	Device ID: bEF
+-
+Event 133:
+Time start: 3/7/2022 4:19:17 PM	Latitude: 38.050803585	Longitude: -78.501023845	Speed: 19.75	Device ID: bEF
+Time end: 3/7/2022 4:19:17 PM		Latitude: 38.0508037363	Longitude: -78.50102315310001	Speed: 19.665	Device ID: bEF
+-
+Event 133:
+Time start: 3/25/2022 4:40:48 PM	Latitude: 38.0333824	Longitude: -78.5025024	Speed: 0	Device ID: bEF
+Time end: 3/25/2022 4:40:48 PM		Latitude: 38.0333824	Longitude: -78.5025024	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 3/25/2022 4:40:48 PM	Latitude: 38.0333824	Longitude: -78.5025024	Speed: 0	Device ID: bEF
+Time end: 3/25/2022 4:40:48 PM		Latitude: 38.0333824	Longitude: -78.5025024	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 4/11/2022 4:43:50 PM	Latitude: 38.0334854	Longitude: -78.5120773	Speed: 0	Device ID: bEF
+Time end: 4/11/2022 4:43:50 PM		Latitude: 38.0334854	Longitude: -78.5120773	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 4/12/2022 1:20:12 PM	Latitude: 38.05077690505714	Longitude: -78.50102694009286	Speed: 16.62457	Device ID: bEF
+Time end: 4/12/2022 1:20:12 PM		Latitude: 38.05077562705714	Longitude: -78.50102499459285	Speed: 16.584572	Device ID: bEF
+-
+Event 133:
+Time start: 4/14/2022 11:57:56 AM	Latitude: 38.05079428296	Longitude: -78.50101725367999	Speed: 17.9182	Device ID: bEF
+Time end: 4/14/2022 11:57:56 AM		Latitude: 38.050795152	Longitude: -78.501016216	Speed: 17.84	Device ID: bEF
+-
+Event 133:
+Time start: 4/18/2022 12:25:57 PM	Latitude: 38.0355339	Longitude: -78.5167847	Speed: 0	Device ID: bEF
+Time end: 4/18/2022 12:25:57 PM		Latitude: 38.0355339	Longitude: -78.5167847	Speed: 0	Device ID: bEF
+-
+Event 133:
+Time start: 8/2/2022 2:29:46 PM	Latitude: 38.0424640536	Longitude: -78.5115396576	Speed: 17.464	Device ID: bEF
+Time end: 8/2/2022 2:29:46 PM		Latitude: 38.04246408566	Longitude: -78.51153997806	Speed: 17.4934	Device ID: bEF
+-
+Event 133:
+Time start: 9/16/2022 3:36:44 PM	Latitude: 38.0507889	Longitude: -78.5010377326	Speed: 17.602	Device ID: bEF
+Time end: 9/16/2022 3:36:44 PM		Latitude: 38.0507889	Longitude: -78.501036054	Speed: 17.58	Device ID: bEF
+-
+Event 133:
+Time start: 10/13/2022 6:14:31 PM	Latitude: 38.036957943000004	Longitude: -78.514633953	Speed: 22.03	Device ID: bEF
+Time end: 10/13/2022 6:14:31 PM		Latitude: 38.03695684214286	Longitude: -78.514633735	Speed: 21.992857	Device ID: bEF
+-
+Event 133:
+Time start: 10/14/2022 12:50:32 PM	Latitude: 38.032812339433335	Longitude: -78.49602533095	Speed: 17.756666	Device ID: bEF
+Time end: 10/14/2022 12:50:32 PM		Latitude: 38.032811354	Longitude: -78.496022283	Speed: 17.6	Device ID: bEF
+-
+Event 133:
+Time start: 10/18/2022 4:58:47 PM	Latitude: 38.032828863499994	Longitude: -78.496016584	Speed: 12.855	Device ID: bEF
+Time end: 10/18/2022 4:58:47 PM		Latitude: 38.032823961225	Longitude: -78.4960102104	Speed: 12.91925	Device ID: bEF
+-
+Event 133:
+Time start: 10/20/2022 3:53:45 PM	Latitude: 38.036866878599994	Longitude: -78.5146097962	Speed: 23.066	Device ID: bEF
+Time end: 10/20/2022 3:53:45 PM		Latitude: 38.036865352599996	Longitude: -78.51461025420001	Speed: 23.006	Device ID: bEF
+-
+Event 133:
+Time start: 10/25/2022 1:14:46 PM	Latitude: 38.036733516	Longitude: -78.514801956	Speed: 17.36	Device ID: bEF
+Time end: 10/25/2022 1:14:46 PM		Latitude: 38.03673370613333	Longitude: -78.51480333063334	Speed: 17.3255	Device ID: bEF
+-
+Event 133:
+Time start: 10/26/2022 6:12:07 PM	Latitude: 38.0351753	Longitude: -78.51486568881667	Speed: 4.3056664	Device ID: bEF
+Time end: 10/26/2022 6:12:08 PM		Latitude: 38.0351753	Longitude: -78.51486459518333	Speed: 4.3343334	Device ID: bEF
+-
+Event 133:
+Time start: 11/9/2022 3:46:11 PM	Latitude: 38.03674303341666	Longitude: -78.51463393266667	Speed: 20.744333	Device ID: bEF
+Time end: 11/9/2022 3:46:11 PM		Latitude: 38.03674291325	Longitude: -78.514634894	Speed: 20.749	Device ID: bEF
+-
+Event 133:
+Time start: 11/17/2022 12:50:51 PM	Latitude: 38.037845022	Longitude: -78.489869676	Speed: 21.46	Device ID: bEF
+Time end: 11/17/2022 12:50:51 PM		Latitude: 38.03784458966667	Longitude: -78.48986916733334	Speed: 21.39	Device ID: bEF
+-
+Event 133:
+Time start: 11/18/2022 12:44:55 PM	Latitude: 38.033731997800004	Longitude: -78.509491	Speed: 8.2622	Device ID: bEF
+Time end: 11/18/2022 12:44:55 PM		Latitude: 38.033729258	Longitude: -78.509491	Speed: 8.342	Device ID: bEF
+-
+Event 133:
+Time start: 11/18/2022 4:05:08 PM	Latitude: 38.05259992525	Longitude: -78.49904823764999	Speed: 24.41625	Device ID: bEF
+Time end: 11/18/2022 4:05:08 PM		Latitude: 38.0525989725	Longitude: -78.4990459085	Speed: 24.4625	Device ID: bEF
+-
+Event 133:
+Time start: 11/30/2022 11:11:27 AM	Latitude: 38.032619653524996	Longitude: -78.51448295525	Speed: 21.279	Device ID: bEF
+Time end: 11/30/2022 11:11:27 AM		Latitude: 38.032618699	Longitude: -78.51448329	Speed: 21.24	Device ID: bEF
+-
+Event 133:
+Time start: 12/13/2022 6:49:06 PM	Latitude: 38.05117859456	Longitude: -78.50057244930001	Speed: 7.2404	Device ID: bEF
+Time end: 12/13/2022 6:49:06 PM		Latitude: 38.05117869376	Longitude: -78.5005728003	Speed: 7.2684	Device ID: bEF
+-
+Event 133:
+Time start: 12/14/2022 6:56:51 PM	Latitude: 38.0524840777	Longitude: -78.49908188066668	Speed: 25.604666	Device ID: bEF
+Time end: 12/14/2022 6:56:51 PM		Latitude: 38.052484229	Longitude: -78.49908071333334	Speed: 25.593334	Device ID: bEF
+-
+Event 133:
+Time start: 1/2/2023 11:24:41 AM	Latitude: 38.0508002475	Longitude: -78.5010585725	Speed: 17.45	Device ID: bEF
+Time end: 1/2/2023 11:24:41 AM		Latitude: 38.050800648	Longitude: -78.501057428	Speed: 17.36	Device ID: bEF
+-
+Event 133:
+Time start: 1/4/2023 12:18:53 PM	Latitude: 38.033621951246154	Longitude: -78.50769310153846	Speed: 10.789769	Device ID: bEF
+Time end: 1/4/2023 12:18:53 PM		Latitude: 38.0336214994	Longitude: -78.50768684	Speed: 10.629	Device ID: bEF
+-
+Event 133:
+Time start: 1/11/2023 2:49:47 PM	Latitude: 38.04631499918572	Longitude: -78.50980392374287	Speed: 20.304857	Device ID: bEF
+Time end: 1/11/2023 2:49:47 PM		Latitude: 38.046314335385716	Longitude: -78.50980279454286	Speed: 20.260857	Device ID: bEF
+-
+Event 133:
+Time start: 1/25/2023 1:27:34 PM	Latitude: 38.03377425419231	Longitude: -78.51426193767692	Speed: 17.882616	Device ID: bEF
+Time end: 1/25/2023 1:27:34 PM		Latitude: 38.033773954269236	Longitude: -78.5142625457077	Speed: 17.88046	Device ID: bEF
+-
+Event 133:
+Time start: 3/6/2023 6:48:33 PM	Latitude: 38.0379884106	Longitude: -78.5072405672	Speed: 17.869	Device ID: bEF
+Time end: 3/6/2023 6:48:33 PM		Latitude: 38.0379886954	Longitude: -78.50724003813333	Speed: 17.821	Device ID: bEF
+-
+Event 133:
+Time start: 3/15/2023 3:16:22 PM	Latitude: 38.046370557	Longitude: -78.50981515525	Speed: 17.1475	Device ID: bEF
+Time end: 3/15/2023 3:16:22 PM		Latitude: 38.0463675463	Longitude: -78.509809720975	Speed: 16.82025	Device ID: bEF
+-
+Event 133:
+Time start: 3/31/2023 10:20:36 AM	Latitude: 38.0366859	Longitude: -78.514525158275	Speed: 8.8945	Device ID: bEF
+Time point 2: 3/31/2023 10:20:37 AM	Latitude: 38.0366859	Longitude: -78.5145111	Speed: 10	Device ID: bEF
+Time end: 3/31/2023 10:20:37 AM		Latitude: 38.0366448069375	Longitude: -78.5144839911875	Speed: 12.06325	Device ID: bEF
+-
+Event 133:
+Time start: 3/31/2023 10:23:18 AM	Latitude: 38.036944550475	Longitude: -78.507666482725	Speed: 14.74325	Device ID: bEF
+Time end: 3/31/2023 10:23:18 AM		Latitude: 38.036944857525	Longitude: -78.507665605275	Speed: 14.61675	Device ID: bEF
+-
+Event 133:
+Time start: 3/31/2023 10:24:08 AM	Latitude: 38.03776080236923	Longitude: -78.50676734216923	Speed: 10.402154	Device ID: bEF
+Time end: 3/31/2023 10:24:08 AM		Latitude: 38.03776520655384	Longitude: -78.50676471275385	Speed: 10.333231	Device ID: bEF
+-
+Event 133:
+Time start: 3/31/2023 10:24:11 AM	Latitude: 38.03782242163077	Longitude: -78.50673055383076	Speed: 9.437846	Device ID: bEF
+Time end: 3/31/2023 10:24:15 AM		Latitude: 38.03789607375384	Longitude: -78.50668658155385	Speed: 8.285231	Device ID: bEF
+-
+Event 133:
+Time start: 3/31/2023 10:24:27 AM	Latitude: 38.0378862479	Longitude: -78.50671534785	Speed: 4.0975	Device ID: bEF
+Time end: 3/31/2023 10:24:27 AM		Latitude: 38.037879005899995	Longitude: -78.50671967151668	Speed: 4.380833	Device ID: bEF
+-
+Event 133:
+Time start: 4/21/2023 12:25:00 PM	Latitude: 38.04642700666667	Longitude: -78.50985314666667	Speed: 22.666666	Device ID: bEF
+Time end: 4/21/2023 12:25:00 PM		Latitude: 38.046423242155555	Longitude: -78.50984582975556	Speed: 22.482222	Device ID: bEF
+-
+Event 133:
+Time start: 4/27/2023 12:28:58 PM	Latitude: 38.05080828543461	Longitude: -78.50099284225385	Speed: 15.933885	Device ID: bEF
+Time end: 4/27/2023 12:28:58 PM		Latitude: 38.05080819607692	Longitude: -78.50099257523077	Speed: 15.933077	Device ID: bEF
+-
+Event 133:
+Time start: 4/27/2023 4:30:41 PM	Latitude: 38.0500984	Longitude: -78.5005569	Speed: 10.4872	Device ID: bEF
+Time end: 4/27/2023 4:30:41 PM		Latitude: 38.0500984	Longitude: -78.5005569	Speed: 10.5688	Device ID: bEF
+-
+Event 133:
+Time start: 5/10/2023 5:06:53 PM	Latitude: 38.03854630728571	Longitude: -78.51612984517143	Speed: 14.695429	Device ID: bEF
+Time end: 5/10/2023 5:06:53 PM		Latitude: 38.03854610128571	Longitude: -78.51612912797144	Speed: 14.687428	Device ID: bEF
+-
+Event 133:
+Time start: 6/22/2023 3:38:37 PM	Latitude: 38.03277633046363	Longitude: -78.49605576241818	Speed: 15.9030905	Device ID: bEF
+Time end: 6/22/2023 3:38:37 PM		Latitude: 38.03277598019091	Longitude: -78.49605590805454	Speed: 15.901273	Device ID: bEF
+-
+Event 133:
+Time start: 7/11/2023 11:59:15 AM	Latitude: 38.0479073659	Longitude: -78.5039225333	Speed: 13.361	Device ID: bEF
+Time end: 7/11/2023 11:59:15 AM		Latitude: 38.0479065649	Longitude: -78.5039218463	Speed: 13.571	Device ID: bEF
+-
+Event 133:
+Time start: 7/11/2023 12:09:29 PM	Latitude: 38.02717804733333	Longitude: -78.520752542	Speed: 27.206667	Device ID: bEF
+Time end: 7/11/2023 12:09:29 PM		Latitude: 38.027176582433334	Longitude: -78.5207547623	Speed: 27.167667	Device ID: bEF
+-
+Event 133:
+Time start: 7/13/2023 10:25:26 AM	Latitude: 38.03976647562	Longitude: -78.5067650923	Speed: 18.881	Device ID: bEF
+Time end: 7/13/2023 10:25:26 AM		Latitude: 38.03976631998	Longitude: -78.50676488170001	Speed: 18.899	Device ID: bEF
+-
+Event 133:
+Time start: 7/13/2023 5:58:02 PM	Latitude: 38.03370120771	Longitude: -78.50941052639	Speed: 3.6017	Device ID: bEF
+Time end: 7/13/2023 5:58:02 PM		Latitude: 38.03370174561	Longitude: -78.50941029748999	Speed: 3.6347	Device ID: bEF
+-
+Event 133:
+Time start: 7/26/2023 5:52:02 PM	Latitude: 38.03333737776	Longitude: -78.51219024448	Speed: 3.2164	Device ID: bEF
+Time end: 7/26/2023 5:52:02 PM		Latitude: 38.0333371496	Longitude: -78.5121907008	Speed: 3.244	Device ID: bEF
+-
+Event 133:
+Time start: 8/2/2023 11:26:27 AM	Latitude: 38.05077071221667	Longitude: -78.501045888975	Speed: 12.484834	Device ID: bEF
+Time end: 8/2/2023 11:26:27 AM		Latitude: 38.050771428783335	Longitude: -78.50104502552499	Speed: 12.445167	Device ID: bEF
+-
+Event 133:
+Time start: 8/7/2023 10:08:31 AM	Latitude: 38.02855466543333	Longitude: -78.52004895096667	Speed: 28	Device ID: bEF
+Time end: 8/7/2023 10:08:31 AM		Latitude: 38.0285565959	Longitude: -78.5200509397	Speed: 28	Device ID: bEF
+-
+Event 133:
+Time start: 10/19/2023 11:02:24 AM	Latitude: 38.036938946614285	Longitude: -78.5146361766	Speed: 20.391428	Device ID: bEF
+Time end: 10/19/2023 11:02:24 AM		Latitude: 38.03693832532857	Longitude: -78.5146359586	Speed: 20.362858	Device ID: bEF
+-
+Event 133:
+Time start: 10/26/2023 10:13:59 AM	Latitude: 38.032824273555555	Longitude: -78.49604803452222	Speed: 17.172777	Device ID: bEF
+Time end: 10/26/2023 10:13:59 AM		Latitude: 38.03282377059259	Longitude: -78.49604828033704	Speed: 17.17463	Device ID: bEF
+-
+Event 133:
+Time start: 11/30/2023 12:39:51 PM	Latitude: 38.032486	Longitude: -78.5117416	Speed: 4.33725	Device ID: bEF
+Time end: 11/30/2023 12:39:51 PM		Latitude: 38.032486	Longitude: -78.5117416	Speed: 4.40725	Device ID: bEF
+-
+Event 133:
+Time start: 12/20/2023 6:43:36 PM	Latitude: 38.0400352145	Longitude: -78.50667662720001	Speed: 21.772	Device ID: bEF
+Time end: 12/20/2023 6:43:36 PM		Latitude: 38.0400326395	Longitude: -78.5066791072	Speed: 21.572	Device ID: bEF
+-

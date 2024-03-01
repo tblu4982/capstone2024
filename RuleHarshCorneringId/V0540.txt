@@ -1,0 +1,787 @@
+Event 169:
+Time start: 1/2/2020 6:10:49 PM	Latitude: 38.03437085016667	Longitude: -78.50269051226667	Speed: 9.756333	Device ID: bCE
+Time end: 1/2/2020 6:10:49 PM		Latitude: 38.0343712965	Longitude: -78.5026900824	Speed: 9.817	Device ID: bCE
+-
+Event 169:
+Time start: 1/2/2020 6:12:44 PM	Latitude: 38.03336009466667	Longitude: -78.4981003	Speed: 22	Device ID: bCE
+Time end: 1/2/2020 6:12:44 PM		Latitude: 38.033357488	Longitude: -78.4981003	Speed: 22	Device ID: bCE
+-
+Event 169:
+Time start: 1/23/2020 12:04:32 PM	Latitude: 38.042389114	Longitude: -78.51153972	Speed: 25.58	Device ID: bCE
+Time point 2: 1/23/2020 12:04:33 PM	Latitude: 38.0423927	Longitude: -78.5115356	Speed: 26	Device ID: bCE
+Time end: 1/23/2020 12:04:33 PM		Latitude: 38.0423927	Longitude: -78.51148602666667	Speed: 26.65	Device ID: bCE
+-
+Event 169:
+Time start: 2/5/2020 12:06:05 PM	Latitude: 38.041579941020004	Longitude: -78.50810265898001	Speed: 21.0378	Device ID: bCE
+Time end: 2/5/2020 12:06:05 PM		Latitude: 38.041582016220005	Longitude: -78.50810058378	Speed: 20.7658	Device ID: bCE
+-
+Event 169:
+Time start: 3/24/2020 2:55:17 PM	Latitude: 38.086815347800005	Longitude: -78.476285229675	Speed: 32.537	Device ID: bCE
+Time point 2: 3/24/2020 2:55:18 PM	Latitude: 38.0868607	Longitude: -78.476265	Speed: 29	Device ID: bCE
+Time end: 3/24/2020 2:55:18 PM		Latitude: 38.08685862884286	Longitude: -78.47622297955714	Speed: 29	Device ID: bCE
+-
+Event 169:
+Time start: 3/24/2020 2:55:27 PM	Latitude: 38.086652894320004	Longitude: -78.47557388188	Speed: 29	Device ID: bCE
+Time end: 3/24/2020 2:55:28 PM		Latitude: 38.08661712488	Longitude: -78.47554437091999	Speed: 29	Device ID: bCE
+-
+Event 169:
+Time start: 3/25/2020 4:24:09 PM	Latitude: 38.08584515008	Longitude: -78.47175150162	Speed: 33.2948	Device ID: bCE
+Time end: 3/25/2020 4:24:10 PM		Latitude: 38.0858383	Longitude: -78.471756	Speed: 33	Device ID: bCE
+-
+Event 169:
+Time start: 4/22/2020 6:34:42 PM	Latitude: 38.051194376299996	Longitude: -78.50059732816666	Speed: 9.068	Device ID: bCE
+Time end: 4/22/2020 6:34:42 PM		Latitude: 38.0511944297	Longitude: -78.50059743516667	Speed: 9.092	Device ID: bCE
+-
+Event 169:
+Time start: 4/30/2020 11:17:00 AM	Latitude: 38.02912873948333	Longitude: -78.51562387908334	Speed: 18.660166	Device ID: bCE
+Time end: 4/30/2020 11:17:00 AM		Latitude: 38.029134640833334	Longitude: -78.51560652083333	Speed: 18.341667	Device ID: bCE
+-
+Event 169:
+Time start: 4/30/2020 2:00:07 PM	Latitude: 38.033336272	Longitude: -78.498110982	Speed: 17.23	Device ID: bCE
+Time point 2: 4/30/2020 2:00:08 PM	Latitude: 38.0333328	Longitude: -78.4981003	Speed: 18	Device ID: bCE
+Time end: 4/30/2020 2:00:08 PM		Latitude: 38.033327834299996	Longitude: -78.49810344960001	Speed: 18	Device ID: bCE
+-
+Event 169:
+Time start: 6/9/2020 1:30:19 PM	Latitude: 38.0323601	Longitude: -78.51176643712999	Speed: 12.0311	Device ID: bCE
+Time end: 6/9/2020 1:30:19 PM		Latitude: 38.0323601	Longitude: -78.5117712272	Speed: 11.984	Device ID: bCE
+-
+Event 169:
+Time start: 7/20/2020 12:23:38 PM	Latitude: 38.039136059	Longitude: -78.5056728765	Speed: 8.38	Device ID: bCE
+Time end: 7/20/2020 12:23:38 PM		Latitude: 38.03913644655	Longitude: -78.50567273025833	Speed: 8.387667	Device ID: bCE
+-
+Event 169:
+Time start: 8/5/2020 6:08:30 PM	Latitude: 38.04217738	Longitude: -78.50568698500001	Speed: 25.15	Device ID: bCE
+Time end: 8/5/2020 6:08:30 PM		Latitude: 38.0421776936	Longitude: -78.50568666457501	Speed: 25.13425	Device ID: bCE
+-
+Event 169:
+Time start: 9/24/2020 12:36:53 PM	Latitude: 38.0508275794	Longitude: -78.50102755396667	Speed: 15.859333	Device ID: bCE
+-
+Event 169:
+Time start: 9/24/2020 6:45:15 PM	Latitude: 38.03157315292727	Longitude: -78.50163085780001	Speed: 3.9223635	Device ID: bCE
+Time end: 9/24/2020 6:45:15 PM		Latitude: 38.03157250090909	Longitude: -78.50163239000001	Speed: 3.8454545	Device ID: bCE
+-
+Event 169:
+Time start: 11/11/2020 7:48:18 PM	Latitude: 38.032813837060004	Longitude: -78.49603708427999	Speed: 15.231	Device ID: bCE
+Time end: 11/11/2020 7:48:18 PM		Latitude: 38.03281295212667	Longitude: -78.49603743014666	Speed: 15.237667	Device ID: bCE
+-
+Event 169:
+Time start: 2/23/2021 2:52:33 PM	Latitude: 38.0364037	Longitude: -78.5167084	Speed: 0	Device ID: bCE
+Time end: 2/23/2021 2:52:34 PM		Latitude: 38.0364037	Longitude: -78.5167084	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 2/23/2021 3:52:02 PM	Latitude: 38.0364304	Longitude: -78.5166599867921	Speed: 0	Device ID: bCE
+Time end: 2/23/2021 3:52:02 PM		Latitude: 38.0364304	Longitude: -78.51665998002325	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/3/2021 6:45:35 PM	Latitude: 38.02869622727643	Longitude: -78.51912082042583	Speed: 0	Device ID: bCE
+Time end: 3/3/2021 6:45:36 PM		Latitude: 38.0286962125221	Longitude: -78.5191208330803	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/9/2021 2:07:23 PM	Latitude: 38.0868208264	Longitude: -78.476252847	Speed: 35.028	Device ID: bCE
+Time end: 3/9/2021 2:07:23 PM		Latitude: 38.08683646912	Longitude: -78.4762456101	Speed: 34.2324	Device ID: bCE
+-
+Event 169:
+Time start: 3/9/2021 2:07:34 PM	Latitude: 38.0866409345125	Longitude: -78.47547528588751	Speed: 29.992624	Device ID: bCE
+Time end: 3/9/2021 2:07:34 PM		Latitude: 38.0866346733875	Longitude: -78.47546735101251	Speed: 30.106375	Device ID: bCE
+-
+Event 169:
+Time start: 3/9/2021 2:44:25 PM	Latitude: 38.0857849	Longitude: -78.4743652	Speed: 0	Device ID: bCE
+Time end: 3/9/2021 2:44:26 PM		Latitude: 38.0857849	Longitude: -78.4743652	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/9/2021 7:45:36 PM	Latitude: 38.0858383	Longitude: -78.4746017	Speed: 0	Device ID: bCE
+Time end: 3/9/2021 7:45:37 PM		Latitude: 38.0858383	Longitude: -78.4746017	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/11/2021 3:21:57 PM	Latitude: 38.054245	Longitude: -78.50900180371255	Speed: 0	Device ID: bCE
+Time end: 3/11/2021 3:21:57 PM		Latitude: 38.054245	Longitude: -78.50900180044243	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/11/2021 3:21:58 PM	Latitude: 38.054245	Longitude: -78.50900179232227	Speed: 0	Device ID: bCE
+Time end: 3/11/2021 3:21:58 PM		Latitude: 38.054245	Longitude: -78.50900179125672	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/11/2021 4:18:25 PM	Latitude: 38.03637640445009	Longitude: -78.51637993378483	Speed: 0	Device ID: bCE
+Time end: 3/11/2021 4:18:26 PM		Latitude: 38.0363763970203	Longitude: -78.5163799292161	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/11/2021 6:43:08 PM	Latitude: 38.034224848792675	Longitude: -78.51724922982777	Speed: 0	Device ID: bCE
+Time end: 3/11/2021 6:43:08 PM		Latitude: 38.034224847637226	Longitude: -78.5172492282838	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 3/15/2021 1:22:15 PM	Latitude: 38.050835717725	Longitude: -78.50096115555	Speed: 16.203	Device ID: bCE
+Time end: 3/15/2021 1:22:15 PM		Latitude: 38.050837014725	Longitude: -78.50096268155	Speed: 16.163	Device ID: bCE
+-
+Event 169:
+Time start: 3/15/2021 1:29:00 PM	Latitude: 38.046379502220006	Longitude: -78.50988431806	Speed: 24.146	Device ID: bCE
+Time end: 3/15/2021 1:29:00 PM		Latitude: 38.04635009702	Longitude: -78.50984677846	Speed: 25.786	Device ID: bCE
+-
+Event 169:
+Time start: 3/16/2021 5:47:34 PM	Latitude: 38.04351512701667	Longitude: -78.50882419226667	Speed: 11.821333	Device ID: bCE
+Time end: 3/16/2021 5:47:34 PM		Latitude: 38.043519832183335	Longitude: -78.50881807493333	Speed: 10.834666	Device ID: bCE
+-
+Event 169:
+Time start: 3/22/2021 6:08:37 PM	Latitude: 38.029953	Longitude: -78.5002975	Speed: 0	Device ID: bCE
+Time end: 3/22/2021 6:08:39 PM		Latitude: 38.029953	Longitude: -78.5002975	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/6/2021 5:07:02 PM	Latitude: 38.0387344	Longitude: -78.5031662	Speed: 0	Device ID: bCE
+Time end: 4/6/2021 5:07:03 PM		Latitude: 38.0387344	Longitude: -78.5031662	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/7/2021 12:01:54 PM	Latitude: 38.0340518712	Longitude: -78.5089035	Speed: 12.328	Device ID: bCE
+Time end: 4/7/2021 12:01:54 PM		Latitude: 38.03405158812	Longitude: -78.5089035	Speed: 12.3728	Device ID: bCE
+-
+Event 169:
+Time start: 4/7/2021 12:01:55 PM	Latitude: 38.03402368452	Longitude: -78.5089035	Speed: 16.7888	Device ID: bCE
+Time end: 4/7/2021 12:01:55 PM		Latitude: 38.03402004492	Longitude: -78.5089035	Speed: 17.3648	Device ID: bCE
+-
+Event 169:
+Time start: 4/7/2021 2:37:20 PM	Latitude: 38.0364304	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+Time end: 4/7/2021 2:37:21 PM		Latitude: 38.0364304	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/12/2021 12:45:56 PM	Latitude: 38.044463774975156	Longitude: -78.5227509	Speed: 0	Device ID: bCE
+Time end: 4/12/2021 12:45:57 PM		Latitude: 38.04446376871734	Longitude: -78.5227509	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/12/2021 1:45:36 PM	Latitude: 38.0287247	Longitude: -78.5188017485411	Speed: 0	Device ID: bCE
+Time end: 4/12/2021 1:45:37 PM		Latitude: 38.0287247	Longitude: -78.51880173010466	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/12/2021 1:57:17 PM	Latitude: 38.034951217389924	Longitude: -78.51554890905508	Speed: 0	Device ID: bCE
+Time end: 4/12/2021 1:57:18 PM		Latitude: 38.03495128771129	Longitude: -78.515548848742	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/12/2021 6:59:43 PM	Latitude: 38.02860459591154	Longitude: -78.5189133	Speed: 0	Device ID: bCE
+Time end: 4/12/2021 6:59:44 PM		Latitude: 38.02860459539808	Longitude: -78.5189133	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/12/2021 7:14:02 PM	Latitude: 38.032797272820744	Longitude: -78.50093611721074	Speed: 0	Device ID: bCE
+Time end: 4/12/2021 7:14:02 PM		Latitude: 38.032797286327636	Longitude: -78.5009361036446	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/13/2021 12:45:05 PM	Latitude: 38.0445442	Longitude: -78.5231323	Speed: 0	Device ID: bCE
+Time end: 4/13/2021 12:45:06 PM		Latitude: 38.0445442	Longitude: -78.5231323	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/13/2021 1:42:24 PM	Latitude: 38.0356598	Longitude: -78.5018082	Speed: 0	Device ID: bCE
+Time end: 4/13/2021 1:42:25 PM		Latitude: 38.0356598	Longitude: -78.5018082	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/13/2021 5:56:07 PM	Latitude: 38.04374810849947	Longitude: -78.5091095	Speed: 0	Device ID: bCE
+Time end: 4/13/2021 5:56:08 PM		Latitude: 38.0437481048614	Longitude: -78.5091095	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/14/2021 5:24:02 PM	Latitude: 38.028677362360156	Longitude: -78.5188065	Speed: 0	Device ID: bCE
+Time end: 4/14/2021 5:24:02 PM		Latitude: 38.02867720862656	Longitude: -78.5188065	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/19/2021 11:31:12 AM	Latitude: 38.03031662880331	Longitude: -78.50068892176604	Speed: 0	Device ID: bCE
+Time end: 4/19/2021 11:31:13 AM		Latitude: 38.030316700892755	Longitude: -78.50068895504927	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/20/2021 2:50:44 PM	Latitude: 38.0287247	Longitude: -78.5187836	Speed: 0	Device ID: bCE
+Time end: 4/20/2021 2:50:45 PM		Latitude: 38.0287247	Longitude: -78.5187836	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/20/2021 6:26:46 PM	Latitude: 38.029968545210636	Longitude: -78.5003738	Speed: 0	Device ID: bCE
+Time end: 4/20/2021 6:26:48 PM		Latitude: 38.0299685493617	Longitude: -78.5003738	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 4/26/2021 6:40:25 PM	Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+Time end: 4/26/2021 6:40:26 PM		Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/4/2021 3:22:11 PM	Latitude: 38.03645213684881	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+Time end: 5/4/2021 3:22:13 PM		Latitude: 38.03645211255754	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/4/2021 6:08:59 PM	Latitude: 38.0354309	Longitude: -78.5048294	Speed: 0	Device ID: bCE
+Time end: 5/4/2021 6:09:00 PM		Latitude: 38.0354309	Longitude: -78.5048294	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/4/2021 6:09:03 PM	Latitude: 38.0354309	Longitude: -78.5048294	Speed: 0	Device ID: bCE
+Time end: 5/4/2021 6:09:04 PM		Latitude: 38.0354309	Longitude: -78.5048294	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/5/2021 6:07:26 PM	Latitude: 38.0365295	Longitude: -78.51678352528687	Speed: 0	Device ID: bCE
+Time end: 5/5/2021 6:07:27 PM		Latitude: 38.0365295	Longitude: -78.51678350550907	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/11/2021 5:55:32 PM	Latitude: 38.0437241	Longitude: -78.509079	Speed: 0	Device ID: bCE
+Time end: 5/11/2021 5:55:34 PM		Latitude: 38.0437241	Longitude: -78.509079	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/11/2021 6:17:58 PM	Latitude: 38.0444679	Longitude: -78.5227814	Speed: 0	Device ID: bCE
+Time end: 5/11/2021 6:17:59 PM		Latitude: 38.0444679	Longitude: -78.5227814	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/13/2021 1:20:26 PM	Latitude: 38.0385284	Longitude: -78.5032196	Speed: 0	Device ID: bCE
+Time end: 5/13/2021 1:20:26 PM		Latitude: 38.0385284	Longitude: -78.5032196	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/18/2021 5:14:55 PM	Latitude: 38.0354576	Longitude: -78.5170441	Speed: 0	Device ID: bCE
+Time end: 5/18/2021 5:14:56 PM		Latitude: 38.0354576	Longitude: -78.5170441	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/19/2021 5:00:07 PM	Latitude: 38.0297737	Longitude: -78.50429882748601	Speed: 0	Device ID: bCE
+Time end: 5/19/2021 5:00:10 PM		Latitude: 38.0297737	Longitude: -78.50429892719643	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/19/2021 6:30:47 PM	Latitude: 38.031105	Longitude: -78.5049362	Speed: 0	Device ID: bCE
+Time end: 5/19/2021 6:30:48 PM		Latitude: 38.031105	Longitude: -78.5049362	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/20/2021 7:03:32 PM	Latitude: 38.0364037	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+Time end: 5/20/2021 7:03:33 PM		Latitude: 38.0364037	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/25/2021 4:43:59 PM	Latitude: 38.0364304	Longitude: -78.5165787	Speed: 0	Device ID: bCE
+Time end: 5/25/2021 4:44:00 PM		Latitude: 38.0364304	Longitude: -78.5165787	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/26/2021 1:41:53 PM	Latitude: 38.0364532	Longitude: -78.5166626	Speed: 0	Device ID: bCE
+Time end: 5/26/2021 1:41:56 PM		Latitude: 38.0364532	Longitude: -78.5166626	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 5/27/2021 4:53:54 PM	Latitude: 38.0364304	Longitude: -78.5167389	Speed: 0	Device ID: bCE
+Time end: 5/27/2021 4:53:55 PM		Latitude: 38.0364304	Longitude: -78.5167389	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/1/2021 4:34:26 PM	Latitude: 38.0364304	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+Time end: 6/1/2021 4:34:26 PM		Latitude: 38.0364304	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/3/2021 4:57:32 PM	Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+Time end: 6/3/2021 4:57:33 PM		Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/3/2021 5:13:27 PM	Latitude: 38.0525322	Longitude: -78.513588	Speed: 0	Device ID: bCE
+Time end: 6/3/2021 5:13:28 PM		Latitude: 38.0525322	Longitude: -78.513588	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/7/2021 2:23:06 PM	Latitude: 38.0364799	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+Time end: 6/7/2021 2:23:07 PM		Latitude: 38.0364799	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/8/2021 4:08:55 PM	Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+Time end: 6/8/2021 4:08:55 PM		Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/8/2021 4:08:56 PM	Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+Time end: 6/8/2021 4:08:57 PM		Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/8/2021 4:08:58 PM	Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+Time end: 6/8/2021 4:08:58 PM		Latitude: 38.0364304	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/10/2021 10:47:10 AM	Latitude: 38.03029030333604	Longitude: -78.50063783432192	Speed: 0	Device ID: bCE
+Time end: 6/10/2021 10:47:11 AM		Latitude: 38.030290319830925	Longitude: -78.50063784846921	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/10/2021 4:59:54 PM	Latitude: 38.0364532	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+Time end: 6/10/2021 4:59:54 PM		Latitude: 38.0364532	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/14/2021 11:40:42 AM	Latitude: 38.0331535	Longitude: -78.512850231658	Speed: 0	Device ID: bCE
+Time end: 6/14/2021 11:40:43 AM		Latitude: 38.0331535	Longitude: -78.51285026515103	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/15/2021 2:49:20 PM	Latitude: 38.0345345	Longitude: -78.5168915	Speed: 0	Device ID: bCE
+Time end: 6/15/2021 2:49:21 PM		Latitude: 38.0345345	Longitude: -78.5168915	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/17/2021 12:05:59 PM	Latitude: 38.03284922546766	Longitude: -78.51133190199387	Speed: 0	Device ID: bCE
+Time end: 6/17/2021 12:06:00 PM		Latitude: 38.03284929851371	Longitude: -78.51133181855175	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/28/2021 3:18:15 PM	Latitude: 38.033440320683226	Longitude: -78.51221325863354	Speed: 0	Device ID: bCE
+Time end: 6/28/2021 3:18:16 PM		Latitude: 38.03344039672753	Longitude: -78.51221310654493	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/30/2021 9:52:36 AM	Latitude: 38.0350189	Longitude: -78.5156326	Speed: 0	Device ID: bCE
+Time end: 6/30/2021 9:52:36 AM		Latitude: 38.0350189	Longitude: -78.5156326	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 6/30/2021 4:55:09 PM	Latitude: 38.0364304	Longitude: -78.5167389	Speed: 0	Device ID: bCE
+Time end: 6/30/2021 4:55:10 PM		Latitude: 38.0364304	Longitude: -78.5167389	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/13/2021 11:17:13 AM	Latitude: 38.02870046386201	Longitude: -78.5187732066	Speed: 0	Device ID: bCE
+Time end: 7/13/2021 11:17:14 AM		Latitude: 38.02870045383494	Longitude: -78.51877320230001	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/14/2021 4:43:24 PM	Latitude: 38.0364037	Longitude: -78.5167084	Speed: 0	Device ID: bCE
+Time end: 7/14/2021 4:43:26 PM		Latitude: 38.0364037	Longitude: -78.5167084	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/15/2021 2:18:18 PM	Latitude: 38.0364304	Longitude: -78.51658038458991	Speed: 0	Device ID: bCE
+Time end: 7/15/2021 2:18:19 PM		Latitude: 38.0364304	Longitude: -78.51658039388705	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/19/2021 11:10:16 AM	Latitude: 38.0299759	Longitude: -78.5004044	Speed: 0	Device ID: bCE
+Time end: 7/19/2021 11:10:17 AM		Latitude: 38.0299759	Longitude: -78.5004044	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/20/2021 1:28:43 PM	Latitude: 38.03645155312973	Longitude: -78.51658090305014	Speed: 0	Device ID: bCE
+Time end: 7/20/2021 1:28:44 PM		Latitude: 38.03645153524324	Longitude: -78.51658092697724	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/27/2021 5:29:30 PM	Latitude: 38.03374397794397	Longitude: -78.5063670982288	Speed: 0	Device ID: bCE
+Time end: 7/27/2021 5:29:31 PM		Latitude: 38.033744005835935	Longitude: -78.50636706636719	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/27/2021 5:29:32 PM	Latitude: 38.03374401507366	Longitude: -78.50636705581474	Speed: 0	Device ID: bCE
+Time end: 7/27/2021 5:29:33 PM		Latitude: 38.03374404835926	Longitude: -78.50636701779186	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 7/28/2021 1:45:55 PM	Latitude: 38.0364037	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+Time end: 7/28/2021 1:45:56 PM		Latitude: 38.0364037	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/2/2021 1:13:17 PM	Latitude: 38.049614	Longitude: -78.5101852	Speed: 0	Device ID: bCE
+Time end: 8/2/2021 1:13:18 PM		Latitude: 38.049614	Longitude: -78.5101852	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/6/2021 2:16:39 PM	Latitude: 38.03388313842222	Longitude: -78.51421974417778	Speed: 22.354666	Device ID: bCE
+Time end: 8/6/2021 2:16:40 PM		Latitude: 38.033873202466665	Longitude: -78.51424011093334	Speed: 20.792	Device ID: bCE
+-
+Event 169:
+Time start: 8/9/2021 4:43:17 PM	Latitude: 38.0364532	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+Time end: 8/9/2021 4:43:17 PM		Latitude: 38.0364532	Longitude: -78.5166855	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/10/2021 2:59:13 PM	Latitude: 38.0287247	Longitude: -78.5188599	Speed: 0	Device ID: bCE
+Time end: 8/10/2021 2:59:14 PM		Latitude: 38.0287247	Longitude: -78.5188599	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/11/2021 1:31:49 PM	Latitude: 38.0364304	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+Time end: 8/11/2021 1:31:50 PM		Latitude: 38.0364304	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/11/2021 4:50:07 PM	Latitude: 38.036377	Longitude: -78.5166626	Speed: 0	Device ID: bCE
+Time end: 8/11/2021 4:50:08 PM		Latitude: 38.036377	Longitude: -78.5166626	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/12/2021 11:25:17 AM	Latitude: 38.03505504928753	Longitude: -78.5076981	Speed: 0	Device ID: bCE
+Time end: 8/12/2021 11:25:18 AM		Latitude: 38.03505505142113	Longitude: -78.5076981	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/12/2021 1:06:40 PM	Latitude: 38.0302086	Longitude: -78.5033493	Speed: 0	Device ID: bCE
+Time end: 8/12/2021 1:06:40 PM		Latitude: 38.0302086	Longitude: -78.5033493	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/17/2021 11:29:22 AM	Latitude: 38.0360451	Longitude: -78.5192719	Speed: 0	Device ID: bCE
+Time end: 8/17/2021 11:29:23 AM		Latitude: 38.0360451	Longitude: -78.5192719	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/18/2021 9:33:19 AM	Latitude: 38.0417519	Longitude: -78.5079575	Speed: 0	Device ID: bCE
+Time end: 8/18/2021 9:33:20 AM		Latitude: 38.0417519	Longitude: -78.5079575	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/18/2021 2:35:12 PM	Latitude: 38.0354042	Longitude: -78.50291928337565	Speed: 0	Device ID: bCE
+Time end: 8/18/2021 2:35:12 PM		Latitude: 38.0354042	Longitude: -78.50291930474569	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/24/2021 2:55:59 PM	Latitude: 38.0314102	Longitude: -78.5001221	Speed: 0	Device ID: bCE
+Time end: 8/24/2021 2:56:00 PM		Latitude: 38.0314102	Longitude: -78.5001221	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/24/2021 5:34:31 PM	Latitude: 38.079155	Longitude: -78.4775925	Speed: 0	Device ID: bCE
+Time end: 8/24/2021 5:34:33 PM		Latitude: 38.079155	Longitude: -78.4775925	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 8/30/2021 12:00:06 PM	Latitude: 38.030056	Longitude: -78.503479	Speed: 0	Device ID: bCE
+Time end: 8/30/2021 12:00:07 PM		Latitude: 38.030056	Longitude: -78.503479	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/1/2021 5:52:06 PM	Latitude: 38.0313606	Longitude: -78.5001755	Speed: 0	Device ID: bCE
+Time end: 9/1/2021 5:52:07 PM		Latitude: 38.0313606	Longitude: -78.5001755	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/7/2021 11:03:07 AM	Latitude: 38.03261686963186	Longitude: -78.50335047476182	Speed: 0	Device ID: bCE
+Time end: 9/7/2021 11:03:08 AM		Latitude: 38.03261687919511	Longitude: -78.50335048436702	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/13/2021 11:26:44 AM	Latitude: 38.04234978125	Longitude: -78.51154710625	Speed: 29	Device ID: bCE
+Time point 2: 9/13/2021 11:26:45 AM	Latitude: 38.0423927	Longitude: -78.5114899	Speed: 26	Device ID: bCE
+Time end: 9/13/2021 11:26:45 AM		Latitude: 38.0423902955	Longitude: -78.511473877	Speed: 26.21	Device ID: bCE
+-
+Event 169:
+Time start: 9/13/2021 4:29:51 PM	Latitude: 38.0364799	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+Time end: 9/13/2021 4:29:52 PM		Latitude: 38.0364799	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/13/2021 4:45:31 PM	Latitude: 38.03158444433722	Longitude: -78.50116816647534	Speed: 0	Device ID: bCE
+Time end: 9/13/2021 4:45:32 PM		Latitude: 38.03158441902399	Longitude: -78.50116813276121	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/14/2021 4:55:53 PM	Latitude: 38.0325394	Longitude: -78.5116425	Speed: 0	Device ID: bCE
+Time end: 9/14/2021 4:55:53 PM		Latitude: 38.0325394	Longitude: -78.5116425	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/15/2021 4:48:49 PM	Latitude: 38.03547323394879	Longitude: -78.50409331588527	Speed: 0	Device ID: bCE
+Time end: 9/15/2021 4:48:49 PM		Latitude: 38.03547320413378	Longitude: -78.50409323839749	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/17/2021 12:37:16 PM	Latitude: 38.0424312548	Longitude: -78.511505064	Speed: 29.058	Device ID: bCE
+Time end: 9/17/2021 12:37:16 PM		Latitude: 38.0424325364	Longitude: -78.511514952	Speed: 28.794	Device ID: bCE
+-
+Event 169:
+Time start: 9/17/2021 12:38:26 PM	Latitude: 38.03690065406667	Longitude: -78.51459272043333	Speed: 17.949667	Device ID: bCE
+Time end: 9/17/2021 12:38:26 PM		Latitude: 38.0368851906	Longitude: -78.5145903999	Speed: 16.227	Device ID: bCE
+-
+Event 169:
+Time start: 9/17/2021 12:38:48 PM	Latitude: 38.03661145427692	Longitude: -78.51605038719231	Speed: 22.07477	Device ID: bCE
+Time point 2: 9/17/2021 12:38:49 PM	Latitude: 38.0366096	Longitude: -78.5160675	Speed: 22	Device ID: bCE
+Time end: 9/17/2021 12:38:49 PM		Latitude: 38.0366067188	Longitude: -78.5160696364	Speed: 21.384	Device ID: bCE
+-
+Event 169:
+Time start: 9/20/2021 12:42:27 PM	Latitude: 38.04484818651424	Longitude: -78.52257661348575	Speed: 0	Device ID: bCE
+Time end: 9/20/2021 12:42:27 PM		Latitude: 38.04484818290784	Longitude: -78.52257661709214	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/20/2021 1:13:32 PM	Latitude: 38.0448265	Longitude: -78.5225983	Speed: 0	Device ID: bCE
+Time end: 9/20/2021 1:13:33 PM		Latitude: 38.0448265	Longitude: -78.5225983	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/20/2021 1:13:33 PM	Latitude: 38.0448265	Longitude: -78.5225983	Speed: 0	Device ID: bCE
+Time end: 9/20/2021 1:13:36 PM		Latitude: 38.0448265	Longitude: -78.5225983	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/20/2021 1:55:40 PM	Latitude: 38.031563148475	Longitude: -78.50058273754999	Speed: 21.90375	Device ID: bCE
+Time point 2: 9/20/2021 1:55:41 PM	Latitude: 38.0315666	Longitude: -78.5005798	Speed: 22	Device ID: bCE
+Time end: 9/20/2021 1:55:41 PM		Latitude: 38.031566897699996	Longitude: -78.5005795023	Speed: 21.896	Device ID: bCE
+-
+Event 169:
+Time start: 9/20/2021 3:25:49 PM	Latitude: 38.0315895	Longitude: -78.50213104394	Speed: 1.5614	Device ID: bCE
+Time end: 9/20/2021 3:25:49 PM		Latitude: 38.0315895	Longitude: -78.50213108974	Speed: 1.5594	Device ID: bCE
+-
+Event 169:
+Time start: 9/20/2021 4:33:57 PM	Latitude: 38.0364037	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+Time end: 9/20/2021 4:33:58 PM		Latitude: 38.0364037	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/21/2021 12:37:47 PM	Latitude: 38.046400175900004	Longitude: -78.50987634910001	Speed: 18.998	Device ID: bCE
+Time end: 9/21/2021 12:37:47 PM		Latitude: 38.04639795166667	Longitude: -78.50987459833334	Speed: 19.033333	Device ID: bCE
+-
+Event 169:
+Time start: 9/21/2021 2:24:05 PM	Latitude: 38.033624108211065	Longitude: -78.51504786445525	Speed: 0	Device ID: bCE
+Time end: 9/21/2021 2:24:06 PM		Latitude: 38.0336290060498	Longitude: -78.51504929383017	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/21/2021 2:59:58 PM	Latitude: 38.0314636	Longitude: -78.50166052575001	Speed: 6.708	Device ID: bCE
+Time end: 9/21/2021 2:59:58 PM		Latitude: 38.0314636	Longitude: -78.5016609375	Speed: 6.6	Device ID: bCE
+-
+Event 169:
+Time start: 9/21/2021 4:56:01 PM	Latitude: 38.02995003389188	Longitude: -78.5042191	Speed: 0	Device ID: bCE
+Time end: 9/21/2021 4:56:02 PM		Latitude: 38.02994999807114	Longitude: -78.5042191	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/21/2021 5:23:12 PM	Latitude: 38.0262366186	Longitude: -78.52084426053334	Speed: 14.139667	Device ID: bCE
+Time end: 9/21/2021 5:23:12 PM		Latitude: 38.0262362626	Longitude: -78.52084548186666	Speed: 14.226334	Device ID: bCE
+-
+Event 169:
+Time start: 9/21/2021 6:02:22 PM	Latitude: 38.03368465573333	Longitude: -78.51429019606667	Speed: 15.011666	Device ID: bCE
+Time end: 9/21/2021 6:02:22 PM		Latitude: 38.033685862666665	Longitude: -78.51429390933333	Speed: 15.133333	Device ID: bCE
+-
+Event 169:
+Time start: 9/21/2021 7:54:40 PM	Latitude: 38.0365562	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+Time end: 9/21/2021 7:54:44 PM		Latitude: 38.0365562	Longitude: -78.5166092	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/22/2021 1:27:38 PM	Latitude: 38.03651822968828	Longitude: -78.51658803552698	Speed: 13.963385	Device ID: bCE
+Time end: 9/22/2021 1:27:39 PM		Latitude: 38.036514349661886	Longitude: -78.51659132953984	Speed: 13.346528	Device ID: bCE
+-
+Event 169:
+Time start: 9/22/2021 5:31:39 PM	Latitude: 38.03656221285	Longitude: -78.51655945255	Speed: 16.9695	Device ID: bCE
+Time end: 9/22/2021 5:31:40 PM		Latitude: 38.036561283333334	Longitude: -78.51655961666667	Speed: 16.833334	Device ID: bCE
+-
+Event 169:
+Time start: 9/27/2021 11:55:40 AM	Latitude: 38.03983169608	Longitude: -78.50638423078	Speed: 30.0736	Device ID: bCE
+Time end: 9/27/2021 11:55:40 AM		Latitude: 38.0398343208	Longitude: -78.5063871178	Speed: 29.936	Device ID: bCE
+-
+Event 169:
+Time start: 9/27/2021 1:32:57 PM	Latitude: 38.0357132	Longitude: -78.5017853	Speed: 0	Device ID: bCE
+Time end: 9/27/2021 1:32:57 PM		Latitude: 38.0357132	Longitude: -78.5017853	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/27/2021 6:33:35 PM	Latitude: 38.03178969988935	Longitude: -78.51232412537327	Speed: 0	Device ID: bCE
+Time end: 9/27/2021 6:33:36 PM		Latitude: 38.03178969872848	Longitude: -78.51232412437761	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/28/2021 1:04:17 PM	Latitude: 38.063211360275	Longitude: -78.490034139725	Speed: 10.62125	Device ID: bCE
+Time end: 9/28/2021 1:04:17 PM		Latitude: 38.06321275275	Longitude: -78.49003274725	Speed: 10.7125	Device ID: bCE
+-
+Event 169:
+Time start: 9/28/2021 2:18:48 PM	Latitude: 38.03208122614445	Longitude: -78.50194858583333	Speed: 24	Device ID: bCE
+Time end: 9/28/2021 2:18:48 PM		Latitude: 38.032072044922224	Longitude: -78.50193924416666	Speed: 24	Device ID: bCE
+-
+Event 169:
+Time start: 9/28/2021 5:55:49 PM	Latitude: 38.0288773	Longitude: -78.5045242	Speed: 0	Device ID: bCE
+Time end: 9/28/2021 5:55:49 PM		Latitude: 38.0288773	Longitude: -78.5045242	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/29/2021 12:08:13 PM	Latitude: 38.02868228438	Longitude: -78.51890383752	Speed: 5.114	Device ID: bCE
+Time end: 9/29/2021 12:08:13 PM		Latitude: 38.02868391842	Longitude: -78.51891037368	Speed: 5.726	Device ID: bCE
+-
+Event 169:
+Time start: 9/29/2021 2:39:31 PM	Latitude: 38.0364304	Longitude: -78.5166626	Speed: 0	Device ID: bCE
+Time end: 9/29/2021 2:39:32 PM		Latitude: 38.0364304	Longitude: -78.5166626	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/29/2021 3:32:38 PM	Latitude: 38.032338365	Longitude: -78.5010822	Speed: 26.25	Device ID: bCE
+Time end: 9/29/2021 3:32:38 PM		Latitude: 38.032339564725	Longitude: -78.5010802945	Speed: 26.11125	Device ID: bCE
+-
+Event 169:
+Time start: 9/29/2021 4:20:20 PM	Latitude: 38.0364037	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+Time end: 9/29/2021 4:20:20 PM		Latitude: 38.0364037	Longitude: -78.5166321	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/30/2021 12:34:11 PM	Latitude: 38.05055560775	Longitude: -78.51056615275	Speed: 11.26	Device ID: bCE
+Time end: 9/30/2021 12:34:12 PM		Latitude: 38.050546394525	Longitude: -78.510581814025	Speed: 12.226	Device ID: bCE
+-
+Event 169:
+Time start: 9/30/2021 12:34:16 PM	Latitude: 38.05038647906667	Longitude: -78.51062485556666	Speed: 20.754	Device ID: bCE
+Time end: 9/30/2021 12:34:16 PM		Latitude: 38.050384915066665	Longitude: -78.51062462656667	Speed: 20.814	Device ID: bCE
+-
+Event 169:
+Time start: 9/30/2021 12:59:43 PM	Latitude: 38.0482559	Longitude: -78.50718697047863	Speed: 0	Device ID: bCE
+Time end: 9/30/2021 12:59:43 PM		Latitude: 38.0482559	Longitude: -78.50718698159514	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 9/30/2021 5:20:49 PM	Latitude: 38.03228	Longitude: -78.5041656	Speed: 0	Device ID: bCE
+Time end: 9/30/2021 5:20:51 PM		Latitude: 38.03228	Longitude: -78.5041656	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/1/2021 2:53:44 PM	Latitude: 38.047860870700006	Longitude: -78.50849669935556	Speed: 18.54211	Device ID: bCE
+Time end: 10/1/2021 2:53:44 PM		Latitude: 38.047859175700005	Longitude: -78.50849229157778	Speed: 18.636555	Device ID: bCE
+-
+Event 169:
+Time start: 10/2/2021 6:43:25 AM	Latitude: 38.0364799	Longitude: -78.5164261	Speed: 0	Device ID: bCE
+Time end: 10/2/2021 6:43:26 AM		Latitude: 38.0364799	Longitude: -78.5164261	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/4/2021 3:50:45 PM	Latitude: 38.032822888978764	Longitude: -78.5012207	Speed: 0	Device ID: bCE
+Time end: 10/4/2021 3:50:45 PM		Latitude: 38.03282289913301	Longitude: -78.5012207	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/5/2021 12:33:00 PM	Latitude: 38.0365112243	Longitude: -78.51652302396	Speed: 17.0968	Device ID: bCE
+Time point 2: 10/5/2021 12:33:01 PM	Latitude: 38.0365067	Longitude: -78.5165558	Speed: 16	Device ID: bCE
+Time end: 10/5/2021 12:33:01 PM		Latitude: 38.036506127749995	Longitude: -78.5165558	Speed: 15.88	Device ID: bCE
+-
+Event 169:
+Time start: 10/5/2021 1:34:08 PM	Latitude: 38.029157364	Longitude: -78.503924592	Speed: 13.2	Device ID: bCE
+Time end: 10/5/2021 1:34:08 PM		Latitude: 38.029153003	Longitude: -78.50389966733334	Speed: 13.608334	Device ID: bCE
+-
+Event 169:
+Time start: 10/5/2021 2:26:30 PM	Latitude: 38.03398015413333	Longitude: -78.4994444516	Speed: 18.778	Device ID: bCE
+Time end: 10/5/2021 2:26:30 PM		Latitude: 38.033981333777774	Longitude: -78.49944417866666	Speed: 18.793333	Device ID: bCE
+-
+Event 169:
+Time start: 10/5/2021 2:31:57 PM	Latitude: 38.036668348444444	Longitude: -78.48373461122223	Speed: 7.1066666	Device ID: bCE
+Time end: 10/5/2021 2:31:57 PM		Latitude: 38.03666779733333	Longitude: -78.48373389066667	Speed: 7.04	Device ID: bCE
+-
+Event 169:
+Time start: 10/6/2021 2:22:56 PM	Latitude: 38.046443018735715	Longitude: -78.50992916962858	Speed: 24.785643	Device ID: bCE
+Time point 2: 10/6/2021 2:22:57 PM	Latitude: 38.0464134	Longitude: -78.5098724	Speed: 24	Device ID: bCE
+Time end: 10/6/2021 2:22:57 PM		Latitude: 38.046365593333334	Longitude: -78.50989834	Speed: 25.333334	Device ID: bCE
+-
+Event 169:
+Time start: 10/6/2021 4:52:02 PM	Latitude: 38.0367355	Longitude: -78.5145350355	Speed: 17.981874	Device ID: bCE
+Time end: 10/6/2021 4:52:03 PM		Latitude: 38.0367355	Longitude: -78.5144917755	Speed: 16.406876	Device ID: bCE
+-
+Event 169:
+Time start: 10/8/2021 1:47:38 PM	Latitude: 38.02985589664733	Longitude: -78.5164845574241	Speed: 0	Device ID: bCE
+Time end: 10/8/2021 1:47:38 PM		Latitude: 38.029855940750004	Longitude: -78.51648459525	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/8/2021 2:34:40 PM	Latitude: 38.0541687	Longitude: -78.5105667	Speed: 0	Device ID: bCE
+Time end: 10/8/2021 2:34:41 PM		Latitude: 38.0541687	Longitude: -78.5105667	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/11/2021 12:18:13 PM	Latitude: 38.0364304	Longitude: -78.5167389	Speed: 0	Device ID: bCE
+Time end: 10/11/2021 12:18:16 PM		Latitude: 38.0364304	Longitude: -78.5167389	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/11/2021 12:35:41 PM	Latitude: 38.0340462	Longitude: -78.50498078381845	Speed: 0	Device ID: bCE
+Time end: 10/11/2021 12:35:43 PM		Latitude: 38.0340462	Longitude: -78.5049807579215	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/11/2021 5:25:23 PM	Latitude: 38.028595	Longitude: -78.5188828	Speed: 0	Device ID: bCE
+Time end: 10/11/2021 5:25:25 PM		Latitude: 38.028595	Longitude: -78.5188828	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/12/2021 1:11:09 PM	Latitude: 38.0365829	Longitude: -78.48365060235707	Speed: 0	Device ID: bCE
+Time end: 10/12/2021 1:11:12 PM		Latitude: 38.0365829	Longitude: -78.48365040212244	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/12/2021 1:32:15 PM	Latitude: 38.03061685576667	Longitude: -78.48531266736667	Speed: 16.641	Device ID: bCE
+Time end: 10/12/2021 1:32:15 PM		Latitude: 38.03061626823333	Longitude: -78.48531288063333	Speed: 16.599	Device ID: bCE
+-
+Event 169:
+Time start: 10/12/2021 2:39:15 PM	Latitude: 38.0345345	Longitude: -78.5007629	Speed: 0	Device ID: bCE
+Time end: 10/12/2021 2:39:15 PM		Latitude: 38.0345345	Longitude: -78.5007629	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/12/2021 2:39:16 PM	Latitude: 38.0345345	Longitude: -78.5007629	Speed: 0	Device ID: bCE
+Time end: 10/12/2021 2:39:17 PM		Latitude: 38.0345345	Longitude: -78.5007629	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/12/2021 2:57:01 PM	Latitude: 38.0345345	Longitude: -78.5007629	Speed: 0	Device ID: bCE
+Time end: 10/12/2021 2:57:01 PM		Latitude: 38.0345345	Longitude: -78.5007629	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/12/2021 3:15:53 PM	Latitude: 38.0354805	Longitude: -78.517067	Speed: 0	Device ID: bCE
+Time end: 10/12/2021 3:15:53 PM		Latitude: 38.0354805	Longitude: -78.517067	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/13/2021 11:16:54 AM	Latitude: 38.0286446	Longitude: -78.5188065	Speed: 0	Device ID: bCE
+Time end: 10/13/2021 11:16:55 AM		Latitude: 38.0286446	Longitude: -78.5188065	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/13/2021 1:22:46 PM	Latitude: 38.0528908	Longitude: -78.5150223	Speed: 0	Device ID: bCE
+Time end: 10/13/2021 1:22:47 PM		Latitude: 38.0528908	Longitude: -78.5150223	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/13/2021 5:34:53 PM	Latitude: 38.036377	Longitude: -78.51666102073213	Speed: 0	Device ID: bCE
+Time end: 10/13/2021 5:34:54 PM		Latitude: 38.036377	Longitude: -78.51666101968912	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/14/2021 5:03:31 PM	Latitude: 38.0318718	Longitude: -78.512413	Speed: 0	Device ID: bCE
+Time end: 10/14/2021 5:03:32 PM		Latitude: 38.0318718	Longitude: -78.512413	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/14/2021 6:16:47 PM	Latitude: 38.0344048	Longitude: -78.5171967	Speed: 0	Device ID: bCE
+Time end: 10/14/2021 6:16:47 PM		Latitude: 38.0344048	Longitude: -78.5171967	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/20/2021 11:31:34 AM	Latitude: 38.0531197	Longitude: -78.515152	Speed: 0	Device ID: bCE
+Time end: 10/20/2021 11:31:35 AM		Latitude: 38.0531197	Longitude: -78.515152	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/20/2021 4:40:57 PM	Latitude: 38.0364799	Longitude: -78.5165787	Speed: 0	Device ID: bCE
+Time end: 10/20/2021 4:40:58 PM		Latitude: 38.0364799	Longitude: -78.5165787	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/23/2021 3:11:49 PM	Latitude: 38.0858116	Longitude: -78.47447194284806	Speed: 0	Device ID: bCE
+Time end: 10/23/2021 3:11:51 PM		Latitude: 38.0858116	Longitude: -78.47447194263879	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/23/2021 3:13:28 PM	Latitude: 38.0858116	Longitude: -78.47447193101297	Speed: 0	Device ID: bCE
+Time end: 10/23/2021 3:13:28 PM		Latitude: 38.0858116	Longitude: -78.47447193100625	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/23/2021 3:13:28 PM	Latitude: 38.0858116	Longitude: -78.47447193099904	Speed: 0	Device ID: bCE
+Time end: 10/23/2021 3:13:32 PM		Latitude: 38.0858116	Longitude: -78.47447193053799	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/23/2021 3:13:33 PM	Latitude: 38.0858116	Longitude: -78.47447193037985	Speed: 0	Device ID: bCE
+Time end: 10/23/2021 3:13:34 PM		Latitude: 38.0858116	Longitude: -78.47447193030865	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 10/23/2021 3:13:36 PM	Latitude: 38.0858116	Longitude: -78.474471930014	Speed: 0	Device ID: bCE
+Time end: 10/23/2021 3:13:37 PM		Latitude: 38.0858116	Longitude: -78.4744719299864	Speed: 0	Device ID: bCE
+-
+Event 169:
+Time start: 11/4/2021 4:54:37 PM	Latitude: 38.03650489131429	Longitude: -78.51686559457143	Speed: 7.9537144	Device ID: bCE
+Time end: 11/4/2021 4:54:37 PM		Latitude: 38.0365047	Longitude: -78.51686480000001	Speed: 8	Device ID: bCE
+-
+Event 169:
+Time start: 4/19/2022 3:49:25 PM	Latitude: 38.03231128858572	Longitude: -78.51409718375714	Speed: 4.140714	Device ID: bCE
+Time end: 4/19/2022 3:49:25 PM		Latitude: 38.032311391571426	Longitude: -78.51409765471429	Speed: 4.1214285	Device ID: bCE
+-
+Event 169:
+Time start: 10/6/2022 12:09:43 PM	Latitude: 38.03155182898333	Longitude: -78.50175593025	Speed: 12.382667	Device ID: bCE
+Time end: 10/6/2022 12:09:43 PM		Latitude: 38.03155022935	Longitude: -78.50175809475	Speed: 12.284	Device ID: bCE
+-
+Event 169:
+Time start: 11/30/2022 5:12:25 PM	Latitude: 38.0323067	Longitude: -78.51398695864705	Speed: 3.9494119	Device ID: bCE
+Time end: 11/30/2022 5:12:25 PM		Latitude: 38.0323067	Longitude: -78.51398777039411	Speed: 3.9208236	Device ID: bCE
+-
+Event 169:
+Time start: 12/12/2022 4:47:55 PM	Latitude: 38.03244927735333	Longitude: -78.51429368952	Speed: 9.775733	Device ID: bCE
+Time end: 12/12/2022 4:47:55 PM		Latitude: 38.032446312379996	Longitude: -78.51429007688	Speed: 9.5256	Device ID: bCE
+-
+Event 169:
+Time start: 12/12/2022 4:47:56 PM	Latitude: 38.032442772113335	Longitude: -78.51428576328	Speed: 9.2269335	Device ID: bCE
+Time end: 12/12/2022 4:47:56 PM		Latitude: 38.03244241808667	Longitude: -78.51428533192	Speed: 9.197066	Device ID: bCE
+-
+Event 169:
+Time start: 12/12/2022 7:30:51 PM	Latitude: 38.04628536008889	Longitude: -78.50987370671112	Speed: 21.243334	Device ID: bCE
+Time end: 12/12/2022 7:30:52 PM		Latitude: 38.046283058755556	Longitude: -78.50987515604444	Speed: 21.343334	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:34:35 PM	Latitude: 38.036073855644446	Longitude: -78.51659433802223	Speed: 19.254	Device ID: bCE
+Time end: 1/5/2023 8:34:35 PM		Latitude: 38.03607380053334	Longitude: -78.51659473646667	Speed: 19.274	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:34:39 PM	Latitude: 38.036039584444445	Longitude: -78.51683466666667	Speed: 18.733334	Device ID: bCE
+Time end: 1/5/2023 8:34:39 PM		Latitude: 38.036039355544446	Longitude: -78.51683626866667	Speed: 18.724333	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:34 PM	Latitude: 38.028570660300005	Longitude: -78.5201085155	Speed: 23.914	Device ID: bCE
+Time end: 1/5/2023 8:37:34 PM		Latitude: 38.02857160133333	Longitude: -78.52011068	Speed: 23.84	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:34 PM	Latitude: 38.028572364333336	Longitude: -78.520112435	Speed: 23.78	Device ID: bCE
+Time end: 1/5/2023 8:37:34 PM		Latitude: 38.028572796700004	Longitude: -78.5201134295	Speed: 23.746	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:34 PM	Latitude: 38.02857414466667	Longitude: -78.52011653000001	Speed: 23.64	Device ID: bCE
+Time end: 1/5/2023 8:37:34 PM		Latitude: 38.02857778163334	Longitude: -78.5201248955	Speed: 23.354	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:34 PM	Latitude: 38.0285804267	Longitude: -78.52013097950001	Speed: 23.146	Device ID: bCE
+Time end: 1/5/2023 8:37:34 PM		Latitude: 38.0285811897	Longitude: -78.52013273450001	Speed: 23.086	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:45 PM	Latitude: 38.02870957	Longitude: -78.51945034333333	Speed: 19.366667	Device ID: bCE
+Time end: 1/5/2023 8:37:45 PM		Latitude: 38.0287090983	Longitude: -78.51944710856667	Speed: 19.066334	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:45 PM	Latitude: 38.028708056999996	Longitude: -78.51943996766667	Speed: 18.403334	Device ID: bCE
+Time end: 1/5/2023 8:37:45 PM		Latitude: 38.028708030299995	Longitude: -78.51943978456667	Speed: 18.386333	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:46 PM	Latitude: 38.028703785	Longitude: -78.51941067166668	Speed: 15.683333	Device ID: bCE
+Time end: 1/5/2023 8:37:46 PM		Latitude: 38.0287031887	Longitude: -78.51940658243333	Speed: 15.303667	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:37:57 PM	Latitude: 38.0286713	Longitude: -78.5188182184	Speed: 1.28	Device ID: bCE
+Time end: 1/5/2023 8:37:57 PM		Latitude: 38.0286713	Longitude: -78.51881591134	Speed: 1.028	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:51:08 PM	Latitude: 38.028580760000004	Longitude: -78.51877089333333	Speed: 0.46666667	Device ID: bCE
+Time end: 1/5/2023 8:51:08 PM		Latitude: 38.02858072885	Longitude: -78.51877098234999	Speed: 0.4655	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:51:08 PM	Latitude: 38.02857932265	Longitude: -78.51877500081666	Speed: 0.41283333	Device ID: bCE
+Time end: 1/5/2023 8:51:08 PM		Latitude: 38.028579126850005	Longitude: -78.51877556035	Speed: 0.4055	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:51:08 PM	Latitude: 38.028578521650005	Longitude: -78.51877728981667	Speed: 0.38283333	Device ID: bCE
+Time end: 1/5/2023 8:51:08 PM		Latitude: 38.028578268000004	Longitude: -78.51877801466667	Speed: 0.37333333	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:51:28 PM	Latitude: 38.0286572825	Longitude: -78.5193029075	Speed: 9.15	Device ID: bCE
+Time end: 1/5/2023 8:51:28 PM		Latitude: 38.028657569525	Longitude: -78.51930430177501	Speed: 9.0855	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:51:30 PM	Latitude: 38.028668516525	Longitude: -78.519357478775	Speed: 6.6255	Device ID: bCE
+Time end: 1/5/2023 8:51:30 PM		Latitude: 38.028669077225	Longitude: -78.51936020247501	Speed: 6.4995	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:52:30 PM	Latitude: 38.0285683	Longitude: -78.51671657211999	Speed: 7.5786	Device ID: bCE
+Time end: 1/5/2023 8:52:30 PM		Latitude: 38.0285683	Longitude: -78.51671032748	Speed: 6.8594	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:53:24 PM	Latitude: 38.03216176996666	Longitude: -78.51475927846667	Speed: 16.621	Device ID: bCE
+Time end: 1/5/2023 8:53:24 PM		Latitude: 38.03216202811111	Longitude: -78.51475915977778	Speed: 16.623333	Device ID: bCE
+-
+Event 169:
+Time start: 1/5/2023 8:53:25 PM	Latitude: 38.03216877674444	Longitude: -78.51475605691111	Speed: 16.684334	Device ID: bCE
+Time end: 1/5/2023 8:53:25 PM		Latitude: 38.032169514299994	Longitude: -78.5147557178	Speed: 16.691	Device ID: bCE
+-

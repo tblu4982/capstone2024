@@ -1,0 +1,42 @@
+Vehicle: V0913
+Time start: 6/30/2020 1:54:54 PM	Latitude: 38.03496446258	Longitude: -78.51670484968	Speed: 23.5562	Device ID: bD3
+Time point 2: 6/30/2020 1:54:55 PM	Latitude: 38.0349693	Longitude: -78.5166855	Speed: 24	Device ID: bD3
+Time end: 6/30/2020 1:54:55 PM		Latitude: 38.0349726375	Longitude: -78.5166826375	Speed: 21	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 9/15/2020 2:47:09 AM	Latitude: 38.0354309	Longitude: -78.51826045036364	Speed: 0.7609091	Device ID: bD3
+Time end: 9/15/2020 2:47:09 AM		Latitude: 38.0354309	Longitude: -78.51826038166364	Speed: 0.7624091	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 6/21/2021 7:44:25 PM	Latitude: 38.03627405034039	Longitude: -78.5171738	Speed: 0	Device ID: bD3
+Time end: 6/21/2021 7:44:26 PM		Latitude: 38.03627405093829	Longitude: -78.5171738	Speed: 0	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 7/6/2021 1:30:31 PM	Latitude: 38.0355835	Longitude: -78.51683870829807	Speed: 0	Device ID: bD3
+Time end: 7/6/2021 1:30:33 PM		Latitude: 38.0355835	Longitude: -78.51683872218288	Speed: 0	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 7/29/2021 1:43:19 PM	Latitude: 38.034918342173796	Longitude: -78.5155563	Speed: 0	Device ID: bD3
+Time end: 7/29/2021 1:43:19 PM		Latitude: 38.03491834022996	Longitude: -78.5155563	Speed: 0	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 12/3/2021 12:18:13 PM	Latitude: 38.03634893965688	Longitude: -78.51717062784618	Speed: 0	Device ID: bD3
+Time end: 12/3/2021 12:18:14 PM		Latitude: 38.03634892532647	Longitude: -78.5171705944294	Speed: 0	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 3/10/2022 8:09:47 PM	Latitude: 38.036336058559165	Longitude: -78.51712902074887	Speed: 0	Device ID: bD3
+Time end: 3/10/2022 8:09:48 PM		Latitude: 38.036336024164555	Longitude: -78.51712898650445	Speed: 0	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 5/11/2022 11:30:27 AM	Latitude: 38.0286713	Longitude: -78.5191413837837	Speed: 0	Device ID: bD3
+Time end: 5/11/2022 11:30:27 AM		Latitude: 38.0286713	Longitude: -78.51914138403495	Speed: 0	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 8/12/2022 4:07:13 PM	Latitude: 38.057843629	Longitude: -78.49504550889999	Speed: 48.8935	Device ID: bD3
+Time point 2: 8/12/2022 4:07:14 PM	Latitude: 38.0577774	Longitude: -78.4951019	Speed: 46	Device ID: bD3
+Time end: 8/12/2022 4:07:14 PM		Latitude: 38.0577638186	Longitude: -78.49511140519999	Speed: 42.796	Device ID: bD3
+-
+Vehicle: V0913
+Time start: 7/7/2023 9:11:50 AM	Latitude: 38.0404100031	Longitude: -78.51367612819999	Speed: 90.165	Device ID: bD3
+Time end: 7/7/2023 9:11:50 AM		Latitude: 38.040455365999996	Longitude: -78.513631752	Speed: 88.9	Device ID: bD3
+-

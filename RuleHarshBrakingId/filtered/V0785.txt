@@ -1,0 +1,27 @@
+Vehicle: V0785
+Time start: 4/19/2019 3:47:34 PM	Latitude: 38.04495298496666	Longitude: -78.51074184886666	Speed: 14.969334	Device ID: b30
+Time point 2: 4/19/2019 3:47:35 PM	Latitude: 38.0449524	Longitude: -78.5107422	Speed: 15	Device ID: b30
+-
+Time end: 4/19/2019 3:47:35 PM		Latitude: 38.04495110615	Longitude: -78.51074392324999	Speed: 14.2655	Device ID: b30
+-
+Vehicle: V0785
+Time start: 3/11/2021 8:25:53 PM	Latitude: 38.0308980477	Longitude: -78.51586801216666	Speed: 0	Device ID: b30
+Time end: 3/11/2021 8:25:55 PM		Latitude: 38.03089803231571	Longitude: -78.51586799459287	Speed: 0	Device ID: b30
+-
+Vehicle: V0785
+Time start: 10/20/2021 2:37:26 PM	Latitude: 38.046353056	Longitude: -78.509746116	Speed: 21.44	Device ID: b30
+Time point 2: 10/20/2021 2:37:27 PM	Latitude: 38.04636	Longitude: -78.5097504	Speed: 22	Device ID: b30
+Time end: 10/20/2021 2:37:27 PM		Latitude: 38.046375486	Longitude: -78.5097504	Speed: 9.24	Device ID: b30
+-
+Vehicle: V0785
+Time start: 4/8/2022 7:33:37 PM	Latitude: 38.03343222320327	Longitude: -78.5148926	Speed: 0	Device ID: b30
+Time end: 4/8/2022 7:33:37 PM		Latitude: 38.03343222309414	Longitude: -78.5148926	Speed: 0	Device ID: b30
+-
+Vehicle: V0785
+Time start: 3/13/2023 3:44:48 PM	Latitude: 38.0426483	Longitude: -78.5113649403	Speed: 14.274	Device ID: b30
+Time end: 3/13/2023 3:44:48 PM		Latitude: 38.0426483	Longitude: -78.511374856	Speed: 6.48	Device ID: b30
+-
+Vehicle: V0785
+Time start: 3/16/2023 2:48:30 PM	Latitude: 38.036588637066664	Longitude: -78.50259370196667	Speed: 27.414333	Device ID: b30
+Time end: 3/16/2023 2:48:30 PM		Latitude: 38.0365932664	Longitude: -78.5026058073	Speed: 24.521	Device ID: b30
+-

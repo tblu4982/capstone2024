@@ -1,0 +1,81 @@
+Event 265:
+Time start: 3/14/2022 1:28:01 PM	Latitude: 38.0227585	Longitude: -78.4691696	Speed: 0	Device ID: b210
+Time end: 3/14/2022 1:28:01 PM		Latitude: 38.0227585	Longitude: -78.4691696	Speed: 0	Device ID: b210
+-
+Event 265:
+Time start: 3/31/2022 7:27:17 PM	Latitude: 38.051918	Longitude: -78.5496826	Speed: 0	Device ID: b210
+Time end: 3/31/2022 7:27:17 PM		Latitude: 38.051918	Longitude: -78.5496826	Speed: 0	Device ID: b210
+-
+Event 265:
+Time start: 3/31/2022 7:27:17 PM	Latitude: 38.051918	Longitude: -78.5496826	Speed: 0	Device ID: b210
+Time end: 3/31/2022 7:27:17 PM		Latitude: 38.051918	Longitude: -78.5496826	Speed: 0	Device ID: b210
+-
+Event 265:
+Time start: 4/6/2022 2:31:34 PM	Latitude: 37.917785748	Longitude: -78.84003412266668	Speed: 22.94	Device ID: b210
+Time end: 4/6/2022 2:31:35 PM		Latitude: 37.9177028484	Longitude: -78.84009227563334	Speed: 29.2645	Device ID: b210
+-
+Event 265:
+Time start: 4/13/2022 4:49:30 PM	Latitude: 38.03349601325	Longitude: -78.6032104	Speed: 1.8075	Device ID: b210
+Time end: 4/13/2022 4:49:31 PM		Latitude: 38.03348560025	Longitude: -78.6032104	Speed: 2.9775	Device ID: b210
+-
+Event 265:
+Time start: 4/13/2022 4:54:16 PM	Latitude: 38.0551949	Longitude: -78.5714417	Speed: 0.892	Device ID: b210
+Time point 2: 4/13/2022 4:54:17 PM	Latitude: 38.0551949	Longitude: -78.5714417	Speed: 4	Device ID: b210
+Time end: 4/13/2022 4:54:17 PM		Latitude: 38.055202355599995	Longitude: -78.5714342117	Speed: 6.616	Device ID: b210
+-
+Event 265:
+Time start: 6/21/2022 12:03:56 PM	Latitude: 38.045091898900004	Longitude: -78.4796906	Speed: 8.101	Device ID: b210
+Time point 2: 6/21/2022 12:03:57 PM	Latitude: 38.0450821	Longitude: -78.4796906	Speed: 7	Device ID: b210
+Time end: 6/21/2022 12:03:57 PM		Latitude: 38.04506658566667	Longitude: -78.479712316	Speed: 10.456667	Device ID: b210
+-
+Event 265:
+Time start: 6/24/2022 2:42:24 PM	Latitude: 38.04758876364444	Longitude: -78.52369139036666	Speed: 4.424333	Device ID: b210
+Time end: 6/24/2022 2:42:24 PM		Latitude: 38.04759204613333	Longitude: -78.52369665330001	Speed: 4.019	Device ID: b210
+-
+Event 265:
+Time start: 9/6/2022 3:58:50 PM	Latitude: 38.037722742999996	Longitude: -78.48450944060001	Speed: 14.023	Device ID: b210
+Time end: 9/6/2022 3:58:50 PM		Latitude: 38.03771106966666	Longitude: -78.48449214593334	Speed: 15.949667	Device ID: b210
+-
+Event 265:
+Time start: 9/13/2022 2:45:40 PM	Latitude: 38.04506001057143	Longitude: -78.47971998828572	Speed: 10.368571	Device ID: b210
+Time point 2: 9/13/2022 2:45:41 PM	Latitude: 38.0450554	Longitude: -78.4797211	Speed: 10	Device ID: b210
+Time end: 9/13/2022 2:45:41 PM		Latitude: 38.045054027733336	Longitude: -78.47972384453334	Speed: 10.332	Device ID: b210
+-
+Event 265:
+Time start: 10/25/2022 3:52:16 PM	Latitude: 38.0207367	Longitude: -78.4739838	Speed: 2	Device ID: b210
+Time end: 10/25/2022 3:52:16 PM		Latitude: 38.02073711836667	Longitude: -78.4739838623	Speed: 2.0455	Device ID: b210
+-
+Event 265:
+Time start: 11/21/2022 2:23:41 PM	Latitude: 38.04678515412	Longitude: -78.52517768195999	Speed: 27.862	Device ID: b210
+Time end: 11/21/2022 2:23:41 PM		Latitude: 38.0467863444	Longitude: -78.5251772852	Speed: 27.94	Device ID: b210
+-
+Event 265:
+Time start: 1/31/2023 1:37:41 PM	Latitude: 38.046784856049996	Longitude: -78.52517357365	Speed: 5.852	Device ID: b210
+Time end: 1/31/2023 1:37:42 PM		Latitude: 38.04678544345	Longitude: -78.52517306985	Speed: 6.028	Device ID: b210
+-
+Event 265:
+Time start: 5/2/2023 1:50:33 PM	Latitude: 38.02716346758	Longitude: -78.46876201356	Speed: 0.7518	Device ID: b210
+Time end: 5/2/2023 1:50:33 PM		Latitude: 38.0271631632	Longitude: -78.4687623624	Speed: 0.672	Device ID: b210
+-
+Event 265:
+Time start: 5/25/2023 1:18:32 PM	Latitude: 38.0440063	Longitude: -78.7272186	Speed: 6	Device ID: b210
+Time end: 5/25/2023 1:18:32 PM		Latitude: 38.0440003459	Longitude: -78.7272134933	Speed: 8.007	Device ID: b210
+-
+Event 265:
+Time start: 7/26/2023 1:02:29 PM	Latitude: 38.04508955196667	Longitude: -78.47971812116667	Speed: 5.051	Device ID: b210
+Time point 2: 7/26/2023 1:02:30 PM	Latitude: 38.0450821	Longitude: -78.4797211	Speed: 3	Device ID: b210
+Time end: 7/26/2023 1:02:30 PM		Latitude: 38.045077655525	Longitude: -78.47972998895001	Speed: 4.45625	Device ID: b210
+-
+Event 265:
+Time start: 10/23/2023 2:58:57 PM	Latitude: 38.046867888775	Longitude: -78.52512526642501	Speed: 36.422	Device ID: b210
+Time end: 10/23/2023 2:58:57 PM		Latitude: 38.046873534774996	Longitude: -78.525123588425	Speed: 36.902	Device ID: b210
+-
+Event 265:
+Time start: 11/27/2023 1:03:28 PM	Latitude: 38.0467083328	Longitude: -78.5252427403	Speed: 20	Device ID: b210
+Time point 2: 11/27/2023 1:03:29 PM	Latitude: 38.0467186	Longitude: -78.525238	Speed: 20	Device ID: b210
+Time end: 11/27/2023 1:03:29 PM		Latitude: 38.046724471	Longitude: -78.525236151775	Speed: 20.55575	Device ID: b210
+-
+Event 265:
+Time start: 11/27/2023 1:08:02 PM	Latitude: 38.04506374025	Longitude: -78.479771183125	Speed: 14.852	Device ID: b210
+Time end: 11/27/2023 1:08:02 PM		Latitude: 38.04505859025	Longitude: -78.47977880812499	Speed: 15.652	Device ID: b210
+-

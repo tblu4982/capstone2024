@@ -1,0 +1,31 @@
+Vehicle: V0928
+Time start: 1/8/2021 4:38:04 PM	Latitude: 38.052114214725	Longitude: -78.49953121485	Speed: 51.824123	Device ID: bD6
+Time end: 1/8/2021 4:38:04 PM		Latitude: 38.052114662975	Longitude: -78.49953070935	Speed: 51.750374	Device ID: bD6
+-
+Vehicle: V0928
+Time start: 3/30/2021 6:14:58 PM	Latitude: 38.0337680807125	Longitude: -78.5083253290125	Speed: 32.9335	Device ID: bD6
+Time point 2: 3/30/2021 6:14:59 PM	Latitude: 38.0337677	Longitude: -78.5083389	Speed: 33	Device ID: bD6
+Time end: 3/30/2021 6:14:59 PM		Latitude: 38.033769761	Longitude: -78.508345767	Speed: 30.48	Device ID: bD6
+-
+Vehicle: V0928
+Time start: 3/31/2021 3:32:41 PM	Latitude: 38.0506572862	Longitude: -78.50118306409999	Speed: 35.428	Device ID: bD6
+Time point 2: 3/31/2021 3:32:42 PM	Latitude: 38.050663	Longitude: -78.5011749	Speed: 35	Device ID: bD6
+Time end: 3/31/2021 3:32:42 PM		Latitude: 38.0506678112	Longitude: -78.5011697202	Speed: 33.351	Device ID: bD6
+-
+Vehicle: V0928
+Time start: 6/28/2021 10:29:31 AM	Latitude: 38.04509929104	Longitude: -78.51055008712	Speed: 41	Device ID: bD6
+Time point 2: 6/28/2021 10:29:32 AM	Latitude: 38.0451088	Longitude: -78.5105438	Speed: 41	Device ID: bD6
+Time end: 6/28/2021 10:29:32 AM		Latitude: 38.045114276650004	Longitude: -78.51053915419999	Speed: 40.1735	Device ID: bD6
+-
+Vehicle: V0928
+Time start: 1/14/2022 4:25:25 PM	Latitude: 38.0857353	Longitude: -78.4743195	Speed: 0.905	Device ID: bD6
+Time end: 1/14/2022 4:25:25 PM		Latitude: 38.0857353	Longitude: -78.4743195	Speed: 0.9065	Device ID: bD6
+-
+Vehicle: V0928
+Time start: 4/5/2022 3:09:19 PM	Latitude: 38.02360419463872	Longitude: -78.53388672185464	Speed: 0	Device ID: bD6
+Time end: 4/5/2022 3:09:19 PM		Latitude: 38.0236041949608	Longitude: -78.53388672148672	Speed: 0	Device ID: bD6
+-
+Vehicle: V0928
+Time start: 4/6/2022 11:38:13 AM	Latitude: 38.0340996	Longitude: -78.5050114790643	Speed: 0	Device ID: bD6
+Time end: 4/6/2022 11:38:13 AM		Latitude: 38.0340996	Longitude: -78.50501147912753	Speed: 0	Device ID: bD6
+-

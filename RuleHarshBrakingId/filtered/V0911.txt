@@ -1,0 +1,19 @@
+Vehicle: V0911
+Time start: 9/25/2020 1:58:15 PM	Latitude: 38.0352249	Longitude: -78.514472814	Speed: 5.94	Device ID: bBC
+Time end: 9/25/2020 1:58:15 PM		Latitude: 38.0352249	Longitude: -78.51446945914999	Speed: 4.6215	Device ID: bBC
+-
+Vehicle: V0911
+Time start: 3/21/2023 12:32:09 PM	Latitude: 38.05781896605	Longitude: -78.4948280312	Speed: 63.0475	Device ID: bBC
+Time end: 3/21/2023 12:32:09 PM		Latitude: 38.05782461205	Longitude: -78.4948234552	Speed: 62.7475	Device ID: bBC
+-
+Vehicle: V0911
+Time start: 3/21/2023 5:46:14 PM	Latitude: 38.085691605449995	Longitude: -78.4746440109	Speed: 5.816	Device ID: bBC
+Time end: 3/21/2023 5:46:14 PM		Latitude: 38.08568973645	Longitude: -78.4746402729	Speed: 4.696	Device ID: bBC
+-
+Vehicle: V0911
+Time start: 10/11/2023 11:21:35 AM	Latitude: 38.0246544	Longitude: -78.52412969594018	Speed: 11	Device ID: bBC
+Time point 2: 10/11/2023 11:21:35 AM	Latitude: 38.0246544	Longitude: -78.5241318	Speed: 11	Device ID: bBC
+Time point 3: 10/11/2023 11:21:36 AM	Latitude: 38.0246544	Longitude: -78.5241623	Speed: 8	Device ID: bBC
+Time point 4: 10/11/2023 11:21:37 AM	Latitude: 38.0246773	Longitude: -78.5241623	Speed: 6	Device ID: bBC
+Time end: 10/11/2023 11:21:41 AM		Latitude: 38.0246773	Longitude: -78.52417922139128	Speed: 1.5664477	Device ID: bBC
+-

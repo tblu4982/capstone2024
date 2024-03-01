@@ -1,0 +1,58 @@
+Vehicle: V0600
+Time start: 9/5/2019 1:32:26 PM	Latitude: 38.035204923475	Longitude: -78.51648578521251	Speed: 9.6705	Device ID: b27
+Time end: 9/5/2019 1:32:26 PM		Latitude: 38.035209501475	Longitude: -78.5164926522125	Speed: 9.3105	Device ID: b27
+-
+Vehicle: V0600
+Time start: 9/25/2019 8:08:09 PM	Latitude: 38.041626	Longitude: -78.5093918	Speed: 2.7045	Device ID: b27
+Time end: 9/25/2019 8:08:09 PM		Latitude: 38.041626	Longitude: -78.5093918	Speed: 2.7	Device ID: b27
+-
+Vehicle: V0600
+Time start: 10/16/2019 12:18:46 PM	Latitude: 38.0352516	Longitude: -78.51427871179999	Speed: 27.384	Device ID: b27
+Time end: 10/16/2019 12:18:46 PM		Latitude: 38.0352516	Longitude: -78.514318922	Speed: 21.36	Device ID: b27
+-
+Vehicle: V0600
+Time start: 3/30/2020 2:11:10 PM	Latitude: 38.051499684430006	Longitude: -78.50920712059	Speed: 30.3997	Device ID: b27
+Time point 2: 3/30/2020 2:11:11 PM	Latitude: 38.051506	Longitude: -78.5092087	Speed: 31	Device ID: b27
+Time end: 3/30/2020 2:11:11 PM		Latitude: 38.051526311020005	Longitude: -78.5092087	Speed: 26.6152	Device ID: b27
+-
+Vehicle: V0600
+Time start: 5/26/2021 11:47:28 AM	Latitude: 38.034812534800004	Longitude: -78.516789458	Speed: 0.156	Device ID: b27
+Time end: 5/26/2021 11:47:28 AM		Latitude: 38.03481281782	Longitude: -78.5167891347	Speed: 0.1454	Device ID: b27
+-
+Vehicle: V0600
+Time start: 6/23/2021 2:02:32 PM	Latitude: 38.038759355100005	Longitude: -78.5152942419	Speed: 25.7235	Device ID: b27
+Time end: 6/23/2021 2:02:32 PM		Latitude: 38.0387231889	Longitude: -78.5153014941	Speed: 23.1165	Device ID: b27
+-
+Vehicle: V0600
+Time start: 11/16/2021 6:47:27 PM	Latitude: 38.03863429685	Longitude: -78.50725960390001	Speed: 22.8855	Device ID: b27
+Time end: 11/16/2021 6:47:27 PM		Latitude: 38.0386335755	Longitude: -78.507254797	Speed: 22.665	Device ID: b27
+-
+Vehicle: V0600
+Time start: 1/14/2022 1:51:16 PM	Latitude: 38.036074331200005	Longitude: -78.5079849584	Speed: 36.352	Device ID: b27
+Time point 2: 1/14/2022 1:51:17 PM	Latitude: 38.0360184	Longitude: -78.5080032	Speed: 35	Device ID: b27
+Time end: 1/14/2022 1:51:17 PM		Latitude: 38.036011208000005	Longitude: -78.5080032	Speed: 29.925	Device ID: b27
+-
+Vehicle: V0600
+Time start: 1/20/2022 2:32:08 PM	Latitude: 38.0376938	Longitude: -78.51500094	Speed: 26.4	Device ID: b27
+Time end: 1/20/2022 2:32:09 PM		Latitude: 38.037652359666666	Longitude: -78.5149794554	Speed: 8.697333	Device ID: b27
+-
+Vehicle: V0600
+Time start: 5/13/2022 3:51:02 PM	Latitude: 38.0486145	Longitude: -78.505333959	Speed: 8.52	Device ID: b27
+Time end: 5/13/2022 3:51:02 PM		Latitude: 38.0486145	Longitude: -78.50533021485	Speed: 6.558	Device ID: b27
+-
+Vehicle: V0600
+Time start: 5/25/2022 8:09:33 PM	Latitude: 38.032418628	Longitude: -78.500704932	Speed: 20.7	Device ID: b27
+Time end: 5/25/2022 8:09:33 PM		Latitude: 38.0324125024	Longitude: -78.50072377810001	Speed: 18.8475	Device ID: b27
+-
+Vehicle: V0600
+Time start: 8/4/2022 8:14:28 PM	Latitude: 38.03857132465	Longitude: -78.5073388678	Speed: 20.5465	Device ID: b27
+Time end: 8/4/2022 8:14:28 PM		Latitude: 38.038569527	Longitude: -78.507330484	Speed: 18.27	Device ID: b27
+-
+Vehicle: V0600
+Time start: 12/1/2022 7:13:25 PM	Latitude: 38.035180337999996	Longitude: -78.516433104	Speed: 11.22	Device ID: b27
+Time end: 12/1/2022 7:13:25 PM		Latitude: 38.03518000976667	Longitude: -78.51643463479999	Speed: 11.205667	Device ID: b27
+-
+Vehicle: V0600
+Time start: 10/5/2023 1:20:58 PM	Latitude: 38.0341263	Longitude: -78.5110707976	Speed: 11.4075	Device ID: b27
+Time end: 10/5/2023 1:20:58 PM		Latitude: 38.0341263	Longitude: -78.5110653416	Speed: 11.9575	Device ID: b27
+-

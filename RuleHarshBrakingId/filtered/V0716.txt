@@ -1,0 +1,34 @@
+Vehicle: V0716
+Time start: 7/27/2021 11:54:31 AM	Latitude: 38.033226863	Longitude: -78.497574833	Speed: 33.715	Device ID: b1FA
+Time point 2: 7/27/2021 11:54:32 AM	Latitude: 38.0332298	Longitude: -78.4975891	Speed: 33	Device ID: b1FA
+-
+Time end: 7/27/2021 11:54:32 AM		Latitude: 38.033230681650004	Longitude: -78.49759203754999	Speed: 31.768	Device ID: b1FA
+-
+Vehicle: V0716
+Time start: 9/28/2021 12:20:32 PM	Latitude: 38.03119450975	Longitude: -78.50024495145	Speed: 2.565	Device ID: b1FA
+Time end: 9/28/2021 12:20:32 PM		Latitude: 38.031193145	Longitude: -78.500245659	Speed: 2.3	Device ID: b1FA
+-
+Vehicle: V0716
+Time start: 11/3/2021 12:08:31 PM	Latitude: 38.0348759654	Longitude: -78.5024081629	Speed: 15.095	Device ID: b1FA
+Time end: 11/3/2021 12:08:31 PM		Latitude: 38.034872405399994	Longitude: -78.50241476956666	Speed: 15.428333	Device ID: b1FA
+-
+Vehicle: V0716
+Time start: 11/3/2021 3:40:56 PM	Latitude: 38.0322171835	Longitude: -78.501659133	Speed: 7.575	Device ID: b1FA
+Time end: 11/3/2021 3:40:57 PM		Latitude: 38.03221705	Longitude: -78.5016594	Speed: 7.5	Device ID: b1FA
+-
+Vehicle: V0716
+Time start: 5/9/2022 5:49:10 PM	Latitude: 38.054313825419996	Longitude: -78.49786998556	Speed: 33.9948	Device ID: b1FA
+Time end: 5/9/2022 5:49:10 PM		Latitude: 38.05431239102	Longitude: -78.49787120636	Speed: 33.6588	Device ID: b1FA
+-
+Vehicle: V0716
+Time start: 10/14/2022 5:49:43 PM	Latitude: 38.027125118	Longitude: -78.48697494333334	Speed: 31.791111	Device ID: b1FA
+Time end: 10/14/2022 5:49:43 PM		Latitude: 38.0271253791	Longitude: -78.4869746645	Speed: 31.816	Device ID: b1FA
+-
+Vehicle: V0716
+Time start: 12/19/2022 11:53:15 AM	Latitude: 38.036526536	Longitude: -78.515686	Speed: 1.43	Device ID: b1FA
+Time end: 12/19/2022 11:53:15 AM		Latitude: 38.0365272998	Longitude: -78.515686	Speed: 1.0615	Device ID: b1FA
+-
+Vehicle: V0716
+Time start: 1/5/2023 2:35:20 PM	Latitude: 38.04528144979286	Longitude: -78.52274251327142	Speed: 16.996286	Device ID: b1FA
+Time end: 1/5/2023 2:35:20 PM		Latitude: 38.04528181977857	Longitude: -78.52273151901429	Speed: 16.940857	Device ID: b1FA
+-
